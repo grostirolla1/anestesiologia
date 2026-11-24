@@ -1,0 +1,56 @@
+{
+ "prova": {
+  "slug": "taso-2021",
+  "banca": null,
+  "concurso": "TASO",
+  "titulo": "TASO 2021",
+  "ano": "2021",
+  "observacao": "Questões de provas de terceiros. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006378,
+   "descricao": "<p>A figura abaixo representa esquematicamente a introdução do cateter de artéria pulmonar. Assinale a alternativa que se correlaciona às características da curva em cada posição:</p><p><figure><svg viewBox=\"0 0 560 380\"><title>Esquema da introdução do cateter de artéria pulmonar, com as posições 1 (átrio direito), 2 (ventrículo direito), 3 (artéria pulmonar) e 4 (posição de oclusão, balonete insuflado)</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"90\" y1=\"15\" x2=\"90\" y2=\"112\" stroke-width=\"30\" stroke-opacity=\"0.12\"/><path d=\"M250 205 L250 112 L530 112\" stroke-width=\"30\" stroke-opacity=\"0.12\" stroke-linejoin=\"round\"/><rect x=\"40\" y=\"110\" width=\"120\" height=\"110\" rx=\"18\" fill=\"#1b6670\" fill-opacity=\"0.12\"/><rect x=\"160\" y=\"200\" width=\"150\" height=\"130\" rx=\"18\" fill=\"#1b6670\" fill-opacity=\"0.12\"/><rect x=\"330\" y=\"150\" width=\"120\" height=\"75\" rx=\"18\" fill=\"#b23c2b\" fill-opacity=\"0.12\"/><rect x=\"310\" y=\"235\" width=\"150\" height=\"105\" rx=\"18\" fill=\"#b23c2b\" fill-opacity=\"0.12\"/></g><g fill=\"currentColor\" font-size=\"18\" font-weight=\"bold\" text-anchor=\"middle\"><text x=\"125\" y=\"205\">AD</text><text x=\"275\" y=\"320\">VD</text><text x=\"300\" y=\"90\">AP</text><text x=\"390\" y=\"200\">AE</text><text x=\"385\" y=\"300\">VE</text></g><path d=\"M90 15 L90 175 Q95 215 130 250 Q175 310 225 300 Q245 295 250 265 L250 125 Q250 112 262 112 L500 112\" fill=\"none\" stroke=\"#a0711d\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"400\" cy=\"112\" rx=\"11\" ry=\"6\" fill=\"#5b4a9e\" fill-opacity=\"0.35\" stroke=\"#5b4a9e\" stroke-width=\"1.5\"/><circle cx=\"500\" cy=\"112\" r=\"12\" fill=\"#5b4a9e\" fill-opacity=\"0.35\" stroke=\"#5b4a9e\" stroke-width=\"1.5\"/><g fill=\"currentColor\" font-size=\"12\" text-anchor=\"middle\"><text x=\"400\" y=\"80\">Balonete</text><text x=\"400\" y=\"94\">desinsuflado</text><text x=\"500\" y=\"76\">Balonete</text><text x=\"500\" y=\"90\">insuflado</text></g><g font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"central\"><circle cx=\"66\" cy=\"160\" r=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"66\" y=\"160\" fill=\"currentColor\">1</text><circle cx=\"225\" cy=\"270\" r=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"225\" y=\"270\" fill=\"currentColor\">2</text><circle cx=\"285\" cy=\"140\" r=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"285\" y=\"140\" fill=\"currentColor\">3</text><circle cx=\"530\" cy=\"145\" r=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"530\" y=\"145\" fill=\"currentColor\">4</text></g></svg></figure></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063781,
+     "letra": "A",
+     "descricao": "1 - Curva de PVC: possui ondas a, c, v + descensos x, y. Onda v é a mais proeminente, pois o AD é pouco complacente.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063782,
+     "letra": "B",
+     "descricao": "2 - Curva do VD: não possui incisura, pressão diastólica reduzida e fase diastólica descendente pelo relaxamento do VD.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063783,
+     "letra": "C",
+     "descricao": "3 - Curva de PAP: apresenta incisura, pressão diastólica aumentada e fase diastólica descendente.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063784,
+     "letra": "D",
+     "descricao": "4 - Curva de PoAP: possui ondas a, c, v + descensos x, y. Onda a é a mais proeminente, pois a contração atrial é maior à esquerda.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  }
+ ]
+}

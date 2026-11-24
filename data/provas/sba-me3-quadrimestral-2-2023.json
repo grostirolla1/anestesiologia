@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2023",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003514,
+   "descricao": "<p>Com relação a anestesia pediátrica.</p><p>A) É necessário tecido muscular arterial para o verdadeiro fechamento do ducto arterial. Este tecido é menos prevalente em prematuros.</p><p>B) Em lactentes e crianças, estoque cardíacos de cálcio são reduzidos por imaturidade do retículo sarcoplasmático.</p><p>C) Presença de meningomielocele torna a possibilidade de hidrocefalia rara.</p><p>D) O bloqueio do nervo zigomáticofacial é efetivo para analgesia em cirurgias de correção de lábio leporiano.</p><p>E) Dexametasona está indicada para profilaxia das náuseas e vômitos pós-operatórios em pacientes submetidos à amigdalectomia secundária ao linfoma.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035141,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035142,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035143,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035144,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003515,
+   "descricao": "<p><strong>Mulher de 85 anos portadora de estenose a&oacute;rtica grave &eacute; encaminhada para procedimento de implante de valva a&oacute;rtica transcateter (TAVI):</strong></p> <p><strong>A)</strong>&nbsp;Pacientes indicados para realiza&ccedil;&atilde;o de TAVI s&atilde;o geralmente graves e ineleg&iacute;veis &agrave; cirurgia convencional.</p> <p><strong>B)</strong>&nbsp;No momento do implante da v&aacute;lvula se faz necess&aacute;rio induzir taquicardia ventricular atrav&eacute;s do marcapasso previamente instalado.</p> <p><strong>C)</strong>&nbsp;A via de acesso anter&oacute;grada &eacute; a preferencial, deixando a via retr&oacute;grada para casos quando h&aacute; tortuosidade, trombose ou di&acirc;metros vasculares pequenos.</p> <p><strong>D)</strong>&nbsp;Durante todo o procedimento, manter hipotens&atilde;o &eacute; fundamental para evitar disfun&ccedil;&atilde;o card&iacute;aca.</p> <p><strong>E)</strong>&nbsp;O ecotransesof&aacute;gico mostra em tempo real a fun&ccedil;&atilde;o ventricular al&eacute;m de guiar o manejo hemodin&acirc;mico.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035151,
+     "letra": "A",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035152,
+     "letra": "B",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035153,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035154,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003516,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave;s particularidades anest&eacute;sicas na cirurgia para corre&ccedil;&atilde;o de h&eacute;rnia diafragm&aacute;tica cong&ecirc;nita, deve-se:</p> <p>A) Avaliar hipertens&atilde;o pulmonar e outras anomalias cong&ecirc;nitas no pr&eacute;-operat&oacute;rio.</p> <p>B) Evitar ventila&ccedil;&atilde;o antes da intuba&ccedil;&atilde;o.</p> <p>C) Puncionar acesso venoso perif&eacute;rico, preferencialmente, nos membros inferiores.</p> <p>D) Puncionar acesso venoso central, preferencialmente, em veia jugular.</p> <p>E) Aferir satura&ccedil;&atilde;o arterial de oxig&ecirc;nio no bra&ccedil;o direito, refletindo satura&ccedil;&atilde;o pr&eacute;-ductal.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035161,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035162,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035163,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035164,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003517,
+   "descricao": "<p><strong>As metas hemodin&acirc;micas no manuseio anest&eacute;sico das patologias valvares:</strong></p> <p><strong>A)</strong> Estenose a&oacute;rtica &ndash; aumentar a p&oacute;s-carga e a frequ&ecirc;ncia card&iacute;aca para manter o gradiente de perfus&atilde;o coronariana.</p> <p><strong>B)</strong> Insufici&ecirc;ncia a&oacute;rtica- diminuir a p&oacute;s-carga para aumentar o fluxo a&oacute;rtico anter&oacute;grado.</p> <p><strong>C)</strong> Estenose mitral &ndash; prevenir a vasoconstri&ccedil;&atilde;o pulmonar e a taquicardia.</p> <p><strong>D)</strong> Insufici&ecirc;ncia mitral &ndash; diminuir a resist&ecirc;ncia vascular sist&ecirc;mica para manter a contratilidade mioc&aacute;rdica.</p> <p><strong>E) </strong>Insufici&ecirc;ncia tric&uacute;spide &ndash; manter a resist&ecirc;ncia vascular pulmonar elevada.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035171,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035172,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035173,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035174,
+     "letra": "D",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003518,
+   "descricao": "<p>A anestesia para pacientes com hemorragia subaracnoide (HSA) possui particularidades, a saber</p> <p><strong>A)</strong> O vasoespasmo acontece nas primeiras 24 horas ap&oacute;s HSA</p> <p><strong>B) </strong>O tratamento do vasoespasmo ap&oacute;s HSA envolve expans&atilde;o vol&ecirc;mica e hipertens&atilde;o induzida</p> <p><strong>C) </strong>Deve-se ter como meta valores de hemat&oacute;crito acima de 30</p> <p><strong>D)</strong> A s&iacute;ndrome de secre&ccedil;&atilde;o inapropriada de horm&ocirc;nio antidiur&eacute;tico ap&oacute;s HSA deve ser tratada com restri&ccedil;&atilde;o de fluidos</p> <p><strong>E)</strong> A eleva&ccedil;&atilde;o de troponina e altera&ccedil;&otilde;es na onda T podem ocorrer sem associa&ccedil;&atilde;o com isquemia coronariana</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035181,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035182,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035183,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035184,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003519,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>A Hipotermia induzida:</p> <p><strong>A) </strong>Reduz a taxa de utiliza&ccedil;&atilde;o de energia cerebral nos componentes eletrofisiol&oacute;gico e basal (manuten&ccedil;&atilde;o da integridade celular)</p> <p><strong>B)</strong> Leve, para ser eficaz, deve ser induzida em tempo h&aacute;bil, e o reaquecimento deve ser em ritmo lento</p> <p><strong>C) </strong>Reduz 30% da taxa metab&oacute;lica cerebral por grau celsius de diminui&ccedil;&atilde;o da temperatura</p> <p><strong>D)</strong> &Agrave; 18&deg;C, o consumo cerebral de oxig&ecirc;nio &eacute; 10% do valor normal em temperaturas normot&eacute;rmicas</p> <p><strong>E) </strong>&Agrave; 20 graus celsius induz a supress&atilde;o do eletroencefalograma</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035191,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035192,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035193,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035194,
+     "letra": "D",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003520,
+   "descricao": "<p>Sobre a fisiopatologia do estado de choque:</p> <p><strong>A) </strong>A oferta de oxig&ecirc;nio (DO2) &eacute; o produto entre a satura&ccedil;&atilde;o arterial de oxig&ecirc;nio e o d&eacute;bito card&iacute;aco, e representa a quantidade total de O2 carreado pelo sistema cardiovascular para os tecidos</p> <p><strong>B) </strong>Nas situa&ccedil;&otilde;es de estado de choque, o pH em acidemia faz com que a curva de dissocia&ccedil;&atilde;o da oxi-hemoglobina se desvie para a esquerda, facilitando a libera&ccedil;&atilde;o de oxig&ecirc;nio para os&nbsp;tecidos</p> <p><strong>C)</strong> O lactato &eacute; sintetizado a partir do piruvato, que sofre a&ccedil;&atilde;o da enzima lactato desidrogenase sendo oxidado pela nicotinamida adenosina (NAD), transformando-o em lactato e liberando 4 mol&eacute;culas de ATP</p> <p><strong>D)</strong> O Gap PCO2(v-a) &eacute; um par&acirc;metro sens&iacute;vel para detec&ccedil;&atilde;o de situa&ccedil;&otilde;es de hipoperfus&atilde;o decorrente da diminui&ccedil;&atilde;o de fluxo sangu&iacute;neo e apresenta rela&ccedil;&atilde;o diretamente proporcional ao d&eacute;bito card&iacute;aco</p> <p><strong>E) </strong>A taxa de extra&ccedil;&atilde;o de oxig&ecirc;nio (TEO2) representa a raz&atilde;o entre oferta de oxig&ecirc;nio (DO2) e consumo de oxig&ecirc;nio (VO2) e representa quanto o organismo est&aacute; conseguindo extra&iacute;-lo para atender a demanda metab&oacute;lica</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035201,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035202,
+     "letra": "B",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035203,
+     "letra": "C",
+     "descricao": "F F F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035204,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003521,
+   "descricao": "<p>Pacientes submetidos a procedimentos cirúrgicos estão expostos a risco variável de apresentar alterações cognitivas no período pós-operatório. Com base nisso, avalie:</p> <p><strong>A) </strong>A disfunção cognitiva do pós-operatório (DCPO) é definida como piora da função intelectual com prejuízo da memória, da concentração e comprometimento das atividades diárias, sem alteração do nível de consciência</p> <p><strong>B)</strong> O delirium pode ocorrer nas apresentações hiperativa, hipoativa ou mista, sendo a hiperativa mais comum</p> <p><strong>C) </strong>O aumento da atividade colinérgica muscarínica e a diminuição da atividade dopaminérgica são alterações químicas associadas a ocorrência de delirium</p> <p><strong>D)</strong> Na prevenção do delirium, deve-se suspender os antidepressivos utilizados para doenças crônicas</p> <p><strong>E)</strong> O uso de anestésicos inalatórios é considerado fator de risco para o desenvolvimento de DCPO</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035211,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035212,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035213,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035214,
+     "letra": "D",
+     "descricao": "V F F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

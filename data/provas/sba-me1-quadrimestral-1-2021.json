@@ -1,0 +1,540 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-1-2021",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 1ª quadrimestral 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001122,
+   "descricao": "<p>Corresponde &agrave; origem da corrente bio&eacute;tica do \"principialismo\": </p> <p><strong>A) </strong>Vigil&acirc;ncia</p> <p><strong>B)</strong> Atualiza&ccedil;&atilde;o</p> <p><strong>C)</strong> Benefic&ecirc;ncia</p> <p><strong>D) </strong>Justi&ccedil;a</p> <p><strong>E)</strong> Autonomia</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011221,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011222,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011223,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011224,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001123,
+   "descricao": "<p>Sobre o estatuto da SBA: </p><p><b>A) </b>Um médico anestesiologista formado em uma residência médica que não tem credenciamento como Centro de Ensino e Treinamento da SBA foi aprovado no concurso para obtenção do Titulo de Especialista em Anestesiologia (TEA). Ele será admitido na SBA como membro ativo</p><p><b>B)</b> Um membro da SBA que deixa de ser membro da Sociedade Regional deixará de fazer parte da SBA</p><p><b>C)</b> A escolha dos componentes da Comissão de Ensino e Treinamento é feita pelos membros da diretoria eleitos no ano anterior</p><p><b>D) </b>Somente os membros ativos e remidos da SBA tem o direito de prestar concurso para obtenção do Título Superior em Anestesiologia</p><p><b>E) </b>A Diretoria é o seu órgão executivo e todos os seus membros devem ser portadores do Título Superior em Anestesiologia</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011231,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011232,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011233,
+     "letra": "C",
+     "descricao": "V V F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011234,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001124,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos riscos ocupacionais em anestesiologia:</p> <p>a) A priva&ccedil;&atilde;o do sono &eacute; o principal determinante do estresse ocupacional.</p> <p>b) Segundo o Minist&eacute;rio da Sa&uacute;de, no Brasil, n&atilde;o &eacute; recomendada a vacina para hepatite B de rotina para todos os profissionais de sa&uacute;de.</p> <p>c) &Eacute; indicada a quimioprofilaxia com antirretrovirais em todos os casos de acidentes com risco de transmiss&atilde;o do HIV e ela deve ser iniciada ap&oacute;s 24 horas da exposi&ccedil;&atilde;o.</p> <p>d) O pat&oacute;geno mais frequentemente envolvido na transmiss&atilde;o por exposi&ccedil;&atilde;o acidental &eacute; o v&iacute;rus da hepatite B.</p> <p>e) Os n&iacute;veis m&aacute;ximos de ru&iacute;dos permitidos em ambientes hospitalares s&atilde;o de 45 decib&eacute;is, sendo aceitos n&iacute;veis de 145 decib&eacute;is por m&iacute;nimos per&iacute;odos de tempo.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011241,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011242,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011243,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011244,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001125,
+   "descricao": "<p>Mulher de 75 anos, 88kg e 1,62m, será submetida à artroplastia total de quadril à esquerda. Hipertensa e diabética com passado de internação pela Covid-19 há 4 meses, vem em uso regular de losartana, metformina, AAS e dabigatrana. Na avaliação pré-anestésica, relata capacidade funcional acima de 4 METs e, ao exame físico, apresenta pressão arterial de 160x95mmHg e frequência cardíaca de 75 batimentos por minuto. Nessa situação: </p><p><b>A) </b>a losartana deve ser suspensa nas 24 horas que antecedem a cirurgia.</p><p><b>B) </b>deve-se solicitar o ecocardiograma transtorácico para avaliação de função ventricular esquerda.</p><p><b>C) </b>a paciente apresenta alto risco segundo o Índice de Risco Cardíaco Revisado.</p><p><b>D) </b>tais níveis tensionais contra-indicam a realização do procedimento eletivo proposto.</p><p><b>E) </b>o tempo de suspensão da dabigatrana está condicionado à função renal da paciente.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011251,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011252,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011253,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011254,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001126,
+   "descricao": "<p><strong>Constitui fator de risco independente para dificuldade de ventila&ccedil;&atilde;o sob m&aacute;scara facial: </strong></p> <p>A) Sexo masculino.</p> <p>B) Presen&ccedil;a de barba.</p> <p>C) Aus&ecirc;ncia de dentes.</p> <p>D) &Iacute;ndice de massa corporal &gt; 30 .</p> <p>E) Idade superior a 45 anos.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011261,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011262,
+     "letra": "B",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011263,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011264,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001127,
+   "descricao": "Em rela&ccedil;&atilde;o &agrave; posi&ccedil;&atilde;o operat&oacute;ria abaixo esquematizada: &nbsp; <img src=\"data/imagens/b5bc4295c3a922ca.jpg\" alt=\"\"> <strong>A) </strong>O ponto de flex&atilde;o da mesa operat&oacute;ria deve coincidir com a margem costal inferior&nbsp; <strong>B) </strong>A rota&ccedil;&atilde;o em dire&ccedil;&atilde;o ventral do ombro dependente na mesa operat&oacute;ria pode estirar o nervo axilar e levar &agrave; dor p&oacute;s-operat&oacute;ria difusa no referido ombro <strong>C) </strong>O peso da cabe&ccedil;a pode pressionar a orelha dependente contra uma superf&iacute;cie &aacute;spera ou rugosa <strong>D) </strong>O peso da perna dependente, sem a devida prote&ccedil;&atilde;o, pode levar &agrave; compress&atilde;o de um nervo cuja les&atilde;o pode dificultar a flex&atilde;o plantar do p&eacute; <strong>E) </strong>Um coxim, largo o suficiente para elevar a parede tor&aacute;cica, deve ser posicionado para prevenir a compress&atilde;o excessiva de estruturas neurovasculares da axila",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011271,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011272,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011273,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011274,
+     "letra": "D",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001128,
+   "descricao": "<p><strong>Sobre os aspectos m&eacute;dico-legais da pr&aacute;tica m&eacute;dica:</strong></p> <p>A. A responsabilidade dos atos m&eacute;dicos alcan&ccedil;a as dimens&otilde;es &eacute;tica, penal e c&iacute;vel. </p> <p>B. O desconhecimento das quest&otilde;es t&eacute;cnicas e bio&eacute;ticas das outras especialidades m&eacute;dicas &eacute; considerado um atenuante perante o C&oacute;digo Penal. </p> <p>C. Os Conselhos de Medicina s&atilde;o &oacute;rg&atilde;os aut&aacute;rquicos, com autonomia administrativa e financeira. </p> <p>D. Os Conselhos de Medicina s&atilde;o dotados de personalidade jur&iacute;dica de direito p&uacute;blico. </p> <p>E. As Resolu&ccedil;&otilde;es do Conselho Federal de Medicina t&ecirc;m for&ccedil;a de Lei como atos normativos. </p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011281,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011282,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011283,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011284,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001129,
+   "descricao": "<p>Sobre os membros da SBA:</p><p>a) São membros honorários os médicos que assinaram a ata da sessão de fundação ou a da primeira Assembleia Geral.</p><p>b) São membros remidos os membros ativos e adjuntos já aposentados.</p><p>c) São membros especiais os membros ativos ou adjuntos que foram aprovados nas duas etapas para obtenção do Título Superior de Anestesiologia.</p><p>d) É direito dos membros ativos participar da Assembleia Geral.</p><p>e) É direito dos membros ativos participar da Assembleia de Representantes por indicação da Regional à qual esteja filiado.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011291,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011292,
+     "letra": "B",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011293,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011294,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001130,
+   "descricao": "<p>Sobre a síndrome de burnout:</p><p>a) É também denominada síndrome do estresse ocupacional.</p><p>b) As três dimensões são despersonalização, ansiedade e aumento do cortisol plasmático.</p><p>c) A ocorrência da despersonalização diz respeito a sentir-se emocional e fisicamente entorpecido.</p><p>d) Tem como resultado a redução da motivação ocupacional.</p><p>e) Tem correlação estabelecida com má prática médica.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011301,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011302,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011303,
+     "letra": "C",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011304,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001131,
+   "descricao": "<p>Homem de 60 anos, IMC 30kg/m2, tabagista, hipertenso e diabético, controlado com losartana, metformina e insulina NPH. Teve um episódio de isquemia cerebral transitória há 5 anos e faz uso de aspirina desde então. Não consegue caminhar médias distâncias devido ao pé diabético. Aos exames laboratoriais, apresenta creatinina de 2,3mg/dL e hemoglobina glicada de 6,0%. Será submetido à tireoidectomia total devido a câncer. Sobre este caso:</p><p><b>A) </b>A avaliação pelo índice de Lee ou Risco Cardíaco Revisado (RCRI) mostra que este paciente tem risco elevado para eventos cardíacos maiores.</p><p><b>B) </b>Está indicado teste de estresse farmacológico para avaliação cardiológica.</p><p><b>C) </b>Há indicação de adiamento da cirurgia para correção pré-operatória da glicemia.</p><p><b>D) </b>Para reduzir os níveis de carboxihemoglobina, a suspensão do tabagismo deve ocorrer 4 a 8 semanas antes da cirurgia.</p><p><b>E) </b>A insulina NPH deve ser suspensa 24 horas antes da cirurgia para diminuir o risco de acidose lática no intraoperatório.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011311,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011312,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011313,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011314,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001132,
+   "descricao": "<p>Responda em relação à figura abaixo, que mostra uma visão de laringoscopia e sua esquematização, segundo a classificação de Cormack-Lehane modificada por Cook.</p><p><img src=\"data/imagens/88cba9e74c5d6677.jpg\" alt=\"\"><br></p><p><b>A)</b> As cartilagens epiglote e cuneiformes são visíveis.</p><p><b>B)</b> A figura é classificada como 2B, segundo a escala em questão.</p><p><b>C)</b> Este grau apresenta aumento do risco de falha de intubação.</p><p><b>D)</b> A manipulação laríngea externa é capaz de modificar esta classificação.</p><p><b>E)</b> Este grau apresentado requer método indireto de intubação.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011321,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011322,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011323,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011324,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001133,
+   "descricao": "<p>Na posi&ccedil;&atilde;o de litotomia:</p> <p><strong>A) </strong>&Eacute; indispens&aacute;vel que a eleva&ccedil;&atilde;o dos membros inferiores seja efetuada por dois assistentes, para evitar tor&ccedil;&atilde;o da coluna lombar</p> <p><strong>B) </strong>Esta posi&ccedil;&atilde;o oferece pouco preju&iacute;zo hemodin&acirc;mico</p> <p><strong>C) </strong>O deslocamento cef&aacute;lico do diafragma por esta posi&ccedil;&atilde;o causa redu&ccedil;&atilde;o da complac&ecirc;ncia pulmonar</p> <p><strong>D) </strong>A flex&atilde;o do quadril acima de 90&deg; no tronco causa estiramento dos ligamentos inguinais</p> <p><strong>E)</strong> O nervo mais suscet&iacute;vel &agrave; les&atilde;o &eacute; o nervo femoral</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011331,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011332,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011333,
+     "letra": "C",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011334,
+     "letra": "D",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

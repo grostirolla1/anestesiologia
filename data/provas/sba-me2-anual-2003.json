@@ -1,0 +1,2238 @@
+{
+ "prova": {
+  "slug": "sba-me2-anual-2003",
+  "banca": "SBA",
+  "concurso": "ME2 anual",
+  "titulo": "ME2 anual 2003",
+  "ano": "2003",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001348,
+   "descricao": "<p>A pressão de oclusão da artéria pulmonar (PoAP), obtida pelo cateter de Swan-Ganz, reflete a:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013481,
+     "letra": "A",
+     "descricao": "pressão sistólica do ventrículo esquerdo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013482,
+     "letra": "B",
+     "descricao": "pressão venosa central",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013483,
+     "letra": "C",
+     "descricao": "pressão diastólica final do ventrículo direito",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013484,
+     "letra": "D",
+     "descricao": "pressão sistólica do ventrículo direito",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013485,
+     "letra": "E",
+     "descricao": "pressão atrial esquerda até 15 mmHg",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001349,
+   "descricao": "<p>Assinale o critério de exclusão do paciente para anestesia ambulatorial:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013491,
+     "letra": "A",
+     "descricao": "Idade maior que 65 anos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013492,
+     "letra": "B",
+     "descricao": "Angina instável",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013493,
+     "letra": "C",
+     "descricao": "História de asma brônquica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013494,
+     "letra": "D",
+     "descricao": "Idade maior que 75 anos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001350,
+   "descricao": "<p>Com um ventilador dotado apenas de controles indiretos, deseja-se ventilar um paciente cuja complacência tóraco-pulmonar é de 50 ml.cmH2O-1, usando-se os seguintes parâmetros: volume corrente </p><p>(V) = 700 ml, freqüência (f) = 10 irpm, Relação entre o tempo inspiratório e o expiratório (I/E) igual a 1:2. Para isto, será necessário ajustar a pressão de insuflação </p><p>(P) e o fluxo (F), em:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013501,
+     "letra": "A",
+     "descricao": "P = 35 cmH2O e F = 21 L.min-1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013502,
+     "letra": "B",
+     "descricao": "I = 4 s e F = 7 L.min-1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013503,
+     "letra": "C",
+     "descricao": "P = 14 cmH2O e F = 21 L.min-1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013504,
+     "letra": "D",
+     "descricao": "P = 14 cmH2O e F = 7 L.min-1",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001351,
+   "descricao": "<p>Quais os pares cranianos envolvidos nas vias aferente e eferente do reflexo &oacute;culo-card&iacute;aco, respectivamente?</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013511,
+     "letra": "A",
+     "descricao": "II e V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013512,
+     "letra": "B",
+     "descricao": "II e X",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013513,
+     "letra": "C",
+     "descricao": "V e II",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013514,
+     "letra": "D",
+     "descricao": "V e X",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001352,
+   "descricao": "<p>Em relação às alterações impostas pelo processo de envelhecimento sobre o aparelho respiratório, pode-se afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013521,
+     "letra": "A",
+     "descricao": "A capacidade pulmonar total está significativamente diminuída",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013522,
+     "letra": "B",
+     "descricao": "O volume residual aumenta significativamente, levando a aumento semelhante da capacidade vital",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013523,
+     "letra": "C",
+     "descricao": "A capacidade de oclusão aumenta devido à perda da sustentação e da permeabilidade das pequenas vias aéreas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013524,
+     "letra": "D",
+     "descricao": "O principal responsável pelo aumento do gradiente alvéolo-arterial de oxigênioéa redução do volume residual.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001353,
+   "descricao": "<p>Em relação à cirurgia cardíaca, assinale a alternativa correta:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013531,
+     "letra": "A",
+     "descricao": "A elevação do segmento ST após a saída da circulação extracorpórea (CEC) ocorre somente na vigência de infarto agudo do miocárdio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013532,
+     "letra": "B",
+     "descricao": "O paciente com boa função ventricular e doença isquêmica pode ser submetido com segurança à anestesia inalatória",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013533,
+     "letra": "C",
+     "descricao": "A escopolamina é a droga de escolha na medicação pré-anestésica de pacientes idosos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013534,
+     "letra": "D",
+     "descricao": "A cetamina está contra-indicada na indução do paciente com tamponamento cardíaco",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001354,
+   "descricao": "<p>No paciente portador de cor pulmonale é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013541,
+     "letra": "A",
+     "descricao": "é preferível manter ventilação espontânea na anestesia geral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013542,
+     "letra": "B",
+     "descricao": "deve-se incluir opióides e anticolinérgicos na medicação pré-anestésica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013543,
+     "letra": "C",
+     "descricao": "a anestesia regional é preferível por diminuir a resistência vascular sistêmica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013544,
+     "letra": "D",
+     "descricao": "a doença pulmonar obstrutiva crônica e a hipertensão pulmonar primária são suas causas mais freqüentes",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013545,
+     "letra": "E",
+     "descricao": "o óxido nitroso pode promover aumento da resistência vascular pulmonar",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001355,
+   "descricao": "<p>Sobre anestesia em cirurgia torácica, é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013551,
+     "letra": "A",
+     "descricao": "Lobectomia inferior ou média é indicação absoluta de ventilação monopulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013552,
+     "letra": "B",
+     "descricao": "Para se obter ventilação monopulmonar na impossibilidade da passagem de um tubo de duplo lúmen, pode-se utilizar um cateter de Fogarty como bloqueador brônquico, introduzindo-o pelo tubo convencional",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013553,
+     "letra": "C",
+     "descricao": "A vasoconstrição pulmonar hipóxica aumenta o fluxo sangüíneo no pulmão não-dependente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013554,
+     "letra": "D",
+     "descricao": "Suspender o uso do fumo no pré-operatório não traz nenhum benefício",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001356,
+   "descricao": "<p>Na criança com estômago cheio:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013561,
+     "letra": "A",
+     "descricao": "a posição de proclive é obrigatória na proteção contra aspiração pulmonar do conteúdo gástrico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013562,
+     "letra": "B",
+     "descricao": "a oxigenação prévia à indução da anestesia é desnecessária",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013563,
+     "letra": "C",
+     "descricao": "a incidência de aspiração pulmonar do conteúdo gástrico é mais comum em cirurgias eletivas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013564,
+     "letra": "D",
+     "descricao": "succinilcolina é usada na dose de 1 a 2 mg.kg-1",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001357,
+   "descricao": "<p>A alcalose metabólica:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013571,
+     "letra": "A",
+     "descricao": "Diminui o aparecimento de arritmia cardíaca",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013572,
+     "letra": "B",
+     "descricao": "Promove hipercalemia e aumenta o cálcio ionizado",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013573,
+     "letra": "C",
+     "descricao": "Diminui a toxicidade da digoxina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013574,
+     "letra": "D",
+     "descricao": "Favorece o aparecimento de atelectasia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001358,
+   "descricao": "<p>Com relação à neuralgia do trigêmeo, assinale a afirmativa correta:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013581,
+     "letra": "A",
+     "descricao": "Tem origem na irritação crônica no trajeto do nervo associada a deficiência de inibição segmental no núcleo trigeminal",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013582,
+     "letra": "B",
+     "descricao": "Não é afetada por movimentos da face, como falar ou mastigar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013583,
+     "letra": "C",
+     "descricao": "É de pequena intensidade e longa duração, podendo durar de um a três dias",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013584,
+     "letra": "D",
+     "descricao": "Tratamento com anticonvulsivantes é pouco eficaz na maioria dos casos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001359,
+   "descricao": "<p>A hipotermia, seguida de calafrios, após a anestesia:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013591,
+     "letra": "A",
+     "descricao": "Diminui o consumo de oxigênio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013592,
+     "letra": "B",
+     "descricao": "Reduz o risco de infarto do miocárdio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013593,
+     "letra": "C",
+     "descricao": "Agrava-se com a administração de opióides",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013594,
+     "letra": "D",
+     "descricao": "Pode produzir hipóxia, hipercapnia e aumento dos níveis de lactato",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001360,
+   "descricao": "<p>No manuseio pré-operatório de pacientes neurocirúrgicos com lesões tumorais é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013601,
+     "letra": "A",
+     "descricao": "uma massa intracraniana é sempre sintomática",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013602,
+     "letra": "B",
+     "descricao": "as massas supratentoriais vem geralmente acompanhada de convulsões, hemiplegia ou afasia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013603,
+     "letra": "C",
+     "descricao": "as massas infratentoriais raramente apresentam disfunção cerebelar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013604,
+     "letra": "D",
+     "descricao": "a medicação pré-anestésica deve ser feita para promover sedação",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013605,
+     "letra": "E",
+     "descricao": "os corticóides e anticonvulsivantes devem ser suspensos na noite anterior a cirurgia",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001361,
+   "descricao": "<p>Na cetoacidose:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013611,
+     "letra": "A",
+     "descricao": "Aumentar a dose de insulina com o intuito de aumentar a velocidade de queda dos níveis de glicose sangüínea é infrutífero",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013612,
+     "letra": "B",
+     "descricao": "A terapia com insulina aumenta os níveis de potássio plasmático",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013613,
+     "letra": "C",
+     "descricao": "Ocorre aumento da volemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013614,
+     "letra": "D",
+     "descricao": "Em cirurgia de emergência é inútil tentar qualquer medida para compensar previamente o paciente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001362,
+   "descricao": "<p>Em pacientes com síndrome carcinóide deve fazer parte da técnica anestésica, sempre que possível:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013621,
+     "letra": "A",
+     "descricao": "Hipotensão controlada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013622,
+     "letra": "B",
+     "descricao": "Evitar o uso de somatostatina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013623,
+     "letra": "C",
+     "descricao": "Morfina para analgesia perioperatória",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013624,
+     "letra": "D",
+     "descricao": "Monitorização invasiva da pressão arterial e da pressão venosa central",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001363,
+   "descricao": "<p>Derivações que indicam com maior sensibilidade isquemia miocárdica peri-operatória:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013631,
+     "letra": "A",
+     "descricao": "V1 e V6",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013632,
+     "letra": "B",
+     "descricao": "aVF e V6",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013633,
+     "letra": "C",
+     "descricao": "V4 e V5",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013634,
+     "letra": "D",
+     "descricao": "III e V5",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013635,
+     "letra": "E",
+     "descricao": "I e aVL",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001364,
+   "descricao": "<p>Complicação decorrente do ato anestésico :</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013641,
+     "letra": "A",
+     "descricao": "lesão dos nervos recorrente, hipoglosso e lingual após o uso de máscara laríngea",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013642,
+     "letra": "B",
+     "descricao": "atelectasia do lobo superior do pulmão esquerdo após o uso de tubo de Robert Shaw",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013643,
+     "letra": "C",
+     "descricao": "metabólitos ativos do rocurônio promovem bloqueio neuromuscular residual",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013644,
+     "letra": "D",
+     "descricao": "na irrigação vesical durante cirurgia urológica o uso de sorbitol/manitol pode levar a cegueira transitória",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001365,
+   "descricao": "<p>Para facilitar a infusão rápida de uma bolsa de concentrado de hemácias adiciona-se à mesma, 100 ml de:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013651,
+     "letra": "A",
+     "descricao": "glicose a 5%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013652,
+     "letra": "B",
+     "descricao": "cloreto de cálcio a 20%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013653,
+     "letra": "C",
+     "descricao": "cloreto de sódio a 0,9%",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013654,
+     "letra": "D",
+     "descricao": "água bidestilada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001366,
+   "descricao": "<p>A medida mais segura para acesso das vias aéreas do paciente com trauma de face e de coluna cervical é:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013661,
+     "letra": "A",
+     "descricao": "Intubação orotraqueal sob visão direta",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013662,
+     "letra": "B",
+     "descricao": "Intubação nasotraqueal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013663,
+     "letra": "C",
+     "descricao": "Intubação nasotraqueal com fibroscopia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013664,
+     "letra": "D",
+     "descricao": "Intubação orotraqueal com fibroscopia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001367,
+   "descricao": "<p>Paciente com lesão por arma de fogo na região torácica alta, apresenta hipotensão arterial grave, bradicardia, arreflexia e atonia gastrintestinal. O tipo de choque apresentado é:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013671,
+     "letra": "A",
+     "descricao": "Hipovolêmico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013672,
+     "letra": "B",
+     "descricao": "Séptico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013673,
+     "letra": "C",
+     "descricao": "Neurogênico",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013674,
+     "letra": "D",
+     "descricao": "Cardiogênico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001368,
+   "descricao": "<p>A posição de litotomia é comumente usada nos procedimentos urológicos e é responsável por:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013681,
+     "letra": "A",
+     "descricao": "Diminuição da capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013682,
+     "letra": "B",
+     "descricao": "Redução do aparecimento de atelectasia e hipóxia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013683,
+     "letra": "C",
+     "descricao": "Lesão frequente do nervo femoral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013684,
+     "letra": "D",
+     "descricao": "Hipertensão arterial ao final da anestesia",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013685,
+     "letra": "E",
+     "descricao": "Diminuição aguda do retorno venoso",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001369,
+   "descricao": "<p>No trabalho de parto a posi&ccedil;&atilde;o de litotomia traz o risco de:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013691,
+     "letra": "A",
+     "descricao": "Cefaleia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013692,
+     "letra": "B",
+     "descricao": "Compressão paracervical",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013693,
+     "letra": "C",
+     "descricao": "Lesão do nervo cutâneo lateral da coxa",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013694,
+     "letra": "D",
+     "descricao": "Estiramento do nervo pudendo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001370,
+   "descricao": "<p>Considera&ccedil;&otilde;es sobre anestesia regional em obstetr&iacute;cia indicam que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013701,
+     "letra": "A",
+     "descricao": "O bloqueio paracervical é eficiente para o 2º estágio do trabalho de parto",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013702,
+     "letra": "B",
+     "descricao": "A principal vantagem do bloqueio paracervical é o aumento da freqüência cardíaca fetal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013703,
+     "letra": "C",
+     "descricao": "A fenilefrina causa vasodilatação uterina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013704,
+     "letra": "D",
+     "descricao": "A dose teste é geralmente realizada com 15 μg de epinefrina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001371,
+   "descricao": "<p>Soluções coloidais estão indicadas na reposição volêmica na seguinte situação:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013711,
+     "letra": "A",
+     "descricao": "Quando existe antecedente alérgico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013712,
+     "letra": "B",
+     "descricao": "No portador de púrpura trombocitopênica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013713,
+     "letra": "C",
+     "descricao": "No choque hemorrágico até que se providencie o sangue",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013714,
+     "letra": "D",
+     "descricao": "Quando o volume previsto de reposição com cristalóide não ultrapassa 2 litros",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001372,
+   "descricao": "<p>Sintoma típico da síndrome carcinóide:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013721,
+     "letra": "A",
+     "descricao": "Rubor cutâneo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013722,
+     "letra": "B",
+     "descricao": "Diminuição da motilidade intestinal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013723,
+     "letra": "C",
+     "descricao": "Hipernatremia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013724,
+     "letra": "D",
+     "descricao": "Palidez cutânea",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001373,
+   "descricao": "<p><strong>(QUEST&Atilde;O ADAPTADA) </strong>&Eacute; correto afirmar:</p> <p>1- No trauma muscular grave a hemodi&aacute;lise est&aacute; indicada para prevenir ou tratar as complica&ccedil;&otilde;es ur&ecirc;micas</p> <p>2- Na hipertens&atilde;o craniana deve-se manter a PaCO2 entre 25 e 30 mmHg</p> <p>3- A maior perda l&iacute;quida no paciente grande queimado ocorre nas primeiras 24 horas.</p> <p>4- A presen&ccedil;a de pneumot&oacute;rax no paciente a ser ventilado sob ventila&ccedil;&atilde;o com press&atilde;o positiva n&atilde;o exige a drenagem tor&aacute;cica pr&eacute;via.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013731,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013732,
+     "letra": "B",
+     "descricao": "V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013733,
+     "letra": "C",
+     "descricao": "V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013734,
+     "letra": "D",
+     "descricao": "F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001374,
+   "descricao": "<p>Em relação à Síndrome de Desconforto Respiratório Agudo (SDRA) é correto afirmar que:</p><p><b>A) </b>A forma da resposta inflamatória pulmonar varia de acordo com a lesão inicial.</p><p><b>B) </b>Ocorre lesão de pneumócito tipo I com conseqüente diminuição de surfactante.</p><p><b>C) </b>A liberação de mediadores aumenta a permeabilidade capilar e causa vasodilatação pulmonar.</p><p><b>D) </b>A freqüência é maior na presença de sepse e trauma.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013741,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013742,
+     "letra": "B",
+     "descricao": "V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013743,
+     "letra": "C",
+     "descricao": "F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013744,
+     "letra": "D",
+     "descricao": "F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001375,
+   "descricao": "<p>Sobre o uso da pressão positiva ao final da expiração (PEEP), podemos afirmar que: </p><p><b>A) </b>Ocorre recrutamento de alvéolos colapsados.</p><p><b>B) </b>Pode causar diminuição do débito cardíaco.</p><p><b>C) </b>Reduz o grau de shunt pulmonar.</p><p><b>D) </b>A PEEP mínima pode ser encontrada através da curva de volume-pressão.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013751,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013752,
+     "letra": "B",
+     "descricao": "V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013753,
+     "letra": "C",
+     "descricao": "F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013754,
+     "letra": "D",
+     "descricao": "V V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001376,
+   "descricao": "<p>Características da técnica anestésica para radioterapia: </p><p>1- o anestésico deve ser adequado para exposições repetidas </p><p>2- evitar, sempre que possível, procedimentos invasivos </p><p>freqüentes, como punção venosa e intubação traqueal </p><p>3- não interferir com os hábitos alimentares, evitando a perda ponderal </p><p>4- monitorização com visualização à distância</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013761,
+     "letra": "A",
+     "descricao": "VVVF",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013762,
+     "letra": "B",
+     "descricao": "VFVF",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013763,
+     "letra": "C",
+     "descricao": "FVFV",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013764,
+     "letra": "D",
+     "descricao": "VVVV",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001377,
+   "descricao": "<p>Precau&ccedil;&atilde;o(&otilde;es) eficaz(es) que pode(m) ser tomada(s) para evitar a combust&atilde;o do tubo orotraqueal em cirurgia de vias a&eacute;reas com aux&iacute;lio de laser:</p> <p>1- Encher o balonete do tubo com solu&ccedil;&atilde;o fisiol&oacute;gica e azul de metileno</p> <p>2- Usar concentra&ccedil;&atilde;o de oxig&ecirc;nio a mais baixa poss&iacute;vel</p> <p>3- Envolver o tubo orotraqueal com fita met&aacute;lica, obedecendo alguns crit&eacute;rios</p> <p>4- Uso de &oacute;xido nitroso</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013771,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013772,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013773,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013774,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001378,
+   "descricao": "<p>São características do aparelho cardiovascular do paciente idoso: </p><p>1- maior impedância à ejeção ventricular decorrente do enrijecimento das paredes das artérias </p><p>2- o enchimento ventricular passivo é significantemente reduzido </p><p>3- resposta cronotrópica reduzida aos agonistas beta- adrenérgicos </p><p>4- contratilidade ventricular diminuída, mesmo na ausência de doença cardiovascular</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013781,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013782,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013783,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013784,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001379,
+   "descricao": "<p>Com relação à miocardiopatia hipertrófica, é correto afirmar que: </p><p>1- o aumento da contratilidade miocárdica e da freqüência cardíaca podem ser prejudiciais </p><p>2- é importante a manutenção do ritmo sinusal no perioperatório </p><p>3- as suas implicações clínicas e hemodinâmicas são semelhantes às da estenose aórtica </p><p>4- o tratamento da hipotensão deve ser iniciado com inotrópicos e nitratos.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013791,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013792,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013793,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013794,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001380,
+   "descricao": "<p>&Eacute; (s&atilde;o) indica&ccedil;&atilde;o(&otilde;es) relativa(s) de ventila&ccedil;&atilde;o monopulmonar:</p> <p><strong>A) </strong>Aneurisma de aorta tor&aacute;cica.</p> <p><strong>B) </strong>Lobectomia superior.</p> <p><strong>C) </strong>Toracoscopia.</p> <p><strong>D) </strong>Ressec&ccedil;&atilde;o esof&aacute;gica.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013801,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013802,
+     "letra": "B",
+     "descricao": "V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013803,
+     "letra": "C",
+     "descricao": "V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013804,
+     "letra": "D",
+     "descricao": "V V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001381,
+   "descricao": "<p>Em relação ao paciente pediátrico com estenose pilórica, pode-se afirmar: </p><p>1- Constitui uma emergência cirúrgica </p><p>2- Ocorre entre 3 e 6 semanas de idade </p><p>3- Ocorre alcalose metabólica hipercalêmica e hiperclorêmica </p><p>4- Apresenta desidratação grave</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013811,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013812,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013813,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013814,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013815,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001382,
+   "descricao": "<p>Em neonatos prematuros há: </p><p>1- tendência a hipoglicemia </p><p>2- excreção renal de glicose prejudicada </p><p>3- incapacidade de concentração da urina </p><p>4- incapacidade de diluir a urina</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013821,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013822,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013823,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013824,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001383,
+   "descricao": "<p>O nível sérico de potássio, é em condições fisiológicas, <b><u>não é</u></b> regulado por:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013831,
+     "letra": "A",
+     "descricao": "Acidose Metabólica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013832,
+     "letra": "B",
+     "descricao": "Aldosterona",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013833,
+     "letra": "C",
+     "descricao": "Catecolaminas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013834,
+     "letra": "D",
+     "descricao": "Insulina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001384,
+   "descricao": "<p>Em relação à síndrome dolorosa regional complexa (SDCR) é <b><u>incorreto</u></b> afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013841,
+     "letra": "A",
+     "descricao": "É mantida pelo sistema nervoso simpático",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013842,
+     "letra": "B",
+     "descricao": "Está relacionada ao trauma",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013843,
+     "letra": "C",
+     "descricao": "Os bloqueios não têm efeito benéfico",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013844,
+     "letra": "D",
+     "descricao": "Os antiinflamatórios fazem parte do tratamento",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001385,
+   "descricao": "<p>A hipotermia (t &lt; 36 ºC) que ocorre freqüentemente du- rante a anestesia e cirurgia tem sido associada com: </p><p>1- desvio da curva de dissociação da oxihemoglobina para a direita </p><p>2- diminui a resistência vascular periférica</p><p> 3- estimula o sistema imunológico </p><p>4- coagulopatia reversível por disfunção plaquetária</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013851,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013852,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013853,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013854,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20013855,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001386,
+   "descricao": "<p>No tratamento da embolia gasosa venosa, em neurocirurgia, deve-se: </p><p>1- interromper a administração de óxido nitroso</p><p> 2- administrar vasopressores </p><p>3- aspirar o cateter venoso central na tentativa de recuperar o ar aprisionado </p><p>4- infundir volume a fim de aumentar a pressão venosa central</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013861,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013862,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013863,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013864,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013865,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001387,
+   "descricao": "<p>A 5-hidroxitriptamina (serotonina): </p><p>1- É inibida pela metisergida </p><p>2- Provoca broncodilatação </p><p>3- Causa vasoconstrição cerebral </p><p>4- É sintetizada a partir da tirosina</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013871,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013872,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013873,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013874,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001388,
+   "descricao": "<p>Reposição pré-operatória de hormônio tireoidiano é recomendada na vigência de: </p><p>1- Hipotireoidismo grave </p><p>2- Mixedema </p><p>3- Hipotireoidismo moderado durante a gravidez </p><p>4- Hipotireoidismo moderado na presença de insuficiência coronariana instável</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013881,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013882,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013883,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013884,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001389,
+   "descricao": "<p>Convulsão é o resultado da ação tóxica dos anestésicos locais (AL) sobre o sistema nervoso central (SNC), assinale a alternativa correta:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013891,
+     "letra": "A",
+     "descricao": "A toxicidade dos anestésicos locais não é alterada pelos benzodiazepínicos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013892,
+     "letra": "B",
+     "descricao": "A toxicidade sobre o SNC tem relação direta com a potência do AL",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013893,
+     "letra": "C",
+     "descricao": "Os barbitúricos não diminuem a ação tóxica dos AL sobre o SNC",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013894,
+     "letra": "D",
+     "descricao": "A bupivacaína é menos convulsivante que a lidocaína",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001390,
+   "descricao": "<p>Em relação a anafilaxia e reação anafilactóide podemos afirmar: </p><p>1- a anafilaxia é uma reação de hipersensibilidade tipo I e aparece minutos após a exposição a um determinado antígeno, em uma pessoa sensibilizada </p><p>2- os antibióticos são a causa mais comum de reação anafilática </p><p>3- o angioedema e a transudação para as vísceras pode produzir hipovolemia </p><p>4- a reação anafilactóide é semelhante à anafilaxia, mas não tem mediação de IgE e não depende de reação antígeno-anticorpo</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013901,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013902,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013903,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013904,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013905,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001391,
+   "descricao": "<p>Antes da indução da anestesia, o risco de regurgitação e aspiração pulmonar pode ser reduzido pelas seguintes medidas preventivas: </p><p>1- evitar instrumentação das vias aéreas com níveis inadequados de anestesia </p><p>2- reduzir o volume do conteúdo gástrico </p><p>3- elevar o pH gástrico </p><p>4- indução farmacológica do vômito</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013911,
+     "letra": "A",
+     "descricao": "V,V,V,F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013912,
+     "letra": "B",
+     "descricao": "V,F,V,F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013913,
+     "letra": "C",
+     "descricao": "F,V,F,V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013914,
+     "letra": "D",
+     "descricao": "V,V,V,V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001392,
+   "descricao": "<p>Durante o trabalho de parto, a analgesia peridural com anest&eacute;sico local promove:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013921,
+     "letra": "A",
+     "descricao": "Aumento do consumo de O₂ durante bloqueio regional",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013922,
+     "letra": "B",
+     "descricao": "Vasoconstrição útero-placentária mediada pelo bloqueio regional",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013923,
+     "letra": "C",
+     "descricao": "Diminuição do consumo de O₂ durante o bloqueio regional",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013924,
+     "letra": "D",
+     "descricao": "Bem estar fetal, quando a hipotensão arterial está associada à compressão aorto-cava",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001393,
+   "descricao": "<p>Conduta anestésica de emergência na paciente com doença hipertensiva específica da gravidez [DHEG]</p><p>1- plaquetas acima de 100.000 mm<sup>3</sup> permitem a realização de anestesia regional&nbsp;</p><p>2- plaquetas iguais ou inferiores a 50.000.mm<sup>3</sup> contraindicam a realização de anestesia regional </p><p>3- plaquetas entre 50.000 a 100.000 mm<sup>3</sup>: os testes de coagulação indicam a conduta </p><p>4- na síndrome HELLP (hemólise, aumento de enzimas hepáticas e plaquetopenia) há indicação de anestesia regional</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013931,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013932,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013933,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013934,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001394,
+   "descricao": "<p>NÃO É Indicação de transfusão de plasma fresco congelado (PFC):</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013941,
+     "letra": "A",
+     "descricao": "Antagonização de heparina de baixo peso molecular",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013942,
+     "letra": "B",
+     "descricao": "Reversão do efeito de cumarínicos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013943,
+     "letra": "C",
+     "descricao": "Após transfusão alógena maciça",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013944,
+     "letra": "D",
+     "descricao": "Sangramento microvascular com tempo de protrombina ou tromboplastina parcial aumentados (1,5X)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001395,
+   "descricao": "<p>No choque séptico:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013951,
+     "letra": "A",
+     "descricao": "A hiperviscosidade sanguínea é o fator causal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013952,
+     "letra": "B",
+     "descricao": "Há sobrecarga de volume que se transmite, retrogradamente, na forma de hipertensão venocapilar pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013953,
+     "letra": "C",
+     "descricao": "A principal substância envolvida é a histamina que provoca vasodilatação",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013954,
+     "letra": "D",
+     "descricao": "O fator de necrose tumoral (TNF) ativa a cascata da inflamação na sepse por bactérias gram-negativas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001396,
+   "descricao": "<p>Causa(s) de aumento da saturação de oxigênio no sangue venoso misto (SvO2): </p><p>1- “shunt” intracardíaco da esquerda para direita </p><p>2- diminuição do débito cardíaco </p><p>3- insuficiência mitral grave </p><p>4- aumento do consumo de oxigênio</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013961,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013962,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013963,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013964,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20013965,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  }
+ ]
+}

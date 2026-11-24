@@ -1,0 +1,2254 @@
+{
+ "prova": {
+  "slug": "sba-tea-2008",
+  "banca": "SBA",
+  "concurso": "TEA",
+  "titulo": "TEA 2008",
+  "ano": "2008",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003874,
+   "descricao": "<p>O nível máximo de ruído aceitável no ambiente de trabalho para uma jornada de 8 horas é:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038741,
+     "letra": "A",
+     "descricao": "50 dB",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038742,
+     "letra": "B",
+     "descricao": "70 dB",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038743,
+     "letra": "C",
+     "descricao": "90 dB",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038744,
+     "letra": "D",
+     "descricao": "110 dB",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20038745,
+     "letra": "E",
+     "descricao": "130 dB",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003875,
+   "descricao": "<p>Segundo a classificação de Samsoon e Young para o teste de Mallampati, a visualização do palato mole, fauce, úvula e pilares caracteriza a classe:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038751,
+     "letra": "A",
+     "descricao": "I",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038752,
+     "letra": "B",
+     "descricao": "II",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038753,
+     "letra": "C",
+     "descricao": "III",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038754,
+     "letra": "D",
+     "descricao": "IV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003876,
+   "descricao": "<p>O volume de g&aacute;s que permanece nos pulm&otilde;es ap&oacute;s uma expira&ccedil;&atilde;o normal (n&atilde;o for&ccedil;ada) chama- se:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038761,
+     "letra": "A",
+     "descricao": "volume residual",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038762,
+     "letra": "B",
+     "descricao": "volume expiratório de reserva",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038763,
+     "letra": "C",
+     "descricao": "volume corrente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038764,
+     "letra": "D",
+     "descricao": "capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003877,
+   "descricao": "<p>Aumenta o tônus do esfíncter esofagiano inferior:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038771,
+     "letra": "A",
+     "descricao": "Succinilcolina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038772,
+     "letra": "B",
+     "descricao": "Atropina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038773,
+     "letra": "C",
+     "descricao": "Morfina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038774,
+     "letra": "D",
+     "descricao": "Propofol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003878,
+   "descricao": "<p>Uma anestesia peridural destinada a prover analgesia durante o primeiro est&aacute;gio do trabalho de parto precisa bloquear os derm&aacute;tomos:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038781,
+     "letra": "A",
+     "descricao": "T4 a T6",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038782,
+     "letra": "B",
+     "descricao": "T7 a T9",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038783,
+     "letra": "C",
+     "descricao": "T10 a L1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038784,
+     "letra": "D",
+     "descricao": "S2 a S4",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003879,
+   "descricao": "<p>Anestésico local tipo amino-éster:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038791,
+     "letra": "A",
+     "descricao": "Lidocaína",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038792,
+     "letra": "B",
+     "descricao": "Bupivacaína",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038793,
+     "letra": "C",
+     "descricao": "Procaína",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038794,
+     "letra": "D",
+     "descricao": "Levobupivacaína",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003880,
+   "descricao": "<p>A administração de uma dose clínica de propofol causa:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038801,
+     "letra": "A",
+     "descricao": "aumento da resistência vascular sistêmica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038802,
+     "letra": "B",
+     "descricao": "diminuição da contratilidade do miocárdio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038803,
+     "letra": "C",
+     "descricao": "aumento do fluxo sangüíneo cerebral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038804,
+     "letra": "D",
+     "descricao": "aumento da pressão intracraniana",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20038805,
+     "letra": "E",
+     "descricao": "desvio para a esquerda da curva de resposta ao CO2",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003881,
+   "descricao": "<p>Em uma gestante a termo, proteinúria maior que 5g.24 h-1, pressão arterial igual a 170/120 mmHg, edema de membros inferiores e dor epigástrica sugerem:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038811,
+     "letra": "A",
+     "descricao": "Pré-eclâmpsia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038812,
+     "letra": "B",
+     "descricao": "Descolamento de placenta",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038813,
+     "letra": "C",
+     "descricao": "Placenta prévia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038814,
+     "letra": "D",
+     "descricao": "Síndrome de Sheehan",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003882,
+   "descricao": "<p>Mecanismo pelo qual o salbutamol causa broncodilata&ccedil;&atilde;o:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038821,
+     "letra": "A",
+     "descricao": "estímulo de receptores adrenérgicos beta-2",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038822,
+     "letra": "B",
+     "descricao": "antagonismo de receptores de adenosina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038823,
+     "letra": "C",
+     "descricao": "bloqueio de receptores muscarínicos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038824,
+     "letra": "D",
+     "descricao": "inibição da fosfodiesterase",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003883,
+   "descricao": "<p>Qual é o mecanismo pelo qual a dobutamina aumenta a contratilidade do miocárdio?</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038831,
+     "letra": "A",
+     "descricao": "Estímulo de receptores dopaminérgicos D1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038832,
+     "letra": "B",
+     "descricao": "Estímulo de receptores adrenérgicos α 2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038833,
+     "letra": "C",
+     "descricao": "Estímulo de receptores adrenérgicos β1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038834,
+     "letra": "D",
+     "descricao": "Inibição da fosfodiesterase III",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003884,
+   "descricao": "<p>Voc&ecirc; est&aacute; prestes a realizar uma analgesia de parto com bloqueio peridural cont&iacute;nuo em uma gestante em trabalho de parto, com 5 cm de dilata&ccedil;&atilde;o do colo uterino. Voc&ecirc; escolheu iniciar a analgesia com 10 mL de bupivaca&iacute;na a 0,125% como anest&eacute;sico local, mas quer adicionar sufentanil &agrave; dose inicial.</p> <p>Qual das doses de sufentanil abaixo relacionadas &eacute; a recomendada:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038841,
+     "letra": "A",
+     "descricao": "10 mcg",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038842,
+     "letra": "B",
+     "descricao": "30 mcg",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038843,
+     "letra": "C",
+     "descricao": "50 mcg",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038844,
+     "letra": "D",
+     "descricao": "70 mcg",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003885,
+   "descricao": "<p>A liberação de acetilcolina do terminal nervoso pré-juncional é causada pelo:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038851,
+     "letra": "A",
+     "descricao": "Potássio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038852,
+     "letra": "B",
+     "descricao": "Magnésio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038853,
+     "letra": "C",
+     "descricao": "Cálcio",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038854,
+     "letra": "D",
+     "descricao": "Cloro",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003886,
+   "descricao": "<p>&Eacute; ponto de refer&ecirc;ncia anat&ocirc;mica para a realiza&ccedil;&atilde;o do bloqueio do nervo tibial no tornozelo:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038861,
+     "letra": "A",
+     "descricao": "Maléolo lateral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038862,
+     "letra": "B",
+     "descricao": "Maléolo medial",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038863,
+     "letra": "C",
+     "descricao": "Artéria tibial anterior",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038864,
+     "letra": "D",
+     "descricao": "Tendão do músculo extensor longo do hálux",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003887,
+   "descricao": "<p>Segundo a classificação de Mapleson, o sistema de Bain é do tipo:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038871,
+     "letra": "A",
+     "descricao": "A",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038872,
+     "letra": "B",
+     "descricao": "B",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038873,
+     "letra": "C",
+     "descricao": "C",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038874,
+     "letra": "D",
+     "descricao": "D",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003888,
+   "descricao": "<p>Anestésico inalatório que, na concentração de 1 CAM (Concentração Alveolar Mínima), mantém inalterada a freqüência cardíaca:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038881,
+     "letra": "A",
+     "descricao": "Enflurano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038882,
+     "letra": "B",
+     "descricao": "Sevoflurano",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038883,
+     "letra": "C",
+     "descricao": "Desflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038884,
+     "letra": "D",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003889,
+   "descricao": "<p>É contra-indicação absoluta à realização de raquianestesia:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038891,
+     "letra": "A",
+     "descricao": "hipovolemia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038892,
+     "letra": "B",
+     "descricao": "recusa do paciente",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038893,
+     "letra": "C",
+     "descricao": "anemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038894,
+     "letra": "D",
+     "descricao": "idade inferior a 12 anos",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20038895,
+     "letra": "E",
+     "descricao": "cefaléia pós-punção dural prévia",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003890,
+   "descricao": "<p>Nervo responsável pela inervação motora do músculo bíceps braquial:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038901,
+     "letra": "A",
+     "descricao": "radial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038902,
+     "letra": "B",
+     "descricao": "axilar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038903,
+     "letra": "C",
+     "descricao": "músculo-cutâneo",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20038904,
+     "letra": "D",
+     "descricao": "mediano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003891,
+   "descricao": "<p>Durante a recuperação de anestesia geral um paciente apresenta-se capaz de movimentar as 4 extremidades, de respirar profundamente e de tossir. A pressão arterial está nos mesmos níveis que antes da cirurgia, desperta ao ser chamado e a saturação periférica de oxigênio é 95% em ar ambiente. Seu escore, segundo a escala de Aldrete modificada, é:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038911,
+     "letra": "A",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038912,
+     "letra": "B",
+     "descricao": "9",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038913,
+     "letra": "C",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038914,
+     "letra": "D",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003892,
+   "descricao": "<p>Fase do ciclo cardíaco responsável pela onda “a” da onda de pulso venoso central:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038921,
+     "letra": "A",
+     "descricao": "Contração atrial",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038922,
+     "letra": "B",
+     "descricao": "Contração isovolumétrica do ventrículo direito",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038923,
+     "letra": "C",
+     "descricao": "Relaxamento atrial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038924,
+     "letra": "D",
+     "descricao": "Fase de enchimento rápido atrial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003893,
+   "descricao": "<p>Quais são as posições ideais para a colocação das pás para desfibrilação durante manobras de reanimação cardiorrespiratória?</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038931,
+     "letra": "A",
+     "descricao": "Infraclavicular direita e inframamária esquerda",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038932,
+     "letra": "B",
+     "descricao": "Infraclavicular direita e infraclavicular esquerda",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038933,
+     "letra": "C",
+     "descricao": "Supraesternal e inframamária esquerda",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038934,
+     "letra": "D",
+     "descricao": "Infraclavicular direita e supra-esternal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003894,
+   "descricao": "<p>Local do néfron em que ocorre a maior parte da reabsorção de sódio:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038941,
+     "letra": "A",
+     "descricao": "túbulo contornado proximal",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038942,
+     "letra": "B",
+     "descricao": "ramo descendente da alça de Henle",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038943,
+     "letra": "C",
+     "descricao": "ramo ascendente da alça de Henle",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038944,
+     "letra": "D",
+     "descricao": "túbulo contornado distal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003895,
+   "descricao": "<p>O mecanismo da ação gastrocinética da metoclopramida deve-se ao antagonismo de receptores:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038951,
+     "letra": "A",
+     "descricao": "Muscarínicos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038952,
+     "letra": "B",
+     "descricao": "Serotoninérgicos tipo 1 (5-HT1)",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038953,
+     "letra": "C",
+     "descricao": "Histaminérgicos tipo 1 (H1)",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038954,
+     "letra": "D",
+     "descricao": "Dopaminérgicos",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003896,
+   "descricao": "<p>Íon que penetra na célula muscular esquelética juntamente com a glicose, por efeito da insulina:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038961,
+     "letra": "A",
+     "descricao": "Sódio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038962,
+     "letra": "B",
+     "descricao": "Potássio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038963,
+     "letra": "C",
+     "descricao": "Cálcio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038964,
+     "letra": "D",
+     "descricao": "Magnésio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003897,
+   "descricao": "<p>Mecanismo de ação antiadesão plaquetária da aspirina:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038971,
+     "letra": "A",
+     "descricao": "inibição da ciclo-oxigenase",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038972,
+     "letra": "B",
+     "descricao": "inibição da fosfodiesterase",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038973,
+     "letra": "C",
+     "descricao": "antagonismo de receptores de difosfato de adenosina (ADP)",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038974,
+     "letra": "D",
+     "descricao": "bloqueio de receptores de glicoproteína IIb/IIIa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003898,
+   "descricao": "<p>Paciente no segundo dia pós-operatório de tireoidectomia total apresenta tetania e laringospasmo. Causa mais provável:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038981,
+     "letra": "A",
+     "descricao": "Hipocalcemia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20038982,
+     "letra": "B",
+     "descricao": "Hipopotassemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20038983,
+     "letra": "C",
+     "descricao": "Hipermagnesemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038984,
+     "letra": "D",
+     "descricao": "Hiperpotassemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003899,
+   "descricao": "<p>Paciente gestante a termo queixa-se de n&atilde;o tolerar o dec&uacute;bito dorsal por sentir dispn&eacute;ia, n&aacute;useas e sensa&ccedil;&atilde;o de desmaio iminente, que passam quando assume o dec&uacute;bito lateral. Causa mais prov&aacute;vel:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20038991,
+     "letra": "A",
+     "descricao": "Limitação respiratória pelo útero grávido",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20038992,
+     "letra": "B",
+     "descricao": "Síndrome de compressão da veia cava inferior",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20038993,
+     "letra": "C",
+     "descricao": "Pré-eclâmpsia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20038994,
+     "letra": "D",
+     "descricao": "Vasodilatação induzida pela progesterona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003900,
+   "descricao": "<p>Paciente com traumatismo crânio-encefálico, ao exame neurológico não abre os olhos ao estímulo doloroso, vocaliza sons incompreensíveis e faz movimento de retirada, sem localizar o estímulo doloroso. Segundo a escala de coma de Glasgow, quantos pontos você daria a este paciente?</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039001,
+     "letra": "A",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039002,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039003,
+     "letra": "C",
+     "descricao": "6",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039004,
+     "letra": "D",
+     "descricao": "4",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003901,
+   "descricao": "<p>Tempo de jejum pré-anestésico recomendado para um bebê com 3 meses alimentado somente com leite materno:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039011,
+     "letra": "A",
+     "descricao": "8 horas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039012,
+     "letra": "B",
+     "descricao": "6 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039013,
+     "letra": "C",
+     "descricao": "4 horas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039014,
+     "letra": "D",
+     "descricao": "2 horas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003902,
+   "descricao": "<p>Paciente portador de hérnia discal apresenta impossibilidade de flexão plantar do pé. Raiz envolvida:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039021,
+     "letra": "A",
+     "descricao": "L4",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039022,
+     "letra": "B",
+     "descricao": "L5",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039023,
+     "letra": "C",
+     "descricao": "S1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039024,
+     "letra": "D",
+     "descricao": "S2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003903,
+   "descricao": "<p>Quais dos valores abaixo de pressão arterial média representam os limites inferior e superior da autorregulação cerebral no indivíduo normotenso?</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039031,
+     "letra": "A",
+     "descricao": "10 – 110 mmHg",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039032,
+     "letra": "B",
+     "descricao": "20 – 120 mmHg",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039033,
+     "letra": "C",
+     "descricao": "30 – 130 mmHg",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039034,
+     "letra": "D",
+     "descricao": "40 – 140 mmHg",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20039035,
+     "letra": "E",
+     "descricao": "50 – 150 mmHg",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003904,
+   "descricao": "<p>Em paciente submetido a anestesia geral, em decúbito dorsal, o aparecimento de parestesia no 4o e 5o quirodáctilos no segundo dia pós-operatório sugere lesão do nervo:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039041,
+     "letra": "A",
+     "descricao": "Ulnar",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20039042,
+     "letra": "B",
+     "descricao": "Mediano",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039043,
+     "letra": "C",
+     "descricao": "Radial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039044,
+     "letra": "D",
+     "descricao": "Axilar",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20039045,
+     "letra": "E",
+     "descricao": "Músculo-cutâneo",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003905,
+   "descricao": "<p>Um paciente recebe um hipnótico e, em seguida, um bloqueador neuromuscular para facilitar a intubação traqueal. Um estimulador de nervo periférico está estimulando o nervo ulnar no punho com seqüências de 4 estímulos a cada 20 segundos. Quando o primeiro estímulo está a 20% do estímulo de controle, as respostas aos 4 estímulos são de mesma amplitude e intensidade. O bloqueador neuromuscular utilizado foi:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039051,
+     "letra": "A",
+     "descricao": "cisatracúrio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039052,
+     "letra": "B",
+     "descricao": "vecurônio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039053,
+     "letra": "C",
+     "descricao": "pancurônio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039054,
+     "letra": "D",
+     "descricao": "Succinilcolina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003906,
+   "descricao": "<p>A inervação simpática do coração origina-se nos segmentos medulares:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039061,
+     "letra": "A",
+     "descricao": "C7 e C8",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039062,
+     "letra": "B",
+     "descricao": "T1 a T4",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20039063,
+     "letra": "C",
+     "descricao": "T5 a T9",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039064,
+     "letra": "D",
+     "descricao": "T10 a T12",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003907,
+   "descricao": "<p>Quando comparados a adultos jovens, pacientes idosos caracterizam-se por:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039071,
+     "letra": "A",
+     "descricao": "menor Concentração Alveolar Mínima (CAM) dos anestésicos inalatórios",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20039072,
+     "letra": "B",
+     "descricao": "maior elasticidade dos tecidos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039073,
+     "letra": "C",
+     "descricao": "menor percentagem de gordura corporal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039074,
+     "letra": "D",
+     "descricao": "maior taxa de filtração glomerular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003908,
+   "descricao": "<p>Em uma gestante a termo submetida a bloqueio subaracn&oacute;ideo para opera&ccedil;&atilde;o cesariana, o calibre de agulha de Quincke associado com a menor probabilidade de ocorr&ecirc;ncia de cefal&eacute;ia p&oacute;s-pun&ccedil;&atilde;o dural &eacute;:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039081,
+     "letra": "A",
+     "descricao": "18G",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039082,
+     "letra": "B",
+     "descricao": "20G",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039083,
+     "letra": "C",
+     "descricao": "22G",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039084,
+     "letra": "D",
+     "descricao": "27G",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003909,
+   "descricao": "<p>Em paciente hígido submetido a uma anestesia em regime ambulatorial:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039091,
+     "letra": "A",
+     "descricao": "A raquianestesia é contra-indicada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039092,
+     "letra": "B",
+     "descricao": "O midazolam pode ser utilizado para reduzir a ansiedade pré-operatória",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20039093,
+     "letra": "C",
+     "descricao": "O jejum pré-anestésico deve ser de 12 horas para alimentos sólidos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039094,
+     "letra": "D",
+     "descricao": "O óxido nitroso diminui a prevalência de náuseas e vômitos pós-operatórios",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003910,
+   "descricao": "<p>Pressão limite para a insuflação da máscara laríngea:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039101,
+     "letra": "A",
+     "descricao": "20 cmH2O",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039102,
+     "letra": "B",
+     "descricao": "40 cmH2O",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039103,
+     "letra": "C",
+     "descricao": "60 cmH2O",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039104,
+     "letra": "D",
+     "descricao": "80 cmH2O",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003911,
+   "descricao": "<p>Um paciente masculino de 20 anos, previamente hígido, apresenta fratura de diáfise femoral após acidente automobilístico há 24 horas e vai ser submetido a osteossíntese do fêmur fraturado. Ao exame clínico, o paciente apresenta freqüência cardíaca de 120 bpm, pressão arterial de 110/70 mmHg, freqüência respiratória de 26 incursões respiratórias por minuto e sonolência. Ele não está recebendo medicamentos depressores do sistema nervoso central. Você observa a presença de petéquias nas regiões axilares. Exceto pela fratura do fêmur, não há outros sinais ou sintomas ao exame clínico.&nbsp;A gasometria arterial mostra PaO2 = 55 mmHg, PaCO2 = 24 mmHg e hemoglobina =&nbsp;13 mg.dL-1.&nbsp;O tempo de protrombina (TAP) é 12 segundos (INR = 1), o tempo parcial de tromboplastina (TTP ou TTPA) é 45 s (normal = 40-45 segundos) e as plaquetas são 160.000.mm-3. Causa do quadro clínico descrito:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039111,
+     "letra": "A",
+     "descricao": "Hiperventilação",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039112,
+     "letra": "B",
+     "descricao": "Choque hipovolêmico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039113,
+     "letra": "C",
+     "descricao": "Embolismo gorduroso",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039114,
+     "letra": "D",
+     "descricao": "Coagulação intravascular disseminada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003912,
+   "descricao": "<p>Qual dos pacientes abaixo tem o menor risco de desenvolver uma trombose venosa profunda?</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039121,
+     "letra": "A",
+     "descricao": "adulto jovem com índice de massa corporal igual a 45",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039122,
+     "letra": "B",
+     "descricao": "mulher idosa com fratura de colo do fêmur",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039123,
+     "letra": "C",
+     "descricao": "adulto jovem e hígido sob anestesia peridural para herniorrafia inguinal",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039124,
+     "letra": "D",
+     "descricao": "mulher jovem em quimioterapia para tratamento de leucemia, com cateter venoso central",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003913,
+   "descricao": "<p>Sugere(m) choque cardiog&ecirc;nico, exceto:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039131,
+     "letra": "A",
+     "descricao": "Pressão arterial média inferior a 60 mmHg",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039132,
+     "letra": "B",
+     "descricao": "Pressão capilar pulmonar maior que 15 mmHg",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039133,
+     "letra": "C",
+     "descricao": "Elevação de segmento ST",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039134,
+     "letra": "D",
+     "descricao": "Índice cardíaco maior que 2,5 L/min/m²",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003914,
+   "descricao": "<p>É (são) parâmetro(s) adequado(s) para ventilação mecânica de um paciente com doença broncopulmonar obstrutiva crônica (DPOC) e broncospasmo:</p><p><b>A) </b>Volume corrente 10 – 15 mL.Kg-1.</p><p><b>B) </b>Relação ins/expiratória igual a 1:1.</p><p><b>C) </b>Frequência respiratória de 15 ciclos por minuto.</p><p><b>D) </b>Relação ins/expiratória igual a 1:3.</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039141,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039142,
+     "letra": "B",
+     "descricao": "V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039143,
+     "letra": "C",
+     "descricao": "F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039144,
+     "letra": "D",
+     "descricao": "F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003915,
+   "descricao": "<p>Paciente portador de coronariopatia isquêmica tipo angina estável é submetido a colecistectomia aberta. Durante a dissecção da vesícula biliar, apresenta hipertensão e taquicardia. O segmento ST apresenta infra-desnivelamento de 2 mm. É apropriado:</p><p>1– interromper o estímulo operatório </p><p>2– administrar opióide </p><p>3– administrar nitroglicerina </p><p>4– administrar betabloqueador</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039151,
+     "letra": "A",
+     "descricao": "V, V, V, F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039152,
+     "letra": "B",
+     "descricao": "V, F, V, F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039153,
+     "letra": "C",
+     "descricao": "F, V, F, V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039154,
+     "letra": "D",
+     "descricao": "V, V, V, V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003916,
+   "descricao": "<p>Achado (s) eletrocardiográfico (s) da hipopotassemia:</p><p>1– ondas T achatadas </p><p>2– ondas U proeminentes </p><p>3– depressão do segmento ST </p><p>4– ondas P proeminentes</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039161,
+     "letra": "A",
+     "descricao": "1, 2 e 3 corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20039162,
+     "letra": "B",
+     "descricao": "1 e 3 corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039163,
+     "letra": "C",
+     "descricao": "2 e 4 corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039164,
+     "letra": "D",
+     "descricao": "Somente a 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20039165,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003917,
+   "descricao": "<p>Qual dos sinais abaixo <b><u>NÃO</u></b> é observado na intoxicação por anestésicos locais:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039171,
+     "letra": "A",
+     "descricao": "Convulsões",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039172,
+     "letra": "B",
+     "descricao": "Hipoxemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039173,
+     "letra": "C",
+     "descricao": "Fibrilação Ventricular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039174,
+     "letra": "D",
+     "descricao": "Hipertensão",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003918,
+   "descricao": "<p>Caracteriza(m) a síndrome da ressecção transuretral de próstata (RTU):</p><p>1– Hemoconcentração </p><p>2– Hiponatremia </p><p>3– Taquicardia </p><p>4– Hipertensão</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039181,
+     "letra": "A",
+     "descricao": "1, 2 e 3 corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039182,
+     "letra": "B",
+     "descricao": "2 e 4 corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20039183,
+     "letra": "C",
+     "descricao": "Somente a 4 é correta",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039184,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003919,
+   "descricao": "<p><b>Segundo a resolução do Conselho Federal de Medicina (CFM)1802/2006, entende-se por condições mínimas de segurança para a prática de anestesia geral com intubação traqueal, a disponibilidade do(s) seguinte(s) equipamento(s):</b></p> <p>A. Oxímetro de pulso. </p> <p>B. Cardioscópio. </p> <p>C. Capnógrafo. </p> <p>D. Monitor do índice bispectral.</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039191,
+     "letra": "A",
+     "descricao": "VVVF",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20039192,
+     "letra": "B",
+     "descricao": "VVVV",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039193,
+     "letra": "C",
+     "descricao": "VFVF",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039194,
+     "letra": "D",
+     "descricao": "VFFV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003920,
+   "descricao": "<p>Paciente portador de paraplegia por trauma raquimedular há quatro semanas recebe succinilcolina para intubação traqueal. Imediatamente desenvolve fibrilação ventricular. Qual (is) a(s) causa(s) mais provável(is):</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039201,
+     "letra": "A",
+     "descricao": "Hipercalcemia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039202,
+     "letra": "B",
+     "descricao": "Hipernatremia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039203,
+     "letra": "C",
+     "descricao": "Hiperpotassemia.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20039204,
+     "letra": "D",
+     "descricao": "Hipermagnesemia.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003921,
+   "descricao": "<p>Ocorre (m) durante colecistectomia videolaparosc&oacute;pica com insufla&ccedil;&atilde;o de CO2 na cavidade peritonial (capnoperit&ocirc;nio):</p> <p><strong>1) </strong>Aumento da secre&ccedil;&atilde;o de horm&ocirc;nio antidiur&eacute;tico (ADH)</p> <p><strong>2)</strong> Diminui&ccedil;&atilde;o do conte&uacute;do arterial de CO2</p> <p><strong>3) </strong>Diminui&ccedil;&atilde;o da capacidade residual funcional</p> <p><strong>4)</strong> Diminui&ccedil;&atilde;o do n&iacute;vel plasm&aacute;tico de catecolaminas</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039211,
+     "letra": "A",
+     "descricao": "1, 2 e 3 corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039212,
+     "letra": "B",
+     "descricao": "1 e 3 corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20039213,
+     "letra": "C",
+     "descricao": "2 e 4 corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039214,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003922,
+   "descricao": "<p>Qual das opções abaixo NÃO É&nbsp;um risco da transfusão com grandes volumes de hemoderivados:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039221,
+     "letra": "A",
+     "descricao": "Hipotermia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039222,
+     "letra": "B",
+     "descricao": "Sobrecarga Volêmica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039223,
+     "letra": "C",
+     "descricao": "Coagulopatia Dilucional",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039224,
+     "letra": "D",
+     "descricao": "Hipocalemia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003923,
+   "descricao": "<p>Parâmetro respiratório que está diminuído na gestante a termo em relação aos valores pré- gestacionais:</p>",
+   "ano": "2008",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20039231,
+     "letra": "A",
+     "descricao": "Volume corrente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20039232,
+     "letra": "B",
+     "descricao": "Volume minuto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20039233,
+     "letra": "C",
+     "descricao": "Frequência respiratória",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20039234,
+     "letra": "D",
+     "descricao": "Capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  }
+ ]
+}

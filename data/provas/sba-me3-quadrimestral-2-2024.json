@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2024",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003522,
+   "descricao": "<p><strong>No manuseio dos pacientes em cirurgias card&iacute;acas:&nbsp;</strong></p> <p><strong>A)</strong> A preven&ccedil;&atilde;o de taquicardia na estenose a&oacute;rtica &eacute; meta hemodin&acirc;mica para evitar&nbsp;isquemia mioc&aacute;rdica</p> <p><strong>B)</strong> Aumentar o fluxo anter&oacute;grado se faz necess&aacute;rio no manuseio da estenose a&oacute;rtica.</p> <p><strong>C)</strong> Tempo de coagula&ccedil;&atilde;o ativado de 300 segundos &eacute; seguro para proceder a&nbsp;canula&ccedil;&atilde;o e iniciar a circula&ccedil;&atilde;o extra-c&oacute;rporea.&nbsp;</p> <p><strong>D)</strong> O uso de antifibrinoliticos an&aacute;logos da lisina est&aacute; indicado nas cirurgias com&nbsp;circula&ccedil;&atilde;o extracorp&oacute;rea.&nbsp;</p> <p><strong>E)</strong> Avalia&ccedil;&atilde;o do d&eacute;bito card&iacute;aco por contorno de pulso est&aacute; indicado na presen&ccedil;a de&nbsp;bal&atilde;o intra-a&oacute;rtico.&nbsp;&nbsp;</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035221,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035222,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035223,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035224,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003523,
+   "descricao": "<p>Voc&ecirc; foi convocado para realizar anestesia para ressec&ccedil;&atilde;o de tumor cerebral. A depender da&nbsp;localiza&ccedil;&atilde;o da les&atilde;o, podemos afirmar que:</p> <p>A) Les&atilde;o localizada na base do crânio com difícil acesso cirúrgico, requer que o encéfalo tenha seu volume reduzido para facilitar a abordagem cirúrgica&nbsp;transcraniana, assim como evitar lesão secundária com o deslocamento e a&nbsp;retração da córtex cerebral.&nbsp;</p> <p>B) Lesão localizada no sistema de drenagem venosa (seios venosos), torna-se real o risco de embolia aérea venosa, por&eacute;m sem repercussões cardiopulmonares e&nbsp;risco de embolia arterial.&nbsp;</p> <p>C) Les&atilde;o secretante, localizada em região selar e que est&aacute; relacionada ao eixo hipotálamo-hipofisário, frequentemente causa alteraç&atilde;o end&oacute;crina com&nbsp;repercuss&atilde;o cl&iacute;nica.&nbsp;</p> <p>D) Les&atilde;o localizada em regi&atilde;o de fossa posterior baixa, traz a necessidade ao anestesiologista de avaliação criteriosa quanto a sensibilidade, reflexos e&nbsp;motricidade da língua, cordas vocais, traqueia e capacidade de deglutição antes&nbsp;da extuba&ccedil;&atilde;o.</p> <p>E) Les&atilde;o intraventricular obstrutiva cursa com hidrocefalia, por&eacute;m sem hipertensão intracraniana e redução da pressão de perfusão cerebral (PPC).&nbsp;</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035231,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035232,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035233,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035234,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003524,
+   "descricao": "<p>Sobre a hipotermia intraoperat&oacute;ria:&nbsp;</p> <p>A) O aquecimento cut&acirc;neo antes da indu&ccedil;&atilde;o anest&eacute;sica &eacute; fundamental para manuten&ccedil;&atilde;o da temperatura central.</p> <p>B) A hipotermia intraoperat&oacute;ria aumenta a afinidade da hemoglobina pelo oxig&ecirc;nio.</p> <p>C) A hipotermia moderada reduz a necessidade de transfus&atilde;o sangu&iacute;nea intraoperat&oacute;ria.&nbsp;</p> <p>D) A perda de calor por evapora&ccedil;&atilde;o &eacute; a mais significativa em adultos durante a anestesia.</p> <p>E) Os opioides aumentam o limiar de vasoconstri&ccedil;&atilde;o e tremor durante a anestesia.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035241,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035242,
+     "letra": "B",
+     "descricao": "F V F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035243,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035244,
+     "letra": "D",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003525,
+   "descricao": "<p><strong>Quest&atilde;o Adaptada</strong></p> <p>Com rela&ccedil;&atilde;o &agrave; fisiopatologia do choque, julgue os itens:&nbsp;</p> <p><strong>A)</strong> O lactato &eacute; produzido a partir da redu&ccedil;&atilde;o do piruvato pela a&ccedil;&atilde;o da enzima lactato desidrogenase (LDH), utilizando o NADH como cofator.</p> <p><strong>B) </strong>A administra&ccedil;&atilde;o de teofilina est&aacute; associada a eleva&ccedil;&atilde;o dos n&iacute;veis de lactato.</p> <p><strong>C) </strong>Paciente com perda sangu&iacute;nea de 1100 mL encontra-se na classe III de gravidade da hipovolemia.&nbsp;</p> <p><strong>D) </strong>No choque cardiog&ecirc;nico ocorre eleva&ccedil;&atilde;o das press&otilde;es de enchimento card&iacute;acas de forma desproporcional aos valores do &iacute;ndice card&iacute;aco, decorrente da&nbsp;diminui&ccedil;&atilde;o da complac&ecirc;ncia ventricular.&nbsp;&nbsp;</p> <p><strong>E) </strong>A intoxica&ccedil;&atilde;o por mon&oacute;xido de carbono &eacute; uma das principais etiologias de choque vasopl&eacute;gico.&nbsp;</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035251,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035252,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035253,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035254,
+     "letra": "D",
+     "descricao": "V V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003526,
+   "descricao": "<p>Com rela&ccedil;&atilde;o a anestesia para geriatria:</p> <p>A) O envelhecimento normal resulta em uma v&aacute;lvula a&oacute;rtica espessada e calcificada.</p> <p>B) No idoso, o aumento da sensibilidade &beta;-adren&eacute;rgica leva a um aumento da frequ&ecirc;ncia card&iacute;aca m&aacute;xima, d&eacute;bito card&iacute;aco e resposta a beta-agonistas (por exemplo, dobutamina).</p> <p>C) O fen&oacute;tipo de fragilidade medido classicamente por Linda Fried inclui os seguintes par&acirc;metros para avalia&ccedil;&atilde;o: perda de peso, fraqueza (diminui&ccedil;&atilde;o da for&ccedil;a depreens&atilde;o palmar), exaust&atilde;o, baixo n&iacute;vel de atividade f&iacute;sica e velocidade de caminhada lenta.</p> <p>D) Em idosos, a dolantina (petidina) est&aacute; associada a uma analgesia pouco efetiva e pode causar neurotoxicidade.</p> <p>E) Uma das estrat&eacute;gias para se evitar delirium em idosos &eacute; a preven&ccedil;&atilde;o de constipa&ccedil;&atilde;o.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035261,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035262,
+     "letra": "B",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035263,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035264,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003527,
+   "descricao": "<p>Sobre as caracter&iacute;sticas morfofisiol&oacute;gicas do Sistema Hematopoi&eacute;tico do rec&eacute;m-nascido e da crian&ccedil;a, analise as assertivas abaixo:</p> <p>A) A produção de plaquetas inicia-se na 5&ordf; semana de gestação, com contagem próxima do valor adulto quando é atingido o termo.</p> <p>B) Os fatores de coagulação no neonato estão muito semelhantes daquilo que se encontra no adulto, tornando a interpretação dos resultados de exames de níveis séricos de fatores de coagulação e a previsão de qual seráo funcionamento do sistema mais previs&iacute;veis, especialmente em situações patológicas.</p> <p>C) Apesar do grande volume proporcional, o volume sanguíneo total na crian&ccedil;a é bastante reduzido, o que faz com que perdas de pequena monta resultem em anemia grave ou mesmo choque hemorr&aacute;gico.</p> <p>D) A anemia, após as primeiras semanas de vida, é considerada fisiológica e somente aos 12 meses de vida a curva de dissociação da hemoglobina é similar ao do adulto saudável.</p> <p>E) S&atilde;o fatores de risco conhecidos para sangramento provocado pela deficiência dos fatores dependentes de vitamina K: prematuridade, uso de cumarínicos, rifampicina, anticonvulsivantes na gestação, aleitamento materno exclusivo prolongado.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035271,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035272,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035273,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035274,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003528,
+   "descricao": "<p>Um paciente de 70 anos com hist&oacute;rico de insufici&ecirc;ncia card&iacute;aca e fibrila&ccedil;&atilde;o atrial persistente foi encaminhado para uma abla&ccedil;&atilde;o por cateter no laborat&oacute;rio de eletrofisiologia. Durante o procedimento, que estava programado para durar aproximadamente 5 horas, o paciente foi submetido a anestesia geral para garantir condi&ccedil;&otilde;es ideais de procedimento e conforto do paciente. A equipe m&eacute;dica monitorou de perto a ventila&ccedil;&atilde;o e a temperatura esof&aacute;gica do paciente, e houve necessidade de administra&ccedil;&atilde;o de agentes inotr&oacute;picos para manter a estabilidade hemodin&acirc;mica. Sobreo papel do anestesiologista no laborat&oacute;rio de eletrofisiologia:</p> <p>A) Neste caso, a administra&ccedil;&atilde;o de anestesia geral &eacute; frequentemente necess&aacute;ria devido &agrave; dura&ccedil;&atilde;o do procedimento e &agrave;s comorbidades do paciente.</p> <p>B) Arritmias induzidas por estimula&ccedil;&atilde;o programada durante estudos eletrofisiol&oacute;gicos geralmente podem ser tratadas com agentes sedativos de a&ccedil;&atilde;o prolongada.</p> <p>C) O&nbsp;uso de ventila&ccedil;&atilde;o por jato de alta frequ&ecirc;ncia (HFJV) durante abla&ccedil;&otilde;es de fibrila&ccedil;&atilde;o atrial visa eliminar o movimento card&iacute;aco na cavidade tor&aacute;cica e reduzira instabilidade do cateter.</p> <p>D) O&nbsp;monitoramento da temperatura esof&aacute;gica &eacute; crucial para evitar les&otilde;es esof&aacute;gicas durante abla&ccedil;&otilde;es por radiofrequ&ecirc;ncia.</p> <p>E) O&nbsp;bloqueio neuromuscular deve ser sempre utilizado durante abla&ccedil;&otilde;es para garantir um campo de procedimento est&aacute;tico e seguro.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035281,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035282,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035283,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035284,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003529,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a anestesia pedi&aacute;trica, avalie:</p> <p>A) Em neonatos e lactentes at&eacute; 2 meses de vida, o remifentanil apresenta volume de distribui&ccedil;&atilde;o (VD) e clearence (Cl) maiores, exigindo por sua vez, taxas de infus&otilde;es mais r&aacute;pidas.</p> <p>B) Levando em considera&ccedil;&atilde;o a rela&ccedil;&atilde;o ventila&ccedil;&atilde;o alveolar (VA) / capacidade residual funcional (CRF), os rec&eacute;m-nascidos apresentam equil&iacute;brio entre press&atilde;o parcial alveolar e fra&ccedil;&atilde;o inspirada de anest&eacute;sico inalat&oacute;rio mais r&aacute;pida em compara&ccedil;&atilde;o aos adultos.</p> <p>C) Se tratando de rec&eacute;m-nascido, a concentra&ccedil;&atilde;o alveolar m&iacute;nima (CAM) dos anest&eacute;sicos inalat&oacute;rios &eacute; menor em compara&ccedil;&atilde;o aos adultos, uma vez que o sistema neurol&oacute;gico &eacute; imaturo.</p> <p>D) Cirurgias videolaparosc&oacute;picas em crian&ccedil;as, demandam menor preocupa&ccedil;&atilde;o ao anestesiologista em rela&ccedil;&atilde;o a absor&ccedil;&atilde;o de di&oacute;xido de carbono (CO2) insuflado, uma vez que a cavidade abdominal &eacute; menor.</p> <p>E) A&nbsp;cafeína, por se tratar de uma metilxantina, quando administrada de forma endovenosa, &eacute; utilizada no tratamento da apn&eacute;ia entre prematuros suscetíveis.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035291,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035292,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035293,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035294,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

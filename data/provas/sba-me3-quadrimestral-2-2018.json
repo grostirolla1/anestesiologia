@@ -1,0 +1,584 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2018",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2018",
+  "ano": "2018",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003459,
+   "descricao": "<p>Na anestesia para cirurgia cardíaca: </p><p>a) a ação da cetamina sobre a resistência vascular sistêmica faz desta uma boa opção para indução e manutenção da anestesia no período que antecede a circulação extra-corpórea na correção da tetralogia da Fallot.&nbsp;</p><p>b) a presença de um shunt direita esquerda aumenta o tempo de indução dos anestésicos inalatórios menos lipossolúveis.&nbsp;</p><p>c) a precocidade da intervenção é diretamente relacionada ao prognóstico na transposição de grandes artérias com ventrículo íntegro.&nbsp;</p><p>d) as alterações farmacocinéticas relacionadas à instalação da circulação extra-corpórea provocam o aumento da concentração plasmática dos fármacos e consequentemente a uma maior incidência de efeitos indesejados.&nbsp;</p><p>e) o uso da protamina em cirurgia cardíaca pode levar a hipertensão pulmonar e a diminuição da resistência vascular sistêmica.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034591,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034592,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034593,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034594,
+     "letra": "D",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003460,
+   "descricao": "<p>Em um paciente submetido a ressecção de tumor de fossa posterior em posição sentada: </p><p>a) Quadriplegia, macroglossia e pneumoencéfalo são riscos associados a esse procedimento.&nbsp;</p><p>b) O uso de óxido nitroso está indicado para reduzir os efeitos hemodinâmicos de agentes hipnóticos durante toda a cirurgia.&nbsp;</p><p>c) O método mais sensível para o diagnóstico de embolia venosa aérea é a ecocardiografia transesofágica.&nbsp;</p><p>d) Os anestésicos voláteis são melhor indicados na vigência de hipertensão intracraniana por promoverem vasodilatação cerebral.&nbsp;</p><p>e) A manutenção de hipocapnia intensa (PaCO2 &lt; 25mmHg) é indicada pela sua capacidade de reduzir o fluxo sanguíneo cerebral e a pressão intracraniana ao longo de todo este procedimento cirúrgico.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034601,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034602,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034603,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034604,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003461,
+   "descricao": "<p>Homem 70 anos, 60kg e 1,70m, é submetido a hemicolectomia direita. Após 1 hora da indução anestésica, foi detectado temperatura central de 35 graus Celsius. Este paciente apresenta risco aumento de: </p><p>a) Disfunção plaquetária.&nbsp;</p><p>b) Aumento da taxa de infecção pós-operatória.&nbsp;</p><p>c) Aumento da incidência de arritmias ventriculares.&nbsp;</p><p>d) Diminuição da duração de ação dos bloqueadores neuromusculares adespolarizantes.&nbsp;</p><p>e) despertar intraoperatório devido a diminuição de 30% na concentração plasmática de propofol.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034611,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034612,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034613,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034614,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003462,
+   "descricao": "<p>Mulher, 60 anos, 55kg e 1,60m, est&aacute; em quarto dia de p&oacute;s-operat&oacute;rio de colectomia total por tumor retal. Apresenta-se com abdome distendido e dor difusa. Ao exame, apresenta frequ&ecirc;ncia respirat&oacute;ria de 25 irpm, frequ&ecirc;ncia card&iacute;aca de 100 bpm, press&atilde;o arterial de 80 x 60 mmHg e temperatura de 38&ordm;C. Ultrassonografia revelou abcesso abdominal.</p> <p><strong>A) </strong>Pelo &uacute;ltimo consenso de sepse, o diagn&oacute;stico &eacute; de sepse grave.&nbsp;</p> <p><strong>B)</strong> A conduta inicial &eacute; administrar antibi&oacute;ticos de amplo espectro imediatamente, antes da coleta de hemocultura.&nbsp;</p> <p><strong>C) </strong>A reposi&ccedil;&atilde;o vol&ecirc;mica deve ser realizada com administra&ccedil;&atilde;o de 10 a 20 mL/kg de cristal&oacute;ides.&nbsp;</p> <p><strong>D)</strong> Caso o paciente continue hipotenso ap&oacute;s reposi&ccedil;&atilde;o vol&ecirc;mica adequada, deve-se instituir infus&atilde;o cont&iacute;nua de noradrenalina.&nbsp;</p> <p><strong>E)</strong> As metas de ressuscita&ccedil;&atilde;o nas primeiras 6 horas s&atilde;o: PVC 8 a 12 mmHg; PAM &gt; 65 mmHg; SvcO2 &gt; 70 %; diurese &gt; 0,5 ml/kg/h e normaliza&ccedil;&atilde;o do lactato.&nbsp;</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034621,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034622,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034623,
+     "letra": "C",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034624,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003463,
+   "descricao": "<p>Homem de 70 anos, 65kg, 1,65m, será submetido a artoplastia de quadril de urgência. Possui déficit auditivo, é tabagista, hipertenso, diabético e sedentário. Familiares relatam que, nos últimos meses, apresentou sinais de isolamento. Sobre disfunção cognitiva no pós-operatório: </p><p><b>A)</b> Antihistamínicos podem ser usados como profilaxia de náuseas e vômitos neste paciente. </p><p><b>B) </b>Neste paciente está recomendado a anestesia de neuroeixo sem sedação por reduzir de forma significativa o risco de disfunção cognitiva no pósoperatório quando comparada a anestesia geral. </p><p><b>C)</b> Delírio hiperativo tem uma maior taxa de morbidade e mortalidade entre os pacientes com disfunção cognitiva no pós-operatório. </p><p><b>D)</b> Letargia, sonolência diurna e agitação noturna no pós-operatório são manifestações do delírio hipoativo. </p><p><b>E)</b> A aplicação do teste Confusion Assesment Method (CAM) no préoperatório permite uma classificação padronizada do delírio.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034631,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034632,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034633,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034634,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003464,
+   "descricao": "<p>Quanto à particularidade da via aérea na população pediátrica:</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034641,
+     "letra": "A",
+     "descricao": "a laringe se situa anteriormente aos corpos vertebrais de C5-C6 nos lactentes.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034642,
+     "letra": "B",
+     "descricao": "a inervação sensorial da orofaringe é derivada dos nervos glossofaríngeo e laríngeo superior.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034643,
+     "letra": "C",
+     "descricao": "a cartilagem tireoidea é o ponto de maior estreitamento da laringe até os 10-12 anos de idade.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034644,
+     "letra": "D",
+     "descricao": "até os 18 meses de vida, a intubação seletiva acidental tem maior probabilidade de ser à direita.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003465,
+   "descricao": "<p>Homem de 60 anos, 80Kg e 1,70m, &eacute; submetido a broncoscopia r&iacute;gida para retirada de um corpo estranho em bronquio fonte sob ventila&ccedil;&atilde;o espont&acirc;nea. Durante a realiza&ccedil;&atilde;o deste procedimento apresenta hipercapnia progressiva. Essa altera&ccedil;&atilde;o estar&aacute; associada a: </p> <p><strong>A)</strong> Diminui&ccedil;&atilde;o do t&ocirc;nus simp&aacute;tico</p> <p><strong>B) </strong>Diminui&ccedil;&atilde;o da contratilidade card&iacute;aca</p> <p><strong>C) </strong>Aumento do fluxo sangu&iacute;neo cerebral</p> <p><strong>D) </strong>Hip&oacute;xia secund&aacute;ria, por deslocamento do oxigenio pelo CO2 na hemoglobina</p> <p><strong>E) </strong>Deslocamento da curva de dissocia&ccedil;&atilde;o da hemoglobina com diminui&ccedil;&atilde;o da libera&ccedil;&atilde;o de oxig&ecirc;nio</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034651,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034652,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034653,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034654,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003466,
+   "descricao": "<p>S&atilde;o alvos terap&ecirc;uticos no trauma cranioencef&aacute;lico em adultos a manuten&ccedil;&atilde;o de:</p> <p>A) Press&atilde;o de perfus&atilde;o cerebral (PPC) de 45 mmHg.&nbsp;</p> <p>B) Glicemia de 80 a 120 mg/dL.&nbsp;</p> <p>C) Hemoglobina MAIOR QUE 8g/dL.&nbsp;</p> <p>D) Fibrinog&ecirc;nio MAIOR QUE 200mg/dL.&nbsp;</p> <p>E) Press&atilde;o intracraniana MENOR QUE 20 mmHg.&nbsp;</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034661,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034662,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034663,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034664,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003467,
+   "descricao": "<p>Em procedimentos cirúrgicos cardíacos: </p><p>a) nos pacientes portadores de estenose de válvuva aórtica, os fármacos inotrópicos negativos não são bem tolerados.&nbsp;</p><p>b) nos pacientes portadores de estenose de válvula mitral, a pressão de artéria pulmonar ocluida é um bom indicador da pré-carga do ventrículo esquerdo.&nbsp;</p><p>c) nos pacientes portadores de coronariopatia, a melhoria da função cardíaca pelo balão intra aórtico relaciona-se ao incremento da perfusão coronariana.&nbsp;</p><p>d) os pacientes portadores de insuficiência de valvúla aórtica beneficiam-se com a diminuição da freqüência cardíaca na indução&nbsp;</p><p>e) nos pacientes portadores de disfunções ventriculares segmentares, a avaliação pelo método de Simpson, quando comparado ao método de Teichholz, no ecocardiograma tem uma maior acurácia para a determinação da fração de ejeção.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034671,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034672,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034673,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034674,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003468,
+   "descricao": "<p>Na neurocirurgia: </p><p>a) A morbidade pós-ruptura das malformações arteriovenosas é maior que a dos aneurismas.&nbsp;</p><p>b) Os bloqueadores dos canais de cálcio do tipo di-hidropiridina ou do tipo difenilalquilamina têm se mostrado úteis em prevenir o vasospasmo ou diminuir sua intensidade, porém se relacionam com maior índice de ressangramento.&nbsp;</p><p>c) O vasospasmo ocorrer no quarto dia após o sangramento, e sua origem está relacionada à presença de sangue no espaço subaracnoideo.&nbsp;</p><p>d) As técnicas neurorradiológicas de embolização prévia à cirurgia são usadas para reduzir sua vascularização, diminuindo o risco de sangramento transoperatório.&nbsp;</p><p>e) Os pacientes com hemorragia subaracnóidea, os anticonvulsivantes também devem ser continuados no período perioperatório.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034681,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034682,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034683,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034684,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003469,
+   "descricao": "<p>No choque:</p> <p><strong>A) </strong>O suporte hemodin&acirc;mico adequado e precoce aos pacientes &eacute; crucial, por&eacute;m a ressuscita&ccedil;&atilde;o deve ser iniciada ap&oacute;s a identifica&ccedil;&atilde;o da sua causa</p> <p><strong>B)</strong> A hipotens&atilde;o arterial sist&ecirc;mica pode ser moderada, ou mesmo inexistente, especialmente nos pacientes hipertensos cr&ocirc;nicos.&nbsp;</p> <p><strong>C) </strong>A ecocardiografia pode proporcionar monitoriza&ccedil;&atilde;o hemodin&acirc;mica cont&iacute;nua.&nbsp;</p> <p><strong>D) </strong>A press&atilde;o de oclus&atilde;o de art&eacute;ria pulmonar (POAP) nos pacientes em ventila&ccedil;&atilde;o mec&acirc;nica com press&atilde;o positiva ao final da expira&ccedil;&atilde;o (PEEP) &eacute; normal.&nbsp;</p> <p><strong>E)</strong> A administra&ccedil;&atilde;o de oxig&ecirc;nio deve ser iniciada imediatamente com a finalidade de aumentar a oferta de oxig&ecirc;nio (DO2) e a oximetria de pulso &eacute; confi&aacute;vel na monitoriza&ccedil;&atilde;o da oxigena&ccedil;&atilde;o.&nbsp;</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034691,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034692,
+     "letra": "B",
+     "descricao": "F V F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034693,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034694,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003470,
+   "descricao": "<p>As particularidades das alterações morfológicas da anestesia no idoso devem levar em conta: </p><p><b>A) </b>A diminuição da elastância com aumento do volume de fechamento. </p><p><b>B) </b>O prejuizo progressivo da função ventricular sistólica e diastólica direita. </p><p><b>C)</b> A redução dos níveis de aldosterona com predisposição a apresentar hipocalemia. </p><p><b>D)</b> Um menor tempo de pré-oxigenação durante a indução da anestesia. </p><p><b>E) </b>O aumento da atividade das enzimas que metabolizam catecolaminas: monoaminaoxidase (MAO) e catecol -orto- metiltransferase (COMT).</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034701,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034702,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034703,
+     "letra": "C",
+     "descricao": "FF V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034704,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003471,
+   "descricao": "<p>Ao anestesiar um recém-nascido, deve-se levar em consideração que:</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034711,
+     "letra": "A",
+     "descricao": "o ventrículo esquerdo é mais complacente do que o dos adultos, permitindo uma tolerância maior à reposição volêmica e menor à bradicardia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034712,
+     "letra": "B",
+     "descricao": "o volume de distribuição dos fármacos hidrofílicos é proporcionalmente maior do que em adultos.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034713,
+     "letra": "C",
+     "descricao": "o segmento de punção para raquianestesia é de L2-L3 para baixo (direção caudal).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034714,
+     "letra": "D",
+     "descricao": "a ventilação alveolar está proporcionalmente elevada as custas de aumento do volume corrente.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

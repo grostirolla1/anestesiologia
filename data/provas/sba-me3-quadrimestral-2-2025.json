@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2025",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2025",
+  "ano": "2025",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003530,
+   "descricao": "<p>S&atilde;o alvos terap&ecirc;uticos no manejo do Trauma Cr&acirc;nio Encef&aacute;lico grave:</p> <p><strong>A)</strong> PaCO₂ &lt; 30mmHg.</p> <p><strong>B) </strong>Press&atilde;o Intracraniana (PIC) &lt; 20mmHg.</p> <p><strong>C) </strong>Press&atilde;o de Perfus&atilde;o Encef&aacute;lica &gt; 50mmHg.</p> <p><strong>D)</strong> Glicemia at&eacute; 180 mg/dl.</p> <p><strong>E)</strong> Temperatura &lt; 35&deg;C.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035301,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035302,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035303,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035304,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003531,
+   "descricao": "<p>Julgue as afirmativas a seguir:</p> <p><strong>A) </strong>A elimina&ccedil;&atilde;o dos anest&eacute;sicos inalat&oacute;rios &eacute; acelerada durante a hipotermia devido &agrave; menor solubilidade nos tecidos frios.</p> <p><strong>B)</strong> Fibrila&ccedil;&atilde;o ventricular espont&acirc;nea &eacute; frequente mesmo em temperaturas acima de 34 &deg;C.</p> <p><strong>C)</strong> Os valores de pH e PCO₂ permanecem invari&aacute;veis durante a hipotermia, independentemente do grau de resfriamento.</p> <p><strong>D)</strong> A diurese induzida pela hipotermia &eacute; atribu&iacute;da ao aumento do fluxo sangu&iacute;neo renal e &agrave; redu&ccedil;&atilde;o do ADH.</p> <p><strong>E)</strong> A resposta de vasoconstri&ccedil;&atilde;o perif&eacute;rica durante a hipotermia contribui para a preserva&ccedil;&atilde;o do calor central.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035311,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035312,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035313,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035314,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003532,
+   "descricao": "<p>Sobre o choque s&eacute;ptico:</p> <p><strong>A)</strong> O choque s&eacute;ptico &eacute; um choque distributivo associado a um agente infeccioso, caracterizado por diminui&ccedil;&atilde;o do d&eacute;bito card&iacute;aco</p> <p><strong>B) </strong>Pode ocorrer uma diminui&ccedil;&atilde;o global da contratilidade card&iacute;aca com redu&ccedil;&atilde;o do transporte de O₂ aos tecidos</p> <p><strong>C)</strong> A acidose metab&oacute;lica pode estar presente mesmo com n&iacute;veis normais de DO₂ (transporte de oxig&ecirc;nio)</p> <p><strong>D) </strong>A manuten&ccedil;&atilde;o do d&eacute;bito card&iacute;aco e um DO₂ adequado garante uma extra&ccedil;&atilde;o tecidual de O₂ adequada</p> <p><strong>E) </strong>O evento inicial no choque s&eacute;ptico parece ser a intera&ccedil;&atilde;o de um pat&oacute;geno e receptores espec&iacute;ficos (como &ldquo;toll-like receptors&rdquo;) nas c&eacute;lulas do sistema imune nato</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035321,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035322,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035323,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035324,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003533,
+   "descricao": "<p>Sobre anestesia e sistema cardiovascular.</p> <p><strong>A)</strong> Fatores como a hipotermia e o estresse cir&uacute;rgico prolongam o TCA.</p> <p><strong>B)</strong> A hipotermia diminui a permeabilidade da barreira hematoencef&aacute;lica.</p> <p><strong>C) </strong>A taquicardia supraventricular &eacute; a arritmia p&oacute;s-operat&oacute;ria mais comum.</p> <p><strong>D)</strong> Hipertens&atilde;o pulmonar &eacute; uma das poss&iacute;veis indica&ccedil;&otilde;es para inser&ccedil;&atilde;o de cateter de art&eacute;ria pulmonar.</p> <p><strong>E) </strong>Na insufici&ecirc;ncia mitral cr&ocirc;nica compensada, manter a pr&eacute;-carga, reduzir criteriosamente a p&oacute;s-carga e manter a frequ&ecirc;ncia card&iacute;aca na faixa normal-baixa &eacute; uma conduta adequada.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035331,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035332,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035333,
+     "letra": "C",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035334,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003534,
+   "descricao": "<p>A imagem representa a forma de onda da press&atilde;o venosa central mostrando a evolu&ccedil;&atilde;o temporal dos componentes da forma de onda da press&atilde;o venosa central em rela&ccedil;&atilde;o ao eletrocardiograma.</p> <p><img src=\"data/imagens/0ede092520416a9d.png\" alt=\"\"></p> <p>Correlacione o evento mec&acirc;nico card&iacute;aco causador das seguintes ondas:</p> <p><strong>A)</strong> A - enchimento atrial na s&iacute;stole.</p> <p><strong>B) </strong>C - contra&ccedil;&atilde;o isovolum&eacute;trica do ventr&iacute;culo direito.</p> <p><strong>C)</strong> X - colapso diast&oacute;lico da press&atilde;o atrial.</p> <p><strong>D) </strong>Y - colapso sist&oacute;lico da press&atilde;o atrial.</p> <p><strong>E)</strong> V - retorno venoso no momento que a v&aacute;lvula tric&uacute;spide encontra-se ainda aberta.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035341,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035342,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035343,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035344,
+     "letra": "D",
+     "descricao": "F V F F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003535,
+   "descricao": "<p>Sobre anestesia no paciente pediátrico:</p> <p><strong>A)</strong> Prematuridade e idade pós-concepcional menor que 60 semanas são fortes fatores de risco para apneia pós-operatória em bebês.</p> <p><strong>B)</strong> A cafeína é o tratamento de primeira escolha para apneia da prematuridade, com taquicardia relatada em doses mais altas.</p> <p><strong>C)</strong> Laringoespasmo é o fechamento reflexo das cordas vocais falsas e verdadeiras, resultando em obstrução completa das vias aéreas.</p> <p><strong>D)</strong> O delírio ao despertar da anestesia é mais comum na população pediátrica, com uma incidência relatada de até 80%.</p> <p><strong>E)</strong> O delírio ao despertar geralmente se manifesta como um período de agitação ou, raramente, um período de hipoatividade nos primeiros 30 minutos após o despertar da anestesia geral.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035351,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035352,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035353,
+     "letra": "C",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035354,
+     "letra": "D",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003536,
+   "descricao": "<p>Voc&ecirc; foi escalado para anestesiar uma paciente de 80 anos, que ser&aacute; submetida a uma colecistectomia videolaparosc&oacute;pica. Seu staff apresenta um gr&aacute;fico e orienta a levar em considera&ccedil;&atilde;o as altera&ccedil;&otilde;es ali apresentadas quando for realizar a ventila&ccedil;&atilde;o mec&acirc;nica. Diante disso, com o envelhecimento, podemos afirmar que:</p> <p><strong>A)</strong> Ocorre uma redu&ccedil;&atilde;o importante da capacidade pulmonar total.</p> <p><strong>B) </strong>A capacidade de fechamento pode exceder a capacidade residual funcional, levando a atelectasias.</p> <p><strong>C)</strong> Ocorre aumento da complac&ecirc;ncia pulmonar e redu&ccedil;&atilde;o da complac&ecirc;ncia da parede tor&aacute;cica.</p> <p><strong>D)</strong> A soma do volume de reserva expirat&oacute;ria com o volume residual reflete a capacidade vital.</p> <p><strong>E)</strong> A diminui&ccedil;&atilde;o da rigidez do tecido pulmonar se deve &agrave; perda de fibrina com a idade.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035361,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035362,
+     "letra": "B",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035363,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035364,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

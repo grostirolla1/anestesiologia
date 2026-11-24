@@ -1,0 +1,1835 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2006",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2006",
+  "ano": "2006",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002641,
+   "descricao": "<p>Agente anestésico que dificulta o diagnóstico etiológico perioperatório do estrabismo:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026411,
+     "letra": "A",
+     "descricao": "Pancurônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026412,
+     "letra": "B",
+     "descricao": "Succinilcolina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026413,
+     "letra": "C",
+     "descricao": "Atracúrio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026414,
+     "letra": "D",
+     "descricao": "Rocurônio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002642,
+   "descricao": "<p>Quando há avulsão traumática de um dente permanente, durante intubação orotraqueal, qual das recomendações seguintes é recomendada?</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026421,
+     "letra": "A",
+     "descricao": "Lavar o dente e conservar em soro fisiológico para entregá-lo ao dentista",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026422,
+     "letra": "B",
+     "descricao": "Dispensar qualquer atendimento odontológico imediato",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026423,
+     "letra": "C",
+     "descricao": "Limpar a raiz do dente, friccionando-a com gaze",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026424,
+     "letra": "D",
+     "descricao": "Imediata reposição do dente em seu alvéolo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002643,
+   "descricao": "<p>No pós-operatório de cirurgia artroscópica da articulação temporomandibular (ATM), merece cuidado especial:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026431,
+     "letra": "A",
+     "descricao": "Náusea e vômito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026432,
+     "letra": "B",
+     "descricao": "Dor",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026433,
+     "letra": "C",
+     "descricao": "Obstrução da via aérea",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026434,
+     "letra": "D",
+     "descricao": "Paralisia facial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002644,
+   "descricao": "<p>Um paciente &eacute; submetido &agrave; intuba&ccedil;&atilde;o orotraqueal para toracotomia com tubo de PVC dupla-luz para a esquerda. Nas manobras cl&iacute;nicas para verifica&ccedil;&atilde;o do correto posicionamento do tubo, nota-se que quando se insufla pela luz endobr&ocirc;nquica, ventilam-se os dois pulm&otilde;es. Quando se insufla pela luz traqueal, a ventila&ccedil;&atilde;o &eacute; imposs&iacute;vel de ambos os lados. Explica&ccedil;&atilde;o para o fato:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026441,
+     "letra": "A",
+     "descricao": "O tubo foi muito introduzido",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026442,
+     "letra": "B",
+     "descricao": "O brônquio fonte direito pode estar obstruído pelo tumor ou por secreções",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026443,
+     "letra": "C",
+     "descricao": "O tubo está no lado errado",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026444,
+     "letra": "D",
+     "descricao": "O tubo não foi introduzido o suficiente",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002645,
+   "descricao": "<p>O diagnóstico do ECG abaixo é:</p><p><img src=\"data/imagens/ac213ab81b284f71.jpg\" alt=\"\"><br></p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026451,
+     "letra": "A",
+     "descricao": "marcapasso atrial",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026452,
+     "letra": "B",
+     "descricao": "marcapasso atrial migratório",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026453,
+     "letra": "C",
+     "descricao": "ritmo juncional",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026454,
+     "letra": "D",
+     "descricao": "sobrecarga atrial",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20026455,
+     "letra": "E",
+     "descricao": "intoxicação digitálica",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002646,
+   "descricao": "<p>Contra-indicação ao uso de balão de contrapulsação aórtico:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026461,
+     "letra": "A",
+     "descricao": "insuficiência mitral grave",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026462,
+     "letra": "B",
+     "descricao": "choque cardiogênico com angina instável",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026463,
+     "letra": "C",
+     "descricao": "insuficiência cardíaca congestiva",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026464,
+     "letra": "D",
+     "descricao": "insuficiência aórtica grave",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20026465,
+     "letra": "E",
+     "descricao": "comunicação interventricular",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002647,
+   "descricao": "<p>Característica peculiar dos anestésicos inalatórios em crianças:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026471,
+     "letra": "A",
+     "descricao": "A CAM é mais elevada em neonatos de 3 a 6 meses",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026472,
+     "letra": "B",
+     "descricao": "Planos profundos de anestesia, como os necessários para realizar a intubação traqueal, não causam depressão cardiovascular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026473,
+     "letra": "C",
+     "descricao": "A captação dos anestésicos inalatórios é mais lenta em lactentes",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026474,
+     "letra": "D",
+     "descricao": "A captação dos anestésicos é mais lenta com o sistema Mapleson D",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002648,
+   "descricao": "<p>Fator de risco independente que aumenta o risco de pacientes pediátricos com infecção viral da via aérea superior recente (menos de 4 semanas) apresentarem morbidade respiratória no perioperatório e pós-operatório, sendo indicada suspensão da cirurgia eletiva:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026481,
+     "letra": "A",
+     "descricao": "estrabismo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026482,
+     "letra": "B",
+     "descricao": "fenda palatina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026483,
+     "letra": "C",
+     "descricao": "catarata congênita",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026484,
+     "letra": "D",
+     "descricao": "pais fumantes",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20026485,
+     "letra": "E",
+     "descricao": "hipertrofia de amígdalas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002649,
+   "descricao": "<p>Agentes anestésicos deletérios em neurocirurgia, em vigência de eventos isquêmicos:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026491,
+     "letra": "A",
+     "descricao": "Propofol e isoflurano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026492,
+     "letra": "B",
+     "descricao": "Etomidato e N2O",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026493,
+     "letra": "C",
+     "descricao": "Sevoflurano e isoflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026494,
+     "letra": "D",
+     "descricao": "Tiopental e remifentanil",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002650,
+   "descricao": "<p>O método mais sensível para detecção de embolia aérea gasosa no perioperatório é:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026501,
+     "letra": "A",
+     "descricao": "doppler precordial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026502,
+     "letra": "B",
+     "descricao": "capnografia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026503,
+     "letra": "C",
+     "descricao": "cateter em artéria pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026504,
+     "letra": "D",
+     "descricao": "ecocardiografia transesofágica",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20026505,
+     "letra": "E",
+     "descricao": "espectrometria de massa",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002651,
+   "descricao": "<p>Constitui profilaxia farmacol&oacute;gica para redu&ccedil;&atilde;o da mortalidade cardiovascular ap&oacute;s cirurgia vascular, com recomenda&ccedil;&atilde;o classe I:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026511,
+     "letra": "A",
+     "descricao": "Clonidina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026512,
+     "letra": "B",
+     "descricao": "Estatinas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026513,
+     "letra": "C",
+     "descricao": "Captopril",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026514,
+     "letra": "D",
+     "descricao": "Nitroglicerina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002652,
+   "descricao": "<p>Quando se dispõe de um ventilador dotado apenas de controles indiretos, quais os valores de pressão (P) e fluxo (F) que deverão ser usados ao se ventilar um paciente com complacência toracopulmonar de 50 mL.cmH2O-1, volume corrente (V) de 700 mL, relação entre o tempo inspiratório e o expiratório (I:E) de 1:2 e freqüência (f) de 10 irpm?</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026521,
+     "letra": "A",
+     "descricao": "P = 35 cmH2O e F = 21 L.min-1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026522,
+     "letra": "B",
+     "descricao": "I = 4 s e F = 7 L.min-1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026523,
+     "letra": "C",
+     "descricao": "P = 14 cmH2O e F = 7 L.min-1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026524,
+     "letra": "D",
+     "descricao": "P = 14 cmH2O e F = 21 L.min-1",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002653,
+   "descricao": "<p>Durante a realização de angiografia cerebral, a manobra que melhora a qualidade do angiograma é:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026531,
+     "letra": "A",
+     "descricao": "Elevação da pressão arterial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026532,
+     "letra": "B",
+     "descricao": "Posição de cefalodeclive",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026533,
+     "letra": "C",
+     "descricao": "Administração de cetamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026534,
+     "letra": "D",
+     "descricao": "Indução de hipocapnia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002654,
+   "descricao": "<p>Em relação ao delirium pós-operatório, pode-se afirmar que:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026541,
+     "letra": "A",
+     "descricao": "pode ser desencadeado por situações de estresse, hipóxia e sangramento intra-operatório",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026542,
+     "letra": "B",
+     "descricao": "não existe relação de incidência de delirium pós-operatório com tipos específicos de procedimentos cirúrgicos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026543,
+     "letra": "C",
+     "descricao": "a anestesia geral é um fator de risco independente de delirium pós-operatório",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026544,
+     "letra": "D",
+     "descricao": "a atropina é o fármaco de escolha para tratar delirium pós-operatório, pois o aumento da dose não é acompanhado de efeitos adversos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002655,
+   "descricao": "<p>Pode desencadear hipertermia maligna:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026551,
+     "letra": "A",
+     "descricao": "vecurônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026552,
+     "letra": "B",
+     "descricao": "dantrolene",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026553,
+     "letra": "C",
+     "descricao": "desflurano",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026554,
+     "letra": "D",
+     "descricao": "óxido nitroso",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20026555,
+     "letra": "E",
+     "descricao": "ropivacaína",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002656,
+   "descricao": "<p>Qual das opções contém condição que pode se apresentar clinicamente como choque distributivo?</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026561,
+     "letra": "A",
+     "descricao": "Reação anafilática",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026562,
+     "letra": "B",
+     "descricao": "Falência da bomba cardíaca",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026563,
+     "letra": "C",
+     "descricao": "Hemorragia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026564,
+     "letra": "D",
+     "descricao": "Tromboembolismo pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002657,
+   "descricao": "<p>Choque caracterizado por elevação da pressão venosa central e redução da pressão de oclusão da artéria pulmonar:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026571,
+     "letra": "A",
+     "descricao": "Obstrutivo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026572,
+     "letra": "B",
+     "descricao": "Distributivo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026573,
+     "letra": "C",
+     "descricao": "Cardiogênico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026574,
+     "letra": "D",
+     "descricao": "Hemorrágico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002658,
+   "descricao": "<p>Situação em que pode ser benéfico o uso da hipotensão controlada:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026581,
+     "letra": "A",
+     "descricao": "Portadores de doença vascular aterosclerótica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026582,
+     "letra": "B",
+     "descricao": "Portadores de anemia grave",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026583,
+     "letra": "C",
+     "descricao": "Portadores de insuficiência renal ou hepática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026584,
+     "letra": "D",
+     "descricao": "Cirurgia para clipagem de aneurisma cerebral",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002659,
+   "descricao": "<p>Em relação à termorregulação normal pode-se afirmar que o(a):</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026591,
+     "letra": "A",
+     "descricao": "Principal local de regulação da temperatura é o locus ceruleus",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026592,
+     "letra": "B",
+     "descricao": "Informação térmica é obtida pelas células sensíveis ao frio e transmitida ao cérebro por fibras C mielinizadas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026593,
+     "letra": "C",
+     "descricao": "Vasoconstrição cutânea é a resposta termorreguladora mais importante à hipotermia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026594,
+     "letra": "D",
+     "descricao": "Informação térmica por células sensíveis ao calor é transmitida ao cérebro por fibras Aδ",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002660,
+   "descricao": "<p>O “fast tracking” em anestesia ambulatorial refere-se à alta do paciente da Sala de Operação (SO) para a(o):</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026601,
+     "letra": "A",
+     "descricao": "Recuperação Pós-Anestésica (RPA) nível I",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026602,
+     "letra": "B",
+     "descricao": "RPA nível II",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026603,
+     "letra": "C",
+     "descricao": "Casa, após aguardar trinta minutos na SO",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026604,
+     "letra": "D",
+     "descricao": "Quarto de curta permanência, onde aguardará seis horas até a alta domiciliar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002661,
+   "descricao": "<p>Cuidado a ser observado durante realização de anestesia para ressonância magnética:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026611,
+     "letra": "A",
+     "descricao": "evitar sobra de fios e cabos dos monitores, mantendo-os adequadamente enrolados",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026612,
+     "letra": "B",
+     "descricao": "uso de Equipamento de Proteção Individual (EPI) auditivo",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026613,
+     "letra": "C",
+     "descricao": "uso de EPI contra campos magnéticos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026614,
+     "letra": "D",
+     "descricao": "uso de imã sobre marcapasso, antes da entrada do paciente na sala de ressonância magnética",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002662,
+   "descricao": "<p><b>QUESTÃO ATUALIZADA</b></p><p>Nas lesões iatrogênicas dos nervos periféricos o(a):</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026621,
+     "letra": "A",
+     "descricao": "nervo radial é o mais freqüentemente acometido pelo uso inadequado do garroteamento",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026622,
+     "letra": "B",
+     "descricao": "nervo ulnar é o mais freqüentemente acometido, ocasionando lesão tipo “mão simiesca” (paralisia dos flexores dos 2º e 3º quirodáctilos)",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026623,
+     "letra": "C",
+     "descricao": "lesão típica do nervo mediano é a “mão em gota” (punho fletido quando em posição prona)",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026624,
+     "letra": "D",
+     "descricao": "lesão típica do nervo radial é a “mão em garra”",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002663,
+   "descricao": "<p>Alternativa para prevenir o aparecimento de delirium pós-operatório, secundário à reversão do bloqueio neuromuscular:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026631,
+     "letra": "A",
+     "descricao": "glicopirrolato",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026632,
+     "letra": "B",
+     "descricao": "piridostigmina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026633,
+     "letra": "C",
+     "descricao": "escopolamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026634,
+     "letra": "D",
+     "descricao": "droperidol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002664,
+   "descricao": "<p>Diminui a mortalidade dos pacientes críticos com SARA, em terapia intensiva:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026641,
+     "letra": "A",
+     "descricao": "Monitorização invasiva",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026642,
+     "letra": "B",
+     "descricao": "Altas doses de corticóide e uso precoce de proteína C ativada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026643,
+     "letra": "C",
+     "descricao": "Ajuste da glicemia entre 180 e 200 mg.dL-1, em todos pacientes com sepse",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026644,
+     "letra": "D",
+     "descricao": "Ventilação mecânica com volume corrente  6 mL.kg-1 e pressão de platô  30 cmH2O",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002665,
+   "descricao": "<p>Na Ventilação com Pressão Controlada (PCV), é correto afirmar que o:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026651,
+     "letra": "A",
+     "descricao": "Fluxo (Q) é constante e o volume corrente (VC) é variável",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026652,
+     "letra": "B",
+     "descricao": "Tempo inspiratório varia com o fluxo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026653,
+     "letra": "C",
+     "descricao": "VC depende apenas do Q",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026654,
+     "letra": "D",
+     "descricao": "Q é descendente e o VC é variável",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002666,
+   "descricao": "<p>Mecanismo de ciclagem (início de novo ciclo inspiratório) ventilatória que é mais sensível:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026661,
+     "letra": "A",
+     "descricao": "pressão",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026662,
+     "letra": "B",
+     "descricao": "tempo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026663,
+     "letra": "C",
+     "descricao": "espontâneo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026664,
+     "letra": "D",
+     "descricao": "fluxo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002667,
+   "descricao": "<p>Íon que apresenta papel antagônico aos processos de transmissão e sensibilização central à dor:<br></p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026671,
+     "letra": "A",
+     "descricao": "Ca++",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026672,
+     "letra": "B",
+     "descricao": "H+",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026673,
+     "letra": "C",
+     "descricao": "K+",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026674,
+     "letra": "D",
+     "descricao": "Mg++",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20026675,
+     "letra": "E",
+     "descricao": "Na+",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002668,
+   "descricao": "<p>Qual dos crit&eacute;rios abaixo &eacute; aceito para escolha do paciente com morte encef&aacute;lica como doador cad&aacute;ver ideal para transplante de pulm&atilde;o?</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026681,
+     "letra": "A",
+     "descricao": "Idade < 65 anos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026682,
+     "letra": "B",
+     "descricao": "Presença de contusão pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026683,
+     "letra": "C",
+     "descricao": "Tabagismo inferior a 20 maços-ano",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026684,
+     "letra": "D",
+     "descricao": "PaO2/FIO2 = 200, na presença de PEEP de 5 cmH2O",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002669,
+   "descricao": "<p>Deve ser evitado(a) no transplante pancreático, por ser mecanismo importante de lesão das células beta-pancreáticas, recém-transplantadas:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026691,
+     "letra": "A",
+     "descricao": "hipernatremia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026692,
+     "letra": "B",
+     "descricao": "hipocapnia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026693,
+     "letra": "C",
+     "descricao": "hiperglicemia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026694,
+     "letra": "D",
+     "descricao": "hiponatremia",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20026695,
+     "letra": "E",
+     "descricao": "hiperpotassemia",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002670,
+   "descricao": "<p>Classificação de Hunt-Hess para paciente com hemorragia subaracnóidea, apresentando déficit motor leve:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026701,
+     "letra": "A",
+     "descricao": "I",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026702,
+     "letra": "B",
+     "descricao": "II",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026703,
+     "letra": "C",
+     "descricao": "III",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20026704,
+     "letra": "D",
+     "descricao": "IV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002671,
+   "descricao": "<p>Criança de 5 anos submetida à intubação orotraqueal para realização de adenoamigdalectomia apresenta redução da saturação de oxigênio ao oxímetro de pulso e sibilos, em algum momento do ato anestésico. É(são) causa(s) possível(is): </p><p>1- broncoespamo </p><p>2- atelectasia </p><p>3- intubação seletiva </p><p>4- edema agudo de pulmão</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026711,
+     "letra": "A",
+     "descricao": "V,V,V,F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026712,
+     "letra": "B",
+     "descricao": "V,F,V,F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026713,
+     "letra": "C",
+     "descricao": "F,V,F,V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026714,
+     "letra": "D",
+     "descricao": "V,V,V,V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002672,
+   "descricao": "<p>Mistura(s) gasosa(s) de manutenção adequada(s) à cirurgia de laringe com utilização de laser: </p><p>1- Ar e oxigênio</p><p>2- Óxido nitroso e oxigênio </p><p>3- Hélio e oxigênio </p><p>4- Ar e hélio</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026721,
+     "letra": "A",
+     "descricao": "1, 2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026722,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026723,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026724,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20026725,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002673,
+   "descricao": "<p>Para a cirurgia de correção de ptose palpebral é necessário o bloqueio dos seguintes nervos periféricos: </p><p>1- Supraorbitário </p><p>2- Infraorbitário </p><p>3- Supratroclear </p><p>4- Zigomático</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026731,
+     "letra": "A",
+     "descricao": "V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026732,
+     "letra": "B",
+     "descricao": "V F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026733,
+     "letra": "C",
+     "descricao": "V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026734,
+     "letra": "D",
+     "descricao": "V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002674,
+   "descricao": "<p>Assinale o correto para infiltra&ccedil;&atilde;o tumescente em lipoaspira&ccedil;&atilde;o:</p> <p>1- Utiliza grandes volumes de solu&ccedil;&atilde;o fisiol&oacute;gica contendo lidoca&iacute;na e adrenalina, extremamente dilu&iacute;das</p> <p>2- A perfus&atilde;o tecidual diminu&iacute;da altera a farmacocin&eacute;tica da lidoca&iacute;na</p> <p>3- A dose m&aacute;xima de lidoca&iacute;na est&aacute; aumentada v&aacute;rias vezes em rela&ccedil;&atilde;o &agrave; recomendada em infiltra&ccedil;&atilde;o convencional</p> <p>4- Provoca hipotens&atilde;o arterial e bradicardia acentuada</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026741,
+     "letra": "A",
+     "descricao": "1, 2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026742,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026743,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026744,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002675,
+   "descricao": "<p><b>Questão Adaptada</b></p><p>Piora a fraqueza muscular dos pacientes portadores de Miastenia Gravis:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026751,
+     "letra": "A",
+     "descricao": "Timectomia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026752,
+     "letra": "B",
+     "descricao": "Azatioprina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026753,
+     "letra": "C",
+     "descricao": "Plasmaférese",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026754,
+     "letra": "D",
+     "descricao": "Sulfato de Magnésio",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002676,
+   "descricao": "<p>Com relação à monitoração hemodinâmica durante a cirurgia cardíaca é correto afirmar: </p><p>1- a pressão da artéria pulmonar tem valor preditivo de uma boa função ventricular </p><p>2- o eletrocardiograma, nas derivações DI e DII, é o padrão de monitorização de fenômenos isquêmicos no peroperatório </p><p>3- as variações de motilidade de parede ventricular no ecocardiograma transesofágico precedem as alterações do segmento ST no eletrocardiograma </p><p>4- o duplo produto é um índice sensível de isquemia transoperatória</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026761,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026762,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20026763,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026764,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20026765,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002677,
+   "descricao": "<p>Afirmativa(s) correta(s) sobre a hipoxemia em pediatria:</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026771,
+     "letra": "A",
+     "descricao": "no neonato, hipercarbia e anestésicos são causas de reversão da circulação do tipo adulto para o tipo fetal, levando à hipoxemia grave",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026772,
+     "letra": "B",
+     "descricao": "o tórax do infante é pouco complacente, levando ao fechamento precoce dos alvéolos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026773,
+     "letra": "C",
+     "descricao": "o miocárdio do neonato tem um retículo sarcoplasmático imaturo, tornando-o mais resistente aos efeitos depressores de anestésicos inalatórios potentes",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026774,
+     "letra": "D",
+     "descricao": "O diafragma e os músculos intercostais da criança somente vão apresentar configuração semelhante ao adulto por volta dos 10 anos, quando estarão menos sujeitos à fadiga muscular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002678,
+   "descricao": "<p>No lactente é correto afirmar que o(a):</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026781,
+     "letra": "A",
+     "descricao": "Capacidade pulmonar total (ml.kg-1) é maior que a do adulto",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026782,
+     "letra": "B",
+     "descricao": "Frequência respiratória é menor que a do adulto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026783,
+     "letra": "C",
+     "descricao": "Consumo de oxigênio (ml.kg-1.min-1) é menor do que no adulto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026784,
+     "letra": "D",
+     "descricao": "Capacidade de oclusão é maior do que a capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002679,
+   "descricao": "<p>Indicações para monitorização dos potenciais evocados visuais: </p><p>1- hipofisectomia </p><p>2- excisão de lesões retro-orbitárias </p><p>3- lesões do córtex occipital </p><p>4- clipagem de aneurisma basilar</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026791,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20026792,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026793,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026794,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002680,
+   "descricao": "<p><b>Questão atualizada</b> São candidatos à anestesia ambulatorial: </p><p>1- Paciente obeso mórbido </p><p>2- Paciente com 70 anos de idade </p><p>3- Pré-escolar com antecedente familiar de hipertermia maligna </p><p>4- Ex-prematuro, atualmente com 7 meses de idade e exames laboratoriais normais</p>",
+   "ano": "2006",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20026801,
+     "letra": "A",
+     "descricao": "1, 2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20026802,
+     "letra": "B",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20026803,
+     "letra": "C",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20026804,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

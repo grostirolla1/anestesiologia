@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-1-2026",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 1ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003444,
+   "descricao": "<p>Durante laparotomia por trauma hepático grave, um paciente apresenta ETCO₂ progressivamente decrescente (32 → 24 → 18 mmHg), sem alterações ventilatórias. Hemoglobina 8 g/dL, PAM 60 mmHg. A interpretação MAIS adequada desse achado é:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034441,
+     "letra": "A",
+     "descricao": "Hiperventilação inadvertida como principal causa da redução do ETCO₂.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034442,
+     "letra": "B",
+     "descricao": "Aumento do espaço morto fisiológico secundário à hipoperfusão sistêmica.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034443,
+     "letra": "C",
+     "descricao": "Indicação de alcalose metabólica por reposição excessiva de bicarbonato.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034444,
+     "letra": "D",
+     "descricao": "Sinal de melhora hemodinâmica iminente.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003445,
+   "descricao": "<p>Sobre a fisiologia do decúbito lateral na ventilação no paciente submetido à uma lobectomia pulmonar, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034451,
+     "letra": "A",
+     "descricao": "Nessa posição, a influência da gravidade é menor do que na posição ortostática, permitindo que o fluxo sanguíneo pulmonar se distribua de forma mais uniforme entre ambos os pulmões.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034452,
+     "letra": "B",
+     "descricao": "No paciente em decúbito lateral ventilando espontaneamente o pulmão dependente é conduzido a trabalhar na faixa superior da curva de complacência.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034453,
+     "letra": "C",
+     "descricao": "A utilização de bloqueador neuromuscular causa uma queda do mediastino no pulmão dependente levando-o a trabalhar na faixa inferior da curva de complacência.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034454,
+     "letra": "D",
+     "descricao": "No paciente em decúbito lateral sob anestesia geral com tórax aberto e o pulmão não dependente sendo operado, ocorre desvio de todo o fluxo sanguíneo para o pulmão dependente, com redução do risco de hipóxia.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003446,
+   "descricao": "<p>Um paciente de 72 anos, portador de insufici&ecirc;ncia card&iacute;aca congestiva (ICC), d&aacute; entrada no centro cir&uacute;rgico para laparotomia exploradora ap&oacute;s trauma abdominal fechado com instabilidade hemodin&acirc;mica. Assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034461,
+     "letra": "A",
+     "descricao": "O uso de vasodilatadores precoces para o manejo da ICC é a estratégia preferencial neste paciente para evitar a sobrecarga de volume.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034462,
+     "letra": "B",
+     "descricao": "A administração de concentrados de complexo protrombínico (PCC) é contraindicada em pacientes com insuficiência cardíaca, pois apresenta baixa carga volumétrica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034463,
+     "letra": "C",
+     "descricao": "A monitorização da Pressão Venosa Central (PVC) tem alta acurácia para guiar a responsividade a fluidos neste perfil de paciente.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034464,
+     "letra": "D",
+     "descricao": "A transfusão sanguínea está associada à Sobrecarga Circulatória (TACO), uma complicação que ocorre tipicamente dentro de 6 horas após a transfusão, sendo a ICC fator de risco para tal evento.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003447,
+   "descricao": "<p>Em relação às alterações fisiopatológicas e ao manejo anestésico do paciente grande queimado:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034471,
+     "letra": "A",
+     "descricao": "A resposta hipermetabólica do grande queimado reduz o clearance hepático dos anestésicos intravenosos, indicando redução das doses de indução.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034472,
+     "letra": "B",
+     "descricao": "A fase inicial do choque no grande queimado caracteriza-se por estado hiperdinâmico, aumento do débito cardíaco e intenso catabolismo proteico.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034473,
+     "letra": "C",
+     "descricao": "Após 24–48 horas da queimadura extensa, deve-se evitar a succinilcolina e reduzir a dose dos bloqueadores neuromusculares adespolarizantes.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034474,
+     "letra": "D",
+     "descricao": "A lesão inalatória associa-se a aumento da resistência das vias aéreas e comprometimento da oxigenação.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003448,
+   "descricao": "<p>Os valores estimados, para o p&oacute;s-operat&oacute;rio, do volume expirado for&ccedil;ado no primeiro segundo (VEF₁ppo) e da capacidade de difus&atilde;o do mon&oacute;xido de carbono (DLcoppo) s&atilde;o os melhores preditores para a estimativa de complica&ccedil;&otilde;es nas cirurgias de ressec&ccedil;&atilde;o pulmonar. Assim os valores que indicam aumento da mortalidade s&atilde;o:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034481,
+     "letra": "A",
+     "descricao": "FEV₁ppo ou DLcoppo > 40 %",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034482,
+     "letra": "B",
+     "descricao": "FEV₁ppo ou DLcoppo < 40%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034483,
+     "letra": "C",
+     "descricao": "FEV₁ppo ou DLcoppo < 20%",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034484,
+     "letra": "D",
+     "descricao": "FEV₁ppo ou DLcoppo < 30 %",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003449,
+   "descricao": "<p>Uma paciente de 42 anos, submetida a uma lipoabdominoplastia com 6 horas de duração, é admitida na sala de recuperação pós-anestésica (SRPA). Durante a avaliação inicial, ela apresenta tremores intensos, generalizados e incontroláveis. A monitorização mostra frequência cardíaca de 130 bpm, pressão arterial de 155/90 mmHg e a gasometria arterial revela acidose metabólica com aumento do lactato. Qual a interpretação mais adequada para este quadro clínico?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034491,
+     "letra": "A",
+     "descricao": "O quadro representa uma síndrome autonômica que eleva o consumo de oxigênio, a produção de CO₂ e lactato.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034492,
+     "letra": "B",
+     "descricao": "Os tremores são uma resposta muscular voluntária e benigna à sensação de frio sem impacto sistêmico relevante.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034493,
+     "letra": "C",
+     "descricao": "A acidose metabólica observada é a causa primária dos tremores, por meio da irritação direta das terminações nervosas musculares.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034494,
+     "letra": "D",
+     "descricao": "Trata-se de uma reação de abstinência a opioides, comum em procedimentos com analgesia multimodal e despertar rápido.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003450,
+   "descricao": "<p>Sobre a crise tireotóxica, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034501,
+     "letra": "A",
+     "descricao": "Taquicardia, diminuição da pressão sistólica e aumento da resistência vascular sistêmica são algumas das manifestações cardiovascular.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034502,
+     "letra": "B",
+     "descricao": "Embora a amiodarona tenha Iodo em sua composição química, seu uso não está relacionado com o surgimento de uma crise tireotóxica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034503,
+     "letra": "C",
+     "descricao": "O Iodo inorgânico reduz tamanho e a vascularização da tireoide e deve ser iniciado antes dos fármacos antitireoidanos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034504,
+     "letra": "D",
+     "descricao": "A dexametasona pode ser utilizada no manejo da tireotóxica pois reduz a secreção dos hormônios tireoidanos.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003451,
+   "descricao": "<p>Na administra&ccedil;&atilde;o de insulina regular endovenosa no intra-operat&oacute;rio devemos considerar:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034511,
+     "letra": "A",
+     "descricao": "Iniciar quando a glicemia estiver acima de 200mg/dL.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034512,
+     "letra": "B",
+     "descricao": "Cada unidade de insulina diminui a glicemia em torno de 36-50mg/dL.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034513,
+     "letra": "C",
+     "descricao": "A duração da insulina regular endovenosa é de 1-2 horas.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034514,
+     "letra": "D",
+     "descricao": "A glicemia deve ser mantida em 80 mg/dL.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003452,
+   "descricao": "<p>Paciente de 72 anos, portador de DPOC fenótipo bronquite crônica, apresenta gasometria arterial com PaCO₂ = 62 mmHg, PaO₂ = 58 mmHg e HCO₃⁻ = 34 mEq/L. Será submetido à toracotomia. Sobre o controle ventilatório nesse paciente, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034521,
+     "letra": "A",
+     "descricao": "A hipercapnia crônica provoca acidificação persistente do líquor, mantendo estímulo contínuo dos quimiorreceptores centrais.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034522,
+     "letra": "B",
+     "descricao": "O controle ventilatório torna-se predominantemente dependente das variações da PaCO₂ arterial.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034523,
+     "letra": "C",
+     "descricao": "A administração de oxigênio suplementar aumenta a ventilação alveolar por estimular os quimiorreceptores periféricos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034524,
+     "letra": "D",
+     "descricao": "O aumento compensatório do bicarbonato no líquor contribui para redução da resposta ventilatória ao CO₂.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003453,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a t&eacute;cnica de intuba&ccedil;&atilde;o traqueal ilustrada (Puricelli), qual a sua vantagem ergon&ocirc;mica em rela&ccedil;&atilde;o a t&eacute;cnica submentoniana?</p> <p><img src=\"data/imagens/60f6042f6878cd4f.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034531,
+     "letra": "A",
+     "descricao": "A técnica submentoniana com exteriorização do tubo pela linha média facilita a estabilização da coluna cervical e o acesso à glote.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034532,
+     "letra": "B",
+     "descricao": "A técnica de Puricelli proporciona um grande campo para manipulações cirúrgicas, facilita os movimentos mandibulares e deslocamentos da cabeça.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034533,
+     "letra": "C",
+     "descricao": "O trajeto submandibular permite que o tubo permaneça conectado ao sistema de ventilação durante toda a manobra de transposição cutânea.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034534,
+     "letra": "D",
+     "descricao": "O posicionamento do tubo no assoalho bucal dispensa o uso de tubos aramados, permitindo o uso de tubos convencionais sem risco de obstrução.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003454,
+   "descricao": "<p>Sobre a resposta neuroendócrina ao estresse cirúrgico, anestesia e doença crítica, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034541,
+     "letra": "A",
+     "descricao": "Durante a fase aguda da doença crítica, ocorre falência primária hipofisária, levando à redução global dos hormônios tróficos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034542,
+     "letra": "B",
+     "descricao": "Os níveis elevados de catecolaminas no trauma e na doença crítica contribuem para a hiperglicemia principalmente por aumentar a captação periférica de glicose pelos tecidos.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034543,
+     "letra": "C",
+     "descricao": "A indução anestésica reduz os níveis circulantes de catecolaminas, contribuindo para a supressão da resposta metabólica ao estresse.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034544,
+     "letra": "D",
+     "descricao": "A liberação de β-endorfina durante o estresse está relacionada à clivagem do precursor do ACTH e contribui para a modulação central da dor.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003455,
+   "descricao": "<p>Durante a realização de uma lipoaspiração utilizando a técnica tumescente, a segurança do procedimento depende do manejo correto da solução infiltrada e do conhecimento da farmacocinética dos anestésicos locais. Quando houver infiltração tumescente:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034551,
+     "letra": "A",
+     "descricao": "A técnica tumescente permite aumentar a dose de lidocaína para valores entre 35 mg/kg e 40 mg/kg.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034552,
+     "letra": "B",
+     "descricao": "A dose de adrenalina na técnica tumescente é 1:1.000, ou seja, 0,25 – 1,5 mg/mL⁻¹.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034553,
+     "letra": "C",
+     "descricao": "O pico de concentração plasmática da lidocaína ocorre imediatamente após a infiltração, exigindo vigilância rigorosa nos primeiros 15 minutos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034554,
+     "letra": "D",
+     "descricao": "A bupivacaína é o anestésico de escolha para a solução tumescente devido ao seu longo tempo de ação e baixo potencial de cardiotoxidade.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003456,
+   "descricao": "<p>De acordo com as diretrizes para avaliação pré-anestésica em procedimentos odontológicos, qual é a conduta recomendada em relação ao uso de bifosfonatos no período perioperatório?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034561,
+     "letra": "A",
+     "descricao": "Esses medicamentos devem ser suspensos pelo menos quatro semanas antes do procedimento eletivo, seguindo o mesmo protocolo de suspensão recomendado para o tabagismo.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034562,
+     "letra": "B",
+     "descricao": "O anestesiologista deve alertar sobre riscos de lesão gengival por manipulação local e luxações dentárias durante a intubação, e a manutenção do uso deve ser orientada pelo médico assistente caso a caso.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034563,
+     "letra": "C",
+     "descricao": "O uso de bifosfonatos é contraindicado apenas em procedimentos de grande porte, sendo permitida a manutenção da medicação em cirurgias de pequeno e médio porte sem restrições.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034564,
+     "letra": "D",
+     "descricao": "Como os bifosfonatos atuam inibindo a reabsorção óssea, sua suspensão pré-operatória aumenta o risco de osteonecrose dos maxilares associada ao procedimento cirúrgico.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003457,
+   "descricao": "<p>Um homem de 47 anos, etilista crônico pesado, foi submetido a osteossíntese de fratura de fêmur sob raquianestesia e sedação intermitente com diazepam e fentanil, sem intercorrências intraoperatórias. Na sala de recuperação pós-anestésica, passa a apresentar tremores intensos, sudorese profusa, taquicardia, hipertensão arterial e agitação psicomotora, sem evidências de dor, hipoxemia, hipercapnia ou distúrbios metabólicos agudos. A equipe descartou outros diagnósticos e suspeita de abstinência alcoólica em evolução. Considerando a interação com agentes anestésicos e a conduta imediata, assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034571,
+     "letra": "A",
+     "descricao": "A administração de flumazenil é indicada para reverter o quadro de agitação e instabilidade autonômica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034572,
+     "letra": "B",
+     "descricao": "A infusão de naloxona é a primeira medida para controle da taquicardia e da hipertensão.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034573,
+     "letra": "C",
+     "descricao": "A utilização de propofol é a principal estratégia para prevenção de convulsões.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034574,
+     "letra": "D",
+     "descricao": "A titulação de benzodiazepínico é a medida inicial mais adequada para controle dos sintomas.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003458,
+   "descricao": "<p>Com relação ao manejo da via aérea em pacientes com trauma facial grave, assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034581,
+     "letra": "A",
+     "descricao": "No pós-operatório imediato, a presença de vazamento de ar após desinsuflar o balonete do tubo traqueal garante que a via aérea estará patente após a extubação.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034582,
+     "letra": "B",
+     "descricao": "A traqueostomia é a opção de escolha nestes pacientes por permitir a oclusão dentária no período intraoperatório.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034583,
+     "letra": "C",
+     "descricao": "A intubação nasotraqueal é indicada em fraturas do terço médio da face, incluindo os tipos Le-Fort II e III, por facilitar o acesso cirúrgico.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034584,
+     "letra": "D",
+     "descricao": "O deslocamento posterior de fragmentos ósseos em fraturas da maxila ou mandíbula pode contribuir para a obstrução da via aérea.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

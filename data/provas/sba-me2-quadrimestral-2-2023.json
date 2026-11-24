@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-2-2023",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 2ª quadrimestral 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002433,
+   "descricao": "<p>Com relação à hemodinâmica glomerular:</p><p><b>A)</b>&nbsp;O&nbsp;estímulo simpático aumenta a resistência das arteríolas aferente e eferente, reduzindo a taxa de filtração glomerular.</p><p><b>B) </b>A&nbsp;adenosina diminui a resistência da arteriola aferente e eferente, aumentando a taxa de filtração glomerular.</p><p><b>C)</b> Óxido nítrico diminui a resistência das arteríolas aferente e eferente, aumentando a taxa de filtração glomerular.</p><p><b>D)</b> Anti-inflamatórios não esteroidais aumentam a resistência das arteríolas aferente e eferente, reduzindo a taxa de filtração glomerular.</p><p><b>E) </b>Antagonistas dos canais de cálcio aumentam a resistência das arteríolas aferente e eferente, diminuindo a taxa de filtração glomerular.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024331,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024332,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024333,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024334,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002434,
+   "descricao": "<p>As cirurgias urológicas robóticas e videolaparoscópicas tem peculiaridades fisiológicas e técnicas importantes que o anestesista deve saber para proporcionar melhores desfechos para o paciente. São elas:</p><p>A)&nbsp;na posição de trendelenburg, pacientes com história de refluxo têm risco aumentado de regurgitação e aspiração do conteúdo gástrico.</p><p>B)&nbsp;deve-se suspeitar de edema de laringe se houver edema conjuntival e/ou facial ao final da cirurgia.</p><p>C)&nbsp;há risco de enfisema subcutâneo se estendendo para o pescoço e cabeça.</p><p>D)&nbsp;aumento do débito cardíaco por diminuição da resistência sistêmica.</p><p>E)&nbsp;cirurgias prolongadas estão relacionadas à acidose importante.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024341,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024342,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024343,
+     "letra": "C",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024344,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002435,
+   "descricao": "<p>Para indicar adequadamente uma técnica anestésica regional do membro superior, deve-se conhecer a anatomia, a inervação da região a ser operada e as diversas técnicas de bloqueio do plexo braquial. Com base nisso, julgue os itens: </p><p>A) Hipotensão grave e bradicardia podem ocorrer em pacientes acordados e sentados submetidos à cirurgia do ombro sob bloqueio interescalênico.</p><p>B) A prevalência de pneumotórax após bloqueio supraclavicular é de 0,5% a 6%. Quando essa complicação ocorre, o início dos sintomas geralmente é tardio, podendo levar até 24 horas para se desenvolver.</p><p>C) São vantagens do bloqueio infraclavicular: geralmente resulta em anestesia completa do plexo braquial distal à injeção, é um local estável para um cateter e nenhuma manipulação do braço é necessária.</p><p>D) Na visualização ultrassonográfica, a redução do diâmetro da artéria axilar durante a injeção de anestésico é um dos indicativos de sucesso no bloqueio infraclavicular.</p><p>E) A tolerância ao torniquete é menor no bloqueio axilar se comparado ao bloqueio infraclavicular.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024351,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024352,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024353,
+     "letra": "C",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024354,
+     "letra": "D",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002436,
+   "descricao": "<p>Para a realização do bloqueio do nervo safeno no canal dos adutores, é importante conhecer a anatomia da região. A respeito da anatomia mostrada na imagem:</p><p><img src=\"data/imagens/9a977b3e0ed3a9ce.jpg\" alt=\"\"><br></p><p>A) O músculo com legenda \"A\" é o Sartorio.&nbsp;</p><p>B) O músculo destacado com a legenda \"B\" é o vasto medial.&nbsp;</p><p>C) O músculo destacado como \"C\" é o adutor magno.&nbsp;</p><p>D) Na imagem, o nervo encontra-se à direita da artéria.&nbsp;</p><p>E) A artéria usada como referência para este bloqueio é a artéria femoral.&nbsp;</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024361,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024362,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024363,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024364,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002437,
+   "descricao": "<p>Com relação ao equilíbrio hidroeletrolítico e ácidobásico. </p><p><b>A)</b> A diferença do cálculo do ânion gap é representada pelos cátions não mensuráveis, que pode ser exógeno ou endógeno.</p><p><b>B)</b> Hiponatremia no paciente com insuficiência cardíaca congestiva caracteriza-se por osmolalidade sérica baixa, hipervolemia, água corporal total aumentada, sódio corporal total aumentado e sódio urinário baixo.</p><p><b>C) </b>A hipercarbia aguda gera aumento lento do bicarbonato sérico.</p><p><b>D)</b> Na disóxia, disfunção hepática e, em particular, nos estados de estresse graves, lactato é produzido, aumentando diferença de ânions fortes e causando acidose.</p><p><b>E)</b> O ECG a seguir pode ser explicado por hipocalcemia.</p><p><figure><svg viewBox=\"0 0 680 200\" fill=\"none\"><title>Eletrocardiograma, derivação D2 longo: ritmo regular com segmento ST longo e isoelétrico, onda T de morfologia normal e intervalo QT prolongado</title><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"8\" y1=\"0\" x2=\"8\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"16\" y1=\"0\" x2=\"16\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"24\" y1=\"0\" x2=\"24\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"32\" y1=\"0\" x2=\"32\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"40\" y1=\"0\" x2=\"40\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"48\" y1=\"0\" x2=\"48\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"56\" y1=\"0\" x2=\"56\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"64\" y1=\"0\" x2=\"64\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"72\" y1=\"0\" x2=\"72\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"80\" y1=\"0\" x2=\"80\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"88\" y1=\"0\" x2=\"88\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"96\" y1=\"0\" x2=\"96\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"104\" y1=\"0\" x2=\"104\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"112\" y1=\"0\" x2=\"112\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"120\" y1=\"0\" x2=\"120\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"128\" y1=\"0\" x2=\"128\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"136\" y1=\"0\" x2=\"136\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"144\" y1=\"0\" x2=\"144\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"152\" y1=\"0\" x2=\"152\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"160\" y1=\"0\" x2=\"160\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"168\" y1=\"0\" x2=\"168\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"176\" y1=\"0\" x2=\"176\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"184\" y1=\"0\" x2=\"184\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"192\" y1=\"0\" x2=\"192\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"200\" y1=\"0\" x2=\"200\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"208\" y1=\"0\" x2=\"208\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"216\" y1=\"0\" x2=\"216\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"224\" y1=\"0\" x2=\"224\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"232\" y1=\"0\" x2=\"232\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"240\" y1=\"0\" x2=\"240\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"248\" y1=\"0\" x2=\"248\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"256\" y1=\"0\" x2=\"256\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"264\" y1=\"0\" x2=\"264\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"272\" y1=\"0\" x2=\"272\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"280\" y1=\"0\" x2=\"280\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"288\" y1=\"0\" x2=\"288\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"296\" y1=\"0\" x2=\"296\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"304\" y1=\"0\" x2=\"304\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"312\" y1=\"0\" x2=\"312\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"320\" y1=\"0\" x2=\"320\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"328\" y1=\"0\" x2=\"328\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"336\" y1=\"0\" x2=\"336\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"344\" y1=\"0\" x2=\"344\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"352\" y1=\"0\" x2=\"352\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"360\" y1=\"0\" x2=\"360\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"368\" y1=\"0\" x2=\"368\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"376\" y1=\"0\" x2=\"376\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"384\" y1=\"0\" x2=\"384\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"392\" y1=\"0\" x2=\"392\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"400\" y1=\"0\" x2=\"400\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"408\" y1=\"0\" x2=\"408\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"416\" y1=\"0\" x2=\"416\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"424\" y1=\"0\" x2=\"424\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"432\" y1=\"0\" x2=\"432\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"440\" y1=\"0\" x2=\"440\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"448\" y1=\"0\" x2=\"448\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"456\" y1=\"0\" x2=\"456\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"464\" y1=\"0\" x2=\"464\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"472\" y1=\"0\" x2=\"472\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"480\" y1=\"0\" x2=\"480\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"488\" y1=\"0\" x2=\"488\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"496\" y1=\"0\" x2=\"496\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"504\" y1=\"0\" x2=\"504\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"512\" y1=\"0\" x2=\"512\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"520\" y1=\"0\" x2=\"520\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"528\" y1=\"0\" x2=\"528\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"536\" y1=\"0\" x2=\"536\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"544\" y1=\"0\" x2=\"544\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"552\" y1=\"0\" x2=\"552\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"560\" y1=\"0\" x2=\"560\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"568\" y1=\"0\" x2=\"568\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"576\" y1=\"0\" x2=\"576\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"584\" y1=\"0\" x2=\"584\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"592\" y1=\"0\" x2=\"592\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"600\" y1=\"0\" x2=\"600\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"608\" y1=\"0\" x2=\"608\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"616\" y1=\"0\" x2=\"616\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"624\" y1=\"0\" x2=\"624\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"632\" y1=\"0\" x2=\"632\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"640\" y1=\"0\" x2=\"640\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"648\" y1=\"0\" x2=\"648\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"656\" y1=\"0\" x2=\"656\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"664\" y1=\"0\" x2=\"664\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"672\" y1=\"0\" x2=\"672\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"680\" y1=\"0\" x2=\"680\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"0\" x2=\"680\" y2=\"0\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"8\" x2=\"680\" y2=\"8\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"16\" x2=\"680\" y2=\"16\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"24\" x2=\"680\" y2=\"24\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"32\" x2=\"680\" y2=\"32\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"40\" x2=\"680\" y2=\"40\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"48\" x2=\"680\" y2=\"48\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"56\" x2=\"680\" y2=\"56\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"64\" x2=\"680\" y2=\"64\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"72\" x2=\"680\" y2=\"72\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"80\" x2=\"680\" y2=\"80\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"88\" x2=\"680\" y2=\"88\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"96\" x2=\"680\" y2=\"96\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"104\" x2=\"680\" y2=\"104\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"112\" x2=\"680\" y2=\"112\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"120\" x2=\"680\" y2=\"120\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"128\" x2=\"680\" y2=\"128\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"136\" x2=\"680\" y2=\"136\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"144\" x2=\"680\" y2=\"144\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"152\" x2=\"680\" y2=\"152\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"160\" x2=\"680\" y2=\"160\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><line x1=\"0\" y1=\"168\" x2=\"680\" y2=\"168\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"176\" x2=\"680\" y2=\"176\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"184\" x2=\"680\" y2=\"184\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"192\" x2=\"680\" y2=\"192\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-opacity=\"0.1\"/><line x1=\"0\" y1=\"200\" x2=\"680\" y2=\"200\" stroke=\"currentColor\" stroke-width=\"1\" stroke-opacity=\"0.25\"/><path d=\"M0,140 L30,140 Q40,126 50,140 L64,140 L68,146 L76,30 L84,150 L88,140 L142,140 Q158,104 174,140 L250,140 Q260,126 270,140 L284,140 L288,146 L296,30 L304,150 L308,140 L362,140 Q378,104 394,140 L470,140 Q480,126 490,140 L504,140 L508,146 L516,30 L524,150 L528,140 L582,140 Q598,104 614,140 L680,140\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><text x=\"10\" y=\"190\" fill=\"currentColor\" font-size=\"15\" font-weight=\"bold\">D2 longo</text></svg></figure><br></p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024371,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024372,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024373,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024374,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002438,
+   "descricao": "<p>Um paciente de 50 anos de idade, com histórico de hipertensão, diabetes e insuficiência renal crônica foi submetido a uma grande cirurgia abdominal para a remoção de um tumor maligno. Durante a cirurgia, o paciente apresentou uma perda sanguínea significativa, necessitando de uma transfusão maciça de sangue e reposição volêmica. O anestesiologista optou por usar soluções cristaloides para a reposição volêmica, incluindo ringer simples e solução de NaCl 0,9%. Sobre a reposição volêmica e a transfusão podemos afirmar que: </p><p><b>A)</b> O Ringer simples possui mais cloro do que solução de NaCl 0,9% na sua composição.</p><p><b>B)</b> Em uma situação de transfusão maciça, é importante monitorar ativamente os níveis de coagulação do paciente para evitar complicações como coagulopatia dilucional.</p><p><b>C)</b> A transfusão maciça de sangue pode levar a complicações como hipotermia, acidose metabólica e hipocalemia.</p><p><b>D)</b> A transfusão maciça tem como uma de suas definições a reposição de um volume sanguíneo total do paciente em 24 horas.</p><p><b>E)</b> O uso de coloides à base de amido está indicado na reposição volêmica de pacientes com insuficiência renal crônica devido à melhora na perfusão renal.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024381,
+     "letra": "A",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024382,
+     "letra": "B",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024383,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024384,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002439,
+   "descricao": "<p>Na monitorização perioperatória da coagulação quanto aos testes convencionais, temos que: </p><p>A) Avaliam a estabilidade do coágulo, assim como a hiperfibrinólise e a hipercoagulação.</p><p>B) O tempo de protrombina mede o tempo de formação do coágulo de fibrina quando o plasma é recalcificado e exposto a fosfolípide.</p><p>C) O tempo de tromboplastina parcial ativada possibilita a avaliação, entre outros, dos fatores de coagulação VIII, IX, XI e XIII. </p><p>D) O tempo de tromboplastina parcial ativada tem alto valor preditivo negativo para sangramento.</p><p>E) O tempo de trombina é utilizado para monitorizar terapia fibrinolítica assim como para detectar resistência à heparina.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024391,
+     "letra": "A",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024392,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024393,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024394,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

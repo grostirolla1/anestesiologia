@@ -1,0 +1,408 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-3-2019",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 3ª quadrimestral 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002478,
+   "descricao": "<p><strong>Na analgesia de parto:</strong></p> <p><strong>A)</strong> Os impulsos da dor s&atilde;o conduzidos pelas fibras aferentes do tipo B viscerais que acompanham os nervos simp&aacute;ticos.&nbsp;</p> <p><strong>B)</strong> Na primeira fase do trabalho de parto, necessita-se de bloqueio das fibras nervosas entre T10 a L1 e S2 a S4.&nbsp;</p> <p><strong>C)</strong> Os m&eacute;todos mais frequentemente escolhidos para aliviar a dor do parto s&atilde;o psicoprofilaxia, medica&ccedil;&atilde;o sist&ecirc;mica e analgesia regional.&nbsp;</p> <p><strong>D)</strong> A dor pode aumentar o fluxo sangu&iacute;neo uterino.&nbsp;</p> <p><strong>E)</strong><strong> </strong>A analgesia peridural pode converter um padr&atilde;o de trabalho anteriormente disfuncional em normal.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024781,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024782,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024783,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024784,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002479,
+   "descricao": "<p>Na anestesia para ortopedia:</p> <p>A) Os pacientes com artrite temporomandibular apresentam alta incid&ecirc;ncia de obstru&ccedil;&atilde;o de vias a&eacute;reas superiores quando em posi&ccedil;&atilde;o supina.&nbsp;</p> <p>B) As deformidades da coluna vertebral na acondroplasia, al&eacute;m de dificultarem a execu&ccedil;&atilde;o do bloqueio subaracn&oacute;ideo, podem causar isquemia medular.&nbsp;</p> <p>C) A posi&ccedil;&atilde;o em &ldquo;cadeira de praia&rdquo; diminui a incid&ecirc;ncia de les&atilde;o do plexo braquial nas cirurgias de ombro quando comparada ao dec&uacute;bito lateral.&nbsp;</p> <p>D) O bloqueio adicional do nervo intercostobraquial pode ser necess&aacute;rio para cirurgias de cotovelo quando a incis&atilde;o ascende at&eacute; a regi&atilde;o m&eacute;dio-umeral do bra&ccedil;o.&nbsp;</p> <p>E) H&aacute; risco de hipercalemia com uso de succinilcolina ap&oacute;s 12 horas do trauma medular proporcional &agrave; extens&atilde;o do d&eacute;ficit motor do paciente.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024791,
+     "letra": "A",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024792,
+     "letra": "B",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024793,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024794,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002480,
+   "descricao": "<p>As alterações fisiopatológicas do pneumoperitôneo levam a um(a): </p><p><b>A) </b>Aumento da pressão arterial por liberação de vasopressina.</p><p><b>B) </b>Depressão miocárdica, arritmias e vasodilatação periférica em caso de acidose severa por absorção de gás carbônico.</p><p><b>C) </b>Aumento da pressão intra-abdominal com atelectasias, alteração da relação ventilação/perfusão e efeito \"shunt\".</p><p><b>D) </b>Aumento do fluxo renal, da filtração glomerular e do débito urinário.</p><p><b>E) </b>Redução da pressão intracraniana e da perfusão cerebral.</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024801,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024802,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024803,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024804,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002481,
+   "descricao": "<p>Em relação a pacientes submetidos a cirurgias otorrinolaringológicas, devemos considerar que: </p><p>a) O sangramento após amigdalectomia ocorre com maior frequência dentro das 6 primeiras horas do pós-operatório.&nbsp;</p><p>b) Em um paciente com trauma de laringe, é aconselhável a utilização de broncoscópio flexível de fibra ótica com um pequeno tubo endotraqueal e que ventilações com pressão positiva podem agravar qualquer enfisema subcutâneo.&nbsp;</p><p>c) Em pacientes com estridor laríngeo, a inalação de HelioxR (hélio com oxigênio) com máscara não reinalante deve ser considerada medida puramente contemporizadora.&nbsp;</p><p>d) O óxido nitroso pode ser utilizado em cirurgias a laser de vias respiratórias porque dificulta a combustão.&nbsp;</p><p>e) Em pacientes com papilomatose por HPV, o tratamento prévio por aplicação de laser diminui o risco de laringotraqueomalacea.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024811,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024812,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024813,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024814,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002482,
+   "descricao": "<p>Na fisiologia da pressão intraocular: </p><p>a) O suprimento sanguíneo para o nervo óptico depende da diferença entre a pressão arterial média e a pressão intraocular.&nbsp;</p><p>b) Há uma redução da absorção do humor aquoso em pacientes portadores de glaucoma de ângulo aberto.&nbsp;</p><p>c) O líquido aquoso é ativamente secretado por mecanismos atrelados a bombas de sódio.&nbsp;</p><p>d) A midríase favorece a sua queda em pacientes portadores de glaucoma de ângulo fechado.&nbsp;</p><p>e) O volume do líquido aquoso é considerado um elemento fixo e imutável.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024821,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024822,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024823,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024824,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002483,
+   "descricao": "<p>Na anestesia ambulatorial: </p><p><b>A) </b>A disponibilidade de novas tecnologias tornou a história clínica e o exame físico elementos dispensáveis na avaliação pré-operatória.&nbsp;</p><p><b>B)</b> Exames laboratoriais solicitados por rotina costumam gerar resultados falso positivos ou não modificam de forma significativa as condutas médicas a serem empregadas.&nbsp;</p><p><b>C) </b>O consumo pré-operatório de carboidratos por via oral reduz a fome e o desconforto, mas aumenta a resistência à insulina no pós-operatório. o consumo pré-operatório de carboidratos por via oral reduz a fome e o desconforto, mas aumenta a resistência à insulina no pós-operatório.&nbsp;</p><p><b>D) </b>A anestesia venosa total confere resultados superiores à anestesia balanceada com inalatórios, independentemente da experiência pessoal do anestesiologista que executa o ato anestésico.&nbsp;</p><p><b>E)</b> A cefaleia pós-punção da dura mater é o principal fator limitante para o emprego da raquianestesia.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024831,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024832,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024833,
+     "letra": "C",
+     "descricao": "F V F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024834,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002484,
+   "descricao": "<p><strong>Na gestante:</strong></p> <p><strong>A)</strong> Existe maior risco de inje&ccedil;&atilde;o intravascular inadvertida de anest&eacute;sico local no espa&ccedil;o peridural, podendo causar intoxica&ccedil;&atilde;o, convuls&otilde;es e parada cardiorrespirat&oacute;ria.&nbsp;</p> <p><strong>B)</strong> H&aacute; aumento da a&ccedil;&atilde;o da colinesterase plasm&aacute;tica.&nbsp;</p> <p><strong>C)</strong> N&atilde;o h&aacute; indica&ccedil;&atilde;o de deslocar o &uacute;tero para a esquerda diante de hipotens&atilde;o supina ap&oacute;s as 20 semanas gestacionais.&nbsp;</p> <p><strong>D)</strong> A administra&ccedil;&atilde;o r&aacute;pida de ocitocina pode resultar em hipotens&atilde;o, n&aacute;useas, v&ocirc;mitos e dor precordial que podem evoluir para o colapso cardiovascular.&nbsp;</p> <p><strong>E)</strong> Portadora de cardiopatia cong&ecirc;nita, o bloqueio neuroaxial &eacute; contraindicado para a realiza&ccedil;&atilde;o de partos cesarianos.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024841,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024842,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024843,
+     "letra": "C",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024844,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002485,
+   "descricao": "<p>Na anestesia para cirurgia ortopédica: </p><p>a) Pacientes submetidos a cirurgias de grande porte são de baixo risco para desenvolver tromboembolismo venoso.&nbsp;</p><p>b) A lesão ou doença nervosa preexistente contraindica formalmente a realização de técnicas regionais.&nbsp;</p><p>c) Os pacientes podem desenvolver coagulopatia no perioperatório de cirurgia da coluna vertebral devido à fibrinólise ou diluição dos fatores de coagulação e / ou plaquetas.&nbsp;</p><p>d) Petéquias axilar e subconjuntival são classificadas como critério menor para o diagnóstico de síndrome de embolia gordurosa.&nbsp;</p><p>e) Acidose metabólica sistêmica transitória, níveis aumentados de dióxido de carbono arterial e queda da pressão arterial sistêmica podem ser esperados com a deflação do torniquete.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024851,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024852,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024853,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024854,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002486,
+   "descricao": "<p>Na cirurgia abdominal videolaparoscópica: </p><p><b>A) </b>O surgimento de hipotensão grave durante a insuflação do pneumoperitônio deve ser tratado inicialmente com droga vasoativa.</p><p><b>B) </b>A implementação de pressão expiratória final positiva ao final do pneumoperitônio não melhora a função respiratória em pacientes obesos.</p><p><b>C) </b>Bloqueios neuromusculares superficiais diminuem a absorção de gás carbônico.</p><p><b>D) </b>A hipercarbia grave decorrente da absorção do dióxido de carbono pode levar à redução do inotropismo, arritmias e vasodilatação arterial.</p><p><b>E) </b>Os fatores de risco para complicações do enfisema subcutâneo incluem tempo cirúrgico superior a 200 minutos, IMC baixo, alta pressão intraabdominal e cirurgia de fundoplicatura de Nissen.</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024861,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024862,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024863,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024864,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

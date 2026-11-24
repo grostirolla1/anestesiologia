@@ -1,0 +1,1635 @@
+{
+ "prova": {
+  "slug": "fgv-pmesp-2022",
+  "banca": "FGV",
+  "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+  "titulo": "PM-SP, 2º Tenente Médico - Anestesiologia (FGV)",
+  "cargo": "2º Tenente Médico - Anestesiologia",
+  "ano": "2022",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf",
+  "observacao": "Parte de conhecimentos específicos de anestesiologia, na ordem da prova, com o gabarito definitivo oficial. Conteúdo de terceiros: os direitos pertencem à banca; fora da licença do repositório."
+ },
+ "questoes": [
+  {
+   "id": 8004031,
+   "descricao": "<p>A Resolução CFM nº 2.174/2017 que dispõe sobre a prática anestésica é um avanço importante para a prática de anestesias no Brasil. Tomando por base a Pirâmide Normativa de Hans Kelsen, a Resolução situa-se</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040311,
+     "letra": "A",
+     "descricao": "<p>entre a Constituição Federal e as Leis Complementares.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040312,
+     "letra": "B",
+     "descricao": "<p>entre as Leis Ordinárias e as Leis Complementares.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040313,
+     "letra": "C",
+     "descricao": "<p>imediatamente abaixo das Leis Delegadas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040314,
+     "letra": "D",
+     "descricao": "<p>entre as Medidas Provisórias e as Emendas da Constituição.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040315,
+     "letra": "E",
+     "descricao": "<p>imediatamente abaixo de Decretos Legislativos.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 31,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004032,
+   "descricao": "<p>Acerca da <i>responsabilidade civil</i>, analise as afirmativas a seguir. I. O médico é considerado imprudente quando seus atos ou condutas são caracterizados pela intempestividade, precipitação, insensatez ou inconsideração. II. O médico é considerado negligente quando age com inação, indolência, inércia e passividade. III. O médico é omisso quando não observa os deveres que as circunstâncias exigem. Está correto o que se afirma em</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040321,
+     "letra": "A",
+     "descricao": "<p>I e II, apenas.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040322,
+     "letra": "B",
+     "descricao": "<p>I e III, apenas.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040323,
+     "letra": "C",
+     "descricao": "<p>II e III, apenas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040324,
+     "letra": "D",
+     "descricao": "<p>I, II e III.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040325,
+     "letra": "E",
+     "descricao": "<p>II, apenas.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 32,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004033,
+   "descricao": "<p>Conhecer a fisiopatologia da dor é fundamental para o anestesiologista, assim como saber os mecanismos de ação de analgésicos e anti-inflamatórios. No corno dorsal da medula, as alterações pós-translacionais se manifestam como sensibilização central secundária à atividade de fibras C e ao fenômeno de <i>wind up</i>. Este fenômeno de <i>wind up </i>é o resultado da remoção, no receptor NMDA, do bloqueio exercido pelo</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040331,
+     "letra": "A",
+     "descricao": "<p>magnésio.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040332,
+     "letra": "B",
+     "descricao": "<p>cálcio.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040333,
+     "letra": "C",
+     "descricao": "<p>sódio.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040334,
+     "letra": "D",
+     "descricao": "<p>potássio.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040335,
+     "letra": "E",
+     "descricao": "<p>cloro.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 33,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004034,
+   "descricao": "<p>A possibilidade de identificar fatores de risco e preditivos de complicações pulmonares pós-operatórias é importante para a adoção de estratégias para sua prevenção e redução de desfechos clínicos desfavoráveis. Assinale a opção que apresenta o fator de risco para o desenvolvimento de complicações pulmonares pós-operatórias, que deve ser pesquisado na visita pré-anestésica.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040341,
+     "letra": "A",
+     "descricao": "<p>Oximetria de pulso entre 96 e 98%.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040342,
+     "letra": "B",
+     "descricao": "<p>Aumento de peso recente.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040343,
+     "letra": "C",
+     "descricao": "<p>Albumina sérica baixa.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040344,
+     "letra": "D",
+     "descricao": "<p>Insuficiência coronariana direita.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040345,
+     "letra": "E",
+     "descricao": "<p>Paciente classificado como ASA 2.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 34,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004035,
+   "descricao": "<p>Considerando uma anestesia geral inalatória mantida com 1 CAM de sevoflurano, é correto afirmar que, ao término da anestesia, 50% dos pacientes respondem a comando quando há diminuição da concentração alveolar em</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040351,
+     "letra": "A",
+     "descricao": "<p>35%.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040352,
+     "letra": "B",
+     "descricao": "<p>45%.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040353,
+     "letra": "C",
+     "descricao": "<p>55%.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040354,
+     "letra": "D",
+     "descricao": "<p>65%.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040355,
+     "letra": "E",
+     "descricao": "<p>75%.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 35,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004036,
+   "descricao": "<p>No preparo pré-anestésico de paciente com doença renal crônica, que necessitará ser submetido a procedimento radiológico com contraste, deve ser programada, preventivamente, antes, durante e após a exposição ao mesmo, hidratação venosa com solução</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040361,
+     "letra": "A",
+     "descricao": "<p>de Hartmann.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040362,
+     "letra": "B",
+     "descricao": "<p>salina isotônica.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040363,
+     "letra": "C",
+     "descricao": "<p>salina hipertônica.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040364,
+     "letra": "D",
+     "descricao": "<p>salina hipotônica.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040365,
+     "letra": "E",
+     "descricao": "<p>solução de Ringer.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 36,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004037,
+   "descricao": "<p>A proteção de órgãos, durante a anestesia inalatória, tem sido muito estudada com a expectativa de redução na lesão celular decorrente do processo de isquemia/reperfusão. Nos últimos anos tem sido demonstrado, por meio de inúmeros estudos, as características protetoras dos anestésicos inalatórios, exercendo um efeito de pré-condicionamento anestésico. Porém, apesar destas prováveis vantagens, é sabido que todos os anestésicos inalatórios possuem um efeito arritmogênico. Em relação ao potencial arritmogênico de anestésicos inalatórios, pode-se afirmar que o que possui menor potencial arritmogênico, em qualquer momento da anestesia geral, é o</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040371,
+     "letra": "A",
+     "descricao": "<p>halotano.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040372,
+     "letra": "B",
+     "descricao": "<p>isoflurano.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040373,
+     "letra": "C",
+     "descricao": "<p>enflurano.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040374,
+     "letra": "D",
+     "descricao": "<p>sevoflurano.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040375,
+     "letra": "E",
+     "descricao": "<p>desflurano.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 37,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004038,
+   "descricao": "<p>As grandes fibras motoras, calibrosas, que saem pelas raízes ventrais da medula, percorrendo longo trajeto, ramificando-se e indo inervar as fibras musculares esqueléticas, são as do tipo</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040381,
+     "letra": "A",
+     "descricao": "<p>Aα.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040382,
+     "letra": "B",
+     "descricao": "<p>C.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040383,
+     "letra": "C",
+     "descricao": "<p>Aβ.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040384,
+     "letra": "D",
+     "descricao": "<p>D.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040385,
+     "letra": "E",
+     "descricao": "<p>Bδ.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 38,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004039,
+   "descricao": "<p>Paciente diabético, 69 anos, será submetido a cirurgia para colocação de prótese total de quadril. No pós-operatório podem ocorrer complicações decorrentes do diabetes. Assinale a opção que apresenta o grupo que inclui estas possíveis complicações.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040391,
+     "letra": "A",
+     "descricao": "<p>Insuficiência renal aguda, tempestade tireoidiana e infecções.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040392,
+     "letra": "B",
+     "descricao": "<p>Infecções, infarto agudo do miocárdio e broncoespasmo.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040393,
+     "letra": "C",
+     "descricao": "<p>Edema agudo de pulmão, hipotensão arterial e infecções.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040394,
+     "letra": "D",
+     "descricao": "<p>Infecções, insuficiência renal aguda e glaucoma agudo.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040395,
+     "letra": "E",
+     "descricao": "<p>Hipotensão arterial, insuficiência hepática aguda e infecções.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 39,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004040,
+   "descricao": "<p>A metabolização do anestésico local é importante para que a previsão da regressão de um bloqueio periférico ou mesmo de uma anestesia espinhal se concretize, quando o paciente anseia pelo retorno da deambulação. Conhecer os aspectos da metabolização desses fármacos é importante não só pela larga escala em que são utilizados como também para, principalmente, explicar aos pacientes o que acontecerá após o bloqueio ser realizado. Diante disso, pode-se afirmar que o anestésico local de maior duração, metabolizado pelos microssomas hepáticos, é a</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040401,
+     "letra": "A",
+     "descricao": "<p>procaína.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040402,
+     "letra": "B",
+     "descricao": "<p>prilocaína.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040403,
+     "letra": "C",
+     "descricao": "<p>lidocaína.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040404,
+     "letra": "D",
+     "descricao": "<p>bupivacaína.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040405,
+     "letra": "E",
+     "descricao": "<p>tetracaína.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 40,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004041,
+   "descricao": "<p>As complicações respiratórias pós-operatórias relacionadas ao uso de doses elevadas benzodiazepínicos, no período pré e peri- operatório, podem ser evitadas, conhecendo-se a duração de ação clínica e o tempo de meia-vida de eliminação T1/2 β dos fármacos deste grupo. Portanto, pode-se afirmar que são benzodiazepínicos com</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040411,
+     "letra": "A",
+     "descricao": "<p>T1/2 β longo: clonazepam.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040412,
+     "letra": "B",
+     "descricao": "<p>T1/2 β longo: diazepam.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040413,
+     "letra": "C",
+     "descricao": "<p>T1/2 β pequeno: flunitrazepam.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040414,
+     "letra": "D",
+     "descricao": "<p>T1/2 β médio: midazolam.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040415,
+     "letra": "E",
+     "descricao": "<p>T1/2 β pequeno: lorazepam.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 41,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004042,
+   "descricao": "<p>A clonidina quando utilizada por via espinhal não apresenta relação direta de efeitos adversos em relação à dose, mas um efeito bifásico sobre a pressão arterial quando doses baixas provocam hipotensão e, doses altas, hipertensão. Acredita-se, atualmente, que este efeito hipertensor é decorrente de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040421,
+     "letra": "A",
+     "descricao": "<p>ação simpaticolítica no leito arterial.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040422,
+     "letra": "B",
+     "descricao": "<p>inibição do efeito simpaticolítico no nervo vago.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040423,
+     "letra": "C",
+     "descricao": "<p>ação periférica sobre os receptores α1 pré-sinápticos e receptores α2.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040424,
+     "letra": "D",
+     "descricao": "<p>ação simpaticolítica no SNC.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040425,
+     "letra": "E",
+     "descricao": "<p>ação periférica sobre os receptores α2 pós-sinápticos e receptores α1.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 42,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004043,
+   "descricao": "<p>A monitorização da chamada “profundidade da anestesia” pode ser realizada por meio de diversos aparelhos. Na monitorização realizada por meio do Índice Biespectral (BIS), a supressão de surtos é definida como intervalos maiores de meio segundo (0,5 segundo), nos quais a voltagem do EEG encontra-se abaixo de ±5 µV nos últimos 60 segundos. Diante disso, é correto afirmar que o normal é uma taxa de supressão igual a</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040431,
+     "letra": "A",
+     "descricao": "<p>1 (um).</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040432,
+     "letra": "B",
+     "descricao": "<p>60 (sessenta).</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040433,
+     "letra": "C",
+     "descricao": "<p>0 (zero).</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040434,
+     "letra": "D",
+     "descricao": "<p>100 (cem).</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040435,
+     "letra": "E",
+     "descricao": "<p>40 (quarenta).</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 43,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004044,
+   "descricao": "<p>A hipotermia, assim como a hipertermia, responde por alterações fisiológicas compensatórias importantes. A hipotermia deliberada, útil em determinados momentos de algumas cirurgias, deve ser rigorosamente monitorada, controlada, respeitando-se limites já cientificamente conhecidos e corrigida para valores próximos à normalidade, assim que possível. Quando a hipotermia é induzida, a primeira e mais importante resposta fisiológica deflagrada, que o anestesiologista deve conhecer e monitorar, é a</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040441,
+     "letra": "A",
+     "descricao": "<p>taquicardia ventricular.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040442,
+     "letra": "B",
+     "descricao": "<p>vasoconstrição.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040443,
+     "letra": "C",
+     "descricao": "<p>hipotensão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040444,
+     "letra": "D",
+     "descricao": "<p>depressão respiratória.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040445,
+     "letra": "E",
+     "descricao": "<p>redução da perda de calor.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 44,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004045,
+   "descricao": "<p>No ser humano, uma das propriedades mais importantes do sangue é manter o seu grau de acidez ou alcalinidade. A concentração de H+ normal no sangue arterial é muito pequena. Para manter o íon hidrogênio próximo de valores normais, o organismo lança mão de três mecanismos: sistema tampão, sistema respiratório e sistema renal. O objetivo destes sistemas é manter o íon hidrogênio dentro de sua faixa de normalidade, que é da ordem de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040451,
+     "letra": "A",
+     "descricao": "<p>10nmol.L–1.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040452,
+     "letra": "B",
+     "descricao": "<p>30nmol.L–1.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040453,
+     "letra": "C",
+     "descricao": "<p>50nmol.L–1.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040454,
+     "letra": "D",
+     "descricao": "<p>20nmol.L–1.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040455,
+     "letra": "E",
+     "descricao": "<p>40nmol.L–1.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 45,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004046,
+   "descricao": "<p>Alguns parâmetros são importantes para protocolo de terapia volêmica guiada por metas. Para a criação de um protocolo de terapia guiada por metas, o nível da pressão arterial deve ser sempre considerado, tendo como alvo principal, em indivíduos normotensos, uma pressão arterial média acima de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040461,
+     "letra": "A",
+     "descricao": "<p>65mmHg.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040462,
+     "letra": "B",
+     "descricao": "<p>60mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040463,
+     "letra": "C",
+     "descricao": "<p>55mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040464,
+     "letra": "D",
+     "descricao": "<p>50mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040465,
+     "letra": "E",
+     "descricao": "<p>45mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 46,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004047,
+   "descricao": "<p>Mulher, 69 anos, será submetida a ressecção de pequeno nódulo em mama direita. A opção de anestesia foi a realização de bloqueio intercostal. Uma determinada área, exatamente onde está situado o nódulo, não apresenta analgesia uniforme necessitando complementação com anestésico local, aquém deste bloqueio. Pode-se afirmar que esse nódulo está situado no quadrante</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040471,
+     "letra": "A",
+     "descricao": "<p>inferior interno.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040472,
+     "letra": "B",
+     "descricao": "<p>médio.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040473,
+     "letra": "C",
+     "descricao": "<p>inferior externo</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040474,
+     "letra": "D",
+     "descricao": "<p>superior interno.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040475,
+     "letra": "E",
+     "descricao": "<p>superior externo.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 47,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004048,
+   "descricao": "<p>A analgesia venosa controlada pelo paciente utilizando opioides é a melhor opção, quando comparada com outros métodos de administração intermitente de opioides. O opioide melhor recomendado para analgesia venosa controlada pelo paciente, no pós-operatório de laparotomia, é</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040481,
+     "letra": "A",
+     "descricao": "<p>meperidina.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040482,
+     "letra": "B",
+     "descricao": "<p>metadona.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040483,
+     "letra": "C",
+     "descricao": "<p>morfina.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040484,
+     "letra": "D",
+     "descricao": "<p>alfentanil.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040485,
+     "letra": "E",
+     "descricao": "<p>remifentanil.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 48,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004049,
+   "descricao": "<p>A utilização da técnica peridural na analgesia de parto com anestésicos locais (AL) trouxe significativos benefícios para a gestante durante a evolução do parto vaginal e o nascimento, com a possibilidade de diminuição importante da dor no trabalho de parto e de suas consequências nocivas para mãe e feto. A técnica, no entanto, passou a ser responsabilizada por interferência na evolução do parto, quando podia até mesmo causar sofrimento fetal, em última análise. Com a evolução das técnicas no neuro eixo, dois fatores foram importantes para que estas técnicas alcançassem o equilíbrio na analgesia de parto, com o mínimo de interferência neste e de complicações tanto para mãe, como para o feto. Estes dois fatores são a utilização de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040491,
+     "letra": "A",
+     "descricao": "<p>doses maiores de AL em concentrações baixas e morfina em doses baixas.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040492,
+     "letra": "B",
+     "descricao": "<p>doses menores de AL em concentrações baixas e opioides lipofílicos.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040493,
+     "letra": "C",
+     "descricao": "<p>doses maiores de AL em concentrações baixas e opioides hidrofílicos.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040494,
+     "letra": "D",
+     "descricao": "<p>doses menores de AL em concentrações baixas e morfina em doses baixas.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040495,
+     "letra": "E",
+     "descricao": "<p>doses menores de AL em altas concentrações e opioides lipofílicos.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 49,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004050,
+   "descricao": "<p>Nos neonatos e nas crianças submetidas a cirurgias devem ser utilizadas estratégias de ventilação protetoras. Estas técnicas se baseiam no controle do volume corrente (VC) e na pressão positiva ao final da expiração (PEEP). Estudos recentes mostraram que para a obtenção da estratégia de ventilação protetora e diminuição do risco de atelectasia durante a laparoscopia pediátrica, o VC e a PEEP empregados devem ser, respectivamente, de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040501,
+     "letra": "A",
+     "descricao": "<p>6 a 8mL.kg-1; 8 a 10cm H2O.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040502,
+     "letra": "B",
+     "descricao": "<p>8 a 10mL.kg-1; 4 a 6cm H2O.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040503,
+     "letra": "C",
+     "descricao": "<p>4 a 6mL.kg-1; 4 a 10cm H2O.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040504,
+     "letra": "D",
+     "descricao": "<p>6 a 8mL.kg-1; 4 a 6cm H2O.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040505,
+     "letra": "E",
+     "descricao": "<p>8 a 10mL.kg-1; 8 a 10cm H2O.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 50,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004051,
+   "descricao": "<p>A perda neuronal e o declínio da função cognitiva no idoso podem aumentar a sensibilidade de certos fármacos, podendo resultar em sedação excessiva e outros efeitos adversos, como, por exemplo, com o remifentanil. Em associação com estas, a causa responsável direta por interferir na extração deste fármaco do organismo, é a(o)</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040511,
+     "letra": "A",
+     "descricao": "<p>redução da ligação proteica plasmática.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040512,
+     "letra": "B",
+     "descricao": "<p>redução do metabolismo plasmático.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040513,
+     "letra": "C",
+     "descricao": "<p>aumento do fluxo sanguíneo hepático.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040514,
+     "letra": "D",
+     "descricao": "<p>aumento do fluxo sanguíneo renal.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040515,
+     "letra": "E",
+     "descricao": "<p>redução do fluxo sanguíneo hepático.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 51,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004052,
+   "descricao": "<p>Homem, 72 anos será submetido à revascularização de membro inferior esquerdo pela técnica cirúrgica endovascular. É hipertenso controlado com três medicações e diabético, controlado com duas medicações. Está em uso de aspirina e varfarina sódica previamente à cirurgia. A escolha para o procedimento foi anestesia geral. As revascularizações de membros inferiores estão associadas a complicações metabólicas, respiratórias, circulatórias e tromboembólicas, principalmente. O evento adverso que pode ocorrer no pré-operatório ou no pós- operatório, devendo ser prevenido, identificado precocemente e tratado, destacando-se como a principal causa de morte, tanto em curto como em longo prazo, é a</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040521,
+     "letra": "A",
+     "descricao": "<p>isquemia vascular encefálica.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040522,
+     "letra": "B",
+     "descricao": "<p>embolia pulmonar.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040523,
+     "letra": "C",
+     "descricao": "<p>isquemia da artéria radicular magna.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040524,
+     "letra": "D",
+     "descricao": "<p>isquemia miocárdica.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040525,
+     "letra": "E",
+     "descricao": "<p>trombose da artéria renal.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 52,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004053,
+   "descricao": "<p>Mulher, 28 anos, com apendicite evoluindo por 9 dias, sendo então operada. No inventário da cavidade: apêndice retrocecal rompido em sua base, com conteúdo intestinal na cavidade e sinais de infecção abdominal generalizada. A paciente evolui com sepse e apresenta no quinto dia de pós-operatório choque séptico. O diagnóstico da paciente foi firmado pelo conceito atual de choque séptico quando, simultaneamente, devem ocorrer</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040531,
+     "letra": "A",
+     "descricao": "<p>sepse grave + necessidade de vasopressores para manter PAM &gt; 60mmHg e nível de lactato sérico &gt; 1mmol.L-1, após reanimação volêmica adequada.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040532,
+     "letra": "B",
+     "descricao": "<p>sepse grave + necessidade de vasopressores para manter PAM &gt; 70mmHg e nível de lactato sérico &gt; 1,5mmol.L-1, após reanimação volêmica adequada.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040533,
+     "letra": "C",
+     "descricao": "<p>sepse + necessidade de vasopressores para manter PAM &gt; 65mmHg e nível de lactato sérico &gt; 2mmol.L-1, após reanimação volêmica adequada.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040534,
+     "letra": "D",
+     "descricao": "<p>sepse + necessidade de vasopressores para manter PAM &gt; 75mmHg e nível de lactato sérico &gt; 1,5mmol.L-1 , após reanimação volêmica adequada.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040535,
+     "letra": "E",
+     "descricao": "<p>sepse grave + necessidade de vasopressores para manter PAM &gt; 55mmHg e nível de lactato sérico &gt; 2,5mmol.L-1, após reanimação volêmica adequada.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 53,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004054,
+   "descricao": "<p>As ressecções endoscópicas de tumores da próstata podem ser realizadas com bloqueios no neuro eixo. Esta anestesia possibilita o rápido diagnóstico da perfuração da bexiga, desde que o nível de bloqueio sensitivo não esteja acima de</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040541,
+     "letra": "A",
+     "descricao": "<p>T8.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040542,
+     "letra": "B",
+     "descricao": "<p>T9.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040543,
+     "letra": "C",
+     "descricao": "<p>T10.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040544,
+     "letra": "D",
+     "descricao": "<p>T11.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040545,
+     "letra": "E",
+     "descricao": "<p>T12.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 54,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004055,
+   "descricao": "<p>O edema cerebral, de acordo com o mecanismo de formação, pode ser classificado de várias formas. O edema mais frequente, que ocorre em decorrência de aumento na permeabilidade da barreira hematoencefálica e é caracterizado pelo aumento de permeabilidade do endotélio capilar, permitindo o extravasamento de componentes do plasma para o espaço intersticial, é o edema cerebral</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040551,
+     "letra": "A",
+     "descricao": "<p>vasogênico.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040552,
+     "letra": "B",
+     "descricao": "<p>citotóxico.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040553,
+     "letra": "C",
+     "descricao": "<p>osmótico.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040554,
+     "letra": "D",
+     "descricao": "<p>isquêmico.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040555,
+     "letra": "E",
+     "descricao": "<p>compressivo.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 55,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004056,
+   "descricao": "<p>Homem, 25 anos, sofre acidente automobilístico. É resgatado e levado ao Hospital de Emergência, politraumatizado, com lesões na ectoscopia inicial em cabeça, face, abdome e membros inferiores. De acordo com as diretrizes do Suporte Avançado de Vida no Trauma (ATLS), determinadas ações são prioritárias para o manejo de lesões que atentam contra a vida em pacientes politraumatizados. É correto afirmar que, no trauma, as lesões consideradas como maiores causadoras de morte precoce são as que ocorrem</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040561,
+     "letra": "A",
+     "descricao": "<p>no tórax.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040562,
+     "letra": "B",
+     "descricao": "<p>nas vias aéreas.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80040563,
+     "letra": "C",
+     "descricao": "<p>em membros inferiores.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040564,
+     "letra": "D",
+     "descricao": "<p>no abdome.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040565,
+     "letra": "E",
+     "descricao": "<p>no crânio.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 56,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004057,
+   "descricao": "<p>O diagnóstico da morte real em uma situação de morte apenas aparente sempre foi muito temida. O Art. 162 do Código de Processo Penal só autoriza a realização de autópsias a partir da constatação do óbito, com o propósito de eliminar qualquer dúvida em relação à morte, após</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040571,
+     "letra": "A",
+     "descricao": "<p>2 horas.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040572,
+     "letra": "B",
+     "descricao": "<p>3 horas.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040573,
+     "letra": "C",
+     "descricao": "<p>4 horas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040574,
+     "letra": "D",
+     "descricao": "<p>5 horas.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040575,
+     "letra": "E",
+     "descricao": "<p>6 horas.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 57,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004058,
+   "descricao": "<p>A ansiedade e o medo são os problemas mais enfrentados no pré- operatório. Em cirurgias ambulatoriais, a sedação pré-operatória e a utilizada durante os procedimentos realizados sob anestesia locorregional, visando a aliviar o desconforto durante a realização de um bloqueio ou uma infiltração local e manter o paciente calmo ou mesmo dormindo durante o procedimento, são relevantes e merecem destaque. Pode-se afirmar que o fármaco mais adequado e preferido, pelas suas características farmacodinâmicas e farmacocinéticas e por apresentar vantagens nestes dois momentos, é o</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040581,
+     "letra": "A",
+     "descricao": "<p>clonazepam.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040582,
+     "letra": "B",
+     "descricao": "<p>flunitrazepam.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040583,
+     "letra": "C",
+     "descricao": "<p>midazolam.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80040584,
+     "letra": "D",
+     "descricao": "<p>diazepam.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040585,
+     "letra": "E",
+     "descricao": "<p>lorazepam.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 58,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004059,
+   "descricao": "<p>De acordo com o NAP6, o maior e mais completo estudo prospectivo de anafilaxia relacionado à anestesia e à cirurgia, publicado em 2018, o bloqueador neuromuscular com probabilidade duas vezes maior do que qualquer outro bloqueador de causar anafilaxia e, consequentemente, parada cardiorrespiratória, é</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040591,
+     "letra": "A",
+     "descricao": "<p>atracúrio.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80040592,
+     "letra": "B",
+     "descricao": "<p>rocurônio.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040593,
+     "letra": "C",
+     "descricao": "<p>vecurônio</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040594,
+     "letra": "D",
+     "descricao": "<p>succinilcolina.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80040595,
+     "letra": "E",
+     "descricao": "<p>mivacúrio.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 59,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  },
+  {
+   "id": 8004060,
+   "descricao": "<p>O choque mais frequente, associado às condições de hemorragia, desidratação ou ainda sequestro de líquidos, é o choque</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80040601,
+     "letra": "A",
+     "descricao": "<p>hipovolêmico.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80040602,
+     "letra": "B",
+     "descricao": "<p>cardiogênico.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80040603,
+     "letra": "C",
+     "descricao": "<p>obstrutivo.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80040604,
+     "letra": "D",
+     "descricao": "<p>distributivo.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80040605,
+     "letra": "E",
+     "descricao": "<p>séptico.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "PM-SP - Oficiais do Quadro de Saúde 2022",
+    "cargo": "2º Tenente Médico - Anestesiologia",
+    "numero": 60,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/2o_tenente_medico_anestesiologiacns101_tipo_1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/doeco_38-321-22_-_gabarito_definitivo_ed._2.321.22_of_med.pdf"
+   }
+  }
+ ]
+}

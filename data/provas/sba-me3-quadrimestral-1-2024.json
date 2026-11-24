@@ -1,0 +1,232 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-1-2024",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 1ª quadrimestral 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003434,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave; anestesia e o sistema end&oacute;crino:</p> <p><strong>A) </strong>A zona glomerulosa do c&oacute;rtex adrenal &eacute; respons&aacute;vel pela produ&ccedil;&atilde;o de glicocorticoides.</p> <p><strong>B) </strong>O teste de supress&atilde;o de cortisol com 1 mg de dexametasona &eacute; utilizado no diagn&oacute;stico da&nbsp;s&iacute;ndrome de Cushing.</p> <p><strong>C) </strong>A adrenalina &eacute; a catecolamina mais comumente liberada pelos feocromocitomas.</p> <p><strong>D) </strong>A fentolamina &eacute; um alfabloqueador usado no preparo pr&eacute;-operat&oacute;rio de pacientes com&nbsp;feocromocitoma que apresenta a&ccedil;&atilde;o prolongada e n&atilde;o competitiva.</p> <p><strong>E) </strong>O sulfato de magn&eacute;sio &eacute; capaz de bloquear a libera&ccedil;&atilde;o de catecolaminas em pacientes&nbsp;com feocromocitoma.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034341,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034342,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034343,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034344,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003435,
+   "descricao": "<p>Com rela&ccedil;&atilde;o a anestesia em urg&ecirc;ncias no trauma:</p> <p><strong>A)</strong> S&atilde;o pontos fisiol&oacute;gicos a serem considerados para refer&ecirc;ncia de paciente v&iacute;tima de trauma&nbsp;a centro especializado em trauma: press&atilde;o arterial sist&oacute;lica &lt;90mmHg, escala de coma&nbsp;de Glasgow &le;13 e frequ&ecirc;ncia respirat&oacute;ria &lt;10, &gt;29 ou necessidade de suporte ventilat&oacute;rio</p> <p><strong>B)</strong> Um paciente v&iacute;tima de politrauma referido a centro de trauma deve sempre ser tratado&nbsp;como est&ocirc;mago cheio e com risco de aspira&ccedil;&atilde;o do conte&uacute;do g&aacute;strico durante a indu&ccedil;&atilde;o&nbsp;anest&eacute;sica, mesmo que sua &uacute;ltima refei&ccedil;&atilde;o tenha sido a mais de 8h</p> <p><strong>C)</strong> Durante a ressuscita&ccedil;&atilde;o de pacientes politraumatizados hipotensos deve-se evitara&nbsp;hipotens&atilde;o arterial, tendo como meta manter uma press&atilde;o arterial normal at&eacute; que o&nbsp;controle cir&uacute;rgico do sangramento seja realizado</p> <p><strong>D)</strong> Administra&ccedil;&atilde;o de &aacute;cido tranex&acirc;mico diminui a mortalidade por todas as causas em&nbsp;paciente v&iacute;timas de trauma com sangramento, sem aumento de eventos oclusivos&nbsp;vasculares</p> <p><strong>E)</strong> Uma das vantagens dos testes coagula&ccedil;&atilde;o tradicionais &eacute; que eles s&atilde;o melhores em&nbsp;detectar estado de hipercoagula&ccedil;&atilde;o que os viscoel&aacute;sticos</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034351,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034352,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034353,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034354,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003436,
+   "descricao": "<p>Sobre anestesia para cirurgia pl&aacute;stica:</p> <p>A) Lipoaspira&ccedil;&otilde;es maiores que 150 ml a recomenda&ccedil;&atilde;o atual &eacute; a utiliza&ccedil;&atilde;o da t&eacute;cnica seca por diminuir as perdas sangu&iacute;neas e a dor no p&oacute;s-operat&oacute;rio</p> <p>B) Segundo a resolu&ccedil;&atilde;o 1711/2003 do Conselho Federal de Medicina as seda&ccedil;&otilde;es endovenosas em consult&oacute;rio dispensam a participa&ccedil;&atilde;o do anestesiologista, desde que o&nbsp;a ato cir&uacute;rgico seja de pequeno porte</p> <p>C) Pacientes hipot&eacute;rmicos submetidos a cirurgias pl&aacute;sticas com dura&ccedil;&atilde;o superior a 2 horas apresentam tempo de tromboplastina parcial ativada e tempo de sangramento similares&nbsp;aos pacientes normot&eacute;rmicos</p> <p>D) O uso de vasopressores venosos deve ser evitado em microcirurgia de retalho devido ao risco de comprometimento do fluxo sangu&iacute;neo para o retalho</p> <p>E) A dexmedetomidina, com uma meia-vida de elimina&ccedil;&atilde;o (T1/2 beta) de aproximadamente 2 horas, &eacute; bem indicada para administra&ccedil;&atilde;o por bomba de infus&atilde;o cont&iacute;nua em t&eacute;cnicas&nbsp;de seda&ccedil;&atilde;o e anestesia regional em cirurgia pl&aacute;stica</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034361,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034362,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034363,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034364,
+     "letra": "D",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003437,
+   "descricao": "<p>Sobre as complica&ccedil;&otilde;es durante a anestesia para cirurgias bucomaxilofaciais:<br></p> <p>A) Em caso de hipermobilidade mandibular, &eacute; poss&iacute;vel ocorrer luxa&ccedil;&atilde;o da articula&ccedil;&atilde;o temporomandibular durante as manobras de intubação, cujo manejo deve ser imediato por meio da redução manual.</p> <p>B) A luxação é a lesão dentária de maior frequ&ecirc;ncia durante a anestesia, caracterizando-se pelo deslocamento do dente em seu pr&oacute;prio alvéolo.</p> <p>C) O apoio do laringosc&oacute;pio nos dentes superiores poder&aacute; implicar em luxações, danos às coroas dentárias ou de pr&oacute;teses, impacção da maxila ou fratura dos meios de osteossíntese empregados em cirurgias bucomaxilofaciais anteriores.</p> <p>D) Em avuls&otilde;es (exarticula&ccedil;&otilde;es) dent&aacute;rias, o progn&oacute;stico piora em reimplantes a partir de 02 horas do dente fora do alv&eacute;olo.</p> <p>E) O trauma dentoalveolar, decorrente do manejo da via aérea, possui como fatores causais mais comuns: m&aacute; dentição, laringoscopia agressiva, anestesia e curarização ineficiente, intervenções de emerg&ecirc;ncia e falta de treinamento do anestesista.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034371,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034372,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034373,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034374,
+     "letra": "D",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003438,
+   "descricao": "<p>No manejo da anestesia para cirurgia tor&aacute;cica:</p> <p><strong>A) </strong>A aplica&ccedil;&atilde;o de CPAP no pulm&atilde;o dependente &eacute; uma das manobras para melhorara PaO2&nbsp;durante a ventila&ccedil;&atilde;o monopulmonar.</p> <p><strong>B) </strong>S&atilde;o consideradas indica&ccedil;&otilde;es absolutas para ventila&ccedil;&atilde;o monopulmonar a fistula&nbsp;broncopleural de alto d&eacute;bito, cisto pulmonar e cirurgias esof&aacute;gicas.</p> <p><strong>C) </strong>Pacientes que ser&atilde;o submetidos a ressec&ccedil;&atilde;o pulmonar e que apresentam um VEF1&nbsp;predito p&oacute;s-operat&oacute;rio de 30% s&atilde;o considerados de baixo risco para complica&ccedil;&otilde;es&nbsp;pulmonares.</p> <p><strong>D) </strong>Ao optar por seletiva&ccedil;&atilde;o pulmonar atrav&eacute;s de um tubo de duplo lumen Robertshaw direito&nbsp;h&aacute; necessidade de confirma&ccedil;&atilde;o de posicionamento atrav&eacute;s de broncoscopia para evitar&nbsp;atelectasia de lobo superior direito.</p> <p><strong>E) </strong>A capacidade dos pulm&otilde;es em realizar trocas gasosas pode ser avaliada pelo teste de difus&atilde;o de mon&oacute;xido de carbono (DLCO), o qual &eacute; considerado um preditor de risco de complica&ccedil;&otilde;es e mortalidade p&oacute;s-operat&oacute;ria.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034381,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034382,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034383,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034384,
+     "letra": "D",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

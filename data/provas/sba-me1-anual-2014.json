@@ -1,0 +1,1640 @@
+{
+ "prova": {
+  "slug": "sba-me1-anual-2014",
+  "banca": "SBA",
+  "concurso": "ME1 anual",
+  "titulo": "ME1 anual 2014",
+  "ano": "2014",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2000638,
+   "descricao": "<p>Na relação entre o ciclo cardíaco e o eletrocardiograma:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006381,
+     "letra": "A",
+     "descricao": "A onda P equivale ao momento do fechamento da válvula aórtica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006382,
+     "letra": "B",
+     "descricao": "A onda T ocorre no instante do fechamento da válvula tricúspide",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006383,
+     "letra": "C",
+     "descricao": "O complexo QRS ocorre com o fechamento da válvula mitral",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006384,
+     "letra": "D",
+     "descricao": "O segmento ST equivale ao fechamento da válvula pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000639,
+   "descricao": "<p>No adulto jovem normal, a sístole atrial é responsável por qual percentual do volume&nbsp;sistólico?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006391,
+     "letra": "A",
+     "descricao": "5 a 10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006392,
+     "letra": "B",
+     "descricao": "15 a 25",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006393,
+     "letra": "C",
+     "descricao": "40 a 50",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006394,
+     "letra": "D",
+     "descricao": "55 a 75",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000640,
+   "descricao": "<p>O fluxo sanguíneo pulmonar na zona III de West é:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006401,
+     "letra": "A",
+     "descricao": "Resultante da diferença da pressão arteriovenosa",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006402,
+     "letra": "B",
+     "descricao": "Determinado pela diferença de pressão arterio-intersticial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006403,
+     "letra": "C",
+     "descricao": "Relacionado à pressão sistólica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006404,
+     "letra": "D",
+     "descricao": "Determinado pela diferença entre a pressão alveolar e a pressão venosa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000641,
+   "descricao": "<p>Principal músculo responsável pela adução das cordas vocais:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006411,
+     "letra": "A",
+     "descricao": "Aritenoideo oblíquo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006412,
+     "letra": "B",
+     "descricao": "Aritenoideo transverso",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006413,
+     "letra": "C",
+     "descricao": "Cricoaritenoideo lateral",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006414,
+     "letra": "D",
+     "descricao": "Tireoaritenoideo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000642,
+   "descricao": "<p>É fator de risco para apneia obstrutiva do sono:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006421,
+     "letra": "A",
+     "descricao": "diabetes",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006422,
+     "letra": "B",
+     "descricao": "hipertensão",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006423,
+     "letra": "C",
+     "descricao": "alergia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006424,
+     "letra": "D",
+     "descricao": "refluxo gastroesofágico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000643,
+   "descricao": "<p>Número de ligamentos que dão estabilidade aos corpos vertebrais:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006431,
+     "letra": "A",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006432,
+     "letra": "B",
+     "descricao": "6",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006433,
+     "letra": "C",
+     "descricao": "5",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006434,
+     "letra": "D",
+     "descricao": "4",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000644,
+   "descricao": "<p>Assinale a conduta que escolheria para administração de bloqueadores neuromusculares durante a indução da anestesia em um paciente que teve 40% da superfície corporal total queimada há 50h:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006441,
+     "letra": "A",
+     "descricao": "reduzir a dose utilizada de cisatracúrio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006442,
+     "letra": "B",
+     "descricao": "aumentar a dose de rocurônio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006443,
+     "letra": "C",
+     "descricao": "utilizar succinilcolina se for necessária intubação em sequência rápida",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006444,
+     "letra": "D",
+     "descricao": "utilizar doses convencionais de vecurônio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000645,
+   "descricao": "<p>Fator associado à síndrome da cauda equina após raquianestesia:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006451,
+     "letra": "A",
+     "descricao": "punção com agulha calibrosa",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006452,
+     "letra": "B",
+     "descricao": "punções repetidas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006453,
+     "letra": "C",
+     "descricao": "anestesia subaracnoidea contínua",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006454,
+     "letra": "D",
+     "descricao": "uso de bupivacaína",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000646,
+   "descricao": "<p>Qual o ritmo de parada cardiorrespiratória que apresenta o melhor prognóstico de reversão:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006461,
+     "letra": "A",
+     "descricao": "Assistolia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006462,
+     "letra": "B",
+     "descricao": "Atividade elétrica sem pulso",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006463,
+     "letra": "C",
+     "descricao": "Fibrilação ventricular",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006464,
+     "letra": "D",
+     "descricao": "Bradicardia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000647,
+   "descricao": "<p>As curvas de pressão/volume intratorácicos permitem:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006471,
+     "letra": "A",
+     "descricao": "Visualizar uma relação linear nos pacientes com aumento da resistência pulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006472,
+     "letra": "B",
+     "descricao": "Identificar lesão pulmonar aguda pela manutenção da complacência",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006473,
+     "letra": "C",
+     "descricao": "Estimar o valor de PEEP que impede o colapso alveolar",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006474,
+     "letra": "D",
+     "descricao": "Identificar embolia aérea pela redução da complacência",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000648,
+   "descricao": "<p>Fármaco de uso crônico associado a hipotensão grave na indução da anestesia:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006481,
+     "letra": "A",
+     "descricao": "Propranolol",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006482,
+     "letra": "B",
+     "descricao": "Nifedipina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006483,
+     "letra": "C",
+     "descricao": "Captopril",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006484,
+     "letra": "D",
+     "descricao": "Anlodipina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000649,
+   "descricao": "<p>Principal causa de edema pulmonar na sala de recuperação pós-anestésica:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006491,
+     "letra": "A",
+     "descricao": "Sobrecarga de volume",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006492,
+     "letra": "B",
+     "descricao": "Obstrução das vias aéreas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006493,
+     "letra": "C",
+     "descricao": "Sepse",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006494,
+     "letra": "D",
+     "descricao": "Transfusão",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000650,
+   "descricao": "<p>De acordo com a Consolidação das Normas sobre os Sistemas e os Subsistemas do Sistema Único de Saúde, de 2017, a doação de órgãos de crianças anencefálicas só pode ocorrer após:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006501,
+     "letra": "A",
+     "descricao": "Realização de eletroencefalograma sem atividade elétrica cerebral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006502,
+     "letra": "B",
+     "descricao": "Demonstração de ausência de fluxo sanguíneo intracraniano por angiografia cerebral",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006503,
+     "letra": "C",
+     "descricao": "Queda da saturação venosa de oxigênio do bulbo jugular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006504,
+     "letra": "D",
+     "descricao": "Instalação de parada cardíaca irreversível",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000651,
+   "descricao": "<p>Qual a opção à monitorização da função neuromuscular, quando o uso do nervo ulnar está impedido:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006511,
+     "letra": "A",
+     "descricao": "femoral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006512,
+     "letra": "B",
+     "descricao": "fibular",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006513,
+     "letra": "C",
+     "descricao": "isquiático",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006514,
+     "letra": "D",
+     "descricao": "trigêmio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000652,
+   "descricao": "<p>Paciente na sala de recuperação pós anestésica apresentando pressão arterial nos valores pré-operatórios, despertando quando solicitado, mantendo SpO2 maior que 92% em ar ambiente, capaz de tossir e movimentar apenas os membros superiores. Qual a pontuação segundo a escala de Aldrete modificada:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006521,
+     "letra": "A",
+     "descricao": "9",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006522,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006523,
+     "letra": "C",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006524,
+     "letra": "D",
+     "descricao": "6",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000653,
+   "descricao": "<p>Qual dos broncodilatadores abaixo &eacute; utilizado pela via subcut&acirc;nea ou venosa?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006531,
+     "letra": "A",
+     "descricao": "albuterol",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006532,
+     "letra": "B",
+     "descricao": "ipratropium",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006533,
+     "letra": "C",
+     "descricao": "formoterol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006534,
+     "letra": "D",
+     "descricao": "terbutalina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000654,
+   "descricao": "<p>Segundo a lei de Fick, a difusão de oxigênio é inversamente proporcional à (ao):</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006541,
+     "letra": "A",
+     "descricao": "Permeabilidade da membrana ao gás",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006542,
+     "letra": "B",
+     "descricao": "Área da superfície para difusão",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006543,
+     "letra": "C",
+     "descricao": "Gradiente de pressão",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006544,
+     "letra": "D",
+     "descricao": "Espessura da membrana",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000655,
+   "descricao": "<p>Na parada cardiorrespiratória por afogamento ou quase afogamento:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006551,
+     "letra": "A",
+     "descricao": "O oxigênio dos pulmões consegue ser uma reserva adequada nos primeiros minutos de parada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006552,
+     "letra": "B",
+     "descricao": "A respiração de resgate deve ser a manobra inicial de reanimação",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006553,
+     "letra": "C",
+     "descricao": "O conteúdo arterial de oxigênio deve ser priorizado, comparado ao fluxo sanguíneo no atendimento inicial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006554,
+     "letra": "D",
+     "descricao": "A proporção compressão ventilação deve ser 15:2 com um ou dois reanimadores",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000656,
+   "descricao": "<p>A relação ventilação/perfusão ideal em adultos em ventilação espontânea e em pé ocorre na região da:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006561,
+     "letra": "A",
+     "descricao": "clavícula",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006562,
+     "letra": "B",
+     "descricao": "terceira costela",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006563,
+     "letra": "C",
+     "descricao": "nona costela",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006564,
+     "letra": "D",
+     "descricao": "décima segunda costela",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000657,
+   "descricao": "<p>Em relação à rigidez muscular observada com uso de opioides, é CORRETO:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006571,
+     "letra": "A",
+     "descricao": "é mediada pelo receptor delta",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006572,
+     "letra": "B",
+     "descricao": "é mais comumente associada à morfina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006573,
+     "letra": "C",
+     "descricao": "ocorre somente na indução da anestesia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006574,
+     "letra": "D",
+     "descricao": "pode envolver toda musculatura estriada",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000658,
+   "descricao": "<p>Em relação à farmacologia dos medicamentos utilizados durante a ressuscitação cardiopulmonar, podemos afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006581,
+     "letra": "A",
+     "descricao": "A administração de adrenalina via tubo endotraqueal deve ser evitada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006582,
+     "letra": "B",
+     "descricao": "A eficácia da epinefrina é devida à sua potente ação beta-adrenérgica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006583,
+     "letra": "C",
+     "descricao": "Estudos clínicos indicam que a vasopressina é superior à epinefrina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006584,
+     "letra": "D",
+     "descricao": "Em geral, utiliza-se doses 2 a 2,5 vezes maiores na via traqueal que na via venosa",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000659,
+   "descricao": "<p>Para um mesmo local de injeção, a taxa de absorção sistêmica e pico plasmático de anestésico local são diretamente proporcionais à:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006591,
+     "letra": "A",
+     "descricao": "Concentração injetada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006592,
+     "letra": "B",
+     "descricao": "Velocidade de injeção",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006593,
+     "letra": "C",
+     "descricao": "Dose injetada",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006594,
+     "letra": "D",
+     "descricao": "Fração de droga ionizada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000660,
+   "descricao": "<p>Em relação à captação de anestésicos inalatórios é CORRETO:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006601,
+     "letra": "A",
+     "descricao": "O aumento do débito cardíaco acelera o tempo para indução inalatória",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006602,
+     "letra": "B",
+     "descricao": "A maior solubilidade no sangue acelera o aumento da pressão parcial alveolar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006603,
+     "letra": "C",
+     "descricao": "Baixo fluxo de gases frescos leva a menor redução de consumo dos agentes mais solúveis",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006604,
+     "letra": "D",
+     "descricao": "O aumento da pressão parcial no sangue venoso pulmonar acelera o aumento da pressão parcial alveolar",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000661,
+   "descricao": "<p>Quanto à profilaxia e tratamento da dependência química é CORRETO afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006611,
+     "letra": "A",
+     "descricao": "As primeiras alterações comportamentais são de relacionamento, seguidas de alterações no trabalho",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006612,
+     "letra": "B",
+     "descricao": "O sucesso no tratamento é semelhante independentemente do tempo de abuso",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006613,
+     "letra": "C",
+     "descricao": "O uso chamado \"recreacional\" pode durar anos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006614,
+     "letra": "D",
+     "descricao": "O isolamento social ocorre na fase inicial de abuso",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000662,
+   "descricao": "<p>Na avaliação da função neuromuscular, a frequência igual ou maior que 30 Hertz é utilizada para promover:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006621,
+     "letra": "A",
+     "descricao": "Estimulação simples",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006622,
+     "letra": "B",
+     "descricao": "Sequência de quatro estímulos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006623,
+     "letra": "C",
+     "descricao": "Estimulação tetânica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006624,
+     "letra": "D",
+     "descricao": "Estimulação com dupla salva",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000663,
+   "descricao": "<p>As reações alérgicas na anestesia, é CORRETO:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006631,
+     "letra": "A",
+     "descricao": "têm como principais sinais alterações cutâneas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006632,
+     "letra": "B",
+     "descricao": "em crianças tem como manifestação mais precoce as alterações cardiovasculares",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006633,
+     "letra": "C",
+     "descricao": "são de difícil diagnóstico na anestesia pois os anestésicos inibem a liberação de mediadores",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006634,
+     "letra": "D",
+     "descricao": "podem ser causadas pela liberação não imunológica de histamina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000664,
+   "descricao": "<p>Na regulação do tônus vascular pelo sistema nervoso autônomo, é correto afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006641,
+     "letra": "A",
+     "descricao": "A acetilcolina estimula a produção de fatores relaxadores derivados do endotélio",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006642,
+     "letra": "B",
+     "descricao": "Os pacientes com aterosclerose tem maior resposta à vasodilatação pela acetilcolina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006643,
+     "letra": "C",
+     "descricao": "A acetilcolina plasmática inibe a produção de óxido nítrico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006644,
+     "letra": "D",
+     "descricao": "O endotélio danificado mantém a responsividade",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000665,
+   "descricao": "<p>Qual dos Betabloqueadores abaixo acumula em paciente com insuficiência renal?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006651,
+     "letra": "A",
+     "descricao": "Atenolol",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006652,
+     "letra": "B",
+     "descricao": "Esmolol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006653,
+     "letra": "C",
+     "descricao": "Metoprolol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006654,
+     "letra": "D",
+     "descricao": "Propranolol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000666,
+   "descricao": "<p>Em adultos, a associação da clonidina (30μg) na raquianestesia com bupivacaína prolonga o bloqueio em:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006661,
+     "letra": "A",
+     "descricao": "11 a 29%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006662,
+     "letra": "B",
+     "descricao": "30 a 50%",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006663,
+     "letra": "C",
+     "descricao": "51 a 69%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006664,
+     "letra": "D",
+     "descricao": "70 a 90%",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000667,
+   "descricao": "<p>O conceito da concentração alveolar mínima é baseado em resposta associada à:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006671,
+     "letra": "A",
+     "descricao": "cognição",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006672,
+     "letra": "B",
+     "descricao": "memória",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006673,
+     "letra": "C",
+     "descricao": "imobilidade",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006674,
+     "letra": "D",
+     "descricao": "consciência",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000668,
+   "descricao": "<p>Causa primária de náusea e vômito no bloqueio neuroaxial em um indivíduo com estabilidade hemodinâmica:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006681,
+     "letra": "A",
+     "descricao": "aumento da atividade parassimpática",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006682,
+     "letra": "B",
+     "descricao": "desidratação",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006683,
+     "letra": "C",
+     "descricao": "historia de tabagismo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006684,
+     "letra": "D",
+     "descricao": "jejum",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000669,
+   "descricao": "<p>Na máscara laríngea, a pressão máxima dentro do balonete, em cmH2O, deve ser:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006691,
+     "letra": "A",
+     "descricao": "60",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006692,
+     "letra": "B",
+     "descricao": "40",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006693,
+     "letra": "C",
+     "descricao": "20",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006694,
+     "letra": "D",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000670,
+   "descricao": "<p>Uma corrente elétrica de 100 mA a 60 Hz aplicada na superfície corporal, com passagem pelo coração, pode causar:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006701,
+     "letra": "A",
+     "descricao": "Bloqueio de ramo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006702,
+     "letra": "B",
+     "descricao": "Paralisia respiratória",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006703,
+     "letra": "C",
+     "descricao": "Fibrilação ventricular",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006704,
+     "letra": "D",
+     "descricao": "Assistolia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000671,
+   "descricao": "<p>Principal determinante da potência de um anestésico local?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006711,
+     "letra": "A",
+     "descricao": "Ligação protéica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006712,
+     "letra": "B",
+     "descricao": "Solubilidade lipídica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006713,
+     "letra": "C",
+     "descricao": "Peso molecular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006714,
+     "letra": "D",
+     "descricao": "pKa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000672,
+   "descricao": "<p>Em relação à <b>circulação coronariana</b> é correto afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006721,
+     "letra": "A",
+     "descricao": "O fluxo é proporcional ao gradiente de pressão entre a raiz da aorta e o leito coronariano",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006722,
+     "letra": "B",
+     "descricao": "A pressão coronariana intramural é constante durante todo o ciclo cardíaco",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006723,
+     "letra": "C",
+     "descricao": "A perfusão é maior no leito subendocárdico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006724,
+     "letra": "D",
+     "descricao": "A perfusão subendocárdica ocorre quando a valva aórtica está aberta",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000673,
+   "descricao": "<p>Forma de apresentação da dipirona que determina menor biodisponibilidade:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006731,
+     "letra": "A",
+     "descricao": "Comprimidos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006732,
+     "letra": "B",
+     "descricao": "Gotas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006733,
+     "letra": "C",
+     "descricao": "Supositórios",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006734,
+     "letra": "D",
+     "descricao": "Injeções por via muscular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000674,
+   "descricao": "<p>Cirurgia com menor risco de complicações cardiovasculares:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006741,
+     "letra": "A",
+     "descricao": "Artroplastia de ombro",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006742,
+     "letra": "B",
+     "descricao": "Osteossíntese de tornozelo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006743,
+     "letra": "C",
+     "descricao": "Cisto de ovário",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006744,
+     "letra": "D",
+     "descricao": "Prótese mamária",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  }
+ ]
+}

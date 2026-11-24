@@ -1,0 +1,584 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2021",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003488,
+   "descricao": "<p>Em relação às estratégias de manuseio da gasometria arterial durante a circulação extracorpórea: </p><p><b>A)</b>&nbsp;Alfa-stat usa valores normais não corrigidos por temperatura.&nbsp;</p><p><b>B)</b>&nbsp;Alfa-stat preserva a função enzimática e a autorregulação cerebral.&nbsp;</p><p><b>C)</b>&nbsp;pH-stat tem como um dos objetivos manter o pH constante.&nbsp;</p><p><b>D)</b> pH-stat usa valores normais corrigidos por temperatura.&nbsp;</p><p><b>E)</b>&nbsp;pH-stat diminui o consumo cerebral de O2.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034881,
+     "letra": "A",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034882,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034883,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034884,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003489,
+   "descricao": "<p>Considerando a farmacologia dos principais f&aacute;rmacos utilizados em anestesia sobre o sistema nervoso central:</p> <p>A) O propofol reduz o metabolismo neuronal, o fluxo sangu&iacute;neo cerebral e a press&atilde;o intracraniana e, em caso de queda da pr&eacute;-carga, pode diminuir tamb&eacute;m a press&atilde;o de perfus&atilde;o cerebral.&nbsp;</p> <p>B) A cetamina, em doses para indu&ccedil;&atilde;o da anestesia geral, pode causar um aumento do fluxo sangu&iacute;neo cerebral desproporcional ao aumento do metabolismo neuronal, em pacientes com a autorregula&ccedil;&atilde;o intacta.&nbsp;</p> <p>C) A dexmedetomidina produz vasoconstri&ccedil;&atilde;o cerebral pela estimula&ccedil;&atilde;o dos receptores alfa-2 presentes nos vasos sangu&iacute;neos cerebrais.&nbsp;</p> <p>D) Os opioides venosos potencializam os efeitos vasodilatadores determinados pelos anest&eacute;sicos inalat&oacute;rios.&nbsp;</p> <p>e) Os anest&eacute;sicos inalat&oacute;rios causam vasodilata&ccedil;&atilde;o no sistema vascular encef&aacute;lico e, por isso, podem reduzir o fluxo sangu&iacute;neo cerebral.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034891,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034892,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034893,
+     "letra": "C",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034894,
+     "letra": "D",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003490,
+   "descricao": "<p>Homem de 45 anos, 77 kg e 1,80m, será submetido à ressecção de tumor na região frontoparietal esquerda (área de Broca). Devido à localização do tumor, a equipe de neurocirurgia deseja realizar a craniotomia com o paciente acordado para a pesquisa de testes neurocognitivos e motores durante a ressecção tumoral. Em relação às considerações anestésico-cirúrgicas, nessa situação: </p><p><b>A) </b>a anestesia regional do couro cabeludo para minimizar a dor na ferida cirúrgica deve incluir os nervos infra-orbital, temporal superficial, zigomático maior, orbicular dos olhos e corrugador do supercílio.</p><p><b>B) </b>a dexmedetomidina oferece analgesia e sedação cooperativa e é particularmente útil quando áreas eloquentes do cérebro são estimuladas.</p><p><b>C) </b>no caso de convulsões ocasionadas pela manipulação cirúrgica, a irrigação do campo operatório com solução salina aquecida e administração de etomidato são preconizadas.</p><p><b>D) </b>hipertensão arterial e taquicardia intra-operatórias podem ocorrer durante fases de estimulação dolorosa e ao final do procedimento, podendo ser tratadas com betabloqueadores de ação ultracurta.</p><p><b>E) </b>a infusão contínua de propofol pode ser reduzida ou abolida para a realização dos testes neurocognitivos.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034901,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034902,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034903,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034904,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003491,
+   "descricao": "<p>Com relação ao pré-anestésico em pacientes geriátricos: </p><p><b>A) </b>A fragilidade é uma condição incomum e pouco mórbida.</p><p><b>B) </b>Depressão e baixa escolaridade são fatores de risco para o delirium pósoperatório.</p><p><b>C) </b>A polifarmácia é um problema que não exige maiores cuidados e atenção.</p><p><b>D) </b>O comprometimento cognitivo não diagnosticado é comum no perioperatório.</p><p><b>E) </b>Existe sensibilidade aumentada aos benzodiazepínicos e diminuição do seu metabolismo, risco de deficiência cognitiva, delirium e quedas.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034911,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034912,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034913,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034914,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003492,
+   "descricao": "<p>Com relação à reanimação neonatal: </p><p><b>A) </b>Aplicar o oxímetro preferencialmente na mão direita. </p><p><b>B) </b>A naloxona é recomendada na resposta inicial ao desconforto respiratório na ressuscitação neonatal. </p><p><b>C) </b>Mesmo com a dificuldade de ventilação sob máscara ou falha na intubação, uma máscara laríngea não deve ser considerada, pois é proscrita em neonatologia. </p><p><b>D)&nbsp;</b> Durante o período inicial de ressuscitação, a temperatura-alvo para o recém nascido é a normotermia (36,5°C). </p><p><b>E) </b>O tratamento da hipovolemia pode requerer expansão do volume intravascular com sangue e cristalóides que devem ser titulados em 10 mL / kg e administrados lentamente, em mais de 10 minutos, se a hemodinâmica permitir.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034921,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034922,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034923,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034924,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003493,
+   "descricao": "<p>Em relação às vítimas de acidente automobilístico que iniciam quadro de hipotensão sem evidência de hemorragia aparente no exame físico e nos exames de imagem: </p><p><b>A)</b> A hipotensão é um achado comum no trauma, em pacientes sem hemorragia.&nbsp;</p><p><b>B)</b> A etiologia da hipotensão não hemorrágica é mais comumente um tipo de choque distributivo.&nbsp;</p><p><b>C)</b> Choques distributivos e hemorrágicos não podem coexistir entre os pacientes mais gravemente feridos.&nbsp;</p><p><b>D)</b> Mesmo na ausência de hemorragia, a resposta inflamatória ao trauma e a síndrome da resposta inflamatória sistêmica (SIRS) subsequente conferem risco de progressão para disfunção de múltiplos sistemas de órgãos.&nbsp;</p><p><b>E)</b> No choque distributivo, o dano ao tecido por politrauma provavelmente inicia vias de inflamação semelhantes ou idênticas àquelas subjacentes à síndrome da resposta inflamatória sistêmica (SIRS).&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034931,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034932,
+     "letra": "B",
+     "descricao": "V V F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034933,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034934,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003494,
+   "descricao": "<p>Mulher de 45 anos, 82 kg e 1,65 m, é submetida à mamoplastia redutora sob anestesia geral. Após 50&nbsp;minutos da indução anestésica, foi inserido um termômetro esofágico que evidenciou um valor de 35,5o C.&nbsp;Sobre esse caso:<br><br>a) A primeira hora da anestesia é o período de maior queda da temperatura a não&nbsp;ser que a temperatura ambiente seja mantida acima de 23oC antes da indução&nbsp;anestésica.</p><p>b) O principal fator associado ao desenvolvimento de hipotermia no intraoperatório é&nbsp;a redistribuição interna de calor.</p><p>c) Os termômetros esofágicos são mais sensíveis às variações da temperatura&nbsp;central do que os termômetros em nasofaringe.</p><p>d) É condição mínima de segurança para a prática da anestesia a disponibilidade de&nbsp;meios para assegurar a normotermia em todos os procedimentos com duração&nbsp;superior a sessenta minutos.</p><p>e) Este grau de hipotermia pode levar a um aumento clinicamente significativo na&nbsp;duração dos bloqueadores neuromusculares adespolarizantes.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034941,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034942,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034943,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034944,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003495,
+   "descricao": "<p>Homem de 45 anos, 80kg e 1,80m, foi submetido a hemicolectomia direita. Após 1 hora da indução anestésica, foi detectada temperatura central de 34o Celsius. Este paciente pode apresentar:</p><p>a) Disfunção plaquetária.</p><p>b) Menor risco de infecção pós-operatória.</p><p>c) Menor incidência de arritmias ventriculares.</p><p>d) Diminuição da duração de ação dos bloqueadores neuromusculares adespolarizantes.</p><p>e) Menor risco de despertar intraoperatório.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034951,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034952,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034953,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034954,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003496,
+   "descricao": "<p>Na anestesia para cirurgia cardíaca:</p><p>a) A ação da cetamina sobre a resistência vascular sistêmica faz desta uma boa opção para indução e manutenção da anestesia no período que antecede à circulação extra-corpórea na correção da tetralogia da Fallot.</p><p>b) A presença de um shunt direita-esquerda aumenta o tempo de indução dos anestésicos inalatórios menos solúveis.</p><p>c) O uso do etomidato promove maior estabilidade cardiovascular.</p><p>d) As alterações farmacocinéticas relacionadas à instalação da circulação extra-corpórea provocam o aumento da concentração plasmática dos fármacos e consequentemente maior incidência de efeitos indesejados.</p><p>e) O uso da protamina em cirurgia cardíaca pode levar à hipertensão pulmonar e à diminuição da resistência vascular sistêmica.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034961,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034962,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034963,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034964,
+     "letra": "D",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003497,
+   "descricao": "<p>Em um paciente submetido &agrave; ressec&ccedil;&atilde;o de tumor de fossa posterior em posi&ccedil;&atilde;o sentada:</p> <p><strong>A) </strong>Os riscos associados a esse procedimento s&atilde;o quadriplegia, macroglossia e pneumoenc&eacute;falo.</p> <p><strong>B)</strong> O uso de &oacute;xido nitroso est&aacute; indicado para reduzir os efeitos hemodin&acirc;micos de agentes hipn&oacute;ticos durante toda a cirurgia.</p> <p><strong>C)</strong> O m&eacute;todo mais sens&iacute;vel para o diagn&oacute;stico de embolia venosa a&eacute;rea &eacute; a ecocardiografia transesof&aacute;gica.</p> <p><strong>D)</strong> Os anest&eacute;sicos vol&aacute;teis s&atilde;o melhor indicados na vig&ecirc;ncia de hipertens&atilde;o intracraniana por promoverem vasodilata&ccedil;&atilde;o cerebral.</p> <p><strong>E)</strong> A manuten&ccedil;&atilde;o de hipocapnia intensa (PaCO2 &lt; 25mmHg) &eacute; indicada pela sua capacidade de reduzir o fluxo sangu&iacute;neo cerebral e a press&atilde;o intracraniana ao longo de todo este procedimento cir&uacute;rgico.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034971,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034972,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034973,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034974,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003498,
+   "descricao": "<p>Mulher de 50 anos, 70kg e 1,70m, est&aacute; no quarto dia de p&oacute;s-operat&oacute;rio de colectomia total por tumor retal. Apresenta-se com abdome distendido e dor difusa. Ao exame, a frequ&ecirc;ncia respirat&oacute;ria de 25 irpm, frequ&ecirc;ncia card&iacute;aca de 100 bpm, press&atilde;o arterial de 80 x 60 mmHg e temperatura de 38&ordm;C. Ultrassonografia revelou abcesso abdominal.</p> <p><strong>A) </strong>O diagn&oacute;stico &eacute; de sepse grave.</p> <p><strong>B) </strong>Deve-se administrar antibi&oacute;ticos de amplo espectro imediatamente antes da coleta de hemocultura.</p> <p><strong>C) </strong>A reposi&ccedil;&atilde;o vol&ecirc;mica deve ser realizada com administra&ccedil;&atilde;o de 20 a 30 mL/kg de cristaloides.</p> <p><strong>D)</strong> Caso persista a hipotens&atilde;o arterial ap&oacute;s reposi&ccedil;&atilde;o vol&ecirc;mica adequada, deve-se instituir infus&atilde;o cont&iacute;nua de noradrenalina.</p> <p><strong>E) </strong>As metas de ressuscita&ccedil;&atilde;o nas primeiras 6 horas s&atilde;o: PVC 8 a 12 mmHg; PAM &gt; 65 mmHg; SvcO2 &gt; 70 %; diurese &gt; 0,5 ml/kg/h e normaliza&ccedil;&atilde;o do lactato.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034981,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034982,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034983,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034984,
+     "letra": "D",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003499,
+   "descricao": "<p>Quanto às particularidades das vias aéreas na população pediátrica:</p><p><b>A)</b> A laringe se situa anteriormente aos corpos vertebrais de C5-C6 nos lactentes.</p><p><b>B)</b> A inervação sensorial da via aérea superior é derivada dos nervos trigêmeo, glossofaríngeo, laríngeo superior e laríngeo recorrente.</p><p><b>C)</b> A cartilagem cricoide é o ponto de maior estreitamento da laringe até os 10-12 anos de idade.</p><p><b>D)</b> Até os 18 meses de vida, a intubação seletiva acidental tem igual probabilidade de ser à direita ou esquerda.</p><p><b>E) </b>Crianças abaixo de dois anos são mais propensas a taquicardia durante a laringoscopia direta ou intubação traqueal.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034991,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034992,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034993,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034994,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003500,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>Homem de 80 anos, 70kg, 1,75m, ser&aacute; submetido &agrave; artroplastia de quadril de urg&ecirc;ncia. Possui d&eacute;ficit auditivo, &eacute; tabagista, hipertenso, diab&eacute;tico e sedent&aacute;rio. Familiares relatam que, nos &uacute;ltimos meses, apresentou sinais de isolamento. Sobre disfun&ccedil;&atilde;o cognitiva no p&oacute;s-operat&oacute;rio:</p> <p><strong>A) </strong>Anti-histam&iacute;nicos podem ser usados como profilaxia de n&aacute;useas e v&ocirc;mitos.</p> <p><strong>B)</strong> Est&aacute; recomendada a anestesia de neuroeixo sem seda&ccedil;&atilde;o por reduzir, de forma significativa, o risco de disfun&ccedil;&atilde;o cognitiva no p&oacute;s-operat&oacute;rio quando comparada &agrave; anestesia geral.</p> <p><strong>C)</strong> O del&iacute;rio hiperativo aumenta a taxa de morbidade e mortalidade entre os pacientes com disfun&ccedil;&atilde;o cognitiva no p&oacute;s-operat&oacute;rio.</p> <p><strong>D)</strong> Letargia, sonol&ecirc;ncia diurna e agita&ccedil;&atilde;o noturna no p&oacute;s-operat&oacute;rio s&atilde;o manifesta&ccedil;&otilde;es do del&iacute;rio hipoativo.</p> <p><strong>E)</strong> A aplica&ccedil;&atilde;o do teste Confusion Assesment Method (CAM) no pr&eacute;-operat&oacute;rio permite uma classifica&ccedil;&atilde;o padronizada do del&iacute;rio.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035001,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035002,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035003,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035004,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

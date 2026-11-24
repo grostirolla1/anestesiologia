@@ -1,0 +1,2159 @@
+{
+ "prova": {
+  "slug": "sba-me2-anual-2005",
+  "banca": "SBA",
+  "concurso": "ME2 anual",
+  "titulo": "ME2 anual 2005",
+  "ano": "2005",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001447,
+   "descricao": "<p>A manobra de Ruben utilizada no controle básico da vida é:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014471,
+     "letra": "A",
+     "descricao": "A exploração digital da via aérea superior",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014472,
+     "letra": "B",
+     "descricao": "O posicionamento em decúbito dorsal horizontal sobre uma superfície dura",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014473,
+     "letra": "C",
+     "descricao": "A elevação do ângulo da mandíbula, extensão da cabeça e boca entreaberta com os polegares",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014474,
+     "letra": "D",
+     "descricao": "A hiperextensão da cabeça e elevação do mento",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001448,
+   "descricao": "<p>O bloqueio do plexo braquial pela via interescalênica freqüentemente poupa as fibras do nervo:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014481,
+     "letra": "A",
+     "descricao": "mediano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014482,
+     "letra": "B",
+     "descricao": "radial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014483,
+     "letra": "C",
+     "descricao": "ulnar",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014484,
+     "letra": "D",
+     "descricao": "musculocutâneo",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20014485,
+     "letra": "E",
+     "descricao": "cutâneo lateral do braço",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001449,
+   "descricao": "<p>Paciente na sala de recuperação pós-anestésica (SRPA) totalmente desperto, com respiração normal e tosse preservada, movimentos voluntários de dois membros, pressão arterial normal e respirando ar ambiente com saturação maior que 92%. Qual a pontuação pelo critério de Aldrete e Kroulik modificada?</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014491,
+     "letra": "A",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014492,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014493,
+     "letra": "C",
+     "descricao": "9",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014494,
+     "letra": "D",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001450,
+   "descricao": "<p>O tra&ccedil;ado da press&atilde;o venosa central consiste em tr&ecirc;s picos (a,c,v) e dois descensos (x,y). Qual destes elementos est&aacute; ausente na fibrila&ccedil;&atilde;o atrial?</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014501,
+     "letra": "A",
+     "descricao": "Onda c",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014502,
+     "letra": "B",
+     "descricao": "Onda a",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014503,
+     "letra": "C",
+     "descricao": "Onda v",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014504,
+     "letra": "D",
+     "descricao": "Descenso x",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001451,
+   "descricao": "<p>Hormônio que atua no túbulo coletor aumentando a reabsorção de sódio e água e a secreção de potássio:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014511,
+     "letra": "A",
+     "descricao": "angiotensina II",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014512,
+     "letra": "B",
+     "descricao": "antidiurético",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014513,
+     "letra": "C",
+     "descricao": "peptídio natriurético atrial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014514,
+     "letra": "D",
+     "descricao": "Aldosterona",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001452,
+   "descricao": "<p>O estímulo mais potente na contração da vesícula biliar é a:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014521,
+     "letra": "A",
+     "descricao": "Secretina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014522,
+     "letra": "B",
+     "descricao": "Colecistocinina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014523,
+     "letra": "C",
+     "descricao": "Sacarase",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014524,
+     "letra": "D",
+     "descricao": "Tripsina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001453,
+   "descricao": "<p>A insulina humana é:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014531,
+     "letra": "A",
+     "descricao": "Uma proteína de alto peso molecular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014532,
+     "letra": "B",
+     "descricao": "Composta por quatro cadeias de aminoácidos conectadas umas às outras por pontes de cálcio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014533,
+     "letra": "C",
+     "descricao": "Sintetizada nas células alfa do pâncreas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014534,
+     "letra": "D",
+     "descricao": "Composta por duas cadeias de aminoácidos ligadas umas às outras por pontes de dissulfeto",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001454,
+   "descricao": "<p>A histamina:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014541,
+     "letra": "A",
+     "descricao": "estimula os receptores H1, H2 e H3",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014542,
+     "letra": "B",
+     "descricao": "sofre metabolismo lento",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014543,
+     "letra": "C",
+     "descricao": "bloqueia a liberação do óxido nítrico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014544,
+     "letra": "D",
+     "descricao": "promove broncodilatação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001455,
+   "descricao": "<p>O sinal de Trousseau caracteriza:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014551,
+     "letra": "A",
+     "descricao": "hipernatremia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014552,
+     "letra": "B",
+     "descricao": "hipocalcemia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014553,
+     "letra": "C",
+     "descricao": "hipercalcemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014554,
+     "letra": "D",
+     "descricao": "hipomagnesemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001456,
+   "descricao": "<p>Repercussão da alcalose metabólica:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014561,
+     "letra": "A",
+     "descricao": "Aumento do potássio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014562,
+     "letra": "B",
+     "descricao": "Diminuição do tônus brônquico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014563,
+     "letra": "C",
+     "descricao": "Potencialização da toxicidade à digoxina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014564,
+     "letra": "D",
+     "descricao": "Aumento do cálcio ionizado sérico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001457,
+   "descricao": "<p>No gráfico, a variável Estado Físico ASA III é:</p><p><img src=\"data/imagens/464e074055655638.jpg\" alt=\"\"><br></p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014571,
+     "letra": "A",
+     "descricao": "soma dos quadrados",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014572,
+     "letra": "B",
+     "descricao": "desvio médio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014573,
+     "letra": "C",
+     "descricao": "média aritmética",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014574,
+     "letra": "D",
+     "descricao": "moda",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20014575,
+     "letra": "E",
+     "descricao": "mediana",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001458,
+   "descricao": "<p>Representa o fator II da coagulação:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014581,
+     "letra": "A",
+     "descricao": "fibrinogênio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014582,
+     "letra": "B",
+     "descricao": "íon cálcio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014583,
+     "letra": "C",
+     "descricao": "fator da fibrina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014584,
+     "letra": "D",
+     "descricao": "protrombina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001459,
+   "descricao": "<p>Situação clínica em que o bicarbonato de sódio é usualmente indicado na parada cardíaca, sempre aceito e considerado útil e efetivo:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014591,
+     "letra": "A",
+     "descricao": "Acidose láctica responsiva ao bicarbonato",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014592,
+     "letra": "B",
+     "descricao": "Sobredose de antidepressivos tricíclicos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014593,
+     "letra": "C",
+     "descricao": "Hiperpotassemia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014594,
+     "letra": "D",
+     "descricao": "Parada cardíaca prolongada com ventilação adequada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001460,
+   "descricao": "<p>O paciente obeso mórbido apresenta:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014601,
+     "letra": "A",
+     "descricao": "Consumo de oxigênio diminuído",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014602,
+     "letra": "B",
+     "descricao": "Ligação dos fármacos à albumina aumentada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014603,
+     "letra": "C",
+     "descricao": "Predisposição à hipertensão pulmonar",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014604,
+     "letra": "D",
+     "descricao": "Abertura da boca facilitada pela gordura submentoniana",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001461,
+   "descricao": "<p>Solução de irrigação utilizada para ressecção transuretral da próstata que apresenta risco de depósito de oxalato de cálcio nos rins:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014611,
+     "letra": "A",
+     "descricao": "Manitol",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014612,
+     "letra": "B",
+     "descricao": "Glicina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014613,
+     "letra": "C",
+     "descricao": "Soro fisiológico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014614,
+     "letra": "D",
+     "descricao": "Sorbitol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001462,
+   "descricao": "<p>Na anestesia geral do doador vivo para transplante renal, deve ser evitado:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014621,
+     "letra": "A",
+     "descricao": "isoflurano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014622,
+     "letra": "B",
+     "descricao": "enflurano",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014623,
+     "letra": "C",
+     "descricao": "óxido nitroso",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014624,
+     "letra": "D",
+     "descricao": "desflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001463,
+   "descricao": "<p>Hipoglicemiante oral que deve ser evitado se a creatinina for maior que 1,5 mg/dL, devendo ser suspenso antes de exames com contrastes iodados:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014631,
+     "letra": "A",
+     "descricao": "Forxiga",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014632,
+     "letra": "B",
+     "descricao": "Jardiance",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014633,
+     "letra": "C",
+     "descricao": "Glimepiride",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014634,
+     "letra": "D",
+     "descricao": "Metformina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001464,
+   "descricao": "<p>A ocorrência de rápidas dessaturações em situações de apnéia ao final da gestação é consequência de:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014641,
+     "letra": "A",
+     "descricao": "Diminuição da capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014642,
+     "letra": "B",
+     "descricao": "Diminuição da capacidade inspiratória",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014643,
+     "letra": "C",
+     "descricao": "Aumento do volume corrente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014644,
+     "letra": "D",
+     "descricao": "Retificação do diafragma",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001465,
+   "descricao": "<p>Paciente do sexo masculino, 18 anos, vítima de acidente automobilístico é hospitalizado e encaminhado para o centro cirúrgico para correção de fratura exposta de fêmur e bacia. Ao exame clínico apresenta: abertura ocular: ao comando de voz; resposta motora: obedece ao comando; resposta verbal: conversação confusa. A pontuação na avaliação da escala de coma de Glasgow é:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014651,
+     "letra": "A",
+     "descricao": "12",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014652,
+     "letra": "B",
+     "descricao": "13",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014653,
+     "letra": "C",
+     "descricao": "14",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014654,
+     "letra": "D",
+     "descricao": "11",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001466,
+   "descricao": "<p>Considerada conduta inicial na anafilaxia intra-operatória:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014661,
+     "letra": "A",
+     "descricao": "aminofilina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014662,
+     "letra": "B",
+     "descricao": "descontinuar todas as drogas anestésicas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014663,
+     "letra": "C",
+     "descricao": "difenidramina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014664,
+     "letra": "D",
+     "descricao": "bicarbonato de sódio",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20014665,
+     "letra": "E",
+     "descricao": "Corticosteróides",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001467,
+   "descricao": "<p>Paciente apresenta perda de fun&ccedil;&atilde;o motora dos m&uacute;sculos delt&oacute;ide e b&iacute;ceps braquial ap&oacute;s trauma de coluna. O segmento mais provavelmente acometido &eacute;:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014671,
+     "letra": "A",
+     "descricao": "C1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014672,
+     "letra": "B",
+     "descricao": "C3",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014673,
+     "letra": "C",
+     "descricao": "C5",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014674,
+     "letra": "D",
+     "descricao": "T2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001468,
+   "descricao": "<p>Aumenta o tônus do esfíncter esofagiano inferior (EEI):</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014681,
+     "letra": "A",
+     "descricao": "Atropina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014682,
+     "letra": "B",
+     "descricao": "Tiopental",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014683,
+     "letra": "C",
+     "descricao": "Metoclopramida",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014684,
+     "letra": "D",
+     "descricao": "Glicopirrolato",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001469,
+   "descricao": "<p>A dose de 100mg de Hidrocortisona equivale a:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014691,
+     "letra": "A",
+     "descricao": "3,75mg Dexametasona",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014692,
+     "letra": "B",
+     "descricao": "100mg Prednisona",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014693,
+     "letra": "C",
+     "descricao": "75 mg Metilprednisona",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014694,
+     "letra": "D",
+     "descricao": "50 mg Betametasona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001470,
+   "descricao": "<p>Alteração fisiológica que se encontra diminuída na gravidez a termo:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014701,
+     "letra": "A",
+     "descricao": "Volume plasmático",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014702,
+     "letra": "B",
+     "descricao": "Fibrinogênio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014703,
+     "letra": "C",
+     "descricao": "Ventilação-minuto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014704,
+     "letra": "D",
+     "descricao": "Atividade da colinesterase sérica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001471,
+   "descricao": "<p>A região anatômica do membro superior inervada pelo radial é a:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014711,
+     "letra": "A",
+     "descricao": "posterior do antebraço",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014712,
+     "letra": "B",
+     "descricao": "palmar menos borda ulnar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014713,
+     "letra": "C",
+     "descricao": "lateral superior do braço",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014714,
+     "letra": "D",
+     "descricao": "medial e anterior do antebraço",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001472,
+   "descricao": "<p>A dor durante o segundo est&aacute;gio do trabalho de parto envolve os seguintes derm&aacute;tomos:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014721,
+     "letra": "A",
+     "descricao": "T11 a T12",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014722,
+     "letra": "B",
+     "descricao": "T10 a L1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014723,
+     "letra": "C",
+     "descricao": "S2 a S4",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014724,
+     "letra": "D",
+     "descricao": "T10 a S4",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001473,
+   "descricao": "<p>Diminui a liberação do hormônio antidiurético (ADH):</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014731,
+     "letra": "A",
+     "descricao": "náuseas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014732,
+     "letra": "B",
+     "descricao": "morfina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014733,
+     "letra": "C",
+     "descricao": "nicotina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014734,
+     "letra": "D",
+     "descricao": "álcool",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001474,
+   "descricao": "<p>A alteração eletrocardiográfica abaixo é decorrente de:</p><p><img src=\"data/imagens/ea05a762e03f4e45.jpg\" alt=\"\"><br></p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014741,
+     "letra": "A",
+     "descricao": "Hipernatremia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014742,
+     "letra": "B",
+     "descricao": "Hiperpotassemia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014743,
+     "letra": "C",
+     "descricao": "Hipopotassemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014744,
+     "letra": "D",
+     "descricao": "Hipocalcemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001475,
+   "descricao": "<p>O ponto D no capnograma normal abaixo representa:</p><p><img src=\"data/imagens/31a3493311e3a288.jpg\" alt=\"\"><br></p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014751,
+     "letra": "A",
+     "descricao": "Fase inicial da expiração",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014752,
+     "letra": "B",
+     "descricao": "Espaço morto anatômico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014753,
+     "letra": "C",
+     "descricao": "CO2 expirado final",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014754,
+     "letra": "D",
+     "descricao": "Fase final da inspiração",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001476,
+   "descricao": "<p>Técnica anestésica regional para litotripsia renal por onda de choque, requer nível sensitivo em:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014761,
+     "letra": "A",
+     "descricao": "L1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014762,
+     "letra": "B",
+     "descricao": "L2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014763,
+     "letra": "C",
+     "descricao": "L4",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014764,
+     "letra": "D",
+     "descricao": "T6",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001477,
+   "descricao": "<p>Sob condições normais, o principal estímulo à liberação do hormônio antidiurético(ADH) é:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014771,
+     "letra": "A",
+     "descricao": "Hipotermia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014772,
+     "letra": "B",
+     "descricao": "Aumento da osmolalidade sérica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014773,
+     "letra": "C",
+     "descricao": "Ventilação espontânea",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014774,
+     "letra": "D",
+     "descricao": "Sedação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001478,
+   "descricao": "<p>Perda de calor que se refere aos raios infravermelhos provenientes de todos os objetos acima da temperatura absoluta:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014781,
+     "letra": "A",
+     "descricao": "Condução",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014782,
+     "letra": "B",
+     "descricao": "Radiação",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014783,
+     "letra": "C",
+     "descricao": "Convecção",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014784,
+     "letra": "D",
+     "descricao": "Evaporação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001479,
+   "descricao": "<p>Vantagem das soluções carreadoras de oxigênio:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014791,
+     "letra": "A",
+     "descricao": "Necessidade de prova cruzada e tempo de armazenamento curto",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014792,
+     "letra": "B",
+     "descricao": "Maior viscosidade e tamanho molecular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014793,
+     "letra": "C",
+     "descricao": "Efeito maior na coagulação",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014794,
+     "letra": "D",
+     "descricao": "P50 próximo ao fisiológico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001480,
+   "descricao": "<p>A albumina humana:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014801,
+     "letra": "A",
+     "descricao": "Apresenta alta afinidade por ácidos orgânicos (p.ex.: penicilina)",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014802,
+     "letra": "B",
+     "descricao": "Tem concentração aumentada na doença renal crônica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014803,
+     "letra": "C",
+     "descricao": "É insolúvel em água",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014804,
+     "letra": "D",
+     "descricao": "Tem peso molecular de 5000 daltons",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001481,
+   "descricao": "<p>Gestante em uso de agente agonista β2-adrenérgico para terapia tocolítica, apresenta como fator de risco para a anestesia:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014811,
+     "letra": "A",
+     "descricao": "Vasoconstrição uterina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014812,
+     "letra": "B",
+     "descricao": "Hipoglicemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014813,
+     "letra": "C",
+     "descricao": "Edema pulmonar",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014814,
+     "letra": "D",
+     "descricao": "Débito cardíaco reduzido",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001482,
+   "descricao": "<p>A principal inervação da região plantar é dada pelo nervo:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014821,
+     "letra": "A",
+     "descricao": "fibular superficial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014822,
+     "letra": "B",
+     "descricao": "fibular profundo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014823,
+     "letra": "C",
+     "descricao": "tibial posterior",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014824,
+     "letra": "D",
+     "descricao": "Sural",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001483,
+   "descricao": "<p>Constitui mecanismo adaptativo fisiológico mais importante, face à perda sanguínea continuada, nos anêmicos crônicos:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014831,
+     "letra": "A",
+     "descricao": "Aumento do débito cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014832,
+     "letra": "B",
+     "descricao": "Extração aumentada de oxigênio pelos tecidos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014833,
+     "letra": "C",
+     "descricao": "Diminuição da resistência vascular periférica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014834,
+     "letra": "D",
+     "descricao": "Acúmulo de 2,3 - DPG nos eritrócitos",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001484,
+   "descricao": "<p>São possíveis efeitos da hipotermia intra-operatória:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014841,
+     "letra": "A",
+     "descricao": "Diminuição do trabalho cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014842,
+     "letra": "B",
+     "descricao": "Redução da taxa de infecção pós-operatória",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014843,
+     "letra": "C",
+     "descricao": "Proteção miocárdica pós-operatória",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014844,
+     "letra": "D",
+     "descricao": "Diminuição do metabolismo de fármacos",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001485,
+   "descricao": "<p>Efeito(s) adverso(s) da monitorização com cateter pulmonar:</p><p>A) - Neuropatia </p><p>B) - Bloqueio de ramo direito </p><p>C) - Embolia aérea </p><p>D) - Bloqueio cardíaco total</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014851,
+     "letra": "A",
+     "descricao": "FFFF",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014852,
+     "letra": "B",
+     "descricao": "VFVF",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014853,
+     "letra": "C",
+     "descricao": "FVFV",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014854,
+     "letra": "D",
+     "descricao": "VVVV",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001486,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao garroteamento de membros durante anestesia venosa regional, pode-se afirmar que:</p> <p>1- o segundo garroteamento deve ser evitado em ter&ccedil;o m&eacute;dio do bra&ccedil;o, ter&ccedil;o inferior da coxa e ter&ccedil;o superior da perna</p> <p>2- garrotes pneum&aacute;ticos s&atilde;o mais seguros por n&atilde;o serem sujeitos &agrave; descalibra&ccedil;&atilde;o, vazamentos ou riscos de contamina&ccedil;&atilde;o</p> <p>3- as press&otilde;es de garroteamento aconselh&aacute;veis para membros superiores, em adultos, s&atilde;o de 200 a 300 mmHg (26,6-40 kPa) e para membros inferiores de 300 a 500 mmHg (40-46,5 kPa)</p> <p>4- o tempo m&aacute;ximo de garroteamento de um membro est&aacute; diretamente relacionado &agrave; localiza&ccedil;&atilde;o do segundo garrote, n&atilde;o havendo rela&ccedil;&atilde;o com as caracter&iacute;sticas do paciente</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014861,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014862,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014863,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014864,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001487,
+   "descricao": "<p><b>Questão Adaptada</b></p><p>Durante a recuperação do bloqueio neuromuscular:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014871,
+     "letra": "A",
+     "descricao": "quando T4/T1 maior ou igual 0.6 opaciente consegue tossir",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014872,
+     "letra": "B",
+     "descricao": "a dificuldade de deglutição só desaparece quando T4/T1 ≥ 0,9",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20014873,
+     "letra": "C",
+     "descricao": "valor de T4/T1 > 0,7 é suficiente para prevenir aspiração gástrica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014874,
+     "letra": "D",
+     "descricao": "a seqüência de quatro estímulos necessita valores pré-bloqueios",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001488,
+   "descricao": "<p>Hormônio(s) e ou autacóide(s) que aumenta(m) o fluxo sangüíneo renal: </p><p>1- norepinefrina </p><p>2- prostaglandina </p><p>3- endotelina </p><p>4- óxido nítrico</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014881,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014882,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014883,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014884,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20014885,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001489,
+   "descricao": "<p>Na anestesia para paciente com trauma medular há uma semana, com lesão ao nível C4-C5, é indicado o uso de: </p><p>1- Hipotensão arterial induzida</p><p> 2- Hiperventilação </p><p>3- Succinilcolina </p><p>4- Ventilação artificial</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014891,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014892,
+     "letra": "B",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014893,
+     "letra": "C",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20014894,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001490,
+   "descricao": "<p>A amiodarona: </p><p>1- bloqueia os canais de sódio </p><p>2- bloqueia os canais de potássio </p><p>3- produz vasodilatação periférica e hipotensão </p><p>4- associa-se com pró-arritmias</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014901,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014902,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014903,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014904,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001491,
+   "descricao": "<p>Qual fator da coagulação é produzido pelo fígado:</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014911,
+     "letra": "A",
+     "descricao": "Fator II",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014912,
+     "letra": "B",
+     "descricao": "Fator VIII",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014913,
+     "letra": "C",
+     "descricao": "Fator de von Willebrand",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014914,
+     "letra": "D",
+     "descricao": "Cálcio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001492,
+   "descricao": "<p>Fármaco(s) que interfere(m) na atividade das plaquetas e tempo de sangramento: </p><p>1 - Aspirina </p><p>2 - Etanol </p><p>3 - Indometacina </p><p>4 - Dipiridamol</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014921,
+     "letra": "A",
+     "descricao": "1, 2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014922,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014923,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014924,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001493,
+   "descricao": "<p>A inserção do cimento metilmetacrilato nos procedimentos artroplásticos pode(m) causar: </p><p>1-Hipotensão </p><p>2- Embolização de ar </p><p>3- Lise de células sanguíneas </p><p>4- Hipoxemia</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014931,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20014932,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014933,
+     "letra": "C",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014934,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001494,
+   "descricao": "<p>Paciente chegou ao hospital em coma por traumatismo cranioencefálico (TCE). A presença de poliúria pode ser compatível com: </p><p>1- paciente diabético </p><p>2- osmolalidade urinária menor que a osmolalidade plasmática 3- sódio plasmático elevado </p><p>4- administração de desmopressina</p>",
+   "ano": "2005",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20014941,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20014942,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20014943,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20014944,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20014945,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  }
+ ]
+}

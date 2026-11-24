@@ -1,0 +1,3444 @@
+{
+ "prova": {
+  "slug": "sba-tea-2022",
+  "banca": "SBA",
+  "concurso": "TEA",
+  "titulo": "TEA 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2004433,
+   "descricao": "<p>O Código de Ética Médica preceitua a elaboração, por escrito, do prontuário médico. No caso da anestesia, isso envolve:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044331,
+     "letra": "A",
+     "descricao": "Termo de consentimento informado específico para a anestesia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044332,
+     "letra": "B",
+     "descricao": "Ficha de avaliação pós operatória até 48h pós procedimento cirúrgico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044333,
+     "letra": "C",
+     "descricao": "Ficha anestésica com dados cartesianos em intervalos que não ultrapassem 15 minutos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044334,
+     "letra": "D",
+     "descricao": "Ficha de avaliação pré anestésica preenchida pelo anestesiologista, que realizará o procedimento",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004434,
+   "descricao": "<p>A Assembleia de Representantes da Sociedade Brasileira de Anestesiologia (SBA) tem como atribuição:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044341,
+     "letra": "A",
+     "descricao": "Indica os cargos de Diretoria da SBA",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044342,
+     "letra": "B",
+     "descricao": "Define alterações no Estatuto da SBA",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044343,
+     "letra": "C",
+     "descricao": "Elege os membros das comissões da SBA",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044344,
+     "letra": "D",
+     "descricao": "Seleciona os membros do Conselho Fiscal da SBA",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004435,
+   "descricao": "<p>Qual das medidas abaixo deve ser utilizada para se evitar poluição anestésica na sala de cirurgia?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044351,
+     "letra": "A",
+     "descricao": "Utilizar o sistema mapleson D na ventilação espontânea durante anestesia pediátrica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044352,
+     "letra": "B",
+     "descricao": "Introduzir óxido nitroso na mistura anestésica antes de finalizar a intubação traqueal.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044353,
+     "letra": "C",
+     "descricao": "Tentar, sempre que possível, utilizar o sistema de Bain ou outros sistemas de ventilação sem reinalação.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044354,
+     "letra": "D",
+     "descricao": "Realizar todos os testes de vazamento nos circuitos ventilatórios utilizando fluxo adicional de O2 , sem a adição de agentes anestésicos.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004436,
+   "descricao": "<p>De acordo com os componentes do Índice de Risco Cardíaco Revisado de Lee, qual alternativa melhor representa um paciente classe III de eventos cardíacos maiores?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044361,
+     "letra": "A",
+     "descricao": "Cirurgia intratorácica, hipotireoidismo.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044362,
+     "letra": "B",
+     "descricao": "Níveis de creatinina plasmática acima de 2 ng.dl-1, acidose metabólica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044363,
+     "letra": "C",
+     "descricao": "História de insuficiência cardíaca congestiva, história de doença cerebrovascular.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044364,
+     "letra": "D",
+     "descricao": "Diabetes mellitus não insulinodependente, história de insuficiência cardíaca congestiva.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004437,
+   "descricao": "<p>Mulher de 22 anos, 68 kg e 1,55 m, hígida, está programada para cirurgia de rinoplastia estética. Ao encontrá-la na área pré-operatória, você percebe que ela está mascando um chiclete. Quando você pergunta sobre isso, ela imediatamente engole o chiclete. Depois de investigar melhor, ela admite que este é o terceiro pedaço de chiclete que ela mastigou e engoliu essa manhã. Sobre o jejum pré-operatório, devemos considerar:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044371,
+     "letra": "A",
+     "descricao": "Adiar a cirurgia para outro dia já que houve quebra de jejum.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044372,
+     "letra": "B",
+     "descricao": "Adiar a cirurgia por quatro horas para todos os pacientes que mascam chicletes.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044373,
+     "letra": "C",
+     "descricao": "Adiar a cirurgia por seis horas, já que engolir o chiclete é considerado refeição leve.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044374,
+     "letra": "D",
+     "descricao": "Adiar a cirurgia por seis horas, já que mascar chiclete tem grande efeito na secreção gástrica.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004438,
+   "descricao": "<p>Quando se compara a intuba&ccedil;&atilde;o orotraqueal e nasotraqueal com a laringoscopia direta, podemos afirmar que:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044381,
+     "letra": "A",
+     "descricao": "Têm a mesma probabilidade de complicações.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044382,
+     "letra": "B",
+     "descricao": "Possibilitam a passagem de tubos traqueais de mesmo diâmetro.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044383,
+     "letra": "C",
+     "descricao": "Em caso de intubação às cegas, devemos preferir a via orotraqueal.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044384,
+     "letra": "D",
+     "descricao": "A via nasal permite maior utilização de sedação consciente com menor reflexo de vômito.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004439,
+   "descricao": "<p>O edema de mucosa da orofaringe, laringe e traqueia, se inicia na gestação:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044391,
+     "letra": "A",
+     "descricao": "Durante o primeiro trimestre",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044392,
+     "letra": "B",
+     "descricao": "Durante o segundo trimestre",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044393,
+     "letra": "C",
+     "descricao": "Ao final do terceiro trimestre",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044394,
+     "letra": "D",
+     "descricao": "Ao final do segundo trimestre",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004440,
+   "descricao": "<p>No pós-operatório de histerectomia vaginal com duração de duas horas e 30 minutos, sob posição de litotomia, mulher apresentou a síndrome do pé caído por causa da lesão do nervo:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044401,
+     "letra": "A",
+     "descricao": "Femoral lateral.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044402,
+     "letra": "B",
+     "descricao": "Tibial posterior.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044403,
+     "letra": "C",
+     "descricao": "Fibular comum.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044404,
+     "letra": "D",
+     "descricao": "Plantar medial.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004441,
+   "descricao": "<p>Mulher de 55 anos, 120 kg de peso e 1,60 m de altura será submetida à nefrectomia direita para exérese de tumor renal. Em relação ao posicionamento para essa cirurgia:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044411,
+     "letra": "A",
+     "descricao": "A ventilação do pulmão dependente não está afetada.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044412,
+     "letra": "B",
+     "descricao": "A fixação lateral do paciente não influi na incidência de necrose asséptica da cabeça do fêmur.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044413,
+     "letra": "C",
+     "descricao": "A circundução do ombro inferior pode promover estiramento do nervo supraescapular e produzir importante dor no ombro no pós-operatório.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044414,
+     "letra": "D",
+     "descricao": "Na posição lateral, o peso do joelho superior contra uma superfície pouco acolchoada pode comprimir o nervo fibular comum causando perda de sensibilidade na planta do pé.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004442,
+   "descricao": "<p>Na imagem abaixo, é selecionada uma colocação padrão de eletrodos de membros do ECG para cirurgia transoperatória. Qual dos eletrodos pode ser colocado em qualquer lugar do corpo porque é um eletrodo de aterramento?&nbsp;</p><p><img src=\"data/imagens/8953137e0f849fb9.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044421,
+     "letra": "A",
+     "descricao": "RA",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044422,
+     "letra": "B",
+     "descricao": "LA",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044423,
+     "letra": "C",
+     "descricao": "RL",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044424,
+     "letra": "D",
+     "descricao": "LL",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004443,
+   "descricao": "<p>m relação à utilização do estimulador de nervo periférico para monitorização do bloqueio neuromuscular:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044431,
+     "letra": "A",
+     "descricao": "Os eletrodos de estimulação devem ser colocados sobre o músculo a ser avaliado.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044432,
+     "letra": "B",
+     "descricao": "A estimulação supramáxima é obtida com intensidade de corrente inferior a 10 mA.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044433,
+     "letra": "C",
+     "descricao": "A distância entre os eletrodos de estimulação deve ser superior a 10 cm para obter a melhor resposta.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044434,
+     "letra": "D",
+     "descricao": "A colocação do eletrodo negativo em posição mais distal evoca uma melhor resposta de contração muscular.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004444,
+   "descricao": "<p>Na monitorização da função neuromuscular podemos utilizar alguns nervos para serem estimulados, gerando uma resposta muscular que é quantificada por aceleromiografia. São eles:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044441,
+     "letra": "A",
+     "descricao": "Femural, ulnar e safeno",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044442,
+     "letra": "B",
+     "descricao": "Facial, tibial posterior e ulnar",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044443,
+     "letra": "C",
+     "descricao": "Ulnar, tibial posterior e safeno",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044444,
+     "letra": "D",
+     "descricao": "Tibial posterior, facial e femural",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004445,
+   "descricao": "<p>Efeitos da estimula&ccedil;&atilde;o parassimp&aacute;tica:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044451,
+     "letra": "A",
+     "descricao": "Aumento da secreção das glândulas sudoríparas; miose; contração do músculo ciliar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044452,
+     "letra": "B",
+     "descricao": "Contração do detrusor da bexiga; bradicardia; constrição da musculatura lisa brônquica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044453,
+     "letra": "C",
+     "descricao": "Aumento da contratilidade do miocárdio; contração do músculo ciliar; contração do esfíncter do trato gastrointestinal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044454,
+     "letra": "D",
+     "descricao": "Aumento da motilidade gastrointestinal; condução aumentada do nó atrioventricular, relaxamento do trígono vesical",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004446,
+   "descricao": "<p>Homem de 59 anos, 75 kg e 1,72 m &eacute; submetido a laparotomia por doen&ccedil;a diverticular perfurada. Evolui no primeiro dia do p&oacute;s-operat&oacute;rio com choque s&eacute;ptico. Apesar de reposi&ccedil;&atilde;o vol&ecirc;mica adequada e uso de noradrenalina em altas doses, permanece hipotenso. O ecocardiograma realizado &agrave; beira do leito mostra o ventr&iacute;culo esquerdo normal e hiperdin&acirc;mico. O &iacute;ndice card&iacute;aco &eacute; de 4,8 L.min-1 .m-2. Que f&aacute;rmaco dever&aacute; ser combinado com a noradrenalina?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044461,
+     "letra": "A",
+     "descricao": "Milrinona",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044462,
+     "letra": "B",
+     "descricao": "Fenilefrina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044463,
+     "letra": "C",
+     "descricao": "Dobutamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044464,
+     "letra": "D",
+     "descricao": "Vasopressina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004447,
+   "descricao": "<p>Mulher de 68 anos, 60 kg e 1,50 m, submetida a retossigmoidectomia realizou uma revasculariza&ccedil;&atilde;o mioc&aacute;rdica h&aacute; 18 meses com implante de art&eacute;ria mam&aacute;ria em art&eacute;ria descendente anterior e art&eacute;ria radial na art&eacute;ria diagonal 1 e diagonal 2.&nbsp;&Eacute; assintom&aacute;tica do ponto de vista cardiovascular desde ent&atilde;o. Durante a cirurgia, apresenta PAM 80 mmHg, FC 60 bpm, IC 1,1 L/m<sup>2</sup>, VVS 10%; bioqu&iacute;mica dentro da normalidade somente com lactato elevado. Nessa situa&ccedil;&atilde;o devemos administrar:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044471,
+     "letra": "A",
+     "descricao": "Adrenalina, 1 a 20 µg/min",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044472,
+     "letra": "B",
+     "descricao": "Fenilefrina, 20 a 200 µg/min",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044473,
+     "letra": "C",
+     "descricao": "Dobutamina, 120 a 1200 mcg/min",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044474,
+     "letra": "D",
+     "descricao": "Levosimendana, 0,05 a 0,2 µg/kg/min",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004448,
+   "descricao": "<p>Homem de 68 anos, 75 kg e 1,72 m, portador de asma br&ocirc;nquica desde a inf&acirc;ncia, apresenta quadro de dor precordial, com diagn&oacute;stico de insufici&ecirc;ncia coronariana. O betabloqueador mais indicado nessa situa&ccedil;&atilde;o &eacute;:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044481,
+     "letra": "A",
+     "descricao": "Timolol.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044482,
+     "letra": "B",
+     "descricao": "Nadolol.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044483,
+     "letra": "C",
+     "descricao": "Atenolol.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044484,
+     "letra": "D",
+     "descricao": "Propranolol.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004449,
+   "descricao": "<p>A raz&atilde;o entre o Fluxo Expirat&oacute;rio For&ccedil;ado no primeiro segundo (FEV1 ) e a Capacidade Vital For&ccedil;ada , FEV1 / CVF, permite identificar dist&uacute;rbios respirat&oacute;rios. Correlacione os valores de FEV1/CVF das imagens A, B e C com as situa&ccedil;&otilde;es cl&iacute;nicas:&nbsp;</p> <p><img src=\"data/imagens/587f5bcb7fbdf928.png\" alt=\"\"></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044491,
+     "letra": "A",
+     "descricao": "A no paciente asmático",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044492,
+     "letra": "B",
+     "descricao": "B na doença restritiva com FEV1 mínimo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044493,
+     "letra": "C",
+     "descricao": "C na fibrose e nas doenças intersticiais pulmonares",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044494,
+     "letra": "D",
+     "descricao": "A e C com aumento da FEV1 após o uso do salbutamol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004450,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos volumes e Capacidades Pulmonares:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044501,
+     "letra": "A",
+     "descricao": "A capacidade pulmonar total é o volume total de ar nos pulmões após a inspiração normal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044502,
+     "letra": "B",
+     "descricao": "A capacidade residual funcional é o volume de ar que permanece nos pulmões após uma expiração forçada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044503,
+     "letra": "C",
+     "descricao": "A capacidade vital corresponde à soma de dois volumes pulmonares: volume de reserva inspiratório e volume corrente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044504,
+     "letra": "D",
+     "descricao": "O volume residual é o volume que permanece nos pulmões após uma expiração máxima, impedindo o colapso alveolar",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004451,
+   "descricao": "<p>Mulher de 28 anos, 67 kg e 1,53 m, gestante, foi submetida a cesariana por pr&eacute;-ecl&acirc;mpsia ap&oacute;s o in&iacute;cio da dose de ataque do sulfato de magn&eacute;sio. Foi realizada a raquianestesia, com 10 mg de bupivaca&iacute;na hiperb&aacute;rica a 0,5% com adi&ccedil;&atilde;o de 15 mcg de fentanil e 60 mcg de morfina. Pensando em analgesia multimodal, ap&oacute;s a extra&ccedil;&atilde;o fetal, foram administrados dipirona, 2 g, e parecoxibe, 40 mg. Nesse caso:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044511,
+     "letra": "A",
+     "descricao": "O parecoxibe é contraindicado por causa do risco de síndrome HELLP",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044512,
+     "letra": "B",
+     "descricao": "A utilização de sulfato de magnésio é inadequada para atuar como adjuvante da analgesia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044513,
+     "letra": "C",
+     "descricao": "A morfina, por ser hidrossolúvel, alcança rapidamente o sítio de ação e inicia seu efeito em até 60 minutos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044514,
+     "letra": "D",
+     "descricao": "O uso da dipirona é dispensável, nesse momento, pois sua duração de ação é de quatro a seis horas e não possui efeito antiinflamatório",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004452,
+   "descricao": "<p>Homem de 45 anos, 75 kg e 1,70 m foi submetido &agrave; colecistectomia videolaparosc&oacute;pica sob anestesia geral com indu&ccedil;&atilde;o venosa por meio de fentanil, 200 mcg; lidoca&iacute;na, 60 mg; propofol, 200 mg; e rocur&ocirc;nio, 50 mg. A manuten&ccedil;&atilde;o foi feita com sevoflurano, 1,5% e remifentanil, 0,1 mcg/kg/min. A revers&atilde;o do bloqueio neuromuscular usou 150 mg de sugamadex intravenoso. Nesse caso, considerando os princ&iacute;pios da farmacodin&acirc;mica:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044521,
+     "letra": "A",
+     "descricao": "A presença de fármacos com efeitos sinérgicos permite a utilização de concentrações menores de sevoflurano",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044522,
+     "letra": "B",
+     "descricao": "A administração do sugamadex para a reversão do bloqueio neuromuscular caracteriza um antagonismo competitivo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044523,
+     "letra": "C",
+     "descricao": "O índice terapêutico do propofol está aumentado quando são utilizados lidocaína e fentanil na indução da anestesia geral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044524,
+     "letra": "D",
+     "descricao": "A necessidade de doses menores do remifentanil para obter o mesmo efeito terapêutico caracteriza a ocorrência de taquifilaxia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004453,
+   "descricao": "<p>O fentanil, em relação ao sulfentanil, caracteriza-se por:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044531,
+     "letra": "A",
+     "descricao": "Menor pka.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044532,
+     "letra": "B",
+     "descricao": "Menor volume de distribuição.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044533,
+     "letra": "C",
+     "descricao": "Menor grau de ligação protéica.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044534,
+     "letra": "D",
+     "descricao": "Menor meia vida de eliminação.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004454,
+   "descricao": "<p>Quanto aos agentes venosos não opióides:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044541,
+     "letra": "A",
+     "descricao": "O etomidato inibe a esteroidogênese adrenal (11 beta-hidroxilase) de forma dose-dependente e irreversível.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044542,
+     "letra": "B",
+     "descricao": "O propofol aumenta a resistência vascular sistêmica como mecanismo de compensação da diminuição do débito cardíaco.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044543,
+     "letra": "C",
+     "descricao": "A cetamina estimula as ações dos receptores glutamatérgicos NMDA sobre os interneurônios corticais e subcorticais produzindo analgesia.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044544,
+     "letra": "D",
+     "descricao": "A amnésia anterógrada e a ansiólise dos benzodiazepínicos ocorrem por ação nas subunidades alfa 1 e alfa 2 dos receptores gabaérgicos respectivamente.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004455,
+   "descricao": "<p>Com que idade a concentração alveolar mínima do sevoflurano é mais alta?&nbsp;&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044551,
+     "letra": "A",
+     "descricao": "Recém-nascido",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044552,
+     "letra": "B",
+     "descricao": "12 meses de vida",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044553,
+     "letra": "C",
+     "descricao": "18 meses de vida",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044554,
+     "letra": "D",
+     "descricao": "24 meses de vida",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004456,
+   "descricao": "<p>Considerando a farmacologia clínica dos anestésicos inalatórios:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044561,
+     "letra": "A",
+     "descricao": "O desflurano sensibiliza o miocárdio para a ação das catecolaminas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044562,
+     "letra": "B",
+     "descricao": "O desflurano causa taquicardia se a fração inspirada for rapidamente elevada para 6%",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044563,
+     "letra": "C",
+     "descricao": "O desflurano em fração inspirada de 3% aumenta a pressão arterial por efeito inotrópico positivo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044564,
+     "letra": "D",
+     "descricao": "O sevoflurano administrado previamente a um evento isquêmico cardíaco agrava a lesão miocárdica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004457,
+   "descricao": "<p>Diante do diagnóstico de parada cardíaca causada pela injeção intravascular de bupivacaína, a primeira medida deve ser:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044571,
+     "letra": "A",
+     "descricao": "Intubação orotraqueal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044572,
+     "letra": "B",
+     "descricao": "Massagem cardíaca externa",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044573,
+     "letra": "C",
+     "descricao": "Administração de adrenalina, 1 mg/kg intravenosa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044574,
+     "letra": "D",
+     "descricao": "Injeção intravenosa de emulsão lipídica a 20% 1 ml/kg",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004458,
+   "descricao": "<p>Mulher de 65 anos, 57 kg e 1,65 m, hipertensa e diabética insulinodependente, com fratura do rádio, submeteu-se a bloqueio do plexo braquial por via axilar com 30 mL de bupivacaína a 0,25% para tratamento cirúrgico. A paciente evoluiu com instabilidade cardiovascular e arritmias ventriculares, de modo que foram instituídos manobras de ressuscitação cardiopulmonar e uso intravenoso de:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044581,
+     "letra": "A",
+     "descricao": "Bloqueadores dos canais de cálcio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044582,
+     "letra": "B",
+     "descricao": "Lidocaina para tratar as arritmias ventriculares",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044583,
+     "letra": "C",
+     "descricao": "Emulsão lipídica pelos efeitos nos canais de sódio",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044584,
+     "letra": "D",
+     "descricao": "Vasopressina pela ação nos receptores V1 acoplados à proteína G",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004459,
+   "descricao": "<p>Em relação aos tipos de bloqueio neuromuscular:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044591,
+     "letra": "A",
+     "descricao": "O bloqueio despolarizante não é prolongado por anticolinesterásicos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044592,
+     "letra": "B",
+     "descricao": "O bloqueio despolarizante é caracterizado por fadiga, facilitação pós-tetânica e ausência de fasciculação",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044593,
+     "letra": "C",
+     "descricao": "Os bloqueadores despolarizantes possuem ações secundárias como bloqueio de receptores pré-sinápticos, o que promove fadiga em altas frequências de estímulo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044594,
+     "letra": "D",
+     "descricao": "Os bloqueadores adespolarizantes evitam a ativação dos receptores de acetilcolina, enquanto os despolarizantes ativam esses receptores de maneira semelhante à acetilcolina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004460,
+   "descricao": "<p>Voc&ecirc; &eacute; chamado para fazer a avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica de um homem de 18 anos, 52 kg, 1,68 m, portador de distrofia miot&ocirc;nica sem altera&ccedil;&otilde;es respirat&oacute;rias, que ser&aacute; submetido &agrave; retirada de um siso. Sobre o perioperat&oacute;rio:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044601,
+     "letra": "A",
+     "descricao": "A retirada do siso pode ser realizada em nível ambulatorial.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044602,
+     "letra": "B",
+     "descricao": "Bloqueadores neuromusculares não despolarizantes não previnem espasmo muscular na miotonia.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044603,
+     "letra": "C",
+     "descricao": "Os anestésicos inalatórios são preferíveis aos anestésicos venosos por diminuírem o risco de miotonias.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044604,
+     "letra": "D",
+     "descricao": "Medicação pré-anestésica deve ser indicada para diminuir o risco de miotonias desencadeada pelo estresse.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004461,
+   "descricao": "<p>Mulher de 55 anos, 78 kg e 1,64 m &eacute; portadora de neoplasia na mama direita sem outras comorbidades. Foi submetida &agrave; mastectomia radical &agrave; direita, sob anestesia geral, com ventila&ccedil;&atilde;o mec&acirc;nica e bloqueio paravertebral. Depois do in&iacute;cio da cirurgia, passou a cursar com queda acentuada da press&atilde;o arterial, que evoluiu rapidamente para incapacidade de medir a press&atilde;o arterial n&atilde;o invasiva, aus&ecirc;ncia de sinal na oximetria de pulso, capnografia abaixo de 10 mmHg e aus&ecirc;ncia de pulso carot&iacute;deo, com o tra&ccedil;ado eletrocardiogr&aacute;fico abaixo. Nessa situa&ccedil;&atilde;o:&nbsp;</p> <p><img src=\"data/imagens/666840542a5cbf39.jpg\" alt=\"\"></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044611,
+     "letra": "A",
+     "descricao": "A desfibrilação precoce com 200 J deverá ser realizada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044612,
+     "letra": "B",
+     "descricao": "É indicado interromper a ventilação mecânica e iniciar compressões torácicas na frequência de 80 por minuto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044613,
+     "letra": "C",
+     "descricao": "Após o início de manobras de reanimação cardiopulmonar adequadas, a punção torácica pode ser necessária para restabelecer a circulação espontânea",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044614,
+     "letra": "D",
+     "descricao": "Deve-se administrar adrenalina por via endotraqueal no início dos procedimentos de reanimação cardiopulmonar, que pode ser repetida a cada 3-5 minutos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004462,
+   "descricao": "<p>Lactente de 11 meses e 10 kg , será submetido à punção de veia jugular interna guiada por ultrassonografia sob anestesia geral. Após indução com sevoflurano a 6% e duas tentativas de laringoscopia do residente e do staff sem sucesso, foi acoplada a máscara facial com fluxo de 3L.min.-1 de oxigênio a 100%. O paciente apresentava distensão abdominal importante. Depois de um minuto, apresentou bradicardia com frequência cardíaca abaixo de 60 bpm. Nessa situação, qual é sua conduta inicial?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044621,
+     "letra": "A",
+     "descricao": "Passar sonda nasogástrica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044622,
+     "letra": "B",
+     "descricao": "Iniciar massagem cardíaca externa",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044623,
+     "letra": "C",
+     "descricao": "Administrar atropina 0,5 mg intravenosa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044624,
+     "letra": "D",
+     "descricao": "Administrar adrenalina 0,1mg intravenosa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004463,
+   "descricao": "<p>Com rela&ccedil;&atilde;o ao l&iacute;quido cefalorraquidiano (LCR):&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044631,
+     "letra": "A",
+     "descricao": "Em 24 horas são formados cerca de 150 a 200 mL de LCR",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044632,
+     "letra": "B",
+     "descricao": "O LCR é formado no plexo coroide dos ventrículos cerebrais e nas vilosidades aracnoideas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044633,
+     "letra": "C",
+     "descricao": "A densidade normal do LCR varia entre homens e mulheres pós-menopausa, pré-menopausa e gestantes",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044634,
+     "letra": "D",
+     "descricao": "As características de um LCR normal apresentam um pH de 7,4 e uma pressão maior quando medida em decúbito lateral comparado com a posição sentada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004464,
+   "descricao": "<p>Dois pacientes, 1 e 2, foram submetidos &agrave; osteoss&iacute;ntese do f&ecirc;mur sob raquianestesia com pun&ccedil;&atilde;o em L3-L4 em dec&uacute;bito lateral. No paciente 1 (70 anos, 85 kg e 1,60 m), foram administrados 10 mg de bupivaca&iacute;na hiperb&aacute;rica. No paciente 2 (30 anos, 65 kg e 1,70 m), foram administrados 10 mg de bupivaca&iacute;na isob&aacute;rica. No paciente 1, o n&iacute;vel de bloqueio sensitivo foi mais alto e a alta da SRPA foi mais r&aacute;pida do que no paciente 2. Que fator determinou essa diferen&ccedil;a?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044641,
+     "letra": "A",
+     "descricao": "Peso do paciente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044642,
+     "letra": "B",
+     "descricao": "Idade do paciente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044643,
+     "letra": "C",
+     "descricao": "Altura do paciente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044644,
+     "letra": "D",
+     "descricao": "Baricidade do anestésico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004465,
+   "descricao": "<p>Mulher de 42 anos, 60kg e 1,70 m começou com quadro progressivo de intolerância ao exercício e fraqueza muscular superior, com oftalmoplegia externa crônica e ptose palpebral e diagnóstico de miopatia mitocondrial de origem genética. Nesse caso:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044651,
+     "letra": "A",
+     "descricao": "Não existe uma associação entre miopatia mitocondrial e hipertermia maligna.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044652,
+     "letra": "B",
+     "descricao": "O uso de succinilcolina é contraindicado, por desencadear hipertermia maligna.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044653,
+     "letra": "C",
+     "descricao": "O potencial desencadeador da hipertermia maligna é semelhante entre os anestésicos voláteis.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044654,
+     "letra": "D",
+     "descricao": "A dosagem pré-operatória de creatinofosfoquinase indica gravidade da miopatia mitocondrial e risco de hipertermia maligna.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004466,
+   "descricao": "<p>Qual o procedimento cirúrgico relacionado com maior incidência de náuseas e vômitos no pós-operatório?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044661,
+     "letra": "A",
+     "descricao": "Histerectomia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044662,
+     "letra": "B",
+     "descricao": "Apendicectomia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044663,
+     "letra": "C",
+     "descricao": "Videolaparoscopia.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044664,
+     "letra": "D",
+     "descricao": "Correção de estrabismo.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004467,
+   "descricao": "<p>Homem de 68 anos, 78 kg e 1,65 m , minimental 27, no pós-operatório imediato de colecistectomia laparoscópica sob anestesia geral, sem intercorrências, apresentou na eletroencefalografia uma predominância de ondas com frequências lentas , inferiores a 1 Hz (0,1 a -1 Hz) com alta amplitude. Essa análise informa que o cérebro do paciente tem:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044671,
+     "letra": "A",
+     "descricao": "Memória explicita.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044672,
+     "letra": "B",
+     "descricao": "Atividade cerebral aumentada.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044673,
+     "letra": "C",
+     "descricao": "Percepção de estímulo dolorosos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044674,
+     "letra": "D",
+     "descricao": "Redução do metabolismo e da atividade cerebral por causa dos efeitos dos anestésicos gerais.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004468,
+   "descricao": "<p>Em relação à monitorização cardiovascular, podemos afirmar que:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044681,
+     "letra": "A",
+     "descricao": "O ecotransesofágico promove medidas estáticas de pré-carga, contratilidade e pós-carga.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044682,
+     "letra": "B",
+     "descricao": "No cateter de Swan-Ganz, a mensuração do débito cardíaco é feita pela técnica da termodiluição.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044683,
+     "letra": "C",
+     "descricao": "A pressão venosa central (PVC) possui um traçado com duas ondas ascendentes (a, c) e duas descendentes (x, y).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044684,
+     "letra": "D",
+     "descricao": "A pressão de artéria pulmonar ocluída, por medir a pressão em território mais próximo à circulação esquerda, correlacionase com a pós-carga do ventrículo esquerdo.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004469,
+   "descricao": "<p>Ao observar as curvas de pressão dos anestésicos voláteis versus temperatura podemos notar que:&nbsp;</p><p><img src=\"data/imagens/1f498b9883df5db3.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044691,
+     "letra": "A",
+     "descricao": "A pressão de vapor é afetada por mudanças na pressão atmosférica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044692,
+     "letra": "B",
+     "descricao": "A temperatura do ambiente não afeta a evaporação dos anestésicos líquidos.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044693,
+     "letra": "C",
+     "descricao": "O ponto de ebulição de um líquido está diretamente relacionado com sua volatilidade.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044694,
+     "letra": "D",
+     "descricao": "Na temperatura entre 16ºC e 24oC pode-se encontrar o ponto de ebulição do desflurano.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004470,
+   "descricao": "<p>Homem de 48 anos, 70 kg e 1,75 m, portador de c&acirc;ncer g&aacute;strico, foi submetido &agrave; gastrectomia por videolaparoscopia sob anestesia geral. Ap&oacute;s a indu&ccedil;&atilde;o venosa, a manuten&ccedil;&atilde;o da anestesia foi feita com sevoflurano a 2% em circuito ventilat&oacute;rio circular valvulado com absorvedor de CO2 (cal sodada) com a utiliza&ccedil;&atilde;o de fluxo de gases frescos de 2 L.min-1. Sobre esse caso:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044701,
+     "letra": "A",
+     "descricao": "A utilização de fluxo de gases frescos mais alto promoveria um maior consumo da cal sodada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044702,
+     "letra": "B",
+     "descricao": "A redução do fluxo de gases frescos tornaria mais eficiente o aproveitamento do calor e da umidade gerados no reservatório da cal sodada",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044703,
+     "letra": "C",
+     "descricao": "O fluxo de gases frescos utilizado está compatível com o consumo basal de oxigênio do paciente, que pode ser considerado um fluxo mínimo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044704,
+     "letra": "D",
+     "descricao": "Por ser um procedimento cirúrgico com tempo prolongado, seria mais adequado utilizar um sistema respiratório valvular sem absorvedor de CO2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004471,
+   "descricao": "<p>Que anestésico inalatório está relacionado com a hiperatividade simpática quando aumentamos rapidamente a concentração administrada (acima de uma concentração alveolar mínima-CAM)?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044711,
+     "letra": "A",
+     "descricao": "Xenônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044712,
+     "letra": "B",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044713,
+     "letra": "C",
+     "descricao": "Desflurano",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044714,
+     "letra": "D",
+     "descricao": "Sevoflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004472,
+   "descricao": "<p>Homem de 87 anos, 68 Kg e 1,67 m, previamente hígido, apresenta-se com diagnóstico de hérnia encarcerada. Pressão arterial de 120/70 mmHg e frequência cardíaca de 88 bpm. Indução com anestesia venosa total em infusão alvo- controlada: TCI propofol (modelo plasma Marsh Ke0 0,26) em 4,0 mcg.ml-1 e remifentanil (modelo plasma) em 4,0 ng.ml-1.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044721,
+     "letra": "A",
+     "descricao": "A escolha da indução com propofol, por meio do modelo Schnider no sítio efetor, é considerada inapropriada por apresentar um volume no compartimento central pequeno.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044722,
+     "letra": "B",
+     "descricao": "A infusão de remifentanil alvo-controlada incorpora em seu algoritmo o peso. O alvo no plasma faz com que o controle hemodinâmico seja mais preciso no caso acima.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044723,
+     "letra": "C",
+     "descricao": "O remifentanil por apresentar um alto volume de distribuição, se acumula com maior intensidade nos compartimentos periféricos, fator esse que dificulta seu uso na forma alvo-controlada.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044724,
+     "letra": "D",
+     "descricao": "O modelo Marsh original para o propofol desconsidera outros fatores que não o peso, o que faz com que a droga no compartimento central seja elevada causando repercussões hemodinâmicas em idosos.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004473,
+   "descricao": "<p>Depois da realiza&ccedil;&atilde;o de um bloqueio de nervo perif&eacute;rico para cirurgia no tornozelo, paciente relata sensa&ccedil;&atilde;o completa na regi&atilde;o da face lateral. Voc&ecirc; precisa garantir uma cobertura total do nervo:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044731,
+     "letra": "A",
+     "descricao": "Sural",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044732,
+     "letra": "B",
+     "descricao": "Tibial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044733,
+     "letra": "C",
+     "descricao": "Safeno",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044734,
+     "letra": "D",
+     "descricao": "Fibular comum",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004474,
+   "descricao": "<p>Foi realizado um bloqueio interescal&ecirc;nico no limite do processo transverso da sexta v&eacute;rtebra cervical, por meio de ultrassom e estimulador de nervo perif&eacute;rico com inje&ccedil;&atilde;o de 10 ml de ropivaca&iacute;na a 0,5%. Nessa situa&ccedil;&atilde;o, poder&aacute; ocorrer falha no n&iacute;vel:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044741,
+     "letra": "A",
+     "descricao": "C5 – C6",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044742,
+     "letra": "B",
+     "descricao": "C6 – C7",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044743,
+     "letra": "C",
+     "descricao": "C7 – C8",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044744,
+     "letra": "D",
+     "descricao": "C8 – T1",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004475,
+   "descricao": "<p>Mulher de 68 anos, 51kg e 1,62 m, diabética e nefropata foi submetida à revascularização de membro inferior direito sob anestesia regional. Ela evoluiu com aumento das frequências respiratória e cardíaca: pH = 7,29; HCO3 = 17 mmol/L, BE = - 6 mmol/L, PaCO<sub>2</sub> = 28 mmHg. O diagnóstico provável é:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044751,
+     "letra": "A",
+     "descricao": "Acidose metabólica.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044752,
+     "letra": "B",
+     "descricao": "Acidose respiratória.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044753,
+     "letra": "C",
+     "descricao": "Alcalose metabólica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044754,
+     "letra": "D",
+     "descricao": "Alcalose respiratória.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004476,
+   "descricao": "<p>Homem de 27 anos, 70 kg e 1,70 m, politraumatizado com sangramento ativo em grande quantidade, chega ao setor de emergência. Na condução do caso, o anestesiologista previu uma transfusão maciça e inicia a reposição volêmica com cristalóides e gelatina fluida modificada. Solicita junto à unidade de hemoterapia os seguintes componentes:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044761,
+     "letra": "A",
+     "descricao": "Concentrado de hemácias, concentrado de plaquetas e fibrinogênio na relação 2:1:1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044762,
+     "letra": "B",
+     "descricao": "Concentrado de hemácias, plasma fresco congelado e crioprecipitado na relação 3:1:1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044763,
+     "letra": "C",
+     "descricao": "Concentrado de hemácias, plasma fresco congelado e crioprecipitado na relação 2:1:1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044764,
+     "letra": "D",
+     "descricao": "Concentrado de hemácias, plasma fresco congelado e concentrado de plaquetas na relação 1:1:1",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004477,
+   "descricao": "<p>Homem de 40 anos, politraumatizado, depois de intensa ressuscitação volêmica no pronto-socorro, chega ao centro cirúrgico para laparotomia exploradora e correção de múltiplas fraturas. O anestesiologista resolveu fazer a reposição de componentes sanguíneos guiada pelo ROTEM. A figura abaixo corresponde a que tipo de distúrbio de coagulação? </p><p><img src=\"data/imagens/c73b7ebc82a9475a.jpg\" alt=\"\"></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044771,
+     "letra": "A",
+     "descricao": "Fibrinólise",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044772,
+     "letra": "B",
+     "descricao": "Trombocitopenia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044773,
+     "letra": "C",
+     "descricao": "Hipercoagulabilidade",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044774,
+     "letra": "D",
+     "descricao": "Coagulação intravascular disseminada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004478,
+   "descricao": "<p>Mulher de 20 anos, 80 kg e 1,65 m, gestante de 30 semanas, é asmática em uso de salbutamol em crises e diabética em uso de insulina glargina (Lantus) 20 U à noite e 6 a 8 U de insulina regular (Humulim) após as refeições. Apresenta uma dor abdominal e uma mão infectada que requer desbridamento cirúrgico.</p><p>PA 110 x 60 mmHg; FC 120 bpm; FR 24 irpm; Tax 37,2<sup>o</sup>C.&nbsp;</p><p><img src=\"data/imagens/7c2768de6a1283e1.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044781,
+     "letra": "A",
+     "descricao": "A cirurgia deveria ser adiada para avaliação fetal.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044782,
+     "letra": "B",
+     "descricao": "A cirurgia deveria ser adiada para avaliação da dor abdominal.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044783,
+     "letra": "C",
+     "descricao": "Antibiótico e bicarbonato são as primeiras medidas a serem instituídas.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044784,
+     "letra": "D",
+     "descricao": "Hidratação e controle glicêmico são o tratamento de suporte da lesão renal aguda.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004479,
+   "descricao": "<p>O surgimento de novas técnicas para ressecção transuretral da próstata (RTUP), sem alça monopolar, diminuiu consideravelmente o risco de complicações neurológicas, cardiovasculares e distúrbios hidroeletrolíticos. A solução de irrigação para novas técnicas de RTUP deve ser:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044791,
+     "letra": "A",
+     "descricao": "Manitol a 5%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044792,
+     "letra": "B",
+     "descricao": "Glicina a 1,5%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044793,
+     "letra": "C",
+     "descricao": "Água destilada",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044794,
+     "letra": "D",
+     "descricao": "Cloreto de sódio a 0,9%",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004480,
+   "descricao": "<p>Dentre as alterações fisiológicas da coagulação durante a gestação a termo, encontramos:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044801,
+     "letra": "A",
+     "descricao": "Aumento de antitrombina III",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044802,
+     "letra": "B",
+     "descricao": "Aumento de contagem plaquetária.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044803,
+     "letra": "C",
+     "descricao": "Diminuição do fator I da coagulação",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044804,
+     "letra": "D",
+     "descricao": "Diminuição do fator XIII da coagulação",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004481,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave; circula&ccedil;&atilde;o uteroplacent&aacute;ria:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044811,
+     "letra": "A",
+     "descricao": "Quanto mais lipossolúvel e menor ligação protéica, maior é a passagem do fármaco através da placenta",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044812,
+     "letra": "B",
+     "descricao": "O principal mecanismo de transferência placentária é por difusão simples governado pela lei de Fick, fenômeno este dependente de energia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044813,
+     "letra": "C",
+     "descricao": "Entre os fatores que diminuem a transferência materno-fetal dos fármacos estão: molécula não ionizada e fármacos com peso molecular acima de 1000 daltons",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044814,
+     "letra": "D",
+     "descricao": "Entre os agentes que atravessam a membrana placentária livremente temos os bloqueadores neuromusculares adespolarizantes enquanto os anestésicos locais atravessam a barreira com maior dificuldade",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004482,
+   "descricao": "<p>Homem de 73 anos, 80 kg e 1,75 m, será submetido à artroplastia total de joelho direito por osteoartrite. Informa história de estenose aórtica com área valvar de 1,1 cm2, hipertensão e doença pulmonar obstrutiva crônica. Faz uso diário de lisinopril, sem utilizar oxigênio em domicilio. Os cirurgiões solicitam que ele faça fisioterapia no dia zero do pós-operatório. Você gostaria, então, de minimizar a fraqueza do músculo quadríceps. Qual seria o melhor plano anestésico e analgésico nesse caso?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044821,
+     "letra": "A",
+     "descricao": "Raquianestesia e bloqueio do nervo safeno.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044822,
+     "letra": "B",
+     "descricao": "Anestesia geral e bloqueio do nervo safeno.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044823,
+     "letra": "C",
+     "descricao": "Anestesia geral e bloqueio do nervo femoral.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044824,
+     "letra": "D",
+     "descricao": "Raquianestesia sem bloqueio periférico por causa da estenose aórtica grave.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004483,
+   "descricao": "<p>Homem de 55 anos, 168 kg e 1,60 m &eacute; submetido &agrave; uma deriva&ccedil;&atilde;o gastrojejunal laparosc&oacute;pica e sob anestesia geral balanceada com sevoflurano e remifentanil em infus&atilde;o alvo-controlada, de acordo com o protocolo de Minto. Nesse caso:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044831,
+     "letra": "A",
+     "descricao": "As concentrações mensuradas do remifentanil serão mais baixas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044832,
+     "letra": "B",
+     "descricao": "A mediana do erro de performance no protocolo de Minto pode ser fortemente positiva",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044833,
+     "letra": "C",
+     "descricao": "O volume de distribuição e o clearence do remifentanil são mais elevados em relação a não obesos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044834,
+     "letra": "D",
+     "descricao": "O cálculo da massa magra pela fórmula de James corrige possíveis erros nessa população quando se utiliza o protocolo de Minto",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004484,
+   "descricao": "<p>A ocorrência da tríade de Samter, na cirurgia de polipose nasal, está relacionada com o uso de:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044841,
+     "letra": "A",
+     "descricao": "Paracetamol.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044842,
+     "letra": "B",
+     "descricao": "Acetilcisteína.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044843,
+     "letra": "C",
+     "descricao": "Cefalosporina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044844,
+     "letra": "D",
+     "descricao": "Anti-inflamatórios não hormonais.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004485,
+   "descricao": "<p>Que conduta que diminui a incid&ecirc;ncia do reflexo oculocard&iacute;aco em crian&ccedil;a submetida a anestesia geral para a corre&ccedil;&atilde;o de estrabismo?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044851,
+     "letra": "A",
+     "descricao": "Anestesia tópica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044852,
+     "letra": "B",
+     "descricao": "Anestesia episcleral",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044853,
+     "letra": "C",
+     "descricao": "Bloqueio retrobulbar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044854,
+     "letra": "D",
+     "descricao": "Plano adequado de anestesia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004486,
+   "descricao": "<p>Em relação aos procedimentos anestésicos ambulatoriais:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044861,
+     "letra": "A",
+     "descricao": "Prematuros saudáveis devem permanecer sob vigilância por um período de quatro horas.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044862,
+     "letra": "B",
+     "descricao": "Idosos com grave doença prévia devem ser agendados para unidade ambulatorial do tipo III.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044863,
+     "letra": "C",
+     "descricao": "Pacientes obesos e com apnéia obstrutiva do sono são contraindicados para o regime ambulatorial.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044864,
+     "letra": "D",
+     "descricao": "A presença de dor é um dos fatores que alteram o tempo de alta hospitalar, de modo que ela deve ser controlada com analgésicos não opioides.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004487,
+   "descricao": "<p>Criança de 3 anos e 15 kg, sem outras comorbidades, será submetida à herniorrafia inguinal unilateral esquerda ambulatorial. Nesse caso:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044871,
+     "letra": "A",
+     "descricao": "Na manutenção da anestesia inalatória o desflurano é preferível ao oxido nitroso.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044872,
+     "letra": "B",
+     "descricao": "Se a criança apresentou história de prematuridade < 37 semanas, deve-se evitar a anestesia inalatória.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044873,
+     "letra": "C",
+     "descricao": "Se houver necessidade de intubação orotraqueal é mandatório o uso de bloqueadores musculares despolarizantes.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044874,
+     "letra": "D",
+     "descricao": "Se for necessário o controle da via aérea, o método invasivo com tubo orotraqueal é preferível ao uso de máscara laríngea.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004488,
+   "descricao": "<p>Homem de 44 anos, 72 kg e 1,78 m, portador de diabetes mellitus insulinorrequerente há 24 anos, está programado para fazer uma nefrectomia direita videolaparoscópica por carcinoma de células renais. Faz uso regular de insulina glargina, 20 UI, pela manhã e lispro, 4 UI, antes de cada refeição. Entre os exames préoperatórios, destacam-se: uréia = 63 mg.dL-1, creatinina = 1,4 mg.dL-1 e hemoglobina glicada = 8,8%. Sobre esse caso:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044881,
+     "letra": "A",
+     "descricao": "Considera-se que o paciente está com controle glicêmico adequado.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044882,
+     "letra": "B",
+     "descricao": "Uma dose de insulina basal deve ser administrada no dia da cirurgia.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044883,
+     "letra": "C",
+     "descricao": "Jejum de seis horas antes da indução anestésica é seguro quanto ao risco de broncoaspiração.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044884,
+     "letra": "D",
+     "descricao": "Considerando a analgesia pós operatória, é recomendado o uso de analgésicos e anti-inflamatórios não esteroidais.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004489,
+   "descricao": "<p>Mulher de 65 anos, 80 kg e 1,60 m, portadora de diabetes mellitus insulino dependente, será submetida à histerectomia por videolaparoscopia. Utilizou insulina NPH na manhã da cirurgia. Chegou ao centro cirúrgico com fraqueza muscular, sudorese e apresentou o seguinte traçado eletrocardiográfico: Nessa situação qual o diagnóstico mais provável?</p><p><img src=\"data/imagens/0169b3700d31409b.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044891,
+     "letra": "A",
+     "descricao": "Hipocalemia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044892,
+     "letra": "B",
+     "descricao": "Hiperglicemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044893,
+     "letra": "C",
+     "descricao": "Hiponatremia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044894,
+     "letra": "D",
+     "descricao": "Hipermagnesemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004490,
+   "descricao": "<p>Uma vítima de colisão moto-carro, encontra-se inconsciente na chegada ao hospital.&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044901,
+     "letra": "A",
+     "descricao": "A realização de tomografia de crânio deve ser a primeira medida, por causa do quadro de inconsciência.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044902,
+     "letra": "B",
+     "descricao": "Assegurar a via aérea e a estabilização da coluna cervical é prioridade no atendimento aos politraumatizados.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044903,
+     "letra": "C",
+     "descricao": "Durante a intubação traqueal, a realização da manobra de Sellick consiste na compressão extrínseca da cartilagem tireóidea.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044904,
+     "letra": "D",
+     "descricao": "O posicionamento em cefaloaclive no momento da intubação traqueal dificulta o refluxo e a aspiração do conteúdo gástrico caso ocorra regurgitação.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004491,
+   "descricao": "<p>Homem de 20 anos, 75 kg e 1,70 m, v&iacute;tima de acidente automobil&iacute;stico, apresenta-se confuso, com press&atilde;o arterial de 65 x 40 mmHg e frequ&ecirc;ncia card&iacute;aca de 132 bpm. A radiografia do t&oacute;rax mostra a fratura de v&aacute;rias costelas, bilateralmente, sem instabilidade. &Eacute; submetido a laparotomia exploradora por causa da presen&ccedil;a de sangue na cavidade abdominal. Durante a cirurgia, depois do controle do sangramento abdominal e da transfus&atilde;o de tr&ecirc;s concentrados de hem&aacute;cias, h&aacute; melhora inicial, mas o paciente volta a ficar hipotenso (press&atilde;o arterial m&eacute;dia de 50 mmHg) e taquic&aacute;rdico com ritmo sinusal sem altera&ccedil;&otilde;es do segmento ST. N&atilde;o h&aacute; melhora com a administra&ccedil;&atilde;o de solu&ccedil;&otilde;es cristaloides e de metaraminol. Press&atilde;o venosa central = &eacute; de 25 mmHg; &iacute;ndice card&iacute;aco = 1,5 L.min-1.m-2, press&atilde;o capilar pulmonar = 24 mmHg e press&atilde;o m&eacute;dia de art&eacute;ria pulmonar = 45 mmHg. A dosagem de hemoglobina &eacute; de 7,8 g.dL-1 e de hemat&oacute;crito &eacute; de 26%. Qual deve ser o tratamento prim&aacute;rio para a corre&ccedil;&atilde;o do estado de choque?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044911,
+     "letra": "A",
+     "descricao": "Hemotransfusão",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044912,
+     "letra": "B",
+     "descricao": "Iniciar inotrópico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044913,
+     "letra": "C",
+     "descricao": "Iniciar vasopressor",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044914,
+     "letra": "D",
+     "descricao": "Drenagem pericárdica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004492,
+   "descricao": "<p>A trombose venosa profunda pode elevar sobremaneira a mortalidade perioperatoria. Sendo assim, qual a situação com menor chance de desenvolver o problema?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044921,
+     "letra": "A",
+     "descricao": "Mulher idosa com fratura do colo do fêmur.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044922,
+     "letra": "B",
+     "descricao": "Adulto jovem tetraplégico por traumatismo raquimedular.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044923,
+     "letra": "C",
+     "descricao": "Adulto jovem e hígido sob anestesia peridural para herniorrafia inguinal.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044924,
+     "letra": "D",
+     "descricao": "Mulher jovem em quimioterapia para tratamento de leucemia, com cateter venoso central.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004493,
+   "descricao": "<p>Na avaliação neurológica de paciente vítima de traumatismo cranioencefálico (TCE), a gravidade pode ser presumida de acordo com os valores estabelecidos pela escala de coma de Glasgow (ECG). Considera-se TCE grave quando os valores na ECG estão entre:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044931,
+     "letra": "A",
+     "descricao": "0 – 2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044932,
+     "letra": "B",
+     "descricao": "3 – 8",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20044933,
+     "letra": "C",
+     "descricao": "9 – 12",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044934,
+     "letra": "D",
+     "descricao": "13 – 15",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004494,
+   "descricao": "<p>Homem de 20 anos, 70 kg e 1,65 m, no sétimo dia de queimadura extensa na parte ventral e dorsal do tórax, se submete a anestesia geral para limpeza e desbridamento da área lesada. Na farmacologia do paciente queimado se observa que:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044941,
+     "letra": "A",
+     "descricao": "O tempo de latência do rocurônio está diminuído.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044942,
+     "letra": "B",
+     "descricao": "A eliminação renal e a hepática dos relaxantes musculares adespolarizantes está diminuida.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044943,
+     "letra": "C",
+     "descricao": "O clearence e o volume de distribuição do fentanil são semelhantes ao do paciente sem queimaduras.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044944,
+     "letra": "D",
+     "descricao": "O uso concomitante de benzodiazepínicos com fentanil pode agravar o fenômeno de tolerância aos opioides.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004497,
+   "descricao": "<p>Homem de 64 anos, 88 kg e 1,78 m, portador de diabetes mellitus, hipertensão arterial sistêmica e doença arterial coronariana (infarto agudo do miocárdio há três meses com implante de stent farmacológico), em uso regular de losartana, atenolol, rosuvastatina, metformina, glimepirida, ácido acetil-salicílico e clopidogrel, foi internado com quadro de semi-oclusão intestinal por neoplasia e indicação de retossigmoidectomia laparoscópica. Exames laboratoriais: hemoglobina = de 10,9 g.dL-1, hemoglobina glicada = 8,5%, uréia = 54 mg.dL-1, creatinina = 1,2 mg.dL-1,. O eletrocardiograma apresentou alteração de repolarização ventricular em parede inferior e o ecocardiograma evidenciou disfunção sistólica leve do ventrículo esquerdo às custas de hipocinesia anterosseptal. Nesse caso, sobre o preparo pré-operatório e as condutas no intra-operatório:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044971,
+     "letra": "A",
+     "descricao": "O betabloqueador deve ser interrompido antes da cirurgia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044972,
+     "letra": "B",
+     "descricao": "Está indicada transfusão de concentrado de hemácias antes da cirurgia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044973,
+     "letra": "C",
+     "descricao": "A prevenção de hipotermia durante a cirurgia reduz o risco de complicações cardíacas no perioperatório.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044974,
+     "letra": "D",
+     "descricao": "Ácido acetilssalicílico e clopidogrel devem ser suspensos pelo menos sete dias antes da cirurgia para minimizar o risco de sangramento.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004498,
+   "descricao": "<p>Homem de 85 anos, 65 kg e 1,67 m , portador de hipertens&atilde;o arterial sist&ecirc;mica em uso de Losartana 50 mg/dia, Hidroclorotiazida 25 mg/dia e Atenolol 50mg/dia, Diabetes Mellitus n&atilde;o insulino dependente em uso de Metformina 1 g/dia, com carga tab&aacute;gica de 120 ma&ccedil;os/ano, ser&aacute; submetido &agrave; Endarterectomia da Car&oacute;tida direita por causa de estenose de alto grau. O doppler tamb&eacute;m revelou estenose severa da car&oacute;tida esquerda. No planejamento anest&eacute;sico para o procedimento nesse paciente:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044981,
+     "letra": "A",
+     "descricao": "A monitorização invasiva da pressão arterial habitualmente não se faz necessária.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20044982,
+     "letra": "B",
+     "descricao": "Atenção à manipulação do seio carotídeo, pois pode desencadear reflexo barorreceptor, tendo como respostas bradicardia e hipertensão.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044983,
+     "letra": "C",
+     "descricao": "Temos como objetivo hemodinâmico manter os níveis pressóricos elevados, 10-20% acima da linha de base durante o periodo de clampeamento.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20044984,
+     "letra": "D",
+     "descricao": "A pré-medicação sedativa está indicada por seu potencial ansiolítico com consequente redução na pressão arterial e frequência cardíaca.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004499,
+   "descricao": "<p>Considerando a farmacologia de algumas drogas anestésicas e seus efeitos no fluxo sanguíneo cerebral (FSC) e no consumo metabólico de oxigênio cerebral (CMRO2 ), quais do esquema a seguir correspondem, respectivamente, à cetamina, à dexmedetomidina e ao sevoflurano?</p><p><img src=\"data/imagens/0d04709fac1a160b.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20044991,
+     "letra": "A",
+     "descricao": "Drogas 2, 6 e 1",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20044992,
+     "letra": "B",
+     "descricao": "Drogas 2, 3 e 5",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20044993,
+     "letra": "C",
+     "descricao": "Drogas 1, 6 e 3",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20044994,
+     "letra": "D",
+     "descricao": "Drogas 1, 4 e 5",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004500,
+   "descricao": "<p>Está associado à hipotermia perioperatória:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045001,
+     "letra": "A",
+     "descricao": "Menor índice de infecção em cirurgias limpas.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045002,
+     "letra": "B",
+     "descricao": "Menor afinidade da hemoglobina pelo oxigênio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045003,
+     "letra": "C",
+     "descricao": "Diminuição da necessidade de transfusão alogênica em cirurgias de quadril em idosos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045004,
+     "letra": "D",
+     "descricao": "Redução da força muscular quando a temperatura corporal for inferior a 36ºC.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004501,
+   "descricao": "<p>Mulher de 48 anos, 72 kg e 1,60 m, com história de episódios, por dois anos, de diarreia muco-sanguinolenta associada a cólicas, tenesmo e episódios de hipotensão arterial e taquicardia, com diagnóstico de tumor retal em sua porção inferior, apresenta-se para retossigmoidectomia videolaparoscópica sob anestesia geral. Durante a manipulação da massa no reto, a paciente, subitamente, apresenta hipotensão arterial grave, taquicardia e aumento das pressões inspiratórias de pico. A utilização inicial de metaraminol agrava ainda mais a hipotensão. Nessa situação, devemos utilizar:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045011,
+     "letra": "A",
+     "descricao": "Epinefrina.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045012,
+     "letra": "B",
+     "descricao": "Octreotida.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20045013,
+     "letra": "C",
+     "descricao": "Vasopressina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045014,
+     "letra": "D",
+     "descricao": "Noradrenalina.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004502,
+   "descricao": "<p><strong>Quest&atilde;o Adaptada</strong></p> <p>Mulher de 72 anos, 70 kg e 1,59 m, foi internada com diagn&oacute;stico de septicemia secund&aacute;ria &agrave; infec&ccedil;&atilde;o do trato urin&aacute;rio. Evolui com queda da press&atilde;o arterial, d&eacute;bito urin&aacute;rio = 28 mL.h-1, desorienta&ccedil;&atilde;o, e lactato s&eacute;rico = 2,3 mmol.L-1. N&atilde;o houve resposta &agrave; prova de volume realizada com 300 mL de solu&ccedil;&atilde;o cristaloide. Ao ecocardiograma, apresenta fra&ccedil;&atilde;o de eje&ccedil;&atilde;o = 25%. A conduta mais adequada nessa situa&ccedil;&atilde;o &eacute; a infus&atilde;o intravenosa de:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045021,
+     "letra": "A",
+     "descricao": "Dopamina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045022,
+     "letra": "B",
+     "descricao": "Adrenalina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045023,
+     "letra": "C",
+     "descricao": "Dobutamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045024,
+     "letra": "D",
+     "descricao": "Noradrenalina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004503,
+   "descricao": "<p>A anestesia no idoso altera a plasticidade das sinapses cerebrais e, assim, desordens neurocognitivas s&atilde;o frequentes no p&oacute;s-operat&oacute;rio. O del&iacute;rio p&oacute;s-operat&oacute;rio se manifesta com o seguinte perfil:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045031,
+     "letra": "A",
+     "descricao": "Inicia-se após a primeira semana do procedimento.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045032,
+     "letra": "B",
+     "descricao": "A incidência é maior com a anestesia regional do que com a anestesia geral.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045033,
+     "letra": "C",
+     "descricao": "O início agudo e a alteração na atenção e no nível de consciência fazem parte do teste diagnóstico.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20045034,
+     "letra": "D",
+     "descricao": "Drogas que aumentam a produção de acetilcolina no sistema nervoso central são fatores desencadeantes.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004504,
+   "descricao": "<p>Em relação à anestesia pediátrica:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045041,
+     "letra": "A",
+     "descricao": "A hipernatremia é o distúrbio hidreletrolítico mais comum no período pós-operatório.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045042,
+     "letra": "B",
+     "descricao": "A succinilcolina é segura para a população pediátrica, não estando associada a riscos de arritmias cardíacas.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045043,
+     "letra": "C",
+     "descricao": "O uso do midazolam é efetivo para a prevenção da agitação psicomotora no despertar da anestesia e do delírio pósoperatório em crianças.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045044,
+     "letra": "D",
+     "descricao": "O laringoscópio com lâmina reta permite melhor visualização do segmento anterior da laringe, sendo indicado nos neonatos e lactentes.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004505,
+   "descricao": "<p>Síndromes como Pierre Robin, Teacher Collin e Down podem cursar com fenda palatina. Nesses pacientes, podem ser necessários os seguintes cuidados perioperatórios:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045051,
+     "letra": "A",
+     "descricao": "Extubação em plano anestésico.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045052,
+     "letra": "B",
+     "descricao": "Maior tempo de jejum que o preconizado.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045053,
+     "letra": "C",
+     "descricao": "Medicação pré-anestésica para minimizar trauma de cirurgias repetidas.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045054,
+     "letra": "D",
+     "descricao": "Bloqueio do nervo infraorbitário para analgesia em reparos de labio leporino.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004506,
+   "descricao": "<p>Qual é o principal fator de risco relacionado com a reação grave aos meios de contraste radiológicos?&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045061,
+     "letra": "A",
+     "descricao": "Alergia a frutos do mar.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045062,
+     "letra": "B",
+     "descricao": "História de reação prévia grave.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20045063,
+     "letra": "C",
+     "descricao": "Paciente na faixa etária pediátrica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045064,
+     "letra": "D",
+     "descricao": "Alergia a soluções antissépticas à base de iodo.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004507,
+   "descricao": "<p>Na analgesia multimodal, utilizamos varias classes de drogas que agem em diferentes receptores e vias da dor. A cetamina um antagonista do receptor N-metil-D-aspartato, tem sido utlizada em baixas doses com qual objetivo?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045071,
+     "letra": "A",
+     "descricao": "Evitar a salivação intensa no pós operatório.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045072,
+     "letra": "B",
+     "descricao": "Provocar alodinia nos usuários crônicos de opioide.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045073,
+     "letra": "C",
+     "descricao": "Evitar a hiperalgesia dos opiodes no pós operatório.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20045074,
+     "letra": "D",
+     "descricao": "Aumentar a sensibilização central e a tolerância aos opioides.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004508,
+   "descricao": "<p>Entre os métodos para o tratamento da dor crônica, assinale a melhor correlação entre a droga e seu mecanismo de ação:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045081,
+     "letra": "A",
+     "descricao": "Anticonvulsivantes – são inibidores seletivos da recaptação da serotonina na fenda sináptica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045082,
+     "letra": "B",
+     "descricao": "Anestésicos locais por via venosa – inibem as fibras C por meio do bloqueio dos canais de cálcio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045083,
+     "letra": "C",
+     "descricao": "Antidepressivos tricíclicos – aumentam os níveis sinápticos de dopamina, serotonina e/ou noradrenalina.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20045084,
+     "letra": "D",
+     "descricao": "Anti-inflamatórios não esteróides – inibem a atividade da fosfolipase-C e o estímulo da biossíntese das prostaglandinas.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004509,
+   "descricao": "<p>São estratégias ventilatórias protetoras com o intuito de minimizar a injúria pulmonar decorrente da ventilação mecânica:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045091,
+     "letra": "A",
+     "descricao": "A utilização de altos níveis de Fi02",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045092,
+     "letra": "B",
+     "descricao": "A utilização de altos níveis de PEEP",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045093,
+     "letra": "C",
+     "descricao": "A utilização de baixos níveis de volume corrente",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20045094,
+     "letra": "D",
+     "descricao": "A utilização de manobras de recrutamento pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004510,
+   "descricao": "<p>Uma boa ferramenta para a analise de evento adverso grave ocorrido em um serviço de anestesia de um grande hospital deve basear-se:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045101,
+     "letra": "A",
+     "descricao": "No princípio de Pareto.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20045102,
+     "letra": "B",
+     "descricao": "Na análise de causa raiz.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045103,
+     "letra": "C",
+     "descricao": "Na matriz de gravidade-urgência-tendência.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20045104,
+     "letra": "D",
+     "descricao": "No sistema PDCA (planejar - executar - checar - agir).",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004511,
+   "descricao": "<p>Na avaliação da qualidade assistencial de um serviço, a eficiência inclui o conceito de:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045111,
+     "letra": "A",
+     "descricao": "Custo.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20045112,
+     "letra": "B",
+     "descricao": "Equidade.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045113,
+     "letra": "C",
+     "descricao": "Otimização.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045114,
+     "letra": "D",
+     "descricao": "Aceitabilidade.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2004512,
+   "descricao": "<p>Mulher de 28 anos, 80 kg e 1,68 m, gestante com 38 semanas, G2, P1, A0, pr&eacute;-natal sem intercorr&ecirc;ncias, &eacute; admitida na maternidade com dor abdominal, press&atilde;o arterial sist&ecirc;mica de 60 x 40 mmHg, frequ&ecirc;ncia card&iacute;aca de 142 bpm e palidez cut&acirc;neo-mucosa. Tem hist&oacute;ria de cesariana anterior com inicio das contra&ccedil;&otilde;es h&aacute; mais de seis horas fora do hospital. Ao exame f&iacute;sico, observam-se abdome distendido, sangramento vaginal e aus&ecirc;ncia de contra&ccedil;&atilde;o uterina e da ausculta dos batimentos card&iacute;acos fetais. O quadro &eacute; compat&iacute;vel com:&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20045121,
+     "letra": "A",
+     "descricao": "Ruptura uterina.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20045122,
+     "letra": "B",
+     "descricao": "Placenta prévia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20045123,
+     "letra": "C",
+     "descricao": "Placenta percreta.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20045124,
+     "letra": "D",
+     "descricao": "Descolamento prematuro de placenta.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TEA",
+    "numero": null
+   }
+  }
+ ]
+}

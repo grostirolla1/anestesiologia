@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-1-2018",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 1ª quadrimestral 2018",
+  "ano": "2018",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001101,
+   "descricao": "<p><b>(QUESTÃO MODIFICADA) Segundo o Conselho Federal de Medicina, o anestesiologista pode: </b></p><p><b>A)</b> Declarar-se especialista em anestesiologia somente após registro do seu título no conselho regional de medicina.&nbsp;</p><p><b>B)</b> Realizar analgesias obstétricas simultâneas, desde que presente no centro obstétrico todo o tempo.&nbsp;</p><p><b>C)</b> Realizar anestesia com circuito fechado em hospital com usina concentradora de oxigênio, desde que tenha oxímetro de linha.&nbsp;</p><p><b>D)</b> Atestar óbito quando faz parte de equipe de cirurgião-dentista.&nbsp;</p><p><b>E)</b>&nbsp;Acatar à vontade expressa da não transfusão no paciente adulto Testemunha de Jeová, ainda que haja risco iminente de vida, desde que ele esteja consciente e capaz de tomar essa decisão.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011011,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011012,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011013,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011014,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001102,
+   "descricao": "<p>Conforme o estabelecido no Estatuto, nos Regimentos e Regulamentos da SBA: </p><p>A) O Conselho Superior é órgão consultivo e deliberativo da SBA constituído exclusivamente pelo seus três últimos presidentes</p><p>B) A Diretoria e o Conselho Fiscal da SBA são eleitos pela Assembleia de Representantes</p><p>C) A Assembleia Geral é o órgão legislativo, deliberativo e soberano da Sociedade Brasileira de Anestesiologia com participação restrita aos presidentes das sociedades regionais</p><p>D) Os participantes da Assembleia de Representantes e seus Suplentes serão Membros Ativos, quites com as suas obrigações sociais até a data da convocação da AR, indicados pelas respectivas Regionais</p><p>E) São três os Departamentos da SBA: Administrativo, Científico e Defesa Profissional, todos com regimentos próprios e vinculados a um Diretor</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011021,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011022,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011023,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011024,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001103,
+   "descricao": "<p>Quanto ao risco profissional no centro cirúrgico: </p><p>a) Uma anestesiologista grávida deve ser afastada do centro cirúrgico durante o primeiro trimestre de gravidez para não ser exposta a concentrações ambientais residuais de anestésicos inalatórios.&nbsp;</p><p>b) A vacinação imediata contra o vírus da hepatite B deve ser realizada nas gestantes não vacinadas.&nbsp;</p><p>c) O distanciamento de 2 metros de uma fonte emissora de raios-X equivale à proteção de uma capa de chumbo de 2,5mm de espessura.&nbsp;</p><p>d) Os sistemas de aquecimento do paciente estão listados como uma das causas mais frequentes de ruído em sala de cirurgia.&nbsp;</p><p>e) A classe de drogas mais associada à adição entre os anestesiologistas são os opioides.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011031,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011032,
+     "letra": "B",
+     "descricao": "F V V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011033,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011034,
+     "letra": "D",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001104,
+   "descricao": "<p>Mulher de 29 anos, 105kg e 1,60m, com histórico de HAS, será submetida a gastroplastia (by-pass) por videolaparoscopia. Na anamnese relata roncos e cansaço diurno. Ao exame físico apresenta sibilos na ausculta pulmonar e pressão arterial de 140x100 mmHg.</p><p><b>A) </b>Segundo o STOP-Bang, esta paciente apresenta quatro critérios para presença de apneia obstrutiva do sono.</p><p><b>B) </b>Esta paciente apresenta até 70% de chance de desenvolver pneumonia no pós-operatório de cirurgias abdominais.</p><p><b>C) </b>Em casos de hiperreatividade de vias aéreas é recomendado a utilização de corticoide sistêmico via oral cinco dias antes do procedimento.</p><p><b>D) </b>Imediatamente antes da cirurgia, esta paciente deve receber inalação com beta-2 agonista de curta duração.</p><p><b>E) </b>A fisioterapia apresenta papel essencial na redução de complicações respiratória e deve ser iniciada no pós-operatório.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011041,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011042,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011043,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011044,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001105,
+   "descricao": "<p>Conforme a modificação da classificação de Cormach e Lehane por Cook, a intubação: </p><p>a) é fácil quando a epiglote está apoiada na parede posterior da hipofaringe.&nbsp;</p><p>b) com guia está indicada quando há espaço entre a extremidade livre da epiglote e a parede posterior da faringe e as aritenóides não são visíveis.&nbsp;</p><p>c) é difícil quando o Cormack e Lehane é II/b e III/a.&nbsp;</p><p>d) com instrumentos óticos está indicada quando Cormack e Lehane é III/b e IV.&nbsp;</p><p>e) com bougie está indicada nos Cormack e Lehane II/b e III/b.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011051,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011052,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011053,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011054,
+     "letra": "D",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001106,
+   "descricao": "<p>Sobre ocorr&ecirc;ncias de les&otilde;es associadas ao posicionamento cir&uacute;rgico:</p> <p><strong>A)</strong> A plexopatia braquial tem probabilidade de ocorrer em esternotomia e mobiliza&ccedil;&atilde;o da art&eacute;ria mam&aacute;ria interna</p> <p><strong>B)</strong> A les&atilde;o do nervo mediano &eacute; mais comum em homens com b&iacute;ceps grande</p> <p><strong>C) </strong>O d&eacute;ficit sensorial p&oacute;s-operat&oacute;rio na regi&atilde;o lateral da coxa sem d&eacute;ficit motor associado naquela extremidade sugere neuropatia do ci&aacute;tico</p> <p><strong>D) </strong>A les&atilde;o das fibras internas do nervo ulnar habitualmente se resolve em seis meses</p> <p><strong>E) </strong>A dorm&ecirc;ncia e o formigamento nos quarto e quinto quirod&aacute;ctilos est&atilde;o associados com trauma na inser&ccedil;&atilde;o de acesso intravenoso na fossa antecubital</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011061,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011062,
+     "letra": "B",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011063,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011064,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001107,
+   "descricao": "<p>Homem de 53 anos, 60kg e 1,80m, será submetido a cistoprostatectomia radical. O paciente tem histórico de tabagismo 50 maços.ano e laringectomia parcial prévia seguida de radioterapia para tratamento de câncer de laringe, além de relato de dificuldade de intubação traqueal em procedimento abdominal anterior (apendicectomia). Ao exame físico, apresenta mobilidade cervical limitada e eritema com espessamento de pele em região anterior do pescoço. Demais parâmetros sem alterações significativas. Para a abordagem da via aérea nessa situação: </p><p>a) a indução com hipnótico, baixa dose de opióide e succinilcolina é a alternativa mais efetiva e segura para a intubação traqueal.&nbsp;</p><p>b) caso se opte pelo rocurônio (60mg) na indução, deve-se garantir uma dose de 200mg de sugamadex como reserva em caso de falha de ventilação e de intubação.&nbsp;</p><p>c) o estilete ótico retromolar (Bonfils) é a melhor opção como abordagem inicial para intubação traqueal.&nbsp;</p><p>d) a laringoscopia direta pode ser usada como primeira alternativa para a intubação traqueal sem prejuízo para tentativas com outros dispositivos em caso de falha.&nbsp;</p><p>e) o Combitube é uma alternativa mais segura e efetiva que a máscara laringéia para garantir a oxigenação em caso de falha de ventilação sob máscara facial e intubação traqueal.&nbsp;</p><p><br></p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011071,
+     "letra": "A",
+     "descricao": "F F F F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011072,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011073,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011074,
+     "letra": "D",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

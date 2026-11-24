@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-1-2026",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 1ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002362,
+   "descricao": "<p>No planejamento de um projeto de pesquisa cient&iacute;fica, alguns elementos s&atilde;o considerados essenciais e universais, independentemente do delineamento do estudo. Assinale a alternativa que contempla exclusivamente itens necess&aacute;rios ao planejamento de qualquer projeto de pesquisa cient&iacute;fica.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023621,
+     "letra": "A",
+     "descricao": "Elaboração da hipótese, definição e detalhamento do cálculo amostral e submissão do projeto ao Comitê de Ética em Pesquisa da instituição.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023622,
+     "letra": "B",
+     "descricao": "Definição das fontes de financiamento, elaboração do cronograma de execução e escolha prévia do periódico para publicação dos resultados.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023623,
+     "letra": "C",
+     "descricao": "Planejamento da análise estatística, observância das normas éticas e da legislação vigente para pesquisa em animais e obtenção do Termo de Consentimento Livre e Esclarecido.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023624,
+     "letra": "D",
+     "descricao": "Formulação clara da questão de pesquisa, definição de grupo de controle e declaração de eventuais conflitos de interesse.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002363,
+   "descricao": "<p>Em relação à pesquisa científica com utilização de animais de experimentação, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023631,
+     "letra": "A",
+     "descricao": "Projetos podem ser realizados sem aprovação do comitê de ética, desde que o pesquisador siga boas práticas.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023632,
+     "letra": "B",
+     "descricao": "O uso de animais em pesquisa é permitido apenas para fins de ensino, não sendo autorizado para pesquisa científica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023633,
+     "letra": "C",
+     "descricao": "A legislação brasileira exige que todo projeto envolvendo animais seja previamente aprovado por um comitê de ética específico.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023634,
+     "letra": "D",
+     "descricao": "Não há necessidade de justificar o número de animais utilizados em cada experimento, desde que o objetivo científico seja relevante.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002364,
+   "descricao": "<p>Um pesquisador está analisando o tempo de despertar (em minutos) após anestesia geral em 30 pacientes. Os dados apresentam distribuição assimétrica com alguns valores extremos (outliers). Qual é a combinação mais adequada de medidas descritivas para resumir esses dados segundo os princípios da estatística?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023641,
+     "letra": "A",
+     "descricao": "Mediana como medida de tendência central e intervalo interquartil como medida de dispersão.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023642,
+     "letra": "B",
+     "descricao": "Média como medida de tendência central e desvio-padrão como medida de dispersão.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023643,
+     "letra": "C",
+     "descricao": "Moda como medida de tendência central e amplitude como medida de dispersão.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023644,
+     "letra": "D",
+     "descricao": "Média como medida de tendência central e intervalo interquartil como medida de dispersão.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002365,
+   "descricao": "<p>Durante uma cirurgia de grande porte, um paciente com doença arterial coronariana conhecida apresenta instabilidade hemodinâmica súbita. O ECG contínuo não demonstra alteração evidente do segmento ST. Considerando as indicações da ecocardiografia transesofágica intraoperatória, qual achado poderia ser detectado precocemente por esse método e sugerir isquemia miocárdica?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023651,
+     "letra": "A",
+     "descricao": "Redução isolada da pressão venosa central.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023652,
+     "letra": "B",
+     "descricao": "Prolongamento do intervalo QT no ECG.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023653,
+     "letra": "C",
+     "descricao": "Presença de bolhas menores que 2 micras sem repercussão clínica definida.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023654,
+     "letra": "D",
+     "descricao": "Alteração segmentar da contratilidade da parede ventricular.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002366,
+   "descricao": "<p>Observe o gr&aacute;fico abaixo e assinale a alternativa correta: Curva Press&atilde;o versus tempo</p> <p><img src=\"data/imagens/308943810605720c.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023661,
+     "letra": "A",
+     "descricao": "A curva pressão versus tempo é especialmente útil para monitorar e ajustar o volume-corrente, principalmente em cenários onde há risco de lesão pulmonar.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023662,
+     "letra": "B",
+     "descricao": "A seta para cima marca o início do ciclo inspiratório onde a pressão começa a aumentar a medida que o ar é fornecido aos pulmões.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023663,
+     "letra": "C",
+     "descricao": "Após o ponto D inicia-se a fase expiratória, a pressão começa a diminuir, retornando em direção à linha de base.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023664,
+     "letra": "D",
+     "descricao": "O ponto C marca o final da fase expiratória e deveria coincidir com a pressão da PEEP, indicando o começo de um novo ciclo respiratório.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002367,
+   "descricao": "<p>Os mecanismos de maior importância para o desenvolvimento da hipotermia no intraoperatório são:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023671,
+     "letra": "A",
+     "descricao": "Condução e evaporação.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023672,
+     "letra": "B",
+     "descricao": "Irradiação e convecção.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023673,
+     "letra": "C",
+     "descricao": "Irradiação e condução.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023674,
+     "letra": "D",
+     "descricao": "Evaporação e convecção.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002368,
+   "descricao": "<p>Ao avaliar as propriedades termodinâmicas dos anestésicos voláteis, um anestesiologista considera o conceito de Calor Latente de Vaporização. Qual é a implicação clínica direta desse princípio físico para o desenho dos vaporizadores de bypass variável e como ele afeta a estabilidade da concentração entregue ao paciente?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023681,
+     "letra": "A",
+     "descricao": "O calor latente de vaporização é a energia liberada quando o vapor se condensa, o que pode superaquecer o vaporizador e aumenta a saída do agente se não houver dissipadores de calor.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023682,
+     "letra": "B",
+     "descricao": "A vaporização do anestésico consome energia do próprio líquido, causando resfriamento; senão houver compensação térmica, a pressão de vapor saturado diminui, resultando em uma queda progressiva na concentração de saída.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023683,
+     "letra": "C",
+     "descricao": "O calor latente de vaporização determina o ponto de ebulição do agente; agentes com baixo calor latente, como o desflurano, fervem à temperatura ambiente e não requerem compensação térmica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023684,
+     "letra": "D",
+     "descricao": "A energia necessária para a vaporização é fornecida pelo fluxo de gás fresco; portanto, quanto maior o fluxo, maior a temperatura do líquido e maior a concentração entregue.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002369,
+   "descricao": "<p>Considere a tabela abaixo, que apresenta as propriedades f&iacute;sicas de tr&ecirc;s agentes anest&eacute;sicos inalat&oacute;rios hipot&eacute;ticos (A, B) a 20&deg;C e 1 atm (760 mmHg), baseada em dados reais de farmacologia:</p> <p><img src=\"data/imagens/3abd8dfe7e5cebb6.png\" alt=\"\"></p> <p>Um m&eacute;dico anestesiologista prepara a sala cir&uacute;rgica e, inadvertidamente, preenche a c&acirc;mara de um vaporizador de bypass vari&aacute;vel (plenum) calibrado especificamente para o Agente A foi preenchido com o Agente B. O vaporizador &eacute; ligado com o seletor de concentra&ccedil;&atilde;o ajustado para entregar 2% de concentra&ccedil;&atilde;o, mantendo-se a temperatura ambiente constante em 20&deg;C. Com base nos princ&iacute;pios de press&atilde;o de vapor e funcionamento de vaporizadores plenum, qual ser&aacute; a consequ&ecirc;ncia cl&iacute;nica imediata na sa&iacute;da de gases para o paciente?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023691,
+     "letra": "A",
+     "descricao": "A concentração entregue será maior que 2%, pois o Agente B possui maior volatilidade e saturará o fluxo de gás da câmara de vaporização com uma pressão parcial superior à prevista para o Agente A.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023692,
+     "letra": "B",
+     "descricao": "A concentração entregue será menor que 2%, pois o Agente B possui um ponto de ebulição menor, o que exige maior energia térmica para vaporização, resfriando o sistema e reduzindo a pressão de vapor.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023693,
+     "letra": "C",
+     "descricao": "A concentração entregue será igual a 2%, pois o sistema de compensação de temperatura (tira bimetálica) detecta a mudança na densidade do vapor e ajusta automaticamente a razão de divisão (splitting ratio).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023694,
+     "letra": "D",
+     "descricao": "Ocorrerá a ebulição do Agente B dentro da câmara de vaporização, pois sua pressão de vapor saturado a 20°C aproxima-se da pressão atmosférica, resultando em uma saída incontrolável de vapor (efeito bolus).",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002370,
+   "descricao": "<p>Durante a checagem pré-operatória do aparelho de anestesia, o anestesiologista avalia as condições do absorvedor de CO₂ para garantir eficiência da absorção e segurança clínica. Com base na composição, no tamanho e nas características do grânulo, assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023701,
+     "letra": "A",
+     "descricao": "Grânulos de tamanho intermediário favorecem a absorção eficiente do CO₂, com menor resistência ao fluxo e menor risco de canalização.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023702,
+     "letra": "B",
+     "descricao": "Grânulos muito pequenos aumentam a eficiência da absorção do CO₂, sem impacto clínico relevante sobre a resistência ao fluxo dos gases.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023703,
+     "letra": "C",
+     "descricao": "Grânulos de grande tamanho reduzem a formação de calor e aumentam a eficiência da absorção do CO₂ no sistema respiratório.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023704,
+     "letra": "D",
+     "descricao": "O teor de água do absorvedor não interfere de forma significativa na reação química nem na eficiência da absorção do CO₂.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002371,
+   "descricao": "<p>Com base nas discuss&otilde;es sobre as teorias moleculares da anestesia inalat&oacute;ria e a Regra de Meyer-Overton, pode-se inferir que:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023711,
+     "letra": "A",
+     "descricao": "A regra de Meyer-Overton estabelece que a potência de um anestésico volátil está fortemente correlacionada com sua solubilidade em água, sugerindo um alvo de natureza hidrofílica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023712,
+     "letra": "B",
+     "descricao": "O \"efeito de corte\" (cut-off effect) comprova que a potência anestésica aumenta indefinidamente à medida que a solubilidade lipídica da molécula aumenta.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023713,
+     "letra": "C",
+     "descricao": "As interações anestésico volátil–proteína podem explicar tanto a regra de Meyer–Overton quanto os desvios em relação a ela.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023714,
+     "letra": "D",
+     "descricao": "A teoria unitária da anestesia pressupõe que os anestésicos voláteis devem atuar em um sítio molecular semelhante.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002372,
+   "descricao": "<p>Um paciente de 45 anos é submetido a uma herniorrafia inguinal sob anestesia geral com sevoflurano. Ao final do procedimento, o vaporizador é desligado e a concentração alveolar de sevoflurano diminui progressivamente. Quando a fração expirada atinge valores próximos a 0,3 CAM, o paciente começa a responder a comandos verbais simples. Qual alternativa melhor explica esse fenômeno?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023721,
+     "letra": "A",
+     "descricao": "A supressão da resposta motora ao estímulo cirúrgico requer concentrações anestésicas mais baixas do que a abolição da consciência.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023722,
+     "letra": "B",
+     "descricao": "A recuperação da consciência ocorre em concentrações alveolares inferiores àquelas necessárias para suprimir o movimento ao estímulo nociceptivo.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023723,
+     "letra": "C",
+     "descricao": "O efeito hipnótico dos anestésicos voláteis é mediado predominantemente por receptores medulares, enquanto a imobilidade depende de ação cortical.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023724,
+     "letra": "D",
+     "descricao": "A velocidade de eliminação do anestésico do sistema nervoso central é mais rápida do que aqueda da concentração alveolar durante o despertar.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002373,
+   "descricao": "<p>Uma criança de 7 anos foi submetida a anestesia geral inalatória diária por 30 dias consecutivos para sessões de radioterapia. Algumas semanas após o término do tratamento, evolui com parestesias em membros inferiores e dificuldade para deambular. A investigação laboratorial evidenciou anemia macrocítica, com neutrófilos hipersegmentados no esfregaço periférico. Qual anestésico inalatório está mais provavelmente associado a esse quadro?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023731,
+     "letra": "A",
+     "descricao": "Sevoflurano.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023732,
+     "letra": "B",
+     "descricao": "Isoflurano.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023733,
+     "letra": "C",
+     "descricao": "Desflurano.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023734,
+     "letra": "D",
+     "descricao": "Óxido nitroso.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002374,
+   "descricao": "<p>Paciente de 35 anos, feminino, 60 kg, no pré-operatório para abdominoplastia. Nega tabagismo ou etilismo. Assinale a alternativa que melhor justifica a indicação da Anestesia Venosa Total comparada à Anestesia Venosa-Inalatória para este paciente.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023741,
+     "letra": "A",
+     "descricao": "Menor potencial de disseminação tumoral.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023742,
+     "letra": "B",
+     "descricao": "Maior efeito cardioprotetor e antioxidante.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023743,
+     "letra": "C",
+     "descricao": "Maior dor pós-operatória por efeito nociceptivo do propofol.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023744,
+     "letra": "D",
+     "descricao": "Menor incidência de náuseas e/ou vômitos no pós-operatório.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002375,
+   "descricao": "<p>O gr&aacute;fico a seguir representa o conceito de um modelo farmacocin&eacute;tico de infus&atilde;o de propofol, trata-se de qual modelo?</p> <p><img src=\"data/imagens/8a79e1b204717159.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023751,
+     "letra": "A",
+     "descricao": "Schnider",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023752,
+     "letra": "B",
+     "descricao": "Marsh",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023753,
+     "letra": "C",
+     "descricao": "Eleveld",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023754,
+     "letra": "D",
+     "descricao": "Maitre",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002376,
+   "descricao": "<p>Na infusão alvo-controlada (TCI) com propofol, quando se utiliza o direcionamento para o sítio de efeito (effect-site targeting) em vez do direcionamento plasmático (plasma targeting), qual é a principal característica farmacocinética que explica a necessidade de overshoot inicial na concentração plasmática?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023761,
+     "letra": "A",
+     "descricao": "O overshoot plasmático é necessário porque o volume de distribuição central (Vc) é subestimado pelos modelos farmacocinéticos, exigindo doses iniciais maiores para compensar a diluição no compartimento central.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023762,
+     "letra": "B",
+     "descricao": "O overshoot plasmático ocorre para compensar o tempo necessário para o equilíbrio entre o plasma e o sítio de efeito, caracterizado pelo tempo para máximo efeito (Tmax) e pela constante de transferência ke0.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023763,
+     "letra": "C",
+     "descricao": "O overshoot plasmático resulta da superestimação do clearance de eliminação (ClE) pelos modelos tricompartimentais, necessitando de concentrações iniciais mais elevadas para manter o efeito terapêutico.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023764,
+     "letra": "D",
+     "descricao": "O overshoot plasmático é causado pela variabilidade interindividual dos parâmetros farmacocinéticos, que pode chegar a ±30% quando se utilizam valores da literatura populacional.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

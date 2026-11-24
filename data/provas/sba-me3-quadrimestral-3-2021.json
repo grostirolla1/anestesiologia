@@ -1,0 +1,628 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-3-2021",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 3ª quadrimestral 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003574,
+   "descricao": "<p><strong>S&atilde;o objetivos da conduta anest&eacute;sica em doadores de &oacute;rg&atilde;os com morte cerebral:</strong></p> <p>a) A fra&ccedil;&atilde;o de eje&ccedil;&atilde;o do ventr&iacute;culo esquerdo desej&aacute;vel para esse paciente &eacute; maior que 50%.&nbsp;</p> <p>b) Para o doador de &oacute;rg&atilde;os, os valores plasm&aacute;ticos de s&oacute;dio acima de 160 mEq/L s&atilde;o aceit&aacute;veis.&nbsp;</p> <p>c) N&iacute;veis de hemoglobina acima de 10mg/dL est&atilde;o relacionados a melhor resultado.&nbsp;</p> <p>d) S&atilde;o aceit&aacute;veis n&iacute;veis plasm&aacute;ticos de glicose acima de 180 mg/dL.&nbsp;</p> <p>e) O objetivo hemodin&acirc;mico prim&aacute;rio &eacute; maximizar a perfus&atilde;o dos &oacute;rg&atilde;os, garantindo sua preserva&ccedil;&atilde;o por meio do adequado volume intravascular e d&eacute;bito card&iacute;aco.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035741,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035742,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035743,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035744,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003575,
+   "descricao": "<p>Com relação aos procedimentos anestésicos fora do centro cirúrgico: </p><p>a) A avaliação pré-anestésica pode ser dispensada.&nbsp;</p><p>b) Cada vez menos, pacientes com comorbidades graves e / ou comprometimentos significativos são programados.&nbsp;</p><p>c) As diretrizes atuais de jejum são de 6 horas para uma refeição leve, 8 horas para uma refeição completa e 2 horas para líquidos claros, aplicados a todos os pacientes.&nbsp;</p><p>d) Durante os procedimentos percutâneos, o risco de sangramento é irrelevante. Portanto, exclui-se a necessidade potencial de transfusão ou reserva de sangue.&nbsp;</p><p>e) Nos procedimentos guiados por imagem, o risco de ansiedade e dor pós-procedimento é mínimo e as complicações potencialmente fatais são inexistentes.&nbsp;</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035751,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035752,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035753,
+     "letra": "C",
+     "descricao": "F F F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035754,
+     "letra": "D",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003576,
+   "descricao": "<p>Com relação à dor crônica: </p><p>a) Os esteroides peridurais conseguem alívio definitivo da dor radicular.</p><p>b) A neuralgia pós-herpética é principalmente tratada com técnicas intervencionistas.&nbsp;</p><p>c) Antidepressivos e anticonvulsivantes são eficazes para o tratamento de síndromes de dor neuropática.&nbsp;</p><p>d) A síndrome de dor complexa regional que não responde a bloqueios nervosos, fisioterapia e/ou gestão farmacológica pode responder à estimulação da medula espinhal.&nbsp;</p><p>e) As fibras A delta e C, em condições normais, transmitem efeitos nociceptivos (dor) e informações para a medula espinhal de suas terminações nervosas livres na periferia.</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035761,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035762,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035763,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035764,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003577,
+   "descricao": "<p>Com relação à dor aguda em pacientes pediátricos: </p><p>a) A avaliação nas deficiências intelectuais já foi facilitada e superada com as novas escalas visuais.</p><p>b) o bloqueio caudal é mal indicado na faixa etária pediátrica, devido à distribuição altamente irregular, diferente do que acontece no adulto.</p><p>c) Pode ocorrer dificuldade na avaliação, a depender da fase do desenvolvimento e das diferenças cognitivas e emocionais.&nbsp;</p><p>d) a anestesia peridural está contraindicada, devido à repercussão hemodinâmica pronunciada nas crianças.</p><p>e) Os mitos de que crianças e bebês não sentem dor e que a dor não é lembrada podem ser verdadeiros e pouco interferem no controle eficaz da dor pós-operatória.</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035771,
+     "letra": "A",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035772,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035773,
+     "letra": "C",
+     "descricao": "F F F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035774,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003578,
+   "descricao": "<p>Com relação à segurança do paciente e acreditação hospitalar: </p><p>a) Incluir o envolvimento de conselhos hospitalares e pacientes em esforços de segurança é importante para a melhoria dos resultados.&nbsp;</p><p>b) O Modo de Falha e Análise de Efeito (FMEA) foi adaptado para os cuidados de saúde, com base na análise de sistemas de engenharia. É um conceito obsoleto e que não deve ser mais utilizado.&nbsp;</p><p>c) Uma estratégia importante para melhorar a segurança do paciente é o aprendizado organizacional, que é definido como “o processo de criação e aplicação de conhecimento válido para permitir que uma organização melhore”.</p><p>d) Na cultura da segurança dentro das organizações, é suficiente para o sucesso usar princípios e políticas de punição para lidar com os erros do pessoal.&nbsp;</p><p>e) Apesar do foco da última década, de melhorar a segurança do paciente, a maioria das organizações de saúde ainda está se esforçando para alcançar o status de detentora de alta confiabilidade, fornecendo consistentemente cuidados de alta qualidade enquanto minimiza os eventos adversos.&nbsp;</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035781,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035782,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035783,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035784,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003579,
+   "descricao": "<p>Com relação à ventilação protetora: </p><p><b>A) </b>O PEEP contínuo no valor de 10 é presumido para manter um pulmão recrutado durante a anestesia.</p><p><b>B) </b>Um volume corrente entre 6 e 8 mL.kg-1 é razoável para proteção.</p><p><b>C) </b>Na manobra de recrutamento, realizada com altos volumes contínuos durante a ventilação, ocorre a abertura de alvéolos colapsados.</p><p><b>D) </b>A atelectasia que se desenvolve no intraoperatório pode durar alguns dias depois da cirurgia e pode ser causa de complicações pulmonares pós-operatórias.</p><p><b>E) </b>O conceito de “ventilação protetora” surgiu com base em três ferramentas de suporte do ventilador: volume corrente, manobra de recrutamento e PEEP.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035791,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035792,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035793,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035794,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003580,
+   "descricao": "<p>Com rela&ccedil;&atilde;o ao gerenciamento da atividade do anestesiologista:</p> <p>A) As pessoas podem gerenciar sozinhas todas as tarefas, dispensando a ajuda dos membros da equipe.</p> <p>B) Se a quantidade de tarefas se tornar alta, os erros nas tarefas ou subtarefas s&atilde;o menos prov&aacute;veis.</p> <p>C) O gerenciamento de tarefas &eacute; definido como a &ldquo;habilidade para organizar recursos e atividades necess&aacute;rias para atingir os objetivos, sejam eles planos de casos individuais ou quest&otilde;es de agendamento de longo prazo&rdquo;.&nbsp;</p> <p>D) As tarefas podem ser atrasadas por interrup&ccedil;&otilde;es ou demandas concorrentes, que, ent&atilde;o, exigem mem&oacute;ria prospectiva para lembrar o que fazer no futuro ou para retomar corretamente as a&ccedil;&otilde;es interrompidas.&nbsp;</p> <p>E) A estrutura de uma pr&aacute;tica de anestesiologia &eacute; um componente crucial na entrega adequada da anestesia aos pacientes, em parte por causa do estabelecimento de linhas de autoridade, cria&ccedil;&atilde;o de pol&iacute;ticas de escalonamento, determina&ccedil;&atilde;o de uma estrutura de tomada de decis&atilde;o, cria&ccedil;&atilde;o de gerenciamento de informa&ccedil;&otilde;es e gerenciamento de comunica&ccedil;&atilde;o com o grupo.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035801,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035802,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035803,
+     "letra": "C",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035804,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003581,
+   "descricao": "<p><strong>Sobre as rea&ccedil;&otilde;es ocasionais &agrave; terapia com imunossupressores:</strong></p> <p>A) A ciclosporina pode causar hipomagnesemia e rabdomi&oacute;lise.</p> <p>B) A infus&atilde;o de anticorpos anti-OKT3 pode ocasionar hipotens&atilde;o arterial e edema pulmonar.</p> <p>C) Altas doses de metilprednisolona podem desencadear quadros psic&oacute;ticos.</p> <p>D) A administra&ccedil;&atilde;o r&aacute;pida de timoglobulina pode exacerbar a hipercalemia.</p> <p>E) A ciclosporina deve ser administrada, obrigatoriamente, isolada.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035811,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035812,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035813,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035814,
+     "letra": "D",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003582,
+   "descricao": "<p>Homem de 70 anos, 50 kg e 1,60m, com história de asma, foi submetido à anestesia geral para exame radiodiagnóstico, com uso de meios de contraste. Durante o exame, apresentou hipoxemia, rubor e hiperemia:</p><p>a) Não se deve realizar intervenção clínica imediata, uma vez que se trata de um caso autolimitado.</p><p>b) O paciente deve ter recebido um meio de contraste iodado iônico.</p><p>c) Deve-se realizar fluidoterapia vigorosa com 1 a 3 litros de cristaloide.</p><p>d) A reação seria evitada se o paciente tivesse recebido bloqueadores histamínicos no pré-operatório.</p><p>e) Rubor e hiperemia indicam progressão para quadros mais sérios.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035821,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035822,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035823,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035824,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003583,
+   "descricao": "<p><b>(QUESTÃO REFORMULADA)</b> Homem de 86 anos, 80 kg e 1,80m, hipertenso controlado com losartana 100 mg/dia. Apresentou neuralgia pós-herpética em trajeto da oitava costela esquerda há 8 meses, e está em uso de paracetamol e tramadol de forma irregular. Queixa-se de episódios de dor lancinante, com intensidade 8 em 10 na escala visual analógica. No tratamento desse paciente:</p><p>a) O emprego de adesivo de lidocaína é recomendado se houver alodinia.</p><p>b) Um ciclo de medicamentos antivirais deve ser considerado para melhora do quadro doloroso.</p><p>c) Bloqueio anestésico do nervo acometido é uma opção terapêutica para o tratamento da dor.</p><p>d) Entre as opções medicamentosas, a pregabalina ou gabapentina constituem a primeira opção, seguida pelos tricíclicos.</p><p>e) Devido à idade avançada e para promover melhor qualidade de vida, a pregabalina é a primeira opção terapêutica.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035831,
+     "letra": "A",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035832,
+     "letra": "B",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035833,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035834,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003584,
+   "descricao": "<p>Homem de 75 anos, 1,70m, 80 kg, portador de enfisema pulmonar. Foi submetido a colectomia sob ventilação mecânica controlada a volume (VC: 530 ml; FR: 12; relação I:E 1:2; FiO2: 0,50; Pinsp: 30 mmHg) e desenvolveu importante acidose respiratória. Que parâmetros devem ser ajustados na ventilação deste paciente?</p><p><b>A) </b>Aumentar o volume corrente.</p><p><b>B) </b>Aumentar o tempo expiratório.</p><p><b>C) </b>Reduzir a relação inspiração:expiração.</p><p><b>D) </b>Aumentar a frequência respiratória.</p><p><b>E) </b>Aumentar a FiO2 para 100%.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035841,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035842,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035843,
+     "letra": "C",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035844,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003585,
+   "descricao": "<p>Na gerência do centro cirúrgico:</p><p><b>A)</b> Os anestesiologistas são bons candidatos à posição de diretor do centro cirúrgico.</p><p><b>B)</b> São responsabilidades para com o serviço de anestesiologia: forte relação de trabalho com a hierarquia de enfermagem e com a administração do hospital.</p><p><b>C) </b>É papel do diretor clínico com a enfermagem do centro cirúrgico: suporte básico da administração do hospital.</p><p><b>D) </b>O diretor de um centro cirúrgico deve identificar desde o início os problemas que possam remediar com facilidade para obter sucesso e aceitação de imediato.</p><p><b>E)</b> O processo de programação envolve estimar, organizar e reunir o pessoal, os equipamentos, o espaço e o tempo necessários para a realização de um procedimento.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035851,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035852,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035853,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035854,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003586,
+   "descricao": "<p>Sobre segurança do paciente em anestesiologia:</p><p>a) A qualidade é consequência de um modelo de gestão que evite, previna ou minimize as não conformidades ou erros do sistema.</p><p>b) A aplicação de um sistema de controle e garantia de qualidade exige recursos e investimentos, cujo retorno sempre é quantificado.</p><p>c) A qualidade assistencial tem três componentes a serem considerados: efetividade, eficiência e resultado.</p><p>d) A escolha da técnica de anestesia só depende da intervenção a ser realizada.</p><p>e) Um serviço de anestesiologia acreditado em nível 3 dispõe de uma lista de anestesiologistas organizados por plantões, ativos ou a distância, para cada dia da semana.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035861,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035862,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035863,
+     "letra": "C",
+     "descricao": "V F F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035864,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003587,
+   "descricao": "<p>Mulher de 35 anos, 60kg e 1,68m, apresenta edema, alteração de temperatura e de coloração em mão e punho esquerdos após imobilização por tala ortopédica devido a trauma. As medidas terapêuticas para beneficiar essa paciente são:</p><p>a) Bloqueio do gânglio estrelado.</p><p>b) Neuroestimulação medular.</p><p>c) Infusão endovenosa de cetamina.</p><p>d) Administração de sufentanil intratecal.</p><p>e) Utilização de calcitonina subcutânea.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035871,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035872,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035873,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035874,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

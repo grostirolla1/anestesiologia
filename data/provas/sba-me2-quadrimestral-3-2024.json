@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-3-2024",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 3ª quadrimestral 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002531,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave; anestesia na paciente gestante:</p> <p>A) A&nbsp;incid&ecirc;ncia de cefal&eacute;ia p&oacute;s-pun&ccedil;&atilde;o da dura-m&aacute;ter &eacute; menor na paciente obesa m&oacute;rbida do que na paciente n&atilde;o obesa.</p> <p>B) Durante o segundo trimestre da gesta&ccedil;&atilde;o ocorre aumento da resist&ecirc;ncia vascular sist&ecirc;mica, devido &agrave; a&ccedil;&atilde;o das prostaciclinas.</p> <p>C) A&nbsp;metaboliza&ccedil;&atilde;o da succinilcolina est&aacute; comprometida, devido &agrave; diminui&ccedil;&atilde;o da atividade da colinesterase plasm&aacute;tica durante a gesta&ccedil;&atilde;o.</p> <p>D) No primeiro trimestre gestacional h&aacute; estimula&ccedil;&atilde;o &agrave; hiperplasia das c&eacute;lulas pancre&aacute;ticas, entretanto, nesta fase ocorre hipoglicemia e hipoinsulinemia.</p> <p>E) Durante a gravidez a termo, a press&atilde;o no espa&ccedil;o peridural &eacute; positiva.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025311,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025312,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025313,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025314,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002532,
+   "descricao": "<p>Sobre anestesia para obstetr&iacute;cia, responda:</p> <p>A) A&nbsp;doen&ccedil;a hipertensiva espec&iacute;fica da gesta&ccedil;&atilde;o &eacute; a causa mais comum de hemorragia p&oacute;s-parto grave.</p> <p>B) Durante a gravidez a press&atilde;o venosa central diminui 15-20%.</p> <p>C) O t&ocirc;nus muscular uterino n&atilde;o &eacute; afetado pelos relaxantes musculares esquel&eacute;tico e, em doses padr&atilde;o, todas as classes de relaxantes musculares s&atilde;o pobremente transferidos para o feto.</p> <p>D) Gr&aacute;vida submetida a cesariana evolui com cefaleia p&oacute;s-raqui associada a evid&ecirc;ncia de envolvimento de par craniano (diplopia), nesse caso um tamp&atilde;o sangu&iacute;neo (blood patch) deve ser realizado imediatamente.</p> <p>E) Gr&aacute;vida com ecocardiograma evidenciando aumento das c&acirc;maras card&iacute;acas direitas em 20% e hipertrofia ventricular esquerda exc&ecirc;ntrica associada a aumento no &acirc;nulo mitral e regurgita&ccedil;&atilde;o tric&uacute;spide deve ser encaminhada ao cardiologista para investiga&ccedil;&atilde;o complementar.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025321,
+     "letra": "A",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025322,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025323,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025324,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002533,
+   "descricao": "<p>Sobre anestesia em ortopedia:</p> <p>A) Um paciente jovem submetido &agrave; cirurgia de fratura de f&ecirc;mur apresentou, 24 horas ap&oacute;s a cirurgia, sintomas de hip&oacute;xia, acidose respirat&oacute;ria, altera&ccedil;&otilde;es no estado mental, erup&ccedil;&atilde;o petequial, trombocitopenia e microglobulinemia gordurosa, que s&atilde;o compat&iacute;veis com a s&iacute;ndrome da embolia gordurosa.</p> <p>B) Durante uma artroplastia total de quadril a fixa&ccedil;&atilde;o cimentada da pr&oacute;tese pode ser complicada pela s&iacute;ndrome da implanta&ccedil;&atilde;o de cimento &oacute;sseo, que se manifesta por hipertens&atilde;o intraoperat&oacute;ria acentuada, broncoconstri&ccedil;&atilde;o e aumento da resist&ecirc;ncia vascular pulmonar.</p> <p>C) Pacientes com artrite reumatoide requerem considera&ccedil;&otilde;es anest&eacute;sicas especiais devido &agrave; limita&ccedil;&atilde;o do movimento da articula&ccedil;&atilde;o temporomandibular, instabilidade atlantoaxial e abertura estreita da glote.</p> <p>D) A&nbsp;perda visual perioperat&oacute;ria ap&oacute;s cirurgia de coluna pode ser causada por neuropatia &oacute;ptica isqu&ecirc;mica anterior ou posterior, isquemia retiniana, cegueira cortical ou encefalopatia posterior revers&iacute;vel.</p> <p>E) Cirurgias de coluna, s&atilde;o classificadas como de risco cir&uacute;rgico intermedi&aacute;rio, com uma incid&ecirc;ncia de morte card&iacute;aca ou infarto do mioc&aacute;rdio em 30 dias ocorrendo entre 1% a 5% e medi&ccedil;&otilde;es perioperat&oacute;rias de troponina devem ser consideradas para avaliar eventos card&iacute;acos perioperat&oacute;rios.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025331,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20025332,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025333,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025334,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002534,
+   "descricao": "<p>Com rela&ccedil;&atilde;o a procedimentos ambulatoriais, analise as alternativas:</p> <p>A) Paciente de 70 Kg encaminhado para retirada de les&otilde;es de pele sendo utilizado 210 mg de lidoca&iacute;na com vasoconstritor, est&aacute; autorizada a realiza&ccedil;&atilde;o em unidade tipo I.</p> <p>B)&nbsp;Nas unidades tipo II, a presen&ccedil;a de salas de recupera&ccedil;&atilde;o &eacute; opcional, &eacute; contraindicada a realiza&ccedil;&atilde;o de anestesia no neuroeixo sendo permitido procedimentos de pequeno e m&eacute;dio porte sob anestesia locorregional.</p> <p>C) Tanto nas unidades tipo III e IV o tempo de interna&ccedil;&atilde;o deve ser at&eacute; 24 horas, por&eacute;m nas unidades III s&atilde;o utilizadas estruturas de apoio do hospital como lavanderia, central de esteriliza&ccedil;&atilde;o.</p> <p>D)&nbsp;Crian&ccedil;a com 3 meses de idade, nasceu com 30 semanas, encaminhada para realiza&ccedil;&atilde;o de sondagem de vias lacrimais em regime ambulatorial. Sua conduta deve ser encaminhar para procedimento com interna&ccedil;&atilde;o devido ao risco de apn&eacute;ia.</p> <p>E)&nbsp;Em pacientes idosos e estado f&iacute;sico ASA III, desde que estejam as doen&ccedil;as preexistentes adequadamente controladas, s&atilde;o permitidos procedimentos em car&aacute;ter ambulatorial.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025341,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025342,
+     "letra": "B",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025343,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20025344,
+     "letra": "D",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002535,
+   "descricao": "<p>Um paciente de 45 anos, com &iacute;ndice de massa corporal (IMC) de 32 kg/m&sup2; e hist&oacute;rico de hipertens&atilde;o controlada, foi submetido a uma cirurgia de videocolecistectomia laparosc&oacute;pica. Durante o procedimento, foi insuflado di&oacute;xido de carbono (CO2) para criar um pneumoperit&ocirc;nio com press&atilde;o intra-abdominal de 12 mmHg. Ap&oacute;s a cirurgia, a equipe m&eacute;dica monitorou cuidadosamente a fun&ccedil;&atilde;o renal e hemodin&acirc;mica do paciente devido ao risco de complica&ccedil;&otilde;es associadas ao pneumoperit&ocirc;nio. Sobre os efeitos fisiol&oacute;gicos do pneumoperit&ocirc;nio:</p> <p>A) O&nbsp;pneumoperit&ocirc;nio com CO2 aumenta a resist&ecirc;ncia vascular sist&ecirc;mica (SVR) e a resist&ecirc;ncia vascular pulmonar (PVR), e pode causar uma diminui&ccedil;&atilde;o no d&eacute;bito card&iacute;aco.</p> <p>B) A&nbsp;insufla&ccedil;&atilde;o de CO2 durante a laparoscopia est&aacute; associada a uma absor&ccedil;&atilde;o mais r&aacute;pida de bolhas intravasculares em compara&ccedil;&atilde;o com gases como nitrog&ecirc;nio, arg&ocirc;nio ou h&eacute;lio.</p> <p>C) A&nbsp;perfus&atilde;o renal e a fun&ccedil;&atilde;o renal podem ser prejudicadas pelo pneumoperit&ocirc;nio, sendo esses efeitos permanentes.</p> <p>D) Em pacientes obesos m&oacute;rbidos, o pneumoperit&ocirc;nio pode ter um efeito hemodin&acirc;mico menos pronunciado em compara&ccedil;&atilde;o com pacientes n&atilde;o obesos.</p> <p>E) O&nbsp;uso de ventila&ccedil;&atilde;o por jato de alta frequ&ecirc;ncia (HFJV) &eacute; a melhor pr&aacute;tica para minimizar os efeitos adversos do pneumoperit&ocirc;nio.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025351,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025352,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025353,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025354,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002536,
+   "descricao": "<p>Sobre a analgesia p&oacute;s-operat&oacute;ria de amigadalectomia:</p> <p>A) Bloqueios dos nervos palatino maior e palatino menor possibilitam analgesia de forma mais segura que a inje&ccedil;&atilde;o com anest&eacute;sico local na loja amigdaliana.</p> <p>B) A&nbsp;code&iacute;na est&aacute; indicada na analgesia p&oacute;s-operat&oacute;ria das crian&ccedil;as.</p> <p>C) A morfina &eacute; o analg&eacute;sico de escolha na analgesia p&oacute;s-operat&oacute;ria de crian&ccedil;as.</p> <p>D) A&nbsp;dexametasona intravenosa al&eacute;m do efeito antiem&eacute;tico, reduz intensidade da dor.</p> <p>E) O&nbsp;paracetamol &eacute; indicado com seguran&ccedil;a nos pacientes que utilizam f&aacute;rmacos indutores do sistema P450.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025361,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025362,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025363,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20025364,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002537,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao reflexo oculocard&iacute;aco, analise as afirmativas abaixo:</p> <p>A) Os impulsos aferentes originam-se no conteúdo orbitário, seguem pelos nervos ciliares curtos, passam pelo gânglio ciliar, que &eacute; divisão oftálmica do nervo trigêmeo.</p> <p>B) Na ocorr&ecirc;ncia do reflexo, os impulsos eferentes são conduzidos através do nervo vago ao coração.</p> <p>C) Inje&ccedil;&atilde;o intraconal, &eacute; um bloqueio anest&eacute;sico capaz de ativar o reflexo oculocard&iacute;aco.</p> <p>D) Analisando as cirurgias oftalmol&oacute;gicas, o reflexo &eacute; mais frequente e intenso em cirurgias para corre&ccedil;&atilde;o do estrabismo, inclusive ocorre em pacientes anestesiados.</p> <p>E) Febre e a hipercarbia, s&atilde;o fatores de risco para aumento da incid&ecirc;ncia do reflexo oculocard&iacute;aco.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025371,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025372,
+     "letra": "B",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025373,
+     "letra": "C",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025374,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002538,
+   "descricao": "<p>Sobre anestesia ambulatorial:</p> <p>A)&nbsp;Unidades tipo II destinam-se &agrave; realiza&ccedil;&atilde;o cirurgias/procedimentos de pequeno e m&eacute;dio porte, sob anestesia locorregional (com exce&ccedil;&atilde;o dos bloqueios subaracn&oacute;ideo e peridural), com ou sem seda&ccedil;&atilde;o.</p> <p>B)&nbsp;A alta do servi&ccedil;o ser&aacute; dada por qualquer membro da equipe m&eacute;dica respons&aacute;vel.</p> <p>C)&nbsp;|Uma vez liberados para o regime ambulatorial, prematuros saud&aacute;veis devem permanecer sob vigil&acirc;ncia pelo per&iacute;odo m&iacute;nimo de 6 horas.</p> <p>D)&nbsp;Crian&ccedil;as portadoras de cardiopatias cong&ecirc;nitas n&atilde;o podem ser submetidas a cirurgias em regime ambulatorial.</p> <p>E)&nbsp;A recupera&ccedil;&atilde;o do est&aacute;gio III d&aacute;-se quando o paciente est&aacute; apto a se levantar e andar sem ajuda. Os efeitos colaterais devem estar ausentes e a realimenta&ccedil;&atilde;o deve ser institu&iacute;da com sucesso.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025381,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025382,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025383,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025384,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

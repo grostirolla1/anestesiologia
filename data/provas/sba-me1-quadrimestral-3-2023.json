@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-3-2023",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 3ª quadrimestral 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001327,
+   "descricao": "<p>Quanto aos anestésicos locais (AL):</p><p>A)&nbsp;São constituídos de um radical aromático hidrofóbico ligado por uma cadeia intermediária a uma base hidrofílica.</p><p>B)&nbsp;AL do grupo dos aminoésteres são hidrolizados no plasma através da enzima colinesterase com exceção da cocaína.</p><p>C)&nbsp;O nível sanguíneo de AL necessário para produzir toxicidade no sistema nervoso central é geralmente inferior ao que resulta em colapso circulatório.</p><p>D)&nbsp;AL com pKa próximo ao pH fisiológico apresentam alta concentração da fração básica não ionizada contribuindo para uma latência mais curta.</p><p>E)&nbsp;Entre os AL do grupamento amidas, a procaína é a que apresenta menor taxa de ligação protéica.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013271,
+     "letra": "A",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013272,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013273,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013274,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001328,
+   "descricao": "<p>Sobre a transmissão e o bloqueio neuromuscular:</p><p><b>A) </b>Os receptores colinérgicos juncionais se distribuem na placa motora e em toda membrana nervosa.</p><p><b>B) </b>Os glicocorticóides aumentam a síntese e liberação de acetilcolina no neurônio motor.</p><p><b>C) </b>A ciclofosfamida prolonga o efeito da succinilcolina.</p><p><b>D) </b>Na forma mais comum de hiperparatiroidismo ocorre queda na liberação da acetilcolina.</p><p><b>E) </b>A duração de ação do cisatracúrio é prolongada na presença de colinesterase plasmática atípica.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013281,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013282,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013283,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013284,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001329,
+   "descricao": "<p>Ap&oacute;s uma parada cardiorrespirat&oacute;ria e reanima&ccedil;&atilde;o:</p> <p><strong>A)</strong> Em pacientes com diagn&oacute;stico de obstru&ccedil;&atilde;o coronariana e inst&aacute;veis hemodinamicamente, a angiografia deve ser protelada at&eacute; a estabiliza&ccedil;&atilde;o</p> <p><strong>B) </strong>Deve ser estabelecido controle direcionado de temperatura, com manuten&ccedil;&atilde;o de hipotermia entre 31 e 32<sup>o</sup> C por pelo menos 48 horas</p> <p><strong>C) </strong>Uma angiografia de urg&ecirc;ncia deve ser a primeira medida a ser adotada</p> <p><strong>D) </strong>Um eletroencefalograma deve ser prontamente realizado em pacientes que permanecem comatosos</p> <p><strong>E) </strong>Hipertermia (febre) deve ser evitada e controlada ativamente</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013291,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013292,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013293,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013294,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001330,
+   "descricao": "<p>Sobre bloqueios do neuroeixo:</p><p><b>A) </b>O tônus vascular arterial é comprometido em situações de hipóxia e acidose contribuindo para o colapso cardiovascular após raquianestesia.</p><p><b>B) </b>O fluxo sanguíneo hepático se mantém constante após anestesia do neuroeixo em virtude de sua autorregulação.</p><p><b>C) </b>Nos bloqueios altos do neuroeixo, o volume de reserva expiratório, o pico de fluxo expiratório e a ventilação minuto estão preservados.</p><p><b>D) </b>Náuseas após bloqueio do neuroeixo são consequentes ao aumento do peristaltismo, bem como da isquemia intestinal induzida pela hipotensão, que produz dopamina e outras substâncias emetogênicas.</p><p><b>E) </b>Hipoperfusão renal ocorre uma vez que haja hipotensão após bloqueio do neuroeixo, pois não há autorregulação do fluxo sanguíneo renal.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013301,
+     "letra": "A",
+     "descricao": "V F F F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013302,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013303,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013304,
+     "letra": "D",
+     "descricao": "F F F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001331,
+   "descricao": "<p>Com relação às reações de hipersensibilidade:</p><p>A) As quinolonas são os antibióticos que mais frequentemente causam reações alérgicas.</p><p>B) Eventos posteriores ao uso de anestésicos locais, tipo aminoamidas, são frequentes.</p><p>C) O&nbsp;uso de propofol está contraindicado nos pacientes com alergia a ovo.</p><p>D) Durante a respiração controlada é comum observar redução da complacência pulmonar.</p><p>E) O&nbsp;quadro final do choque anafilático é um choque hipervolêmico, com hemodiluição, aumento do retorno venoso e débito cardíaco.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013311,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013312,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013313,
+     "letra": "C",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013314,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001332,
+   "descricao": "<p>A respeito das complica&ccedil;&otilde;es da anestesia, julgue:</p> <p><strong>A)</strong> Raquianestesia &eacute; fator protetor para hipotermia perioperat&oacute;ria.</p> <p><strong>B)</strong> N&aacute;useas e v&ocirc;mitos p&oacute;s-operat&oacute;rios s&atilde;o mais comuns em mulheres jovens.</p> <p><strong>C) </strong>A&nbsp;dor aguda p&oacute;s-operat&oacute;ria &eacute; mais comum em pacientes com dor pr&eacute;-operat&oacute;ria.</p> <p><strong>D)</strong> Doen&ccedil;a do n&uacute;cleo central &eacute; fator de risco para hipertermia maligna.</p> <p><strong>E) </strong>H&aacute; menor risco de complica&ccedil;&otilde;es cardiovasculares maiores em pacientes submetidos a cirurgias intraperitoneais.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013321,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013322,
+     "letra": "B",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013323,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013324,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001333,
+   "descricao": "<p>Sobre a sala de recuperação pós-anestésica (SRPA):</p><p>A) A&nbsp;causa mais comum de obstrução da via aérea é a perda do tônus muscular laríngeo.</p><p>B) Laringoespasmo é mais comum no intervalo entre o estado de anestesia geral e o de totalmente acordado.</p><p>C) Tremores (shivering) é fator predisponente para hipertensão.</p><p>D) Paciente deve apresentar escore de Aldrete 10 para alta da SRPA.</p><p>E) Visão embaçada, lacrimejamento, vermelhidão, fotofobia e sensação de corpo estranho caracterizam a complicação oftálmica mais comum no pós-operatório.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013331,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013332,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013333,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013334,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,804 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-3-2022",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 3ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003588,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA)</strong> Em rela&ccedil;&atilde;o &agrave; anestesia para transplante de &oacute;rg&atilde;os:</p> <p><strong>A) </strong>A hepatite viral &eacute; a principal causa de hepatite fulminante.</p> <p><strong>B) </strong>Uma infus&atilde;o de octreotide pode dar origem &agrave; hipotens&atilde;o arterial e edema&nbsp;pulmonar.</p> <p><strong>C) </strong>Em paciente em morte cerebral, o quadro de hipertermia corporal instala-se progressivamente.</p> <p><strong>D)</strong> No paciente candidato a transplante renal, a hipertens&atilde;o arterial &eacute; a causa&nbsp;mais comum da deteriora&ccedil;&atilde;o da fun&ccedil;&atilde;o do rim.</p> <p><strong>E) </strong>O edema cerebral &eacute; a causa mais comum de encefalopatia em pacientes&nbsp;com disfun&ccedil;&atilde;o hep&aacute;tica cr&ocirc;nica e cirrose.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035881,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035882,
+     "letra": "B",
+     "descricao": "F F F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035883,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035884,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003589,
+   "descricao": "<p>Homem 68 anos, 1,72m, 80 kg, submetido a colonoscopia para polipectomia do&nbsp;sigmoide sob sedação com midazolam (4 mg), fentanil (0,05 mg) e propofol em doses&nbsp;fracionadas (dose total de 140 mg). O preparo foi realizado com manitol. Com relação a&nbsp;este paciente:</p><p>a) Hipovolemia, desidratação e hipocalemia podem ocorrer.</p><p>b) A reposição de potássio deve ser iniciada imediatamente, se o paciente&nbsp;apresentar vômitos.</p><p>c) A monitorização mínima exigida inclui cardioscopia, oximetria de pulso e&nbsp;pressão arterial não invasiva.</p><p>d) Como o preparo do cólon foi realizado com solução hiperosmolar, o tempo&nbsp;de jejum pré-operatório para líquidos pode ser reduzido a uma hora.</p><p>e) Com o objetivo de prevenir lesão nervosa, deve ser posicionado com um&nbsp;coxim macio entre os joelhos, devendo o membro de baixo permanecer&nbsp;em extensão, com o membro de cima em leve flexão, logo à frente do de&nbsp;baixo.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035891,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035892,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035893,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035894,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003590,
+   "descricao": "<p>Homem de 69 anos, 1,70 cm de altura e portador de DPOC de longa data será submetido à colecistectomia aberta sob anestesia geral. Nessa situação:</p><p><b>A)</b> A reatividade das vias aéreas na DPOC é igual à asma.</p><p><b>B)</b> A utilização de máscara laríngea não deve ser considerada.</p><p><b>C)</b> A utilização de cateter epidural traria benefícios neste caso.</p><p><b>D)</b> A utilização de oxido nitroso é considerada geralmente segura.</p><p><b>E) </b>Volume corrente baixo e frequência ventilatória baixa está bem indicado.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035901,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035902,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035903,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035904,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003591,
+   "descricao": "<p>Em pacientes com acentuada disfun&ccedil;&atilde;o hep&aacute;tica ocorre:</p> <p><strong>A)</strong> Press&otilde;es intravesicais acima de 15 mmHg comumente se associam &agrave; ascite com hipertens&atilde;o abdominal.</p> <p><strong>B)</strong> Circula&ccedil;&atilde;o hiperdin&acirc;mica com elevada satura&ccedil;&atilde;o venosa mista.</p> <p><strong>C)</strong> Tend&ecirc;ncia &agrave; reten&ccedil;&atilde;o hidrossalina, com queda de aldosterona e aumento da press&atilde;o venosa renal.</p> <p><strong>D) </strong>Eleva&ccedil;&atilde;o do d&eacute;bito card&iacute;aco e queda da resist&ecirc;ncia vascular perif&eacute;rica.</p> <p><strong>E) </strong>Aumento da resposta &agrave;s aminas simpatomim&eacute;ticas.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035911,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035912,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035913,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035914,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003592,
+   "descricao": "<p>Paciente de 72 anos, será submetido à endoscopia digestiva sob sedação. Com relação à legislação vigente:</p><p>a) Segundo a RDC 6 da ANVISA, de 01/03/2013, o procedimento pode ser realizado em serviço classificado como Tipo I.</p><p>b) A Resolução 1670 do Conselho Federal de Medicina, de 11/07/2003, autoriza que a sedação seja realizada por enfermeiro(a).</p><p>c) A monitorização dos pacientes submetidos à endoscopia digestiva deve incluir eletrocardioscopia contínua, oximetria de pulso e aferição da pressão arterial não invasiva.</p><p>d) A Resolução 2174 do Conselho Federal de Medicina, de 27/02/2018, determina que a sedação para procedimentos endoscópicos seja realizada obrigatoriamente por médico anestesiologista.</p><p>e) A RDC 6 da ANVISA, de 01/03/2013, determina que, nos serviços de endoscopia digestiva classificados como Tipo II, pode ser realizada sedação consciente com medicação passível de reversão com uso de antagonistas.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035921,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035922,
+     "letra": "B",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035923,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035924,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003593,
+   "descricao": "<p>Sobre o uso clínico dos agonistas dos receptores μ (mu), observa-se que:</p><p>a) O efeito analgésico do tramadol diminui na presença da ondansetrona.</p><p>b) Metadona é associada a alterações do sistema de condução cardíaco na&nbsp;presença de antidepressivos tricíclicos.</p><p>c) O metabólito da morfina M6G (morfina-6-glicoronideo) é responsável por&nbsp;mioclonia.</p><p>d) Oxicodona produz metabólitos ativos.</p><p>e) Os efeitos da normeperidina são revertidos pela naloxona.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035931,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035932,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035933,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035934,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003594,
+   "descricao": "<p>Uma criança do sexo masculino, 10 anos, 26 Kg, é admitida com hérnia inguinal encarcerada. Apresenta congestão nasal e corrimento, com tosse produtiva, afebril e os sons pulmonares são claros para ausculta bilateralmente. O jejum era incerto. Foi feita a ecografia, demonstrada nesta foto.</p><p><img src=\"data/imagens/970d758f1349343e.jpg\" alt=\"\"></p><p><b>A)</b> A cirurgia deve ser adiada.</p><p><b>B)</b> A cirurgia deve continuar, mas a criança deve ser intubada em sequência rápida.</p><p><b>C) </b>A criança deve começar a tomar antibióticos para infecção de vias aéreas e a cirurgia deve prosseguir.</p><p><b>D) </b>Se a opção for anestesia geral, a cirurgia deve prosseguir, preferencialmente, com uso de máscara laríngea.</p><p><b>E) </b>Se houver possibilidade, o paciente pode ser operado sob raquianestesia.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035941,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035942,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035943,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035944,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003595,
+   "descricao": "<p>Homem de 40 anos, 102 kg e 1,75 m. Submetido à colecistectomia videolaparoscópica sob anestesia geral. Em relação ao suporte ventilatório:</p> <p><strong>A) </strong>Volume corrente de 800 ml está adequado, de acordo com as recomendações de “ventilação protetora”.</p> <p><strong>B) </strong>Na ventilação controlada a pressão, o volume corrente é regulado com limitação da pressão, de maneira que exista um fluxo inspiratório constante.</p> <p><strong>C) </strong>O uso de pressão positiva ao final da expiração durante a ventilação mecânica objetiva reduzir as áreas de colapso pulmonar.</p> <p><strong>D) </strong>A pressão motriz (ou driving pressure) é uma medida de mecânica respiratória que representa a diferença entre pressão de platô e a pressão positiva ao final da expiração.</p> <p><strong>E) </strong>Na ventilação controlada a pressão com volume garantido, o próprio ventilador readapta a pressão inspiratória para obter o volume corrente alvo, utilizando fluxo inspiratório constante.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035951,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035952,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035953,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035954,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003596,
+   "descricao": "<p>Sobre suporte ventilatório entende-se que:</p> <p><strong>A) </strong>Manobras de recrutamento alveolar devem ser aplicadas com cautela ou até mesmo evitadas em pacientes com instabilidade hemodinâmica, na presença de pneumotórax, pneumomediastino e enfisema subcutâneo.</p> <p><strong>B) </strong>Diversos fatores intraoperatórios predispõem à formação de atelectasia pulmonar, como o posicionamento do paciente, a manipulação de órgãos intra-abdominais com compressão das áreas gravitacionalmente dependentes dos pulmões e o uso de alta fração inspirada de oxigênio (FIO2).</p> <p><strong>C) </strong>O modo ventilatório por volume controlado (VCV) utiliza fluxo constante que começa com um valor e permanece constante durante todo o tempo do fluxo.</p> <p><strong>D) </strong>Na ventilação com pressão de suporte (PSV), o alvo do controle é o volume. Esse é um modo ventilatório assistido em que o paciente deflagra a fase inspiratória e o ventilador aplica uma pressão no sistema, durante um tempo determinado pelo anestesiologista.</p> <p><strong>E) </strong>Nos controles do modo ventilação controlada a volume (VCV), existe um ajuste de pressão máxima que regula qual será a maior pressão permitida sobre as vias aéreas. Ao atingir essa pressão máxima, abre-se uma válvula de segurança e/ou o ventilador corta o fluxo, que libera o volume para o exterior, evitando o trauma por excesso de pressão.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035961,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035962,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035963,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035964,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003597,
+   "descricao": "<p>Em relação à dor crônica:</p><p>a) A dor crônica pode ser classificada como nociceptiva, neuropática e mista.</p><p>b) A dor crônica por nocicepção ocorre por lesão e ativação dos nociceptores (terminações nervosas livres de fibras A-delta e C), sem transmissão para níveis supraespinhais.</p><p>c) A dor neuropática é causada por lesão ou doença que afeta o sistema somatossensorial, podendo ser periférica ou central.</p><p>d) Na dor nociceptiva, a sensação dolorosa pode ocorrer após um estímulo não doloroso (alodínia) e apresentar resposta exacerbada (hiperalgesia).</p><p>e) A dor nociceptiva está associada a uma baixa qualidade de vida, doenças psiquiátricas e difícil tratamento.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035971,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035972,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035973,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035974,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003598,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave;s ferramentas de gest&atilde;o da qualidade e aos modelos de excel&ecirc;ncia gerencial, julgue os itens:</p> <p>a) O ciclo PDCA (Planejar, Executar, Checar e Agir) constitui uma ferramenta de planejamento cuja aplica&ccedil;&atilde;o restringe-se &agrave;s a&ccedil;&otilde;es estrat&eacute;gicas das organiza&ccedil;&otilde;es.</p> <p>b) O diagrama de Pareto sugere aten&ccedil;&atilde;o aos elementos cr&iacute;ticos do processo pressupondo que poucas causas s&atilde;o respons&aacute;veis pela maior parte do problema.</p> <p>c) Gest&atilde;o de qualidade total enfatiza o trabalho em equipe para aumentar a satisfa&ccedil;&atilde;o do cliente e diminuir os custos.</p> <p>d) O diagrama de Ishikawa e o princ&iacute;pio de Pareto constituem ferramentas importantes para a gest&atilde;o da qualidade.</p> <p>e) O diagrama de Ishikawa, ou espinha de peixe, permite isolar um efeito da m&aacute; qualidade e agir corretivamente sobre ele.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035981,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035982,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035983,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035984,
+     "letra": "D",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003599,
+   "descricao": "<p>Em relação ao gerenciamento de centro cirúrgico:</p><p><b>A) </b>Fatores ligados à anestesia acarretam a maioria dos atrasos do início das cirurgias.</p><p><b>B) </b>Convocar os pacientes na véspera da cirurgia para esclarecer as instruções e dirimir dúvidas mostrou-se mais eficaz em termos de diminuir cancelamentos e reduzir atrasos do que a avaliação na clínica pré-operatória.</p><p><b>C)</b> Cabe ao gerente médico do centro cirúrgico liderar um conjunto de medidas que visam detectar e lidar com comportamentos desagregadores, para tanto aceitar desculpas ou explicações constituem importante ferramenta.</p><p><b>D) </b>Através da geração de dados estatísticos de desempenho e qualidade a gerência do centro cirúrgico municia a administração da instituição hospitalar de uma contabilidade vital para sua sobrevivência, aceita-se que o centro cirúrgico consuma até o máximo de 20% do orçamento anual da instituição.</p><p><b>E)</b> O início das atividades do centro cirúrgico no horário previsto, referência para o desempenho e rotatividade dos casos cirúrgicos, é criticamente importante para a performance do bloco cirúrgico.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035991,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035992,
+     "letra": "B",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035993,
+     "letra": "C",
+     "descricao": "F F F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035994,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003600,
+   "descricao": "<p>A hiperalgesia &eacute; ativada na presen&ccedil;a de:</p> <p><strong>A)</strong> Antagonistas do receptor n-metil-D-aspartato<br><strong>B)</strong> Bloqueio dos receptores de GABA<br><strong>C) </strong>Antagonistas das taquicininas<br><strong>D)</strong> Impulsos conduzidos pelas fibras C<br><strong>E) </strong>Morfina em doses abaixo da necess&aacute;ria para inibir a nocicep&ccedil;&atilde;o</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036001,
+     "letra": "A",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20036002,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20036003,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036004,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003601,
+   "descricao": "<p>Homem de 56 anos, 1,70 m e 95 kg. Submetido à prostatectomia radical por videolaparoscopia sob anestesia geral. Neste caso, sobre o suporte ventilatório:</p> <p><strong>A)</strong> Na ventilação controlada a pressão, a ciclagem da inspiração para expiração é por tempo</p> <p><strong>B)</strong> Na ventilação controlada a volume, a regulagem da pressão inspiratória, da frequência respiratória e da relação entre os tempos inspiratório-expiratório é que determinará o volume corrente</p> <p><strong>C)</strong> Nos momentos que antecedem a extubação, quando já existe esforço respiratório espontâneo, pode ser utilizado o modo pressão de suporte (ou PSV), que usa ciclagem por tempo</p> <p><strong>D) </strong>Na ventilação controlada a pressão, após o pneumoperitônio e a posição de céfalo-declive, é necessário ajuste da pressão inspiratória para manter adequado volume-minuto</p> <p><strong>E) </strong>Na ventilação controlada a volume, o fluxo inspiratório é decrescente, fazendo com que a pressão das vias aéreas aumente durante o tempo inspiratório</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036011,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20036012,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20036013,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036014,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003602,
+   "descricao": "<p>Sobre suporte ventilatório durante anestesia:</p> <p><strong>A) </strong>Os ventiladores do tipo pistão controlados eletronicamente e acionados mecanicamente usam um motor controlado por computador em vez de gás de acionamento comprimido para fornecer o volume corrente</p> <p><strong>B) </strong>Fração inspirada de oxigênio elevada pode induzir lesão pulmonar, em parte explicada pela formação de radicais livres de oxigênio, gerando o aumento da permeabilidade e influxo de células inflamatórias e lesão das células endoteliais pulmonares</p> <p><strong>C)</strong> Na utilização de um ventilador a pistão durante a ventilação por volume controlado (VCV), o pistão se movimenta em velocidade constante, gerando um fluxo constante; e durante a ventilação por pressão controlada (PCV), o pistão se movimenta com velocidade variável, gerando um fluxo desacelerado</p> <p><strong>D)</strong> A utilização de volume corrente baixo, isto é, entre 6 e 8 mL/kg, para a ventilação mecânica durante o período perioperatório é considerada uma estratégia de ventilação protetora e o cálculo do volume corrente a ser usado deve ser referido ao peso real do paciente</p> <p><strong>E) </strong>As curvas de pressão/volume intratorácicas permitem estimar o valor de PEEP que impede o colapso alveolar</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036021,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20036022,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20036023,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036024,
+     "letra": "D",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003603,
+   "descricao": "<p>Mulher de 40 anos possui diagn&oacute;stico de s&iacute;ndrome dolorosa regional complexa em membro superior esquerdo ap&oacute;s cirurgia de artroplastia de ombro por trauma.</p> <p><strong>A) </strong>A alod&iacute;nia pode estar presente, sendo caracterizada por uma dor que ocorre durante um est&iacute;mulo que, em geral, n&atilde;o seria doloroso.</p> <p><strong>B)</strong> A s&iacute;ndrome dolorosa regional complexa teria como diagn&oacute;stico diferencial a doen&ccedil;a de Raynaud</p> <p><strong>C) </strong>A hiperalgesia ocorre quando h&aacute; uma exacerba&ccedil;&atilde;o da dor ap&oacute;s um est&iacute;mulo que normalmente provoca dor, observada ap&oacute;s diferentes tipos de estimula&ccedil;&atilde;o somatossensorial aplicada a tecidos diversos</p> <p><strong>D)</strong> A s&iacute;ndrome dolorosa regional complexa pode se caracterizar como dor cont&iacute;nua em queima&ccedil;&atilde;o, associada com atividade exacerbada do sistema parassimp&aacute;tico, em uma extremidade ap&oacute;s trauma, associada a fen&ocirc;menos vasomotores, suor e mudan&ccedil;as tr&oacute;ficas tardias</p> <p><strong>E)</strong> Como tratamento, h&aacute; necessidade de terapia multimodal, com t&eacute;cnicas n&atilde;o farmacol&oacute;gicas (f&iacute;sicas e ps&iacute;quicas) e farmacol&oacute;gicas (antidepressivos tric&iacute;clicos, anticonvulsivantes, bloqueios regionais e analg&eacute;sicos)</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036031,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20036032,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20036033,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036034,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003604,
+   "descricao": "<p>Quais pontos pr&aacute;ticos devem ser seguidos para o uso seguro de medicamentos:</p> <p><strong>A) </strong>Uso adequado de r&oacute;tulos apropriados</p> <p><strong>B)</strong> Qualquer medicamento ou fluido que n&atilde;o pode ser identificado deve ser descartado</p> <p><strong>C)</strong> Qualquer seringa que contenha medicamento e que deixe as m&atilde;os da pessoa, deve estar rotulado</p> <p><strong>D) </strong>Todos os medicamentos retirados da sua embalagem original devem ser identific&aacute;veis</p> <p><strong>E) </strong>Seringas pr&eacute;-cheias diminuem a seguran&ccedil;a</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036041,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20036042,
+     "letra": "B",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20036043,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036044,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003605,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao gerenciamento do centro cir&uacute;rgico:</p> <p><strong>A)</strong> A frequ&ecirc;ncia de cancelamentos varia com base na popula&ccedil;&atilde;o de pacientes e nos procedimentos cir&uacute;rgicos, mas em geral fica na faixa de 15%</p> <p><strong>B) </strong>Uma maneira eficiente de agilizar a programa&ccedil;&atilde;o cir&uacute;rgica, a fim de evitar cancelamentos e diminuir o tempo de troca de sala, seria controlar os agendamentos cir&uacute;rgicos com tempo superior a 72 horas</p> <p><strong>C)</strong> O desejo de administrar de forma eficiente a programa&ccedil;&atilde;o de um centro cir&uacute;rgico de hospitais acima de 400 leitos deve ser o foco principal, evitando-se a qualquer custo prioriza&ccedil;&otilde;es focadas em qualidade de cuidados pessoais</p> <p><strong>D) </strong>Uma medida que aumentaria a produtividade global do centro cir&uacute;rgico seria os cirurgi&otilde;es sucederem a si mesmos, na mesma sala de cirurgia</p> <p><strong>E)</strong> O tempo aceit&aacute;vel para a rotatividade entre os casos no centro cir&uacute;rgico n&atilde;o deve ultrapassar 10% a 20% do tempo total dos casos</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20036051,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20036052,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20036053,
+     "letra": "C",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20036054,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

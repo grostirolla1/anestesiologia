@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-2-2026",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 2ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001264,
+   "descricao": "<p>Um paciente de 78 anos, em vigência de tratamento para dor crônica com doses elevadas de morfina e apresentando quadro de hiponatremia moderada (Na = 128 mEq/L), será submetido a uma laparotomia de urgência. Durante o ato anestésico, você deve ajustar a concentração expirada de isoflurano. Considerando o conceito de CAM (Concentração Alveolar Mínima) e os fatores que nela interferem, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012641,
+     "letra": "A",
+     "descricao": "A idade avançada e a hiponatremia são fatores que aumentam a CAM, exigindo maiores frações inspiradas do agente para evitar o despertar intraoperatório.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012642,
+     "letra": "B",
+     "descricao": "A administração concomitante de opioides reduz a CAM, deslocando a curva dose-resposta para a direita, o que aumenta a Dose Alveolar 90 (DA 90).",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012643,
+     "letra": "C",
+     "descricao": "A CAM é tecnicamente a DA 50 (Dose Alveolar 50) para a incisão cutânea; neste paciente, tanto a idade quanto a hiponatremia e o uso de opióides agem sinergicamente para reduzir a CAM.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012644,
+     "letra": "D",
+     "descricao": "A acidose metabólica e a hipercapnia aguda são fatores independentes que aumentam significativamente o valor da CAM em pacientes geriátricos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001265,
+   "descricao": "<p>Paciente com insuficiência cardíaca avançada (baixo débito cardíaco) é submetido à anestesia com isoflurano. Qual o efeito esperado sobre a indução anestésica?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012651,
+     "letra": "A",
+     "descricao": "Indução mais rápida devido à menor captação pulmonar",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012652,
+     "letra": "B",
+     "descricao": "Indução mais lenta devido ao menor fluxo sanguíneo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012653,
+     "letra": "C",
+     "descricao": "Redução da fração inspirada",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012654,
+     "letra": "D",
+     "descricao": "Nenhuma alteração significativa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001266,
+   "descricao": "<p>Durante anestesia, um anestesiologista utiliza Double Burst Stimulation (DBS) e detecta diferen&ccedil;a de for&ccedil;a entre os dois est&iacute;mulos (figura) Qual &eacute; a principal vantagem do DBS em rela&ccedil;&atilde;o ao TOF?</p> <p><img src=\"data/imagens/bf8133ae40f74fc8.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012661,
+     "letra": "A",
+     "descricao": "Avalia bloqueio profundo com maior precisão",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012662,
+     "letra": "B",
+     "descricao": "Detecta fadiga de forma mais sensível à avaliação tátil",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012663,
+     "letra": "C",
+     "descricao": "Não depende do nervo ulnar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012664,
+     "letra": "D",
+     "descricao": "Permite cálculo direto da razão de TOF",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001267,
+   "descricao": "<p>A figura abaixo mostra a curva concentra&ccedil;&atilde;o-efeito de um agonista na primeira exposi&ccedil;&atilde;o, comparada a duas poss&iacute;veis curvas obtidas ap&oacute;s exposi&ccedil;&atilde;o repetida (curva B e curva C). Assinale a alternativa que descreve corretamente os fen&ocirc;menos representados:</p> <p><img src=\"data/imagens/fae8b4a5efafcc69.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012671,
+     "letra": "A",
+     "descricao": "A curva B representa tolerância (deslocamento à direita, exigindo maior concentração para o mesmo efeito); a curva C representa dessensibilização, com redução do efeito máximo mesmo em altas concentrações.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012672,
+     "letra": "B",
+     "descricao": "As curvas B e C representam exatamente o mesmo fenômeno farmacodinâmico, diferindo apenas na intensidade da resposta observada após exposições repetidas ao mesmo agonista.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012673,
+     "letra": "C",
+     "descricao": "A curva C indica que o fármaco se tornou mais potente após exposições repetidas, exigindo concentrações menores para atingir o mesmo efeito máximo observado inicialmente.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012674,
+     "letra": "D",
+     "descricao": "A curva B representa dessensibilização por redução do número de receptores disponíveis, enquanto a curva C representa tolerância por indução do metabolismo hepático do agonista.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001268,
+   "descricao": "<p>Um paciente asm&aacute;tico apresenta, logo ap&oacute;s a intuba&ccedil;&atilde;o, um capnograma com a fase II prolongada e uma fase III (plat&ocirc; alveolar) com inclina&ccedil;&atilde;o ascendente acentuada (padr&atilde;o em \"barbatana de tubar&atilde;o\"). Qual altera&ccedil;&atilde;o nas propriedades mec&acirc;nicas do sistema respirat&oacute;rio define essa morfologia e a diferencia de uma falha de processamento de sinal (criptografia/erro de sensor)?</p> <p><img src=\"data/imagens/bb3b631ca64685e0.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012681,
+     "letra": "A",
+     "descricao": "Aumento da complacência pulmonar, reduzindo a pressão de retração elástica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012682,
+     "letra": "B",
+     "descricao": "Heterogeneidade das constantes de tempo (τ=R×C) devido ao aumento da resistência bronquiolar.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012683,
+     "letra": "C",
+     "descricao": "Obstrução completa do sensor de fluxo, resultando em leitura errônea da linha de base.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012684,
+     "letra": "D",
+     "descricao": "Curto-circuito (shunt) intrapulmonar maciço, impedindo a chegada de CO2 ao alvéolo.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001269,
+   "descricao": "<p>Sobre a farmacocinética dos opioides, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012691,
+     "letra": "A",
+     "descricao": "O alfentanil possui volume de distribuição menor que o do fentanil; entretanto, apresenta depuração plasmática mais lenta.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012692,
+     "letra": "B",
+     "descricao": "A longa meia-vida de eliminação do fentanil decorre de sua baixa taxa de depuração plasmática.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012693,
+     "letra": "C",
+     "descricao": "O remifentanil é metabolizado por esterases plasmáticas e, portanto, a hipotermia não afeta seu metabolismo.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012694,
+     "letra": "D",
+     "descricao": "O fentanil é metabolizado no fígado, e seu metabólito ativo, o norfentanil, é excretado na urina.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001270,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a curva de dissocia&ccedil;&atilde;o da oxihemoglobina, as letras A, B, C e D correspondem &agrave; desvio para direita ou para esquerda, correlacione-as com as causas do respectivo desvio.</p> <p><img src=\"data/imagens/d30f7f3083d13354.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012701,
+     "letra": "A",
+     "descricao": "A: acidose, B: hipotermia, C: aumento de 2,3-DPG, D: redução da PCO2.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012702,
+     "letra": "B",
+     "descricao": "A: acidose, B: hipotermia, C: redução de 2,3-DPG, D: aumento da PCO2.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012703,
+     "letra": "C",
+     "descricao": "A: alcalose, B: hipertermia C: redução de 2,3-DPG, D: aumento de PCO2.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012704,
+     "letra": "D",
+     "descricao": "A: alcalose, B: hipertermia, C: aumento de 2,3 DPG, D: redução de PCO2.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001271,
+   "descricao": "<p>Em relação à cinética de eliminação e ao clerance dos fármacos, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012711,
+     "letra": "A",
+     "descricao": "Fármacos com razão de extração hepática próxima de 1 apresentam clerance limitado principalmente pelo fluxo sanguíneo hepático, seguindo cinética de primeira ordem, sendo esse clerance reduzido em estados de hipotensão prolongada por diminuição da perfusão hepática.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012712,
+     "letra": "B",
+     "descricao": "Fármacos com razão de extração hepática próxima de 1 têm seu clerance determinado pela capacidade intrínseca das enzimas hepáticas em metabolizá-los, sendo pouco sensíveis a variações do fluxo sanguíneo, o que caracteriza a cinética de ordem zero.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012713,
+     "letra": "C",
+     "descricao": "O etanol é um exemplo clássico de fármaco com razão de extração próxima de 1, cujo clerance depende do fluxo hepático e cuja cinética é dita não linear, pois pequenas variações de dose alteram desproporcionalmente sua concentração plasmática.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012714,
+     "letra": "D",
+     "descricao": "Na cinética de ordem zero, o clearance permanece constante independentemente da concentração plasmática, pois as enzimas responsáveis pela biotransformação nunca atingem saturação, havendo sempre capacidade metabólica disponível.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001272,
+   "descricao": "<p>A figura apresenta a varia&ccedil;&atilde;o da resist&ecirc;ncia do sistema respirat&oacute;rio ap&oacute;s 5 e 10 minutos de manuten&ccedil;&atilde;o anest&eacute;sica com concentra&ccedil;&otilde;es equipotentes, pr&oacute;ximas de 1 CAM, de quatro anest&eacute;sicos vol&aacute;teis. Qual alternativa identifica corretamente as curvas numeradas?</p> <p><img src=\"data/imagens/c60f7a2dcaf7bb1f.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012721,
+     "letra": "A",
+     "descricao": "1 – Sevoflurano; 2 – Halotano; 3 – Isoflurano; 4 – Desflurano.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012722,
+     "letra": "B",
+     "descricao": "1 – Desflurano; 2 – Isoflurano; 3 – Halotano; 4 – Sevoflurano.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012723,
+     "letra": "C",
+     "descricao": "1 – Isoflurano; 2 – Desflurano; 3 – Sevoflurano; 4 – Halotano.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012724,
+     "letra": "D",
+     "descricao": "1 – Halotano; 2 – Sevoflurano; 3 – Desflurano; 4 – Isoflurano.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001273,
+   "descricao": "<p>Observe as curvas de press&atilde;o versus volume pulmonar abaixo e assinale a alternativa correta.</p> <p><img src=\"data/imagens/0d68743ba35a01a5.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012731,
+     "letra": "A",
+     "descricao": "O aumento do volume corrente durante a ventilação mecânica aumenta a histerese pulmonar, ampliando a distância entre os pontos A e B na figura 1.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012732,
+     "letra": "B",
+     "descricao": "A figura 3 apresenta padrão restritivo com redução do recolhimento elástico e redução da capacidade pulmonar total e da capacidade residual funcional.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012733,
+     "letra": "C",
+     "descricao": "A figura 2 apresenta padrão obstrutivo em que há aumento da complacência, aumento capacidade pulmonar total e redução da capacidade residual funcional.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012734,
+     "letra": "D",
+     "descricao": "A seta na figura 1 indica o valor que pode ser utilizado para calcular a complacência estática em uma paciente em ventilação mecânica no modo volume controlado.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001274,
+   "descricao": "<p>Paciente de 28 anos, sexo masculino, ASA I, &eacute; admitido para apendicectomia videolaparosc&oacute;pica de urg&ecirc;ncia. Na avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica, relata epis&oacute;dios espor&aacute;dicos de palpita&ccedil;&otilde;es com in&iacute;cio e t&eacute;rmino s&uacute;bitos desde a adolesc&ecirc;ncia, sem investiga&ccedil;&atilde;o pr&eacute;via. O ECG de 12 deriva&ccedil;&otilde;es pr&eacute;-operat&oacute;rio revela:&nbsp;</p> <p><img src=\"data/imagens/7a985e49246b745c.png\" alt=\"\"></p> <p>A indu&ccedil;&atilde;o anest&eacute;sica transcorre sem intercorr&ecirc;ncias. Ap&oacute;s 40 minutos de cirurgia, o monitor evidencia:</p> <p><img src=\"data/imagens/14cbcc8058ba6a25.png\" alt=\"\"></p> <p>Considerando o mecanismo eletrofisiol&oacute;gico subjacente e o contexto cl&iacute;nico, qual a conduta mais adequada para o manejo inicial dessa arritmia?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012741,
+     "letra": "A",
+     "descricao": "Administrar adenosina intravenosa em bolus rápido, pois interrompe o circuito de reentrada ao bloquear transitoriamente a condução pelo nó atrioventricular.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012742,
+     "letra": "B",
+     "descricao": "Administrar verapamil intravenoso, pois prolonga o período refratário da via acessória e interrompe o circuito de reentrada de forma segura nesse contexto.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012743,
+     "letra": "C",
+     "descricao": "Realizar cardioversão elétrica sincronizada, pois a instabilidade hemodinâmica contraindica o uso de antiarrítmicos em pacientes com via acessória conhecida.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012744,
+     "letra": "D",
+     "descricao": "Administrar amiodarona intravenosa, pois atua prolongando o período refratário tanto do nó atrioventricular quanto da via acessória sem risco de condução anterógrada.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001275,
+   "descricao": "<p>Sobre os antagonistas muscar&iacute;nicos empregados em anestesiologia, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012751,
+     "letra": "A",
+     "descricao": "A escopolamina é um amônio terciário e causa um efeito antisialogogo menor que a atropina.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012752,
+     "letra": "B",
+     "descricao": "O glicopirrolato é um amônio quaternário desprovido de efeitos centrais significativos devido à incapacidade de atravessar a barreira hematoencefálica.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012753,
+     "letra": "C",
+     "descricao": "A atropina aumenta a frequência cardíaca por estimulação direta de receptores muscarínicos M2 cardíacos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012754,
+     "letra": "D",
+     "descricao": "A fisostigmina é o tratamento de escolha para intoxicação anticolinérgica periférica, pois não atravessa a barreira hematoencefálica.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001276,
+   "descricao": "<p>O anest&eacute;sico representado por este espectrograma poder&aacute; ser respons&aacute;vel por qual destas complica&ccedil;&otilde;es?</p> <p><img src=\"data/imagens/24a65c72cf029f06.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012761,
+     "letra": "A",
+     "descricao": "Hipertermia maligna.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012762,
+     "letra": "B",
+     "descricao": "Síndrome da infusão do propofol.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012763,
+     "letra": "C",
+     "descricao": "Xerostomia.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012764,
+     "letra": "D",
+     "descricao": "Agitação no despertar.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001277,
+   "descricao": "<p>Um homem de 56 anos, sem doen&ccedil;a cardiovascular ou disfun&ccedil;&atilde;o auton&ocirc;mica conhecida, realiza expira&ccedil;&atilde;o for&ccedil;ada contra a glote fechada durante avalia&ccedil;&atilde;o pr&eacute;-operat&oacute;ria. A press&atilde;o arterial e a frequ&ecirc;ncia card&iacute;aca s&atilde;o registradas continuamente desde o in&iacute;cio do esfor&ccedil;o at&eacute; a recupera&ccedil;&atilde;o. Considerando a resposta fisiol&oacute;gica normal &agrave; manobra de Valsalva, qual alternativa descreve corretamente suas fases?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012771,
+     "letra": "A",
+     "descricao": "Na fase I, a pressão arterial diminui pela redução do retorno venoso; na fase II, a frequência cardíaca diminui por ativação vagal; na fase III, a pressão arterial aumenta com a liberação do esforço; e, na fase IV, ocorre taquicardia por vasodilatação periférica persistente.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012772,
+     "letra": "B",
+     "descricao": "Na fase I, a pressão arterial aumenta pelo maior retorno venoso; na fase II, a frequência cardíaca aumenta pelo aumento da pré-carga; na fase III, a pressão arterial permanece estável após a liberação; e, na fase IV, ocorre bradicardia em decorrência da redução persistente do débito cardíaco.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012773,
+     "letra": "C",
+     "descricao": "Na fase I, a pressão arterial aumenta por vasoconstrição simpática; na fase II, a frequência cardíaca diminui em resposta à queda pressórica; na fase III, a pressão arterial aumenta pela manutenção da compressão vascular; e, na fase IV, ocorre taquicardia desencadeada pelo aumento da pressão arterial.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012774,
+     "letra": "D",
+     "descricao": "Na fase I, a pressão arterial aumenta transitoriamente pela transmissão da pressão intratorácica à aorta; na fase II, sua queda ativa vasoconstrição e taquicardia barorreflexas; na fase III, ocorre nova queda pressórica transitória; e, na fase IV, o aumento da pressão arterial provoca bradicardia reflexa.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001278,
+   "descricao": "<p>Sobre os fármacos inibidores da fosfodiesterase, é correto afirmar que:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012781,
+     "letra": "A",
+     "descricao": "A amrinona apresenta potência superior à milrinona.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012782,
+     "letra": "B",
+     "descricao": "Atuam reduzindo a resistência vascular sistêmica e pulmonar.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012783,
+     "letra": "C",
+     "descricao": "São ineficazes nos pacientes com insuficiência cardíaca em uso de betabloqueadores.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012784,
+     "letra": "D",
+     "descricao": "Promovem seu efeito por redução dos níveis de AMPc no músculo cardíaco e músculo liso vascular.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

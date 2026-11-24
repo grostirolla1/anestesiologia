@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-2-2020",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 2ª quadrimestral 2020",
+  "ano": "2020",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002400,
+   "descricao": "<p>Nos bloqueios periféricos: </p><p><b>A) </b>Os nervos têm uma ecotextura característica do favo de mel, formada pelo padrão interno do tecido conjuntivo e das fibras nervosas.&nbsp;</p><p><b>B) </b>Não existem dados para apoiar a superioridade de técnica de localização de nervos: parestesia, estimulação nervosa, ultrassonografia em relação à redução do risco de lesão nervosa.&nbsp;</p><p><b>C) </b>A ultrassonografia não é um método efetivo para reduzir a incidência de falhas nos casos de variações anatômicas dos nervos periféricos.&nbsp;</p><p><b>D) </b>O impulso de curta duração comumente usado (0,1 ms) é eficaz no estímulo das fibras sensitivas, mas um pulso de longa duração (0,3 ms) também estimulará as fibras motoras.&nbsp;</p><p><b>E) </b>As ondas de ultrassom de alta frequência são bem colimados e, portanto, podem fornecer imagens de alta resolução.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024001,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024002,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024003,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024004,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002401,
+   "descricao": "<p>Sobre o sangue e seus derivados: </p><p>A) O concentrado de hemácias é obtido por centrifugação de uma bolsa de sangue total e da remoção da maior parte do plasma.&nbsp;</p><p>B) Diretrizes transfusionais recomendam que, quando o estado clínico do paciente permitir, o tempo de infusão em adultos do concentrado de hemácias seja de 15 a 30 minutos.&nbsp;</p><p>C) Cada unidade de crioprecipitado provém de uma unidade de plasma fresco congelado e, portanto, de um único doador.&nbsp;</p><p>D) A incompatibilidade ABO é relevante na transfusão de concentrado de plaquetas, levando a repercussões clínicas graves.&nbsp;</p><p>E) Existem 3 formas de repor fibrinogênio que seriam: plasma fresco congelado, crioprecipitado e concentrado de fibrinogênio.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024011,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024012,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024013,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024014,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002402,
+   "descricao": "<p>Homem de 30 anos, 70kg e 1,70 cm, portador de hemofilia do tipo A é submetido a cirurgia para revascularização de membro inferior direito. Apresenta sangramento não controlado de causa não cirúrgica no peri-operatório. Nessa situação: </p><p>a) a administração de crioprecipitado está indicada. </p><p>b) a administração do complexo protrombínico está indicada. </p><p>c) a utilização isolada de antifibrinolíticos é capaz de reduzir o sangramento. </p><p>d) a desmopressina pode ser utilizada como medida imediata neste tipo de sangramento. </p><p>e) o preparo deve necessariamente incluir a administração profilática de Fator VIII com antecedência máxima de 10 horas ao procedimento.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024021,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024022,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024023,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024024,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002403,
+   "descricao": "<p>Homem de 70 anos, 60kg e 1,68m é submetido a ressecção transuretral (RTU) de próstata, com irrigação contínua com solução de glicina, sob raquianestesia e sedação. Após duas horas de procedimento, o paciente apresenta hipotensão, bradicardia e confusão mental. Nesse caso: </p><p>I) O anestesiologista deve restringir a infusão de volume e administrar imediatamente uma dose de furosemida.&nbsp;</p><p>II) Esta intercorrência pode causar distúrbios visuais, incluindo cegueira transitória.&nbsp;</p><p>III) Este quadro seria evitado se a altura da solução de infusão fosse mantida o mais baixo possível e com procedimento inferior a 1 hora.&nbsp;</p><p>IV) A baixa pressão venosa (ex.: paciente hipovolêmico ou hipotenso) não influencia na absorção da solução de irrigação.&nbsp;</p><p>V) O tratamento específico inclui solução salina hipertônica, indicado quando sódio for menor que 120 mMol/L.&nbsp;</p><p><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024031,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024032,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024033,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024034,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002404,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave; fun&ccedil;&atilde;o renal:</p> <p>a) O rim secreta eritropoietina, calcitriol e renina.&nbsp;</p> <p>b) A eritropoetina &eacute; uma glicoprote&iacute;na que atua na medula &oacute;ssea para aumentar produ&ccedil;&atilde;o de hem&aacute;cias.&nbsp;</p> <p>c) A les&atilde;o renal aguda, apesar de ser clinicamente grave, n&atilde;o est&aacute; associada ao aumento da morbidade e da mortalidade dos pacientes cir&uacute;rgicos.&nbsp;</p> <p>d) O pot&aacute;ssio &eacute; filtrado e reabsorvido no n&eacute;fron, mas n&atilde;o &eacute; secretado.&nbsp;</p> <p>e) A glicose e os amino&aacute;cidos s&atilde;o reabsorvidos nos t&uacute;bulos proximais dos n&eacute;frons.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024041,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024042,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024043,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024044,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002405,
+   "descricao": "<p>Mulher de 16 anos, 50kg e 1,60m, será submetida a litotripsia transureteroscópica para remoção de cálculo em ureter direito em caráter emergencial. É portadora de diabetes mellitus tipo I e faz uso regular de insulinas de curta e longa duração (suspensas há 24h por conta de jejum e vômitos frequentes). Na admissão ao centro cirúrgico, a paciente encontra-se febril e torporosa com sinais claros de desidratação. A gasometria arterial revelou pH de 7,15, PaCO2 de 28mmHg, PaO2 de 64mmHg, bicarbonato de 9,4mEq/L, excesso de bases de - 17 e glicemia de 502mg/dL. Nessa situação: </p><p>a) espera-se um anion gap reduzido por redução do sódio sérico.&nbsp;</p><p>b) a administração de bicarbonato de sódio é a primeira escolha.&nbsp;</p><p>c) medidas para tratamento da hipercalemia devem ser instituídas imediatamente.&nbsp;</p><p>d) hipofosfatemia sintomática poderá ocorrer no curso do tratamento.&nbsp;</p><p>e) valores normais de cloro sérico são esperados.&nbsp;</p><p><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024051,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024052,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024053,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024054,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002406,
+   "descricao": "<p>Mulher de 45 anos, 78kg e 1,60m, será submetida à mastectomia radical. Relata história de hipermenorréia e sangramento excessivo após cesariana anterior. Exames laboratoriais evidenciam contagem plaquetária, tempo de protrombina e tempo de tromboplastina parcial ativado normais, níveis séricos de fibrinogênio mantidos e atividade do cofator da ristocetina baixa. Nessa situação: </p><p>a) a paciente é provavelmente portadora de hemofilia A. </p><p>b) a utilização de desmopressina pode ter utilidade terapêutica em caso de sangramento perioperatório importante. </p><p>c) a adesão plaquetária na hemostasia primária está prejudicada. </p><p>d) o crioprecipitado contém elementos que corrigem esta coagulopatia. </p><p>e) exames de tromboelastometria rotacional sem alterações permitem a realização segura de bloqueio no neuroeixo.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024061,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024062,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024063,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024064,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002407,
+   "descricao": "<p>Com relação ao sistema renina-angiotensina: </p><p>a) a renina, mais apropriadamente chamada angiotensinogenase, converte o glicopeptídeo sintetizado pelo fígado, angiogensinogênio, em angiotensina I.&nbsp;</p><p>b) as células endoteliais vasculares dos rins e pulmões são a principal fonte da enzima que converte angiotensina I em angiotensina II.&nbsp;</p><p>c) a angiotensina II é um potente vasodilatador de arteríolas eferentes que aumenta a diferença de pressão e melhora a filtração glomerular.&nbsp;</p><p>d) a estimulação adrenérgica do aparelho justaglomerular libera a renina das células da mácula densa e células principais dos dutos coletores.&nbsp;</p><p>e) a secreção de renina é inibida por hipovolemia.&nbsp;</p><p><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024071,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024072,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024073,
+     "letra": "C",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024074,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-tsa-2021",
+  "banca": "SBA",
+  "concurso": "TSA",
+  "titulo": "TSA 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006327,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; Assembleia de Representantes &eacute; correto afirmar que:</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063271,
+     "letra": "A",
+     "descricao": "O presidente do conselho superior participa dessa assembleia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063272,
+     "letra": "B",
+     "descricao": "Indica cidades para sediar o CBA",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063273,
+     "letra": "C",
+     "descricao": "Elege substitutos para cargos vagos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063274,
+     "letra": "D",
+     "descricao": "Aprova as contas da SBA",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006328,
+   "descricao": "<p>Anestesiologista, 59 anos, formado em CET n&atilde;o credenciado pela SBA, portador do t&iacute;tulo superior em anestesiologia h&aacute; 10 anos, em pleno gozo de seus direitos associativos, foi v&iacute;tima de acidente automobil&iacute;stico, com les&atilde;o completa do plexo braquial &agrave; direita (membro dominante). Sobre a categoria de membro da SBA em que esse anestesiologista se enquadra, &eacute; correto afirmar que:</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063281,
+     "letra": "A",
+     "descricao": "Ele perde o direito de acesso às publicações da SBA",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063282,
+     "letra": "B",
+     "descricao": "Ele está isento do pagamento da anuidade",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063283,
+     "letra": "C",
+     "descricao": "Ele é um membro Benemérito",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063284,
+     "letra": "D",
+     "descricao": "Ele é um membro Remido",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006329,
+   "descricao": "<p>Qual das op&ccedil;&otilde;es abaixo <strong><u>N&Atilde;O &Eacute;</u></strong> um fator de risco para abuso de subst&acirc;ncias entre os anestesiologistas?</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063291,
+     "letra": "A",
+     "descricao": "Acima de 20 anos de prática profissional",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063292,
+     "letra": "B",
+     "descricao": "História familiar de abuso de substâncias",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063293,
+     "letra": "C",
+     "descricao": "Ambiente de trabalho com alto nível de stress",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063294,
+     "letra": "D",
+     "descricao": "Facilidade de acesso a substâncias",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006330,
+   "descricao": "<p>Em relação às Estatinas é correto afirmar que:</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063301,
+     "letra": "A",
+     "descricao": "Devem ser mantidas no perioperatório",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063302,
+     "letra": "B",
+     "descricao": "Apesar de eficazes, são pouco toleradas pelos pacientes",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063303,
+     "letra": "C",
+     "descricao": "A proteção cardiovascular é explicada pela limitação da biossíntese do colesterol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063304,
+     "letra": "D",
+     "descricao": "O risco de miopatia e hepatotoxicidade não depende dos níveis plasmáticos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006331,
+   "descricao": "<p>Paciente de 48 anos,&nbsp;hipertenso mal controlado,&nbsp;com relato de angina est&aacute;vel e tabagista,&nbsp;teve um infarto agudo do mioc&aacute;rdio h&aacute; 3 anos&nbsp;tratado com stent farmacol&oacute;gico.&nbsp;Faz uso de aspirina,&nbsp;valsartana,&nbsp;metoprolol e fluvastatina.&nbsp;10 METs ao teste ergom&eacute;trico. Ser&aacute; submetido&nbsp;a cistectomia total.&nbsp;Suas recomenda&ccedil;&otilde;es para esse pacientes s&atilde;o:</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063311,
+     "letra": "A",
+     "descricao": "ECG + Suspender aspirina.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063312,
+     "letra": "B",
+     "descricao": "ECG + Suspender valsartana.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063313,
+     "letra": "C",
+     "descricao": "Angiografia + suspender fluvastatina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063314,
+     "letra": "D",
+     "descricao": "Angiografia + Suspender metoprolol.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006332,
+   "descricao": "<p>Voc&ecirc; est&aacute; em plant&atilde;o em uma unidade ambulatorial quando um paciente conhecido, portador de m&uacute;ltiplas comorbidades cr&ocirc;nicas, apresenta uma parada cardiorrespirat&oacute;ria (PCR). O prontu&aacute;rio eletr&ocirc;nico cont&eacute;m uma diretiva antecipada de vontade registrada formalmente, incluindo uma ordem n&atilde;o reanima&ccedil;&atilde;o (ONR), discutida previamente com a equipe e documentada ap&oacute;s di&aacute;logo com o paciente e sua fam&iacute;lia. A esposa do paciente chega minutos ap&oacute;s o evento e exige que voc&ecirc; realize manobras de ressuscita&ccedil;&atilde;o cardiopulmonar. Qual &eacute; a conduta &eacute;tica e legalmente mais apropriada?</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063321,
+     "letra": "A",
+     "descricao": "Acionar o comitê de ética da instituição e postergar a decisão sobre a reanimação até a resolução da disputa entre diretiva e vontade familiar.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063322,
+     "letra": "B",
+     "descricao": "Iniciar reanimação imediatamente, priorizando o princípio da beneficência, uma vez que a manifestação da esposa representa um novo desejo da família.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063323,
+     "letra": "C",
+     "descricao": "Na condição de representante legal, a esposa detém legitimidade para decidir pelas condutas terapêuticas, devendo ser iniciadas, por sua anuência, as manobras de ressuscitação.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063324,
+     "letra": "D",
+     "descricao": "Impõe-se a recusa das manobras de reanimação, em respeito à diretiva antecipada de vontade formalmente registrada, a qual possui eficácia jurídica vinculante, ainda que haja oposição de familiares.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006333,
+   "descricao": "<p>Paciente 76 anos, sexo masculino, hipertenso, diabético, será tratamento cirúrgico de fratura de fêmur. Qual o valor do escore de Caprini desse paciente e qual a melhor conduta para profilaxia de trombose venosa profunda?</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063331,
+     "letra": "A",
+     "descricao": "5 pontos (alto risco): profilaxia com heparina e profilaxia mecânica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063332,
+     "letra": "B",
+     "descricao": "5 pontos (alto risco): profilaxia com heparina de baixo peso molecular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063333,
+     "letra": "C",
+     "descricao": "4 pontos (risco intermediário): profilaxia com heparina de baixo peso molecular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063334,
+     "letra": "D",
+     "descricao": "4 pontos (risco intermediário): profilaxia mecânica (compressão pneumática intermitente)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006334,
+   "descricao": "<p>Mulher de 34 anos ser&aacute; submetida a artroscopia eletiva do joelho sob anestesia geral. Tem asma leve e controlada, sem exacerba&ccedil;&otilde;es recentes. Apesar de previamente vacinada, h&aacute; 21 dias apresentou infec&ccedil;&atilde;o leve por SARS-CoV-2, sem necessidade de interna&ccedil;&atilde;o; est&aacute; afebril, sem tosse ou dispneia, mant&eacute;m anosmia isolada. J&aacute; retomou a pratica habitual de nata&ccedil;&atilde;o duas vezes por semana. Ausculta pulmonar e satura&ccedil;&atilde;o de oxig&ecirc;nio s&atilde;o normais. Qual &eacute; a classifica&ccedil;&atilde;o do estado f&iacute;sico e a conduta perioperat&oacute;ria mais adequada?</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063341,
+     "letra": "A",
+     "descricao": "Classe II; adiar até completar sete semanas após a infecção.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063342,
+     "letra": "B",
+     "descricao": "Classe II; solicitar prova de função pulmonar antes da cirurgia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063343,
+     "letra": "C",
+     "descricao": "Classe II; prosseguir com a cirurgia, sem investigação adicional.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063344,
+     "letra": "D",
+     "descricao": "Classe III; adiar enquanto persistir qualquer sintoma pós-COVID.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  }
+ ]
+}

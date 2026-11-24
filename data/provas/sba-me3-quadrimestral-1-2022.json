@@ -1,0 +1,408 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-1-2022",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 1ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003418,
+   "descricao": "<p><b>Em relação aos pacientes portadores e Diabetes mellitus (DM) e os cuidados perioperatórios: </b></p><p>A) A hemoglobina glicada é um exame útil para aferir o controle glicêmico pré-operatório, e valores abaixo de 7,0% devem indicar suspensão de cirurgia.&nbsp;</p><p>B) Infarto agudo do miocárdio e distúrbios hidroeletrolíticos são possíveis complicações cirúrgicas de pacientes diabéticos</p><p>C) Está indicada administração de insulina no intraoperatório se glicemia maior que 200 mg/dL</p><p>D) Em portadores de diabetes insulinodependente, a insulina de longa duração deve ser suspensa desde a véspera da cirurgia</p><p>E) Hipoglicemia grave é complicação possível em pacientes diabéticos, e sua ocorrência está associada a danos neurológicos ou até a morte</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034181,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034182,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034183,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034184,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003419,
+   "descricao": "<p>Homem ,36 anos, 80 kg, 175 cm, sofre acidente automobilístico, apresenta trauma crânio encefálico com suspeita de hipertensão intracraniana e fratura de fêmur bilateral. Ao exame sonolento, sudorético, FR 24 irpm, FC 120 bpm, PA 90x45 mmHg. Nessa situação: </p><p><b>A)</b> A ressuscitação volêmica inicial deve objetivar Pressão Arterial Média: 65 a 70 mmHg.&nbsp;</p><p><b>B)</b> Na ressuscitação precoce é importante manter a normotermia e hematócrito entre 35 e 40%.&nbsp;</p><p><b>C)</b> Na ressuscitação tardia é importante manter pressão sistólica acima de 110 mmHg.&nbsp;</p><p><b>D)</b> Manter o lactato sérico aumentado visando evitar alcalose respiratória.&nbsp;</p><p><b>E)</b> A coagulação deve ser monitorizada objetivando tempo de atividade de protrombina e tempo de tromboplastina parcial ativada normais e cálcio ionizado normal.&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034191,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034192,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034193,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034194,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003420,
+   "descricao": "<p>As alterações hemodinâmicas e a hipotermia nas cirurgias plásticas de grande porte levam a: </p><p>a) Alcalose metabólica.&nbsp;</p><p>b) Aumento da resistência vascular sistêmica.&nbsp;</p><p>c) Aumento do consumo de Oxigênio pelo miocárdio.&nbsp;</p><p>d) Aumento do tempo de tromboplastina parcial ativada.&nbsp;</p><p>e) Aumento do fluxo sanguíneo para os tecidos periféricos.&nbsp;</p><p><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034201,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034202,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034203,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034204,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003421,
+   "descricao": "<p>Homem, 41 anos, 78 kg e 180 cm, vítima de acidente ciclístico, escala de coma de Glasgow 15, foi submetido a TC de crânio que evidenciou: fratura de Lefort I associado a fratura naso órbito etmoidal bilateral. Durante a realização do ato anestésico devemos observar: </p><p><b>A)</b> A intubação oral neste caso está bem indicada e pode ser mantida durante toda a cirurgia.</p><p><b>B)</b> A intubação nasal está contraindicada neste caso.&nbsp;</p><p><b>C) </b>No bloqueio maxilo mandibular a intubação oral é permitida.&nbsp;</p><p><b>D)</b> A intubação submentual é a técnica adequada em casos de fratura panfacial.&nbsp;</p><p><b>E)</b> A realização de traqueostomia tem menor índice de complicação quando comparada à intubação submentual.&nbsp;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034211,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034212,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034213,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034214,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003422,
+   "descricao": "<p>Em uma anestesia geral para segmentectomia pulmonar com o paciente em ventila&ccedil;&atilde;o monopulmonar e em dec&uacute;bito lateral o pulm&atilde;o dependente nessa situa&ccedil;&atilde;o apresenta:</p> <p><strong>A) </strong>Aumento do efeito shunt.</p> <p><strong>B) </strong>Diminui&ccedil;&atilde;o da complac&ecirc;ncia.</p> <p><strong>C) </strong>Aumento da ventila&ccedil;&atilde;o.</p> <p><strong>D) </strong>Aumento do espa&ccedil;o morto.</p> <p><strong>E) </strong>Aumento do fluxo sangu&iacute;neo.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034221,
+     "letra": "A",
+     "descricao": "V F F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034222,
+     "letra": "B",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034223,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034224,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003423,
+   "descricao": "<p>Mulher de 30 anos, 90 Kg e 160 cm, sofre um acidente automobilístico com fratura de tíbia e fêmur. Ao exame apresenta-se confusa, com abertura ocular ao chamado, alteração da resposta motora, localizando dor quando estimulada, FC 140 bpm, PA 80x40 mmHg, FR 30 irpm. Nesse caso:</p><p><b>A)</b> Paciente apresenta escala de coma de Glasgow 10, necessitando ser intubada para garantir sua via aérea.</p><p><b>B)</b> Na ressuscitação tardia devemos maximizar o débito cardíaco por meio de medidas de débito invasivas ou não invasivas.</p><p><b>C)</b> A imagem do coração no ultrassom envolve quatro visões clássicas: paraesternal eixo longo e eixo curto, subxifoide e apical.</p><p><b>D)</b> Na ressuscitação volêmica devemos priorizar o uso de coloides por apresentar um quadro de choque hemorrágico classe III.</p><p><b>E)</b> O exame de ultrassom cardíaco do paciente em choque deve ser direcionado a três objetivos: derrame pericárdico, contratilidade do ventrículo esquerdo (VE) e dilatação do ventrículo direito (VD).</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034231,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034232,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034233,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034234,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003424,
+   "descricao": "<p>Mulher de 40 anos, 83 Kg e 168 cm, tabagista. Nega uso de medicações. Será submetida a lipoaspiração e mamoplastia redutora.</p><p>a) A lipoaspiração através da técnica tumescente é feita com a solução de Klein, com concentração de epinefrina entre 0,05% e 0,2%.</p><p>b) A posição semi-sentada leva a alterações hemodinâmicas devido à redução do tônus parassimpático e redução da atividade do sistema renina-angiotensina-aldosterona.</p><p>c) Na lipoaspiração através da técnica superúmida, a infiltração consiste de 1 mL de solução salina ou Ringer lactato para cada 1 mL de aspirado.</p><p>d) O líquido aspirado na técnica superúmida tem 1% de sangue total, sendo esta técnica superior à técnica úmida ou seca.</p><p>e) A profilaxia de náuseas e vômitos deve constar de pelo menos 3 agentes antieméticos.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034241,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034242,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034243,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034244,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003425,
+   "descricao": "<p>Homem de 48 anos, 92 Kg e 167 cm, será submetido à cirurgia ortognática para realização de avanço maxilomandibular. Hipertenso, em uso regular de medicação. A polissonografia evidenciou 17 episódios de apneia/hipopneia por hora de sono. Ao exame físico, foi observada circunferência cervical de 48 cm, abertura de boca de 3 cm, Mallampati 3 e retrognatia com dificuldade de projeção mandibular (classe II de Angle).</p><p>a) A hipotensão controlada reduz o sangramento nestes casos.</p><p>b) A broncofibroscopia sob anestesia geral é técnica indicada nesta situação.</p><p>c) O uso de antifibrinolíticos neste caso reduz comprovadamente o sangramento.</p><p>d) O uso de corticoide não minimiza alterações neurossensoriais relacionadas à cirurgia.</p><p>e) Pacientes com síndrome da apneia obstrutiva do sono (SAOS) submetidos à cirurgia ortognática devem ser encaminhados a terapia intensiva no pós-operatório.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034251,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034252,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034253,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034254,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003426,
+   "descricao": "<p>Mulher, 40 anos e portadora de tumora&ccedil;&atilde;o em gl&acirc;ndula suprarrenal. Em rela&ccedil;&atilde;o &agrave; fisiologia da adrenal, ao preparo pr&eacute;-operat&oacute;rio e poss&iacute;veis condutas no intraoperat&oacute;rio:</p> <p><strong>A) </strong>A camada cortical da adrenal produz catecolaminas em resposta &agrave; estimula&ccedil;&atilde;o simp&aacute;tica<br><strong>B)</strong> N&iacute;veis elevados de metanefrinas urin&aacute;rias sugerem o diagn&oacute;stico de feocromocitoma<br><strong>C) </strong>A aus&ecirc;ncia de hipertens&atilde;o arterial exclui a possibilidade de feocromocitoma<br><strong>D) </strong>Confirmado o diagn&oacute;stico de feocromocitoma, o uso de bloqueador beta-adren&eacute;rgico pode ser indicado ap&oacute;s adequado bloqueio alfa-adren&eacute;rgico<br><strong>E) </strong>Em portadores de feocromocitoma, est&aacute; preconizado o uso de cetamina como agente indutor da anestesia geral</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034261,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034262,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034263,
+     "letra": "C",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034264,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

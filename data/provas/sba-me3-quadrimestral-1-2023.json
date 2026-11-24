@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-1-2023",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 1ª quadrimestral 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003427,
+   "descricao": "<p><b>Sobre os hormônios adrenocorticais: </b></p><p>A) A menor parte do cortisol circulante está ligado a globulina ligadora de&nbsp;corticosterona.</p><p>B) A secreção de glicocorticoide é regulada pelo Fator de Liberação de&nbsp;Corticotrofina, liberado pela hipófise.</p><p>C) A aldosterona é o principal mineralocorticoide e age nos túbulos renais&nbsp;proximais com reabsorção de sódio e secreção de potássio e&nbsp;hidrogênio.</p><p>D) O preparo de pacientes com doença de Addison inclui o tratamento da&nbsp;hipervolemia, hipercalemia e hiponatremia.</p><p>E) Destruição autoimune das glândulas adrenais está associada a outros&nbsp;transtornos autoimunes, como diabetes tipo 1 e tireoidite de Hashimoto.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034271,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034272,
+     "letra": "B",
+     "descricao": "F F F F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034273,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034274,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003428,
+   "descricao": "<p><b>Com relação ao atendimento anestésico do paciente vítima de trauma:&nbsp;</b></p><p><b>A)</b> Idade inferior a 14 anos e suspeita de trauma laríngeo são&nbsp;contraindicações à realização de cricotireoidostomia.</p><p><b>B)</b> Paciente masculino de 70 Kg com perda sanguínea de 35% é classificado&nbsp;como classe IV pelo Advanced Trauma Life Support (ATLS).</p><p><b>C)</b> Em pacientes vítimas de choque hemorrágico, a tríade letal consiste na&nbsp;ocorrência de acidose, hipotermia e anemia dilucional.</p><p><b>D)</b> Uma das metas do tratamento inicial do paciente vítima de traumatismo&nbsp;cranioencefálico (TCE) é manter a pressão intracraniana entre 20 e 25&nbsp;mmHg.</p><p><b>E)</b> Em paciente com queimadura de via aérea, a ocorrência de acidose&nbsp;metabólica pode estar associada a disfunção mitocondrial.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034281,
+     "letra": "A",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034282,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034283,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034284,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003429,
+   "descricao": "<p>Retalhos de tecido livre são usados frequentemente em cirurgias plásticas reparadoras de pacientes oncológicos, como para reconstrução mamária ou após remoção de tumores de cabeça e pescoço. Em relação a esses retalhos, julgue: </p><p><b>A)</b> Os vasos transplantados nas cirurgias com retalho livre são normalmente desnervados e carecem de tônus simpático.</p><p><b>B)</b> Há consenso que a hemodiluição hipervolêmica é indicada nessas cirurgias para evitar a necessidade de doses de vasopressores.</p><p><b>C)</b> Existem muitos benefícios comprovados do uso de dextrans nessas cirurgias, com risco desprezível de efeitos adversos.</p><p><b>D) </b>O sistema linfático desses retalhos geralmente leva semanas para se adequar, o que explica a tendência ao edema desses retalhos.</p><p><b>E) </b>O fluxo sanguíneo do retalho depende da pressão arterial sistêmica e da viscosidade sanguínea.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034291,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034292,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034293,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034294,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003430,
+   "descricao": "<p>Sobre anestesia para cirurgia e procedimentos tor&aacute;cicos:</p> <p><strong>A) </strong>A cirurgia eletiva de lobectomia pulmonar &eacute; considerada um procedimento de risco intermedi&aacute;rio em termos de isquemia card&iacute;aca perioperat&oacute;ria.</p> <p><strong>B) </strong>Ressec&ccedil;&atilde;o pulmonar do lado direito &eacute; fator de risco de dessatura&ccedil;&atilde;o durante a ventila&ccedil;&atilde;o monopulmonar.</p> <p><strong>C) </strong>Aplicar press&atilde;o positiva cont&iacute;nua (CPAP) de 5 cm H20 no pulm&atilde;o ventilado &eacute; uma estrat&eacute;gia para tratar uma dessatura&ccedil;&atilde;o durante a ventila&ccedil;&atilde;o monopulmonar.</p> <p><strong>D) </strong>Durante mediastinoscopia &eacute; recomendado que o ox&iacute;metro de pulso seja posicionado no membro superior esquerdo.</p> <p><strong>E) </strong>A lobectomia inferior &eacute; indica&ccedil;&atilde;o relativa de utiliza&ccedil;&atilde;o de ventila&ccedil;&atilde;o monopulmonar.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034301,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034302,
+     "letra": "B",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034303,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034304,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003431,
+   "descricao": "<p>Mulher, 40 anos e portadora de tumoração em glândula suprarrenal&nbsp; Em relação à fisiologia da adrenal, ao preparo pré-operatório e possíveis condutas no intraoperatório:</p><p><b>A) </b>A camada cortical da adrenal produz catecolaminas em resposta à estimulação simpática.</p><p><b>B) </b>Níveis elevados de metanefrinas urinárias sugerem o diagnóstico de feocromocitoma.</p><p><b>C) </b>A ausência de hipertensão arterial exclui a possibilidade de feocromocitoma.</p><p><b>D) </b>Confirmado o diagnóstico de feocromocitoma, o uso de bloqueador beta-adrenérgico pode ser indicado após adequado bloqueio alfa-adrenérgico.</p><p><b>E) </b>Em portadores de feocromocitoma, está preconizado o uso de cetamina como agente indutor da anestesia geral.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034311,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034312,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034313,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034314,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003432,
+   "descricao": "<p>A respeito da anestesia para procedimentos Bucomaxilofaciais:&nbsp;</p><p><b>A) </b>A cirurgia da mandíbula e articulação temporomandibular é realizada por&nbsp;cirurgiões bucomaxilofaciais, otorrinolaringologistas e cirurgiões plásticos.&nbsp;</p><p><b>B) </b>A anestesia hipotensiva é contraindicada em procedimentos ortognáticos.&nbsp;</p><p><b>C) </b>A intubação submentoniana está indicada em pacientes com disfunção&nbsp;da articulação temporomandibular.</p><p><b>D) </b>A intubação orotraqueal com tubo pré-moldado com conector apontando&nbsp;para os pés do paciente é indicada para cirurgias de articulação&nbsp;temporomandibular.</p><p><b>E)</b> A intubação nasal por broncofibroscopia está indicada em pacientes com&nbsp;anquilose da articulação temporomandibular.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034321,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034322,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034323,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034324,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003433,
+   "descricao": "<p>Complica&ccedil;&otilde;es pulmonares p&oacute;s-operat&oacute;rias s&atilde;o uma importante causa de morbimortalidade hospitalar ap&oacute;s grandes cirurgias. Com rela&ccedil;&atilde;o &agrave;s estrat&eacute;gias protetoras de ventila&ccedil;&atilde;o mec&acirc;nica intraoperat&oacute;ria:</p> <p><strong>A) </strong>A presen&ccedil;a de sonda nasog&aacute;strica &eacute; fator de risco para complica&ccedil;&otilde;es pulmonares p&oacute;s-operat&oacute;rias</p> <p><strong>B) </strong>O escore ARISCAT pode ser usado na predi&ccedil;&atilde;o de complica&ccedil;&otilde;es pulmonares p&oacute;s-operat&oacute;rias, sendo composto por cinco vari&aacute;veis</p> <p><strong>C) </strong>Hist&oacute;rico de tabagismo &eacute; uma das vari&aacute;veis analisadas pelo escore ARISCAT</p> <p><strong>D)</strong> S&atilde;o mecanismos associados ao dano &agrave;s c&eacute;lulas endoteliais e barreira alveolocapilar pulmonar: barotrauma, volutrauma e atelectrauma</p> <p><strong>E)</strong> O volume corrente deve ser calculado com base no peso corporal predito do paciente, visando manter a driving pressure abaixo de 15 mmHg</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034331,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034332,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034333,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034334,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

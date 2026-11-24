@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-tsa-2024",
+  "banca": "SBA",
+  "concurso": "TSA",
+  "titulo": "TSA 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006362,
+   "descricao": "<p>Qual dos fitoter&aacute;picos abaixo tem a&ccedil;&atilde;o antiespasm&oacute;dica e afeta o P450, interferindo na coagula&ccedil;&atilde;o?</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063621,
+     "letra": "A",
+     "descricao": "Ephedra",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063622,
+     "letra": "B",
+     "descricao": "Valeriana",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063623,
+     "letra": "C",
+     "descricao": "Camomila",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063624,
+     "letra": "D",
+     "descricao": "Echinacea",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006363,
+   "descricao": "<p>Paciente M.H.O, 78 anos, será submetida a artroplastia total de quadril. Apresenta hemoglobina prévia de 11,5, índice de saturação de transferrina de 21%, ferritina de 50mcg/L e albumina 3.8. Considerando esses exames, qual a melhor conduta para o caso?</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063631,
+     "letra": "A",
+     "descricao": "Considerar administração de eritropoetina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063632,
+     "letra": "B",
+     "descricao": "Transfundir no pré-operatório e liberar para cirurgia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063633,
+     "letra": "C",
+     "descricao": "Repor ferro por via endovenosa e avaliar a resposta da paciente",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063634,
+     "letra": "D",
+     "descricao": "Solicitar reserva de hemocomponentes (concentrado hemácias) e liberar para cirurgia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006364,
+   "descricao": "<p>Sobre a organiza&ccedil;&atilde;o da SBA (Sociedade Brasileira de Anestesiologia), assinale a afirma&ccedil;&atilde;o correta:</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063641,
+     "letra": "A",
+     "descricao": "O conselho fiscal é responsável por aprovar as contas da Sociedade",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063642,
+     "letra": "B",
+     "descricao": "A assembleia dos representantes é responsável por eleger os cargos administrativos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063643,
+     "letra": "C",
+     "descricao": "O diretor de relações internacionais deve, estatutariamente, ser fluente em pelo menos 3 idiomas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063644,
+     "letra": "D",
+     "descricao": "A reunião da assembleia geral é presidida pelo presidente em exercício e pelo secretário geral e de eventos",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006365,
+   "descricao": "<p>Uma mulher anestesiologista, de 36 anos, gestante, trabalha 84 horas por semana, das quais 46 horas s&atilde;o realizadas em plant&otilde;es noturnos. Com base no caso descrito, assinale a alternativa correta:</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063651,
+     "letra": "A",
+     "descricao": "Dormir 6 horas por noite é suficiente para preservar os reflexos motores",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063652,
+     "letra": "B",
+     "descricao": "A exposição à radiação até 5 milisieverts por mês é considerada segura para gestantes",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063653,
+     "letra": "C",
+     "descricao": "O limite aceitável de exposição ao sevoflurano é igual ao do halotano e menor que do óxido nitroso",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063654,
+     "letra": "D",
+     "descricao": "Ouvir qualquer tipo de música pode contribuir para o aumento da concentração durante a jornada de trabalho",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006366,
+   "descricao": "<p>Uma m&eacute;dica anestesiologista de 36 anos, gestante, trabalha 84 horas semanais, sendo 46 horas em plant&otilde;es noturnos. Considerando os riscos ocupacionais associados &agrave; pr&aacute;tica anest&eacute;sica, assinale a alternativa correta:</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063661,
+     "letra": "A",
+     "descricao": "A música ambiente aumenta a concentração do anestesiologista diante de intercorrências",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063662,
+     "letra": "B",
+     "descricao": "Seis horas de sono preservam a vigilância e o tempo de reação durante plantões prolongados",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063663,
+     "letra": "C",
+     "descricao": "O sevoflurano é o anestésico inalatório com menor risco reprodutivo para profissionais expostas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063664,
+     "letra": "D",
+     "descricao": "Uma exposição ocupacional de 5 mSv/mês à radiação ionizante aumenta o risco de alterações cromossômicas clastogênicas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006367,
+   "descricao": "<p>Ap&oacute;s ataque com agente qu&iacute;mico, seu hospital recebe m&uacute;ltiplas v&iacute;timas. Voc&ecirc; coordena uma equipe de anestesia no atendimento inicial. Durante o plant&atilde;o, um anestesiologista relata cansa&ccedil;o intenso, sobrecarga mental, pensamentos recorrentes sobre as v&iacute;timas, pesadelos e epis&oacute;dios de p&acirc;nico. N&atilde;o h&aacute; sinais de risco iminente para si ou para terceiros, nem de incapacidade funcional definida. Qual &eacute; sua conduta inicial mais apropriada como coordenador?</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063671,
+     "letra": "A",
+     "descricao": "Oferecer apoio inicial, reajustar as tarefas do colega e o acompanhar, sem intervenção compulsória.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063672,
+     "letra": "B",
+     "descricao": "Reduzir sua exposição assistencial e encaminhá-lo para avaliação especializada ainda durante o plantão.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063673,
+     "letra": "C",
+     "descricao": "Realizar debriefing breve no plantão, estimulando o relato do evento antes de decidir sobre afastamento.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063674,
+     "letra": "D",
+     "descricao": "Afastá-lo preventivamente das atividades por 72 horas e programar reavaliação antes do retorno ao trabalho.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006368,
+   "descricao": "<p>Um associado adimplente da SBA &eacute; convidado a ministrar atividade de ensino no Centro de Certifica&ccedil;&atilde;o da SBA. A remunera&ccedil;&atilde;o proposta corresponde a tr&ecirc;s anuidades vigentes para cada dia de atividade. Quanto &agrave; autoriza&ccedil;&atilde;o desse pagamento:</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063681,
+     "letra": "A",
+     "descricao": "A remuneração é possível, devendo a deliberação ser submetida ao Conselho Superior.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063682,
+     "letra": "B",
+     "descricao": "A Diretoria pode autorizar o pagamento, caso o associado não exerça cargo diretivo na SBA.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063683,
+     "letra": "C",
+     "descricao": "Um membro da Diretoria pode ser remunerado pelo serviço se o Conselho Superior autorizar.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063684,
+     "letra": "D",
+     "descricao": "A Diretoria pode deliberar diretamente, pois se trata de serviço no Centro de Certificação.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  }
+ ]
+}

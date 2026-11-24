@@ -1,0 +1,1816 @@
+{
+ "prova": {
+  "slug": "sba-me1-anual-2013",
+  "banca": "SBA",
+  "concurso": "ME1 anual",
+  "titulo": "ME1 anual 2013",
+  "ano": "2013",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2000597,
+   "descricao": "<p>A dexmedetomidina:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20005971,
+     "letra": "A",
+     "descricao": "aumenta o fluxo cerebral na anestesia com isoflurano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20005972,
+     "letra": "B",
+     "descricao": "apresenta meia-vida de eliminação de 8 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20005973,
+     "letra": "C",
+     "descricao": "possui ação simpaticomimética pela ação beta 2-agonista",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20005974,
+     "letra": "D",
+     "descricao": "reduz a concentração alveolar mínima do isoflurano",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000598,
+   "descricao": "<p>Contraindicação ao Combitube:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20005981,
+     "letra": "A",
+     "descricao": "Luxação da coluna cervical",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20005982,
+     "letra": "B",
+     "descricao": "Paciente consciente",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20005983,
+     "letra": "C",
+     "descricao": "Macroglossia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20005984,
+     "letra": "D",
+     "descricao": "Trauma facial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000599,
+   "descricao": "<p>A ação vasodilatadora do isoflurano na circulação coronariana ocorre:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20005991,
+     "letra": "A",
+     "descricao": "pelo aumento do óxido nítrico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20005992,
+     "letra": "B",
+     "descricao": "por um efeito secundário dos agentes halogenados no tônus vascular coronariano",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20005993,
+     "letra": "C",
+     "descricao": "através da inibição dos canais de ATP sensíveis ao potássio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20005994,
+     "letra": "D",
+     "descricao": "por ação direta alterando a regulação intracelular de cálcio",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000600,
+   "descricao": "<p>A qual grupo farmacológico pertence a dexmedetomidina?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006001,
+     "letra": "A",
+     "descricao": "imidazolinas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006002,
+     "letra": "B",
+     "descricao": "oxazolinas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006003,
+     "letra": "C",
+     "descricao": "feniletilaminas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006004,
+     "letra": "D",
+     "descricao": "alfilinas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000601,
+   "descricao": "<p>Na vigência de via aérea difícil:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006011,
+     "letra": "A",
+     "descricao": "A melhor opção é a indução em sequência rápida",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006012,
+     "letra": "B",
+     "descricao": "A classificação de Mallampati como teste único apresenta alta especificidade como preditor de dificuldade de intubação traqueal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006013,
+     "letra": "C",
+     "descricao": "Dificuldade de ventilação sob máscara facial pode ser encontrada nos pacientes com história de roncos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006014,
+     "letra": "D",
+     "descricao": "Pacientes mais jovens que 55 anos apresentam maior dificuldade de intubação traqueal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000602,
+   "descricao": "<p>Diminui durante rigidez torácica induzida por opioides:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006021,
+     "letra": "A",
+     "descricao": "capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006022,
+     "letra": "B",
+     "descricao": "pressão venosa central",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006023,
+     "letra": "C",
+     "descricao": "pressão intracraniana",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006024,
+     "letra": "D",
+     "descricao": "resistência vascular pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000603,
+   "descricao": "<p>Fator relacionado inversamente à difusão dos gases através da membrana respiratória:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006031,
+     "letra": "A",
+     "descricao": "superfície de troca",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006032,
+     "letra": "B",
+     "descricao": "permeabilidade da membrana",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006033,
+     "letra": "C",
+     "descricao": "peso molecular do gas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006034,
+     "letra": "D",
+     "descricao": "gradiente de pressão",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000604,
+   "descricao": "<p>Fator que aumentam a concentração alveolar mínima (CAM) de um anestésico inalatório:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006041,
+     "letra": "A",
+     "descricao": "gravidez",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006042,
+     "letra": "B",
+     "descricao": "acidose metabólica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006043,
+     "letra": "C",
+     "descricao": "uso crônico de álcool",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006044,
+     "letra": "D",
+     "descricao": "anemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000605,
+   "descricao": "<p>Paciente de 30 anos, com hemoglobina de 10 g.dL-1, com SpO2 de 98%, necessita elevar em 25% sua capacidade de transporte de oxigênio. Nesta situação devemos aumentar a(o):</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006051,
+     "letra": "A",
+     "descricao": "FiO2 para 84%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006052,
+     "letra": "B",
+     "descricao": "hemoglobina em 50%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006053,
+     "letra": "C",
+     "descricao": "débito cardíaco em 25%",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006054,
+     "letra": "D",
+     "descricao": "viscosidade sanguínea",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000606,
+   "descricao": "<p>Paciente de 12 anos, com antecedente de múltiplas cirurgias para correção de extrofia vesical sem intercorrências. Apresentou infecção de vias aéreas há 20 dias e apresenta-se para laparotomia para reimplante ureteral. Após 30 minutos do início do procedimento apresenta taquicardia, hipotensão e curva da capnografia com padrão obstrutivo. Assinale a melhor hipótese diagnóstica e tratamento:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006061,
+     "letra": "A",
+     "descricao": "obstrução do tubo traqueal – aspiração e checagem das conexões",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006062,
+     "letra": "B",
+     "descricao": "analgesia ineficaz - administração de opióides",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006063,
+     "letra": "C",
+     "descricao": "reação alérgica intra-operatória - adrenalina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006064,
+     "letra": "D",
+     "descricao": "bacteremia - reposição volêmica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000607,
+   "descricao": "<p>A manobra de Sellick:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006071,
+     "letra": "A",
+     "descricao": "Consiste na elevação do mento e compressão da cartilagem cricóide contra o esôfago",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006072,
+     "letra": "B",
+     "descricao": "Impede que o conteúdo esofágico atinja a laringe",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006073,
+     "letra": "C",
+     "descricao": "Deve ser suspensa durante ventilação sob máscara facial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006074,
+     "letra": "D",
+     "descricao": "Deve ser limitada aos pacientes que tiveram lesões cervicais descartadas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000608,
+   "descricao": "<p>Situação em que a taxa de depuração plasmática da lidocaína apresenta valores comparável aos encontrados em indivíduos normais:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006081,
+     "letra": "A",
+     "descricao": "Insuficiência cardíaca",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006082,
+     "letra": "B",
+     "descricao": "Insuficiência renal crônica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006083,
+     "letra": "C",
+     "descricao": "Insuficiência hepática terminal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006084,
+     "letra": "D",
+     "descricao": "Idade avançada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000609,
+   "descricao": "<p>Sobre o risco cardiovascular avaliado pela escala de Lee, podemos afirmar que:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006091,
+     "letra": "A",
+     "descricao": "Esta escala desconsidera a extensão ou complexidade da cirurgia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006092,
+     "letra": "B",
+     "descricao": "Foi desenvolvida para cirurgia cardíaca",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006093,
+     "letra": "C",
+     "descricao": "É um sistema simples com 6 critérios de fácil avaliação",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006094,
+     "letra": "D",
+     "descricao": "Desconsidera alterações renais como fator de risco",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000610,
+   "descricao": "<p>A cetamina:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006101,
+     "letra": "A",
+     "descricao": "É agonista em receptores N-metil-D-aspartato (NMDA)",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006102,
+     "letra": "B",
+     "descricao": "Tem duração do efeito independente da dose administrada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006103,
+     "letra": "C",
+     "descricao": "Promove relaxamento da musculatura lisa brônquica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006104,
+     "letra": "D",
+     "descricao": "É eliminada de forma inalterada por via renal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000611,
+   "descricao": "<p>Com relação às alterações cardiovasculares secundárias aos bloqueios do neuroeixo:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006111,
+     "letra": "A",
+     "descricao": "A sobrevida após parada cardiocirculatória sob anestesia do neuroeixo é maior do que sob anestesia geral",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006112,
+     "letra": "B",
+     "descricao": "São secundárias ao bloqueio das fibras aferentes simpáticas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006113,
+     "letra": "C",
+     "descricao": "O reflexo de Bezold-Jarish causa taquicardia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006114,
+     "letra": "D",
+     "descricao": "A bradicardia surge com o bloqueio das fibras de T1 a T2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000612,
+   "descricao": "<p><strong>[QUEST&Atilde;O ADAPTADA]</strong></p> <p>O diagn&oacute;stico de morte cerebral pode ser feito com os seguintes crit&eacute;rios:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006121,
+     "letra": "A",
+     "descricao": "Exame clínico em paciente de qualquer idade e um eletroencefalograma com 48h do evento",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006122,
+     "letra": "B",
+     "descricao": "Com a causa mortis desconhecida necessita de dois eletroencefalogramas com intervalo de 12 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006123,
+     "letra": "C",
+     "descricao": "Se o paciente tiver de 7 dias a 2 meses incompletos, deve ter a suspeita confirmada por 2 exames clínicos com intervalo de 24 horas entre um e outro",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006124,
+     "letra": "D",
+     "descricao": "Se o paciente tem de 1 a 2 anos incompletos, quando optar-se por eletroencefalograma, serão necessários 2 exames com intervalo de 48 horas entre um e outro",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000613,
+   "descricao": "<p>Fator relacionado ao aumento da incidência de cefaleia pós punção de dura-máter:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006131,
+     "letra": "A",
+     "descricao": "deambulação precoce",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006132,
+     "letra": "B",
+     "descricao": "história anterior de cefaleia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006133,
+     "letra": "C",
+     "descricao": "gênero masculino",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006134,
+     "letra": "D",
+     "descricao": "extremos de idade",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000614,
+   "descricao": "<p>A linha que une os ângulos inferiores das escapulas:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006141,
+     "letra": "A",
+     "descricao": "é denominada de Linha de Tuffier",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006142,
+     "letra": "B",
+     "descricao": "cruza a terceira vértebra torácica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006143,
+     "letra": "C",
+     "descricao": "cruza a sétima vértebra torácica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006144,
+     "letra": "D",
+     "descricao": "cruza a décima segunda vértebra torácica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000615,
+   "descricao": "<p>Referente à anatomia do sistema nervoso autônomo</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006151,
+     "letra": "A",
+     "descricao": "Os nervos III, VII, IX e X possuem fibras pré-ganglionares parassimpáticas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006152,
+     "letra": "B",
+     "descricao": "As fibras pré-ganglionares simpáticas são longas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006153,
+     "letra": "C",
+     "descricao": "Encontramos 21 pares de gânglios ao longo da coluna vertebral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006154,
+     "letra": "D",
+     "descricao": "As fibras pós-ganglionares são mielinizadas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000616,
+   "descricao": "<p>Paciente adulto jovem submetido a anestesia subaracnóidea para correção de hérnia inguinal. Após 2 minutos a SpO2 e o traçado eletrocardiográfico desaparecem no monitor. A primeira medida a ser tomada deve ser:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006161,
+     "letra": "A",
+     "descricao": "Desfibrilação com 360 joules",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006162,
+     "letra": "B",
+     "descricao": "Uso de amiodarona endovenosa",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006163,
+     "letra": "C",
+     "descricao": "Massagem cardíaca",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006164,
+     "letra": "D",
+     "descricao": "Avaliar a consciência",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000617,
+   "descricao": "<p>Na subst&acirc;ncia gelatinosa da medula, os opioides produzem bloqueio:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006171,
+     "letra": "A",
+     "descricao": "Tátil",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006172,
+     "letra": "B",
+     "descricao": "Motor",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006173,
+     "letra": "C",
+     "descricao": "Simpático",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006174,
+     "letra": "D",
+     "descricao": "Nociceptivo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000618,
+   "descricao": "<p>Em relação a curtos-circuitos (shunt) intrapulmonares direito-esquerdo:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006181,
+     "letra": "A",
+     "descricao": "Halotano mantem a resposta vasoconstrictora hipóxica pulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006182,
+     "letra": "B",
+     "descricao": "Nitroprussiato de sódio potencializa a vasoconstrição pulmonar hipóxica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006183,
+     "letra": "C",
+     "descricao": "Nitroglicerina é indicada para reduzir o shunt direito-esquerdo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006184,
+     "letra": "D",
+     "descricao": "Sevoflurano aumenta o shunt direito-esquerdo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000619,
+   "descricao": "<p>Sobre a ressuscitação cardiopulmonar no paciente anestesiado:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006191,
+     "letra": "A",
+     "descricao": "Compressões do tórax adequadas melhoram da chance de sobrevivência",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006192,
+     "letra": "B",
+     "descricao": "Após a desfibrilação, a massagem cardíaca externa deve ser suspensa para verificação do ritmo cardíaco",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006193,
+     "letra": "C",
+     "descricao": "Quando o tipo de desfibrilador é desconhecido deve-se aplicar choque de 360 Joules",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006194,
+     "letra": "D",
+     "descricao": "A hiperventilação melhora o resultado da ressuscitação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000620,
+   "descricao": "<p>Fibra nervosa periférica responsável pela transmissão da dor protopática, em ardência ou queimação, mal localizada e difusa que aparece 2 a 3 segundos após o estímulo.</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006201,
+     "letra": "A",
+     "descricao": "A alfa",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006202,
+     "letra": "B",
+     "descricao": "A beta",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006203,
+     "letra": "C",
+     "descricao": "B",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006204,
+     "letra": "D",
+     "descricao": "C",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000621,
+   "descricao": "<p>Quanto à fase diastólica do ciclo cardíaco:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006211,
+     "letra": "A",
+     "descricao": "É onde ocorre 60% da perfusão coronariana",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006212,
+     "letra": "B",
+     "descricao": "O enchimento ventricular ocorre passivamente",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006213,
+     "letra": "C",
+     "descricao": "O relaxamento é passivo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006214,
+     "letra": "D",
+     "descricao": "Pacientes idosos possuem um menor volume diastólico final",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000622,
+   "descricao": "<p>Sobre as propriedades químicas dos anestésicos locais:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006221,
+     "letra": "A",
+     "descricao": "A latência do anestésico local é independente de seu pKa",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006222,
+     "letra": "B",
+     "descricao": "A atividade e a potência são afetadas pela estereoquímica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006223,
+     "letra": "C",
+     "descricao": "As aminoamidas são metabolizadas por colinesterase plasmática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006224,
+     "letra": "D",
+     "descricao": "A alcalinização da solução de anestésico local dificulta sua difusão",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000623,
+   "descricao": "<p><b>(QUESTÃO ADAPTADA)</b></p><p>Paciente de 60 anos, com angina estável leve, infarto agudo do miocárdio há 3 anos com insuficiência cardiaca congestiva que irá para realizar uma herniorrafia umbilical, pode ser classificado como portador de preditores de risco cardiovascular e de avaliação cardíaca complementar:</p><p><b></b></p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006231,
+     "letra": "A",
+     "descricao": "Intermediários / Paciente liberado para cirurgia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006232,
+     "letra": "B",
+     "descricao": "Menores / Paciente liberado para cirurgia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006233,
+     "letra": "C",
+     "descricao": "Maiores / Necessita avaliação complementar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006234,
+     "letra": "D",
+     "descricao": "Intermediários / Necessita avaliação complementar",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000624,
+   "descricao": "<p>Teste de melhor acurácia para detectar bloqueio residual, após o uso de bloqueador neuromuscular adespolarizante:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006241,
+     "letra": "A",
+     "descricao": "sequência de quatro estímulos (TOF)",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006242,
+     "letra": "B",
+     "descricao": "estimulação tetânica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006243,
+     "letra": "C",
+     "descricao": "contagem pós tetânica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006244,
+     "letra": "D",
+     "descricao": "dupla salva de tétano (DBS)",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000625,
+   "descricao": "<p>Quanto à alta da sala de recuperação pós anestésica em pacientes ambulatoriais:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006251,
+     "letra": "A",
+     "descricao": "O paciente deverá estar acompanhado de responsável",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006252,
+     "letra": "B",
+     "descricao": "O paciente deverá urinar antes de sua liberação",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006253,
+     "letra": "C",
+     "descricao": "A presença de dor leve a moderada é fator impeditivo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006254,
+     "letra": "D",
+     "descricao": "É determinada apenas pelas escalas de pontuação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000626,
+   "descricao": "<p>O nervo laríngeo superior é ramo do nervo:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006261,
+     "letra": "A",
+     "descricao": "Trigêmio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006262,
+     "letra": "B",
+     "descricao": "Vago",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20006263,
+     "letra": "C",
+     "descricao": "Facial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006264,
+     "letra": "D",
+     "descricao": "Hipoglosso",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000627,
+   "descricao": "<p>Fase do ciclo cardíaco que caracteriza pelo aumento da pressão no ventrículo, excedendo a pressão da aorta e da artéria pulmonar:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006271,
+     "letra": "A",
+     "descricao": "Contração isovolumétrica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006272,
+     "letra": "B",
+     "descricao": "Relaxamento isovolumétrico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006273,
+     "letra": "C",
+     "descricao": "Enchimento rápido",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006274,
+     "letra": "D",
+     "descricao": "Ejeção ventricular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000628,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>Desvia a curva volume x press&atilde;o pulmonar para a esquerda:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006281,
+     "letra": "A",
+     "descricao": "Enfisema",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006282,
+     "letra": "B",
+     "descricao": "Proteinose alveolar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006283,
+     "letra": "C",
+     "descricao": "Fibrose idiopática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006284,
+     "letra": "D",
+     "descricao": "Sarcoidose",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000629,
+   "descricao": "<p>A eletrocussão com corrente continua promove parada cardíaca com:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006291,
+     "letra": "A",
+     "descricao": "Taquicardia ventricular sem pulso",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006292,
+     "letra": "B",
+     "descricao": "Fibrilação ventricular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006293,
+     "letra": "C",
+     "descricao": "Atividade elétrica sem pulso",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006294,
+     "letra": "D",
+     "descricao": "Assistolia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000630,
+   "descricao": "<p>Paciente de 70 KG aspira 100 ml de líquido com pH de 4,5 na indução da anestesia. Devemos esperar:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006301,
+     "letra": "A",
+     "descricao": "redução inicial da PaO2 e recuperação em 24 horas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006302,
+     "letra": "B",
+     "descricao": "hemorragia pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006303,
+     "letra": "C",
+     "descricao": "edema pulmonar com hipoxemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006304,
+     "letra": "D",
+     "descricao": "necrose pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000631,
+   "descricao": "<p>Assinale a afirmativa CORRETA:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006311,
+     "letra": "A",
+     "descricao": "A adrenalina aumenta a duração do bloqueio nervoso induzido pela ropivacaína",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006312,
+     "letra": "B",
+     "descricao": "O bicarbonato de sódio aumenta a fração ionizada da lidocaína em bloqueios nervosos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006313,
+     "letra": "C",
+     "descricao": "A administração peridural de sufentanil diminui o limiar de excitabilidade de fibras C",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006314,
+     "letra": "D",
+     "descricao": "A adrenalina antagoniza o efeito vasodilatador local da lidocaína",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000632,
+   "descricao": "<p>Dos f&aacute;rmacos abaixo, qual deve ser utilizado no tratamento da broncoconstri&ccedil;&atilde;o aguda durante o transoperat&oacute;rio:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006321,
+     "letra": "A",
+     "descricao": "Doxofilina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20006322,
+     "letra": "B",
+     "descricao": "Hidrocortisona",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006323,
+     "letra": "C",
+     "descricao": "Cromolin",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006324,
+     "letra": "D",
+     "descricao": "Nedocromil",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000633,
+   "descricao": "<p>Segundo o Código de Ética Médica é permitido ao médico:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006331,
+     "letra": "A",
+     "descricao": "Prestar informações a empresas seguradoras sobre as circunstâncias da morte do paciente sob seus cuidados, além das contidas na declaração de óbito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006332,
+     "letra": "B",
+     "descricao": "Publicar trabalho como seu, quando foi realizado por alunos do curso de graduação em medicina sob sua orientação e supervisão",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006333,
+     "letra": "C",
+     "descricao": "Realizar pesquisa médica em seus dependentes indiretos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006334,
+     "letra": "D",
+     "descricao": "Internar e assistir seus pacientes em hospitais privados, ainda que não faça parte do seu corpo clínico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000634,
+   "descricao": "<p>Paciente 60 anos, 40 Kg apresenta parada cardiorrespiratória refratária as manobras de ressuscitação após injeção intravascular de 100mg de bupivacaína a 0,5 % sem vasoconstritor durante bloqueio peridural lombar. Volume(ml) em bolus de emulsão lipídica a 20% recomendado para tratamento desta complicação:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006341,
+     "letra": "A",
+     "descricao": "40",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006342,
+     "letra": "B",
+     "descricao": "50",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006343,
+     "letra": "C",
+     "descricao": "60",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006344,
+     "letra": "D",
+     "descricao": "80",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000635,
+   "descricao": "<p>Contraindicação da anestesia inalatória com o desflurano:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006351,
+     "letra": "A",
+     "descricao": "após evento isquêmico cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006352,
+     "letra": "B",
+     "descricao": "anestesia com fluxo basal de gases",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006353,
+     "letra": "C",
+     "descricao": "grandes ressecções hepáticas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20006354,
+     "letra": "D",
+     "descricao": "indução inalatória em crianças",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000636,
+   "descricao": "<p>No hipertenso crônico e coronariopata. No pré-operatório:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006361,
+     "letra": "A",
+     "descricao": "a melhor escolha para controle pressórico são diuréticos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006362,
+     "letra": "B",
+     "descricao": "as estatinas devem ser suspensas 48h antes da cirurgia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006363,
+     "letra": "C",
+     "descricao": "pode se beneficiar do uso de bloqueadores do canal de cálcio",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006364,
+     "letra": "D",
+     "descricao": "a clonidina pode oferecer prejuízos pelo risco de bradicardia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000637,
+   "descricao": "<p>O uso do bloqueio neuromuscular pode ser importante e até mesmo essencial em qual das situações abaixo?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20006371,
+     "letra": "A",
+     "descricao": "passagem de dispositivo supra glótico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20006372,
+     "letra": "B",
+     "descricao": "facilitar ventilação sob máscara facial em paciente com IMC 30 kg/m2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20006373,
+     "letra": "C",
+     "descricao": "oferecer adequado campo cirúrgico em cirurgia robótica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20006374,
+     "letra": "D",
+     "descricao": "para cirurgias oftálmicas, visando imobilidade do globo ocular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  }
+ ]
+}

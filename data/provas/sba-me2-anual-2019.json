@@ -1,0 +1,1332 @@
+{
+ "prova": {
+  "slug": "sba-me2-anual-2019",
+  "banca": "SBA",
+  "concurso": "ME2 anual",
+  "titulo": "ME2 anual 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002036,
+   "descricao": "<p>Homem de 73 anos, 60kg e 1,73m, submetido à colocação de endoprótese aórtica na hemodinâmica há 24 horas apresenta débito urinário abaixo de 0,5mL/kg/h por 12 horas e creatinina sérica de 2.3 mg/dL na unidade de terapia intensiva. Qual é a melhor conduta neste paciente?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020361,
+     "letra": "A",
+     "descricao": "Emprego de manitol e furosemida",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020362,
+     "letra": "B",
+     "descricao": "Infusão de coloide natural (albumina)",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020363,
+     "letra": "C",
+     "descricao": "Evitar e corrigir distúrbios hidroeletrolíticos e acidobásicos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020364,
+     "letra": "D",
+     "descricao": "Administração de de peptídeo natriurético atrial recombinante",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002037,
+   "descricao": "<p>Dois opioides diferentes, A e B, foram sintetizados para utilização clínica em anestesiologia. Dentre as suas características farmacológicas, cita-se:</p><p><img src=\"data/imagens/258085afc6dd0158.png\" alt=\"\"><br></p><p>O opioide B tem latência mais curta devido ao (à):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020371,
+     "letra": "A",
+     "descricao": "Volume de distribuição",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020372,
+     "letra": "B",
+     "descricao": "Taxa de extração hepática",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020373,
+     "letra": "C",
+     "descricao": "Fração não dissociada",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020374,
+     "letra": "D",
+     "descricao": "Ligação à proteína plasmática",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002038,
+   "descricao": "<p>Homem de 88 anos, 60kg e 1,68m, portador de fibrilação atrial crônica em uso de marevan, atualmente com valor normatizado internacional (INR) de 2, será submetido a facectomia eletiva. A técnica anestésica habitual da equipe é sedação leve e bloqueio peribulbar. Qual conduta deve ser empregada para que o procedimento proposto seja realizado seguindo a técnica anestésica rotineira do serviço?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020381,
+     "letra": "A",
+     "descricao": "Manutenção da técnica rotineira sem medidas adicionais",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020382,
+     "letra": "B",
+     "descricao": "Administraçã de 500UI de concentrado de complexo protrombínico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020383,
+     "letra": "C",
+     "descricao": "Avaliação da coagulação com exame de tromboelastometria rotacional",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020384,
+     "letra": "D",
+     "descricao": "Interrupção do marevan e uso de vitamina K pelo paciente com reprogramação da cirurgia para 5 dias",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002039,
+   "descricao": "<p>Mulher de 35 anos, 60kg e 1,50m, será submetida à cirurgia ortopédica no pé sob bloqueio do nervo ciático na fossa poplítea. Em qual território anatômico a paciente pode referir dor a incisão de pele?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020391,
+     "letra": "A",
+     "descricao": "Face lateral do pé",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020392,
+     "letra": "B",
+     "descricao": "Face medial do pé",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020393,
+     "letra": "C",
+     "descricao": "Face plantar do pé",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020394,
+     "letra": "D",
+     "descricao": "Face posterior do pé",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002040,
+   "descricao": "<p>Mulher de 45 anos, 60kg e 1,60m, foi submetida à duodenopancreatectomia com linfadenectomia e evoluiu no 1º dia pós-operatório com oligúria e elevação de escórias nitrogenadas. Qual dos seguintes achados é o mais consistente com uma insuficiência renal aguda de origem renal?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020401,
+     "letra": "A",
+     "descricao": "Sódio urinário > 40 mEq.L1",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020402,
+     "letra": "B",
+     "descricao": "Fração de excreção de sódio (FENa) <1%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020403,
+     "letra": "C",
+     "descricao": "Gravidade específica da urina > 1.030",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020404,
+     "letra": "D",
+     "descricao": "Osmoialidade urinaria > 1200 mOsm.kg'1",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002041,
+   "descricao": "<p>Homem de 70 anos, 70kg e 1,80m, com insuficiência respiratória por asbestose, é submetido a fixação de fratura de úmero sob bloqueio interescalênico com 20ml de bupivacaína 0,375% guiado por ultrassonografia e estimulador de nervos. Durante a cirurgia, o paciente apresenta agravamento da insuficiência respiratória, porém permanece consciente e hemodinamicamente estável. Nesta situação, o diagnóstico mais provável é:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020411,
+     "letra": "A",
+     "descricao": "pneumotórax",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020412,
+     "letra": "B",
+     "descricao": "raquianestesia total",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020413,
+     "letra": "C",
+     "descricao": "bloqueio do nervo frênico",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020414,
+     "letra": "D",
+     "descricao": "bloqueio do plexo cervical profundo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002042,
+   "descricao": "<p>É fisiologicamente esperado durante a gravidez:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020421,
+     "letra": "A",
+     "descricao": "A diminuição do volume corrente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020422,
+     "letra": "B",
+     "descricao": "O aumento da água corporal total com predomínıo do extracelular",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020423,
+     "letra": "C",
+     "descricao": "A hipercoagulabilidade sanguínea as custas do aumento quantitativo de plaquetas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020424,
+     "letra": "D",
+     "descricao": "A diminuição da taxa de filtração glomerular com aumento nos níveis plasmáticos de ureia e creatinina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002043,
+   "descricao": "<p>Homem de 55 anos, 130kg e 1.65m, será submetido à gastroplastia videolaparoscópica. Na avaliação pré-anestésica, o paciente refere fadiga e sonolência diária, hipertensão arterial sistêmica e roncos durante o sono. Vem em uso de CPAP (pressão positiva contínua nas vias aéreas) noturno. Diante das opções abaixo, qual é a conduta mais adequada para o perioperatório?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020431,
+     "letra": "A",
+     "descricao": "Iniciar enoxaparina 40 mg no intraoperatório",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020432,
+     "letra": "B",
+     "descricao": "Jejum absoluto no pré-operatório por pelo menos 8 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020433,
+     "letra": "C",
+     "descricao": "Manter bloqueio neuromuscular superficial para reduzir o risco de paralisia residual no pós-operatório",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020434,
+     "letra": "D",
+     "descricao": "Postergar o reinício do CPAP para o primeiro dia pós-operatório por conta do risco de fístula gástrica entérica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002044,
+   "descricao": "<p>Menina de 13 anos, 45kg e 1,50m, é submetida a correção cirúrgica de escoliose idiopática toraco- lombar (T4 - L2) sob anestesia venosa total com propofol, remifentanil e cetamina contínuos. Durante a fase de distração da coluna (retificação), há diminuição da amplitude e aumento da latência dos potenciais evocados somato-sensoriais e motores em membros inferiores. Nesse momento, a paciente encontra-se com PA de 80x50mmHg, FC de 80 bpm, SatO2 de 98%, temperatura de 35,8 graus, BIS de 55, TOF com relação T4/T1 de 95% e EtCO2 de 35mmHg com estimativa de 800mL de perda sanguínea. Diante desta situação, as condutas iniciais a serem tomadas são:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020441,
+     "letra": "A",
+     "descricao": "Elevação da pressão arterial com vasopressores e liberação da distração cirúrgica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020442,
+     "letra": "B",
+     "descricao": "Hiperventilação para redução da EtCO2 para 30mmHg e transfusão de um concentrado de hemácias",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020443,
+     "letra": "C",
+     "descricao": "Redução do BIS com aumento da infusão de propofol e intensificação do relaxamento neuromuscular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020444,
+     "letra": "D",
+     "descricao": "Resfriamento externo ativo para redução da temperatura central e administração de 1g de metilprednisolona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002045,
+   "descricao": "<p>Homem de 75 anos, 70kg e 1,70m, hipertenso, diabético e coronariopata será submetido à correção cirúrgica de hérnia epigástrica. O anestesiologista opta por anestesia venosa total com propofol em infusão alvo controlada com protocolo de Schnider. A vantagem deste protocolo de infusão, quando comparado ao de Marsh, neste paciente da-se por diferenças:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020451,
+     "letra": "A",
+     "descricao": "no cálculo do compartimento de distribuição central entre os dois modelos farmacocinéticos",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020452,
+     "letra": "B",
+     "descricao": "nos parâmetros de depuração que os modelos farmacocinéticos consideram para o hipnótico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020453,
+     "letra": "C",
+     "descricao": "na estimativa do compartimento de distribuição lenta entre os dois modelos farmacocinéticos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020454,
+     "letra": "D",
+     "descricao": "no balanço entre a distribuição e redistribuição entre os compartimentos rápidos e lentos do hipnótico considerado pelos modelos farmacocinéticos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002046,
+   "descricao": "<p>Homem de 28 anos, 80kg e 1,80m, previamente hígido, com diagnóstico de dengue há 7 dias, IgM positivo, é submetido a neurocirurgia para drenagem de hematoma intracerebral espontâneo. No intra-operatório, cursa com sangramento em área cruenta, a despeito de níveis tensionais controlados. Diante desta situação, qual é a conduta indicada para auxiliar a hemostasia?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020461,
+     "letra": "A",
+     "descricao": "Infusão de 01 aférese de plaquetas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020462,
+     "letra": "B",
+     "descricao": "Infusão de 4 unidades de plasma fresco",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020463,
+     "letra": "C",
+     "descricao": "Administração de 1g de ácido tranexâmico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020464,
+     "letra": "D",
+     "descricao": "Administração de 24 mcg de desmopressina (DDAVP)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002047,
+   "descricao": "<p>Mulher de 35 anos, 85kg e 1,70m, será submetida a timpanomastoidectomia radical para tratamento de colesteatoma recidivado com monitorização do nervo facial. Qual medicação deve ser evitada no intraoperatório desta paciente?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020471,
+     "letra": "A",
+     "descricao": "Cetamina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020472,
+     "letra": "B",
+     "descricao": "Rocurônio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020473,
+     "letra": "C",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020474,
+     "letra": "D",
+     "descricao": "Dexmedetomidina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002048,
+   "descricao": "<p>Em pesquisa científica para comparar efeito de intervenções distintas, podemos considerar como padrão-ouro (gold-standard) o estudo:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020481,
+     "letra": "A",
+     "descricao": "Caso-controte",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020482,
+     "letra": "B",
+     "descricao": "Observacional",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020483,
+     "letra": "C",
+     "descricao": "Coorte retrospectiva",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020484,
+     "letra": "D",
+     "descricao": "Prospectivo, randomizado e duplamente encoberto",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002049,
+   "descricao": "<p>Homem de 48 anos, 65kg e 1,70m, e submetido a laparotomia para correção de aneurisma roto de aorta infrarenal. Após 4 horas de procedimento e transfusão de 5 concentrados de hemácias, o paciente cursa com sangramento difuso no campo operatório. A tromboelastometria rotacional evidencia as curvas abaixo. As alterações encontradas nesse exame são justificadas por:</p><p><img src=\"data/imagens/caa1440b3093e382.jpg\" alt=\"\"></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020491,
+     "letra": "A",
+     "descricao": "Aumento da lise de fibrina por ativação de plasminogênio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020492,
+     "letra": "B",
+     "descricao": "Diminuição da estabilidade do coágulo por deficiência plaquetária",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020493,
+     "letra": "C",
+     "descricao": "Diminuição da força de tensão do coágulo por deficiência de fator I",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020494,
+     "letra": "D",
+     "descricao": "Aumento do tempo de formação de fibrina por deficiência de fator II, VII, IX e X",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002050,
+   "descricao": "<p>Menino de 12 anos, 40kg e 1,40m, é submetido à anestesia geral inalatória com sevoflurano para apendicectomia. O analisador de gás anestésico indica fração expirada de sevoflurano de 1,4%. O anestesiologista deve estar em alerta porque o paciente pode apresentar:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020501,
+     "letra": "A",
+     "descricao": "memória no intraoperatório",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020502,
+     "letra": "B",
+     "descricao": "consciência no intraoperatório",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020503,
+     "letra": "C",
+     "descricao": "movimentos no intraoperatório",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020504,
+     "letra": "D",
+     "descricao": "hipotensão devido ao bloqueio de simpático",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002051,
+   "descricao": "<p>Nas cirurgias fetais intra-útero, o emprego de anestésico inalatório na gestante tem como vantagem o(a):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020511,
+     "letra": "A",
+     "descricao": "Relaxamento uterino",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020512,
+     "letra": "B",
+     "descricao": "Redução de sangramento do concepto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020513,
+     "letra": "C",
+     "descricao": "Diminuição do risco de descolamento placentário",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020514,
+     "letra": "D",
+     "descricao": "Pré-condicionamento farmacológico da circulação útero-placentária",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002052,
+   "descricao": "<p>Recém nascido de 28 dias com diagnóstico de estenose de piloro será submetido a laparotomia para correção. Apresenta diminuição do turgor cutâneo, olhos encovados, fontanela deprimida, chora sem lacrimejamento e drena grande quantidade de secreção pela sonda nasogástrica. Antes da cirurgia proposta, qual é a solução mais adequada para a hidratação?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020521,
+     "letra": "A",
+     "descricao": "Albumina a 4%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020522,
+     "letra": "B",
+     "descricao": "Ringer com lactato",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020523,
+     "letra": "C",
+     "descricao": "Soro glicosado a 5%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020524,
+     "letra": "D",
+     "descricao": "Soro fisiológıco 0.9%",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002053,
+   "descricao": "<p>Mulher de 34 anos, 68kg e 1.59m, procura atendimento por queixas de cefaleia. Refere gestação de 33 semanas sem acompanhamento pré-natal regular. Ao exame físico, apresenta-se com PA de 210x150mmHg, FC de 100bpm e edema generalizado. O exame de urina evidencia proteinúria 4+/4+. Após o inicio do tratamento clínico, é indicada a cesariana em caráter de urgência e o anestesiologista opta pela anestesia geral. Nesta situação, qual interação medicamentosa pode ocorrer com a anestesia?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020531,
+     "letra": "A",
+     "descricao": "Maior resistência a medicações anti-hipertensivas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020532,
+     "letra": "B",
+     "descricao": "Maior requerimento de dose de hipnóticos na indução",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020533,
+     "letra": "C",
+     "descricao": "Menor incidência de depressão respiratória com opióides",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020534,
+     "letra": "D",
+     "descricao": "Prolongamento da duração do bloqueio neuromuscular não despolarizante",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002054,
+   "descricao": "<p>Mulher de 38 anos, 80kg e 1,60m, primigesta com 34 semanas é admitida no pronto-atendimento com quadro de hipertensão arterial, escotomas visuais e edema de membros inferiores. Exames laboratoriais evidenciam elevação de transaminases e proteinúria acentuada. Duas horas após o início de terapia com sulfato de magnésio venoso contínuo, a paciente relata fraqueza e apresenta perda de reflexos musculares. Esse quadro pode ser explicado pelo ou pela:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020541,
+     "letra": "A",
+     "descricao": "inibição da corrente de despolarização na membrana sarcoplasmática",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020542,
+     "letra": "B",
+     "descricao": "aumento da corrente de cloro na membrana pré-jundonal da placa motora",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020543,
+     "letra": "C",
+     "descricao": "antagonismo do receptor N-metil-D-Aspartato (NMDA) no sistema nervoso central",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020544,
+     "letra": "D",
+     "descricao": "inibição do influxo intracitoplasmatico do cálcio intra e extracelular em tecidos excitáveis",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002055,
+   "descricao": "<p>Conforme a abordagem físico-química dos distúrbios acidobasicos (teoria de Stewart), a administração de bicarbonato de sódio a 8,4% para normalização do pH em um paciente com acidose metabólica hiperclorêmica visa, essencialmente,:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020551,
+     "letra": "A",
+     "descricao": "Aumentar o nível intracelular de bicarbonato",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020552,
+     "letra": "B",
+     "descricao": "Reduzir a produção plasmática e tecidual de CO2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020553,
+     "letra": "C",
+     "descricao": "Aumentar o hiato de íons fortes (Strong Ion Gap - SIG)",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020554,
+     "letra": "D",
+     "descricao": "Aumentar a diferença aparente de íons fortes (apparent Strong Ion Difference SIDa)",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002056,
+   "descricao": "<p>Em condições constantes de temperatura, um cilindro de oxigênio de 10 litros está com 80 atmosferas. Considerando que o consumo de oxigênio seja de 5L/min, quanto tempo aproximadamente haverá de oxigênio disponível no cilindro?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020561,
+     "letra": "A",
+     "descricao": "120 segundos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020562,
+     "letra": "B",
+     "descricao": "158 minutos",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020563,
+     "letra": "C",
+     "descricao": "212 minutos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020564,
+     "letra": "D",
+     "descricao": "270 minutos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002057,
+   "descricao": "<p>Na avaliação pré-anestésica de um paciente a ser submetido à ressecção transuretral da próstata por obstrução decorrente de adenocarcinoma avançado da glândula, qual exame pré-operatório pode influenciar na escolha da técnica anestésica a ser empregada para o procedimento?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020571,
+     "letra": "A",
+     "descricao": "Niveis séricos de cálcio iônico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020572,
+     "letra": "B",
+     "descricao": "Radiografia da coluna lombar",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020573,
+     "letra": "C",
+     "descricao": "Dosagem sérica de cistatina C",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020574,
+     "letra": "D",
+     "descricao": "Dosagem urinária de NGAL (lipocalina associada a gelatinase neutrofílica)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002058,
+   "descricao": "<p>A hipotermia no intraoperatório:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020581,
+     "letra": "A",
+     "descricao": "É definida como temperatura central menor que 34°C",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020582,
+     "letra": "B",
+     "descricao": "Quando leve, queda de 1.5 a 2°C, não causa eventos adversos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020583,
+     "letra": "C",
+     "descricao": "Quando menor que 32°C, deve ter o tratamento com reaquecimento passivo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020584,
+     "letra": "D",
+     "descricao": "Ocorre principalmente pela redistribuição do calor corporal central para periferia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002059,
+   "descricao": "<p>Homem de 22 anos, 130kg e 1,70m, com fratura de punho direito será submetido a procedimento cirúrgico ortopédico para fixação com placa e parafuso em unidade hospitalar ambulatorial tipo IV. Considerando o perfil do paciente para procedimento ambulatorial, esta cirurgia está:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020591,
+     "letra": "A",
+     "descricao": "Contraindicada nesta unidade ambulatorial por ser um paciente ASA III",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020592,
+     "letra": "B",
+     "descricao": "Indicada nesta unidade ambulatorial por ser anexada a um hospital geral",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020593,
+     "letra": "C",
+     "descricao": "Contraindicada nesta unidade ambulatorial por ser um paciente obeso mórbido",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020594,
+     "letra": "D",
+     "descricao": "Indicada nesta unidade ambulatorial por ser exclusivamente uma anestesia regional",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002060,
+   "descricao": "<p>É um fator de risco para perda visual pós-operatória por neuropatia isquêmica do nervo óptico, após cirurgia de coluna:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020601,
+     "letra": "A",
+     "descricao": "O sexo feminino",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020602,
+     "letra": "B",
+     "descricao": "A utilização de colóide sintético",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020603,
+     "letra": "C",
+     "descricao": "O tempo operatório prolongado",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20020604,
+     "letra": "D",
+     "descricao": "A presença de neoplasia maligna",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002061,
+   "descricao": "<p>Para uma mesma pressão de pneumoperitôneo em cirurgias videolaparoscópicas abdominais, o principal determinante do volume da cavidade para a realização do procedimento e o(a):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020611,
+     "letra": "A",
+     "descricao": "Profundidade do plano anestésico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020612,
+     "letra": "B",
+     "descricao": "Intensidade do bloqueio simpático",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020613,
+     "letra": "C",
+     "descricao": "Fluxo de insuflação do gás carbônico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020614,
+     "letra": "D",
+     "descricao": "Intensidade do bloqueio neuromuscular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002062,
+   "descricao": "<p>Qual acesso ao plexo braquial por ultrassonografia é o mais recomendado para analgesia pós-operatória contínua em procedimentos cirúrgicos de cotovelo e antebraço?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020621,
+     "letra": "A",
+     "descricao": "Bloqueio axilar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020622,
+     "letra": "B",
+     "descricao": "Bloqueio infraclavicular",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20020623,
+     "letra": "C",
+     "descricao": "Bloqueio interescalênico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020624,
+     "letra": "D",
+     "descricao": "Bloqueio supraclavicular perivascular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002063,
+   "descricao": "<p>Gestante primigesta de 23 anos, 65kg e 1,62m, internada no centro obst&eacute;trico para parto normal. Ao exame apresenta dilata&ccedil;&atilde;o cervical de 3cm e 3 contra&ccedil;&otilde;es a cada 10 minutos. Queixa-se de dor lombar intensa (8/10). Qual e a melhor conduta anest&eacute;sica neste momento?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020631,
+     "letra": "A",
+     "descricao": "Iniciar infusão de remifentanil venoso",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20020632,
+     "letra": "B",
+     "descricao": "Passar cateter peridural e aplicar 10mL de lidocaina 1%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020633,
+     "letra": "C",
+     "descricao": "Aguardar dilatação cervical mínima de 5 cm para iniciar a analgesia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020634,
+     "letra": "D",
+     "descricao": "Realizar raquianestesia com 25 mcg de fentanil e passar cateter peridural",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002064,
+   "descricao": "<p>O emprego de dupla antiagregação plaquetária, após angioplastia coronariana com implante de stent farmacológico, é justificado pela:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020641,
+     "letra": "A",
+     "descricao": "Citotoxicidade endotelial do fármaco contido no dispositivo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020642,
+     "letra": "B",
+     "descricao": "Inativação da proteína C pelo polímero de revestimento do stent",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020643,
+     "letra": "C",
+     "descricao": "Ativação do fator de von Willebrand pelo fármaco contido no polímero de revestimento do stent",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020644,
+     "letra": "D",
+     "descricao": "Ativação plaquetária induzida pela resposta de hiperplasia neointimal evocada com a dilatação vascular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002065,
+   "descricao": "<p>Quais cuidados perioperatórios devem ser empregados em gestantes com hemorragia intracraniana?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20020651,
+     "letra": "A",
+     "descricao": "Evitar o uso de manitol",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20020652,
+     "letra": "B",
+     "descricao": "Induzir hiperventilação materna",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20020653,
+     "letra": "C",
+     "descricao": "Manter valores de BIS abaixo de 40 com coma induzido",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20020654,
+     "letra": "D",
+     "descricao": "Reduzir a pressão arterial média materna para valores inferiores a 70 mmHg",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  }
+ ]
+}

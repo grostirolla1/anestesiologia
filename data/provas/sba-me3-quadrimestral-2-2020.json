@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2020",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2020",
+  "ano": "2020",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003481,
+   "descricao": "<p>Mulher de 27 anos, 80kg e 1,70m, portadora de asma brônquica, apresenta-se para ressecção emergencial de processo expansivo cerebral com efeito de massa. Diante deste quadro: </p><p><b>A)</b> O posicionamento para céfalo-aclive é uma medida efetiva para redução de pressão intracraniana.&nbsp;</p><p><b>B)</b> A instalação de pressão final expiratória positiva pode melhorar a oxigenação sanguínea sem interferência na pressão intracraniana.&nbsp;</p><p><b>C)</b> A associação de um vasodilatador de ação imediata, como o nitroprussiato de sódio, reduz a pressão arterial e, consequentemente, a pressão intracraniana.&nbsp;</p><p><b>D)</b> A craniotomia imediata reduz a pressão intracraniana.&nbsp;</p><p><b>E)</b>&nbsp;O emprego de sevoflurano em doses acima de 1,5 CAM é recomendado para garantir a imobilidade durante o ato cirúrgico.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034811,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20034812,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034813,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034814,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003482,
+   "descricao": "<p><b>Na circulação extracorpórea (CEC):</b></p><p><b>A) </b>Os níveis plasmáticos do cálcio iônico se mantêm estáveis.&nbsp;</p><p><b>B) </b>A canulação da artéria femoral traz um risco menor de dissecção arterial que a canulação da aorta.&nbsp;</p><p><b>C)</b> O balão de contra pulsação aórtica tem indicação em casos refratários à saída de CEC por baixo débito cardíaco.&nbsp;</p><p><b>D) </b>Tempos superiores a 150 minutos e idade avançada são fatores de risco para sangramento aumentado.&nbsp;</p><p><b>E) </b>O uso de β-bloqueador e uma fração de ejeção menor que 35% são fatores de risco para ocorrência de síndrome vasoplégica.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034821,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034822,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034823,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034824,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003483,
+   "descricao": "<p>Homem de 52 anos, 80kg e 1,65m, é submetido a colectomia esquerda para tratamento de doença diverticular sob técnica combinada peridural e anestesia geral. No decorrer de 2h de procedimento, o paciente cursa com queda da temperatura central de 37 para 35 graus Celsius a despeito do uso de dispositivo de insuflação de ar quente (manta térmica superior). Nessa situação: </p><p>a) O pré-aquecimento por 1h antes da indução anestésica é a medida mais eficaz para limitar a queda da temperatura central.&nbsp;</p><p>b) A anestesia peridural não influencia na magnitude da perda de temperatura central.&nbsp;</p><p>c) Há um risco aumentado de sangramento intra-operatório e da necessidade de hemotransfusão.&nbsp;</p><p>d) A convecção é o principal mecanismo exógeno de manutenção de calor do paciente.&nbsp;</p><p>e) A anestesia geral inalatória mantém a regulação autonômica do controle endógeno de temperatura.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034831,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034832,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034833,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034834,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003484,
+   "descricao": "<p>Homem de 58 anos, 60kg e 1,70m, est&aacute; no 2&ordm; dia de p&oacute;s-operat&oacute;rio de hepatectomia direita. Est&aacute; internado em unidade intensiva e ventilando em ar ambiente. Nas &uacute;ltimas 2 horas, apresenta-se taquipneico e torporoso com frequ&ecirc;ncia card&iacute;aca de 110bpm e press&atilde;o arterial m&eacute;dia de 60mmHg. Seus exames laboratoriais mostram hemoglobina de 6g/dL, pot&aacute;ssio de 4,5mEq/L, creatinina de 1,8mg/dL, lactato s&eacute;rico de 7mmol/L e satura&ccedil;&atilde;o venosa central de 55%. A avalia&ccedil;&atilde;o hemodin&acirc;mica mostra &iacute;ndice card&iacute;aco diminu&iacute;do, &iacute;ndice de resist&ecirc;ncia vascular sist&ecirc;mica elevado e press&atilde;o de oclus&atilde;o de art&eacute;ria pulmonar diminu&iacute;da. Neste caso:</p> <p><strong>A)</strong> O prov&aacute;vel diagn&oacute;stico &eacute; de choque distributivo</p> <p><strong>B) </strong>Est&aacute; bem indicada uma prova terap&ecirc;utica com 500mL de hidroxietilamido a 6%</p> <p><strong>C) </strong>A satura&ccedil;&atilde;o venosa central aumentada &eacute; um marcador de queda da oferta de oxig&ecirc;nio</p> <p><strong>D) </strong>A prov&aacute;vel justificativa da hiperlactatemia &eacute; a hip&oacute;xia tecidual</p> <p><strong>E) </strong>Se for administrada dobutamina, provavelmente haver&aacute; aumento do &iacute;ndice card&iacute;aco pela a&ccedil;&atilde;o inibit&oacute;ria do f&aacute;rmaco na fosfodiesterase II</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034841,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034842,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034843,
+     "letra": "C",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20034844,
+     "letra": "D",
+     "descricao": "F F F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003485,
+   "descricao": "<p>Menino de 2 anos, 13kg, será submetido a ressonância nuclear magnética de crânio para avaliação de retardo do desenvolvimento psicomotor. A genitora informa agitação importante após o despertar em procedimento prévio (herniorrafia inguinal). Nessa situação: </p><p>a) o emprego de propofol para a realização da sedação diminuirá o risco de agitação quando comparado com o emprego de sevoflurano. </p><p>b) os fatores de risco e mecanismos para a ocorrência da agitação são bem conhecidos e podem ser controlados. </p><p>c) a ausência de dor após o procedimento proposto assegura que não haverá um quadro de agitação como observado na cirurgia prévia. </p><p>d) o emprego de medicações alfa-2 agonistas reduz a incidência de agitação pós-anestésica. </p><p>e) mudanças comportamentais temporárias envolvendo alterações do padrão de sono e agressividade associadas à agitação pós-anestésica podem ser observadas mesmo após a alta hospitalar.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034851,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034852,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034853,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034854,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003486,
+   "descricao": "<p>Mulher de 85 anos, 57kg e 1,58m, será submetida a tratamento cirúrgico percutâneo de fratura transtrocantérica de fêmur esquerdo. A paciente é hipertensa, vinha em uso regular de amlodipina e clonazepam à noite e apresentava exames laboratoriais normais, exceto por hemoglobina de 9,8 g/dL. Para limitar a ocorrência de delirium no pós-operatório: </p><p>a) a manutenção perioperatória do clonazepam está indicada. </p><p>b) a anestesia regional é preferível à anestesia geral. </p><p>c) uma transfusão sanguínea deve ser programada visando normalizar os níveis de hemoglobina. </p><p>d) os bloqueios periféricos e as técnicas de analgesia multimodal estão bem indicados. </p><p>e) a injeção de opioides por via espinhal é preferível à administração venosa sistêmica no controle de dor pós-operatória.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034861,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034862,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20034863,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034864,
+     "letra": "D",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003487,
+   "descricao": "<p>Em relação aos efeitos dos agentes anestésicos na anestesia para estudo eletrofisiológico e ablação de arritmias: </p><p>a) os anestésicos inalatórios, em geral, causam redução dose-dependente na contratilidade miocárdica e prolongamento do intervalo QT.&nbsp;</p><p>b) os benzodiazepínicos não possuem efeitos diretos na condução cardíaca, mas apresentam efeito dose-dependente de taquicardia reflexa, devido à diminuição do inotropismo com vasodilatação.&nbsp;</p><p>c) os bloqueadores neuromusculares não despolarizantes são isentos de efeitos nos sistemas nervosos autonômicos simpático e parassimpático.&nbsp;</p><p>d) o propofol é amplamente utilizado em anestesia para estudos eletrofisiológicos devido ao seu efeito reduzido na condução do impulso elétrico cardíaco.&nbsp;</p><p>e) o bloqueador neuromuscular despolarizante não tem atividade nos receptores muscarínicos colinérgicos.&nbsp;</p><p><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20034871,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20034872,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20034873,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20034874,
+     "letra": "D",
+     "descricao": "V V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

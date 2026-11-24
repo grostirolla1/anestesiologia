@@ -1,0 +1,540 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-1-2021",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 1ª quadrimestral 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002323,
+   "descricao": "<p>Em relação à metodologia científica: </p><p>a) Em um estudo experimental, o pesquisador não tem controle sobre a evolução da pesquisa.</p><p>b) Os ensaios encobertos não precisam do conhecimento ou consentimento do participante sobre a pesquisa.</p><p>c) O pequeno tamanho de uma amostra é causa frequente do erro tipo II e consiste em não se demonstrar uma diferença estatística quando ela existe.</p><p>d) Os estudos de caso-controle e as coortes constituem os padrões-ouro da pesquisa científica e, sempre que possível, tais desenhos devem ser utilizados para os testes das hipóteses desenvolvidas na anestesiologia e medicina perioperatória.</p><p>e) Um artigo que cita a ocorrência de hipertermia maligna durante a anestesia, suas causas, a prevalência em uma dada população e as intervenções para diagnóstico, prevenção e tratamento constitui pesquisa relacionada a medicina baseada em evidências.</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023231,
+     "letra": "A",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023232,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023233,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023234,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002324,
+   "descricao": "<p>Em relação à monitorização: </p><p><b>A)</b> Uma ascensão lenta da curva de capnografia no platô expiratório significa reinalação de CO2 no circuito respiratório de anestesia.</p><p><b>B)</b> O prolongamento do intervalo PR e o alargamento do QRS ocorrem na hipercalemia.</p><p><b>C) </b>Um valor de índice bispectral de 60 implica em ausência de resposta ao comando verbal.</p><p><b>D)</b> A variação da pressão de pulso estima o débito cardíaco do paciente.</p><p><b>E)</b> A monitorização da temperatura axilar pode ser utilizada e apresenta melhor correlação com a temperatura central em crianças pequenas.</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023241,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023242,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023243,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023244,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002325,
+   "descricao": "<p>Com rela&ccedil;&atilde;o &agrave; administra&ccedil;&atilde;o de gases por via inalat&oacute;ria:</p> <p><strong>A) </strong>A press&atilde;o registrada no man&ocirc;metro de um cilindro de oxig&ecirc;nio comprimido &eacute; diretamente proporcional ao volume restante.</p> <p><strong>B) </strong>Quanto maior o coeficiente de parti&ccedil;&atilde;o sangue:g&aacute;s, menor o tempo de in&iacute;cio de a&ccedil;&atilde;o do agente inalat&oacute;rio.</p> <p><strong>C) </strong>A fra&ccedil;&atilde;o inspirada de oxig&ecirc;nio no interior da m&aacute;scara de Venturi depende, em primeira inst&acirc;ncia, do di&acirc;metro do orif&iacute;cio que determina a taxa de suc&ccedil;&atilde;o ao sistema.</p> <p><strong>D) </strong>Uma das principais vantagens dos sistemas circulares de baixo fluxo &eacute; o fato deles permitirem r&aacute;pidos ajustes na fra&ccedil;&atilde;o inspirada do g&aacute;s.</p> <p><strong>E) </strong>A solubilidade de um g&aacute;s &eacute; reduzida com o aumento da temperatura.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023251,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023252,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023253,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023254,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002326,
+   "descricao": "<p>O sistema de Bain: </p><p><b>A) </b>funciona de forma equivalente ao sistema de Mapleson F.</p><p><b>B) </b>pode ser utilizado em diversos tipos de procedimentos cirúrgicos, excetuando-se os de cabeça e pescoço.</p><p><b>C) </b>auxilia na manutenção da temperatura dos gases.</p><p><b>D) </b>produz menos poluição pela presença do absorvedor de gás carbônico.</p><p><b>E) </b>é um sistema co-axial.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023261,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023262,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023263,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023264,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002327,
+   "descricao": "<p><strong>Quest&atilde;o Adaptada</strong></p> <p>Com rela&ccedil;&atilde;o aos f&aacute;rmacos utilizados na anestesia venosa:</p> <p><strong>A) </strong>O mecanismo de a&ccedil;&atilde;o do propofol inclui a intera&ccedil;&atilde;o com o sistema inibit&oacute;rio do &aacute;cido gama-aminobut&iacute;rico.</p> <p><strong>B) </strong>O mecanismo de a&ccedil;&atilde;o da cetamina est&aacute; ligado ao sistema N-metil-D-aspartato.</p> <p><strong>C) </strong>Quando comparadas aos adultos, as crian&ccedil;as tem uma depura&ccedil;&atilde;o plasm&aacute;tica de propofol reduzida.</p> <p><strong>D) </strong>Os opioides, ao estimularem os receptores do tipo Mu, promovem analgesia, euforia, depress&atilde;o respirat&oacute;ria e redu&ccedil;&atilde;o da motilidade intestinal.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023271,
+     "letra": "A",
+     "descricao": "V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023272,
+     "letra": "B",
+     "descricao": "V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023273,
+     "letra": "C",
+     "descricao": "F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023274,
+     "letra": "D",
+     "descricao": "V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002328,
+   "descricao": "<p>Na anestesia venosa total alvo-controlada: </p><p><b>A) </b>O tempo para o equilíbrio entre a concentração plasmática e o sítio efetor é diretamente proporcional ao ke0 do fármaco.</p><p><b>B) </b>As unidades de concentração plasmática usadas são dadas em mcg/mL para os opioides e em ng/mL para os hipnóticos.</p><p><b>C) </b>Os efeitos colaterais são similares aos da técnica de infusão manual, no caso do remifentanil.</p><p><b>D) </b>Em relação ao modelo de Marsh para infusão do propofol, a cada aumento selecionado da concentração plasmática, a bomba aumenta o regime de infusão para manter a nova concentração determinada.</p><p><b>E) </b>Como existe um lapso de tempo para o equilíbrio entre a concentração plasmática e aquela no local de efeito, é preferível calcular a concentração no sítio efetor, pois esta determina o desfecho clínico do fármaco.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023281,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023282,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023283,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023284,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002329,
+   "descricao": "<p>Residente do segundo ano está escrevendo o seu projeto de trabalho de conclusão de curso. Em relação à elaboração do projeto, pode-se afirmar:</p><p>a) O erro de rejeitar erroneamente a hipótese nula (falso-positivo) é chamado de erro tipo I ou α.</p><p>b) O erro de não rejeitar uma hipótese nula falsa (falso negativo) é chamado de erro tipo II ou erro β.</p><p>c) A probabilidade de um erro tipo I depende do nível de significância escolhido e da existência ou não de uma diferença entre duas condições experimentais.</p><p>d) Caso o projeto seja realizado em indivíduos sem nível cognitivo adequado para o entendimento e assinatura, o termo de consentimento da pesquisa pode ser dispensado.</p><p>e) Apesar da melhora no fator de impacto, a Brazilian Journal of Anestesiology não encontra-se indexada em grandes bases de dados, como o PUBMED.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023291,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023292,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023293,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023294,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002330,
+   "descricao": "<p>Homem, 50 anos, 60kg, 1,60 m, hipertenso e diab&eacute;tico, ser&aacute; submetido &agrave; nefrectomia parcial rob&oacute;tica. A previs&atilde;o de dura&ccedil;&atilde;o da cirurgia &eacute; de 4 horas. Em rela&ccedil;&atilde;o &agrave; monitoriza&ccedil;&atilde;o dos par&acirc;metros cl&iacute;nicos desse paciente, pode-se afirmar:</p> <p><strong>A) </strong>Caso o paciente apresente regurgita&ccedil;&atilde;o tric&uacute;spide e esteja sendo monitorizado com press&atilde;o venosa central, normalmente ocorre desaparecimento da onda v.</p> <p><strong>B) </strong>Na monitoriza&ccedil;&atilde;o cerebral, os anest&eacute;sicos vol&aacute;teis produzem efeitos dose-dependentes no eletroencefalograma e nos potenciais evocados sensoriais e motores.</p> <p><strong>C) </strong>Na avalia&ccedil;&atilde;o da capnografia, uma forma de onda cont&iacute;nua e est&aacute;vel de CO2 garante a presen&ccedil;a de ventila&ccedil;&atilde;o alveolar, mas n&atilde;o indica necessariamente que o tubo endotraqueal n&atilde;o est&aacute; seletivado.</p> <p><strong>D) </strong>A monitoriza&ccedil;&atilde;o da temperatura desse paciente &eacute; importante, uma vez que hipotermia intraoperat&oacute;ria predisp&otilde;e a complica&ccedil;&otilde;es como isquemia mioc&aacute;rdica e infec&ccedil;&atilde;o da ferida operat&oacute;ria.</p> <p><strong>E) </strong>Satura&ccedil;&atilde;o perif&eacute;rica de oxig&ecirc;nio (SaO2) &eacute; um bom reflexo da extens&atilde;o da hipoxemia e da mudan&ccedil;a do estado de oxigena&ccedil;&atilde;o arterial. &Eacute; considerada hipoxemia SaO2 &lt; 90% e Pa O2 &lt; 60 mmHg.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023301,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023302,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023303,
+     "letra": "C",
+     "descricao": "F V V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023304,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002331,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos sistemas de administra&ccedil;&atilde;o de anestesia inalat&oacute;ria, pode-se afirmar:</p> <p>A) As v&aacute;lvulas de controle de fluxo em anestesia separam a se&ccedil;&atilde;o de alta press&atilde;o da se&ccedil;&atilde;o de baixa press&atilde;o.</p> <p>B) A concentra&ccedil;&atilde;o de anest&eacute;sico inalat&oacute;rio em um tecido depende de sua press&atilde;o parcial e da solubilidade do anest&eacute;sico nos tecidos.</p> <p>C) Os anest&eacute;sicos inalat&oacute;rios se equilibram com base em suas concentra&ccedil;&otilde;es em cada tecido (ou compartimento de tecido), n&atilde;o com base em suas press&otilde;es parciais.</p> <p>D) O aumento da concentra&ccedil;&atilde;o alveolar de anest&eacute;sico (FA) em dire&ccedil;&atilde;o &agrave; concentra&ccedil;&atilde;o inspirada (FI) &eacute; mais r&aacute;pida com os anest&eacute;sicos menos sol&uacute;veis, como N2O (&oacute;xido nitroso), desflurano e sevoflurano.</p> <p>E) As v&aacute;lvulas de controle de fluxo no sistema de administra&ccedil;&atilde;o de anestesia permitem que o operador selecione um fluxo total de g&aacute;s fresco de composi&ccedil;&atilde;o conhecida que entra na se&ccedil;&atilde;o de baixa press&atilde;o.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023311,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023312,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023313,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023314,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002332,
+   "descricao": "<p>Em relação aos sistemas de administração de anestesia inalatória, pode-se afirmar:</p><p><b>A) </b>O circuito Bain é um circuito coaxial e uma modificação do sistema Mapleson A.</p><p><b>B) </b>os sistemas de Mapleson são bidirecionais e caracterizados por não terem um absorvedor de CO2.</p><p><b>C) </b>Um dos fatores que determinam a quantidade de monóxido de carbono produzido com a reação nos absorvedores de CO2 depende de sua composição química, sendo maior com o hidróxido de cálcio do que com o hidróxido de sódio.</p><p><b>D) </b>Pacientes recebendo anestesia com sevoflurano são expostos ao composto A em circuitos de reinalação, sendo a concentração inalada dependente do fluxo de gases frescos e do tipo de absorvedor de CO2 utilizado.</p><p><b>E) </b>O circuito Mapleson F, também conhecido como a \"modificação Jackson-Rees da peça em T\", tem função semelhante ao Mapleson D. Ele incorpora um orifício na extremidade distal da bolsa reservatório.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023321,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023322,
+     "letra": "B",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023323,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023324,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002333,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave;s t&eacute;cnicas de administra&ccedil;&atilde;o de anestesia inalat&oacute;ria, pode-se afirmar:</p> <p><strong>A) </strong>Estudos cl&iacute;nicos indicam que a excita&ccedil;&atilde;o do est&aacute;gio dois &eacute; evitada com altas concentra&ccedil;&otilde;es de sevoflurano.</p> <p><strong>B) </strong>A concentra&ccedil;&atilde;o do anest&eacute;sico e o fluxo de gases frescos s&atilde;o fatores que interferem na velocidade da indu&ccedil;&atilde;o da anestesia inalat&oacute;ria.</p> <p><strong>C) </strong>Cardiopatias cong&ecirc;nitas com shunts da esquerda para a direita t&ecirc;m grandes efeitos sobre a capta&ccedil;&atilde;o e distribui&ccedil;&atilde;o dos anest&eacute;sicos inalat&oacute;rios em rela&ccedil;&atilde;o &agrave;s situa&ccedil;&otilde;es de shunt direita-esquerda.</p> <p><strong>D) </strong>A maior propor&ccedil;&atilde;o entre ventila&ccedil;&atilde;o alveolar:capacidade residual funcional (VA:CRF) em beb&ecirc;s e crian&ccedil;as em compara&ccedil;&atilde;o com adultos pode ser atribu&iacute;da &agrave; maior taxa metab&oacute;lica e demanda de oxig&ecirc;nio em crian&ccedil;as.</p> <p><strong>E) </strong>Entre os anest&eacute;sicos halogenados, a indu&ccedil;&atilde;o inalat&oacute;ria r&aacute;pida da anestesia &eacute; mais indicada com o desflurano, especialmente devido &agrave; sua mais baixa solubilidade no sangue e nos tecidos, com um perfil farmacocin&eacute;tico de r&aacute;pido equil&iacute;brio entre os compartimentos.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023331,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023332,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023333,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023334,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002334,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; anestesia venosa para os mais diversos procedimentos cir&uacute;rgicos, pode-se afirmar:</p> <p><strong>A) </strong>Propofol tem atividades broncoconstrictoras, devendo ser evitado em pacientes asm&aacute;ticos.</p> <p><strong>B) </strong>Diazepam tem baixa liga&ccedil;&atilde;o proteica, e a hipoalbuminemia influencia pouco na pr&aacute;tica cl&iacute;nica.</p> <p><strong>C) </strong>Etomidato &eacute; bem indicado para eletroconvulsioterapia, uma vez que reduz a amplitude dos potenciais evocados somatossensitivos.</p> <p><strong>D) </strong>O is&ocirc;mero S (+) da cetamina &eacute; 3 a 4 vezes mais potente como analg&eacute;sico, com elimina&ccedil;&atilde;o e recupera&ccedil;&atilde;o mais r&aacute;pidas e menos efeitos colaterais psicomim&eacute;ticos que o is&ocirc;mero R(-).</p> <p><strong>E) </strong>Anest&eacute;sicos intravenosos como o propofol tendem a ter um efeito muito limitado sobre o potencial evocado somatossensitivo, a menos que doses muito altas sejam administradas.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023341,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023342,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023343,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023344,
+     "letra": "D",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,1332 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2019",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003109,
+   "descricao": "<p>Mulher de 23 anos, 60kg e 1,50m, previamente hígida, internada em unidade de terapia intensiva com insuficiência hepática aguda por ingestão de paracetamol. Está listada como prioridade nacional para transplante de fígado. Qual complicação nesta fase pode inviabilizar o procedimento proposto ao paciente?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031091,
+     "letra": "A",
+     "descricao": "Síndrome hepatorrenal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031092,
+     "letra": "B",
+     "descricao": "Hipertensão portopulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031093,
+     "letra": "C",
+     "descricao": "Síndrome hepatopulmonar tipo 1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031094,
+     "letra": "D",
+     "descricao": "Hipertensão intracraniana refratária à terapia de controle",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003110,
+   "descricao": "<p>Homem de 62 anos, 58kg e 1,72m, ser&aacute; submetido a colecistectomia videolaparosc&oacute;pica eletiva. Realizou um transplante card&iacute;aco h&aacute; 5 anos bem sucedido. A indu&ccedil;&atilde;o anest&eacute;sica foi realizada com propofol, fentanil e cisatrac&uacute;rio, sem intercorr&ecirc;ncias. No decorrer da cirurgia, apresentou queda progressiva de frequ&ecirc;ncia card&iacute;aca at&eacute; 32 bpm. O tratamento de escolha para este epis&oacute;dio &eacute; a administra&ccedil;&atilde;o de:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031101,
+     "letra": "A",
+     "descricao": "Atropina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031102,
+     "letra": "B",
+     "descricao": "Glucagon",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031103,
+     "letra": "C",
+     "descricao": "Epinefrina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031104,
+     "letra": "D",
+     "descricao": "Isoproterenol",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003111,
+   "descricao": "<p>Homem de 65 anos, 65kg e 1,70m, será submetido a retossigmoidectomia videolaparoscópica sob anestesia geral. A melhor conduta, quando avaliada isoladamente, para o gerenciamento da normotermia no intraoperatório é:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031111,
+     "letra": "A",
+     "descricao": "A utilização de colchões de circulação de água aquecida",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031112,
+     "letra": "B",
+     "descricao": "A utilização do sistema de circulação de ar forçado aquecido",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031113,
+     "letra": "C",
+     "descricao": "O aquecimento e a umidificação, passivo ou ativo, do gás inspirado durante a ventilação mecânica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031114,
+     "letra": "D",
+     "descricao": "O isolamento passivo da superfície da pele com cobrimento do corpo com Lençóis, campo cirúrgicos, algodão ortopédico ou faixa crepe",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003112,
+   "descricao": "<p>Homem de 28 anos, 140 kg e 1,60m, foi submetido à anestesia geral para gastroplastia. Considerando o fato do paciente apresentar apneia do sono grave, a estratégia multimodal para controle da dor deve considerar que:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031121,
+     "letra": "A",
+     "descricao": "a dexametasona possui apenas efeito antiemético, sem reduzir a intensidade da dor ou consumo de opióides",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031122,
+     "letra": "B",
+     "descricao": "o uso da clonidina reduz o consumo de morfina no pós-operatório de forma mais significativa que a dexmedetomidina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031123,
+     "letra": "C",
+     "descricao": "doses crescentes de anti-inflamatórios não hormonais para diminuir o consumo de opióides podem ser empregadas, uma vez que não apresentam efeito-teto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031124,
+     "letra": "D",
+     "descricao": "o uso de gabapentinoides atenuam o fenômeno de tolerância induzida por opióides e reduzem seu consumo, uma vez que potencializam a analgesia pós-operatória",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003113,
+   "descricao": "<p>Mulher de 53 anos, 70kg e 1,65m, com doença renal terminal será submetida a transplante renal. A última diálise foi no dia da cirurgia. O potássio sérico pré-operatório de 5,3 mEq/L . Por conta do histórico de refluxo gastroesofágico secundário a uma grande hérnia de hiato, a indução foi realizada em sequência rápida. Nesta situação:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031131,
+     "letra": "A",
+     "descricao": "A dose de rocurônio será de 0.6 mg.kg",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031132,
+     "letra": "B",
+     "descricao": "A dose de vecurônio será de 0.05 mg.kg",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031133,
+     "letra": "C",
+     "descricao": "A succinilcolina pode ser administrada com segurança",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031134,
+     "letra": "D",
+     "descricao": "O cisatracúrio é a melhor escolha por conta da sua metabolização extra-renal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003114,
+   "descricao": "<p>Mulher de 30 anos, 50kg e 1,70m, com trauma de face causado por acidente automobilístico, será submetida a correção cirúrgica sob anestesia geral. Nos exames de imagem foi diagnosticada uma fratura que envolve os ossos nasais, os zigomaticos, a maxila, os ossos palatinos e as placas pterigóideas. A paciente foi entubada acordada por via nasal sob anestesia tópica e sedação com dexmedetomidina e cetamina. Logo após a inserção do tubo traqueal, a paciente cursou com rebaixamento do nível de consciência e instabilidade hemodinâmica. Qual e a suspeita diagnóstica mais provável diante deste quadro?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031141,
+     "letra": "A",
+     "descricao": "Lesão encefálica direta",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20031142,
+     "letra": "B",
+     "descricao": "Epistaxe posterior oculta",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031143,
+     "letra": "C",
+     "descricao": "Absorção aumentada do anestésico local tópico pela área cruenta",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031144,
+     "letra": "D",
+     "descricao": "Efeito sinérgico da acidose respiratória com os sedativos utilizados",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003115,
+   "descricao": "<p>Homem de 60 anos, 65kg e 1,70m, hipertenso, portador de diabetes tipo II é submetido à cirurgia de emergência por trauma neurológico. Durante procedimento, apresenta instabilidade hemodinâmica com PA 60x45 mmHg e PVC 4 cmH20 associada à poliúria. Exames evidenciam Na<sup>+</sup> 155 mmol/L, K<sup>+</sup> 3,8 mmol/L, Ca<sup>++ </sup>8,5 mg/dL, osmolalidade sérica calculada de 310 mOsm/L e densidade urinária de 1.005. Qual é a conduta inicial mais apropriada diante do quadro?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031151,
+     "letra": "A",
+     "descricao": "Hidratar vigorosamente com solução cristalóide balanceada",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031152,
+     "letra": "B",
+     "descricao": "Administrar vasopressina e hidratação com solução salina 0,45%",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031153,
+     "letra": "C",
+     "descricao": "Administrar diurético osmótico e hidratação com solução salina 0,45%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031154,
+     "letra": "D",
+     "descricao": "Administrar diuréticos de alça e hidratação com solução cristalóide balanceada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003116,
+   "descricao": "<p>Homem de 32 anos, 140kg e 1,65m, será submetido à correção videolaparoscópica de hérnia inguinal. Refere hipertensão arterial sem outras comorbidades. No intraoperatório, paciente e posicionado em céfalo-declive a 30 graus e a ventilação mecânica é ajustada para: modo volume-controlado, volume corrente 450 mL, FR 12 irpm, FiO2 50%, PEEP 5 cmH2O, relação l:E 1:1 e limite da pressão de pico de 30 cmH20. Quarenta minutos após o inicio da cirurgia, o ETCO2 encontra-se em 45 mmHg e a SatO2 em 95%. Diante do quadro descrito, qual é a melhor conduta a ser tomada?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031161,
+     "letra": "A",
+     "descricao": "Aumento da relação l:E para 1:3",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031162,
+     "letra": "B",
+     "descricao": "Aumento da PEEP para 10 cmH2O",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031163,
+     "letra": "C",
+     "descricao": "Manutenção dos parâmetros ventilatórios",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031164,
+     "letra": "D",
+     "descricao": "Aumento do volume corrente para 650 mL",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003117,
+   "descricao": "<p>Homem de 72 anos, 82kg e 1,75m, será submetido a troca de válvula aórtica. Antes da canulação e da instituição da circulação extra-corpórea, o anestesiologista administrou 25.000UI endovenosa de heparina não fracionada. Decorridos 5 minutos da administração, o tempo de coagulação ativado (TCA) apresenta uma leitura de 510 segundos. Qual e a conduta correta diante desta situação?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031171,
+     "letra": "A",
+     "descricao": "Administrar concentrado de anti-trombina III.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031172,
+     "letra": "B",
+     "descricao": "Esperar mais alguns minutos e repetir a coleta do TCA.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031173,
+     "letra": "C",
+     "descricao": "Administrar nova dose de heparina endovenosa (100UI.Kg).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031174,
+     "letra": "D",
+     "descricao": "Proceder com a canulação vascular e iniciar a circulação extra-corpórea.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003118,
+   "descricao": "<p>Mulher de 23 anos, 50kg e 1,65m, será submetida a exérese de massa abdominal por videolaparoscopia. Durante a avaliação pré-anestésica, referiu queixas de hipertensão, cefaleia e palpitações. Exames laboratoriais evidenciam níveis elevados de metanefrinas na urina de 24 horas. Qual e o planejamento anestésico mais adequado para esta cirurgia?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031181,
+     "letra": "A",
+     "descricao": "Iniciar amiodarona 7 dias antes da cirurgia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031182,
+     "letra": "B",
+     "descricao": "Proceder a indução anestésica com infusão contínua de esmolol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031183,
+     "letra": "C",
+     "descricao": "Preparo pré-operatório com bloqueio alfa-1 adrenégico por 10 a 14dias",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031184,
+     "letra": "D",
+     "descricao": "Proceder com a cirurgia sob monitorização mínima recomendada pela resolução do CFM 2174/2017",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003119,
+   "descricao": "<p>Homem de 75 anos, 80kg e 1,75m, sem doenças associadas, é submetido a artroplastia total de joelho direito sob raquianestesia com 15mg de bupivacaína 0,5% isobárica. Quinze minutos após a realização da anestesia, o paciente apresenta PA de 80x45mmHg e FC de 65bpm e o anestesiologista administra 10mg de efedrina, mas não obtém resposta satisfatória (PA de 85x50mmHg e FC de 68bpm). Uma dose adicional de 10mg de efedrina e administrada, sem alterações significativas nos parâmetros observados. Com base nas alteraçõeses autonômicas esperadas nessa situação, a inefetividade da efedrina pode ser melhor explicada pela diminuição:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031191,
+     "letra": "A",
+     "descricao": "do tônus simpático basal associado ao envelhecimento",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031192,
+     "letra": "B",
+     "descricao": "da responsividade ao estimulo beta-adrenérgico com o envelhecimento",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031193,
+     "letra": "C",
+     "descricao": "dos níveis circulantes de noradrenalina plasmática com o envelhecimento",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031194,
+     "letra": "D",
+     "descricao": "do extravasamento pós-ganglionar de noradrenalina no terminal simpático associado ao envelhecimento",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003120,
+   "descricao": "<p>Mulher de 22 anos, 50kg e 1,60m, primigesta e sem doenças associadas, será submetida a curetagem uterina por abortamento infectado sob anestesia venosa com cetamina e infusão alvo controlada de propofol. Logo após o início das medicações anestésicas, a paciente torna-se hipotensa (de 90x45mmHg para 60x30mmHg) com acentuação da taquicardia (de 103 para 135bpm) e o anestesiologista opta pela intubação traqueal, seguida de obtenção de acesso venoso central e pressão arterial invasiva. A monitorização evidencia variação da pressão de pulso com a ventilação mecânica, delta PP de 25%, e pressão venosa central de 2mmHg, com manutenção da hipotensão (70x35mmHg) e taquicardia (128bpm), a despeito de infusão prévia de 1000mL de solução de Ringer com lactato e noradrenalina contínua 0,7mcg/kg/min. Neste momento, qual e o melhor conjunto de ações a ser efetuado para a paciente?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031201,
+     "letra": "A",
+     "descricao": "Limitar soluções cristalóides e iniciar fenilefrina contínua",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031202,
+     "letra": "B",
+     "descricao": "Administrar colóides de amido hidroxetílico e iniciar dopamina contínua",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031203,
+     "letra": "C",
+     "descricao": "Administrar solução salina hipertônica (NaCI 7.5%) e iniciar dobutamina contínua",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031204,
+     "letra": "D",
+     "descricao": "Manter infusão de soluções cristalóides balanceadas e iniciar vasopressina contínua",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003121,
+   "descricao": "<p>Mulher de 45 anos, 80kg e 1,65m e com diagn&oacute;stico de s&iacute;ndrome depressiva grave e sintomas psic&oacute;ticos agudos com risco iminente de suic&iacute;dio, em uso de risperidona, clonazepam, haloperidol e tranilcipromina, ser&aacute; submetida a uma s&eacute;rie de eletroconsvulsoterapia sob anestesia com propofol e succinilcolina. A paciente e portadora de bloqueio atrioventricular total e utiliza um marcapasso AV sequencial que est&aacute; comandando normalmente o ciclo. Qual &eacute; a melhor conduta para esse caso?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031211,
+     "letra": "A",
+     "descricao": "Contraindicar o procedimento",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031212,
+     "letra": "B",
+     "descricao": "Aplicar imã sobre o gerador do marcapasso",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031213,
+     "letra": "C",
+     "descricao": "Reprogramar o marca-passo definitivo para o modo assíncrono com frequência acima da frequência do paciente",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031214,
+     "letra": "D",
+     "descricao": "Desligar temporariamente o marca-passo definitivo e proceder as sessões com marca-passo temporário transcutâneo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003122,
+   "descricao": "<p>Homem de 85 anos, 50kg e 1,65m, com diagnóstico de carcinomatose abdominal e obstrução intestinal aguda, será submetido a laparotomia exploradora sob anestesia geral venosa total com propofol e remifentanil em TCI (protocolos de Marsh e Minto respectivamente). Diante deste quadro, qual é a técnica de analgesia perioperatória melhor indicada para reduzir a incidência de distúrbios cognitivos?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031221,
+     "letra": "A",
+     "descricao": "Analgesia intra e pós-operatória com sistema de rodízio de opióides",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031222,
+     "letra": "B",
+     "descricao": "Analgesia peridural controlada pelo paciente associada a dipirona e gabapentina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031223,
+     "letra": "C",
+     "descricao": "Analgesia endovenosa de demanda com uma associação de meperidina e dipirona",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031224,
+     "letra": "D",
+     "descricao": "Infiltração de ferida operatória com anestésico local e abstenção de opióides endovenosos no pós-operatório",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003123,
+   "descricao": "<p>A fase inicial e plana da curva de elastância intracraniana é explicada por:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031231,
+     "letra": "A",
+     "descricao": "distensão da dura-mater",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031232,
+     "letra": "B",
+     "descricao": "vasodilatação da arteríola pré-capilar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031233,
+     "letra": "C",
+     "descricao": "aumento da fluxo sanguíneo cerebral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031234,
+     "letra": "D",
+     "descricao": "dispersão liquórica para o espaço subencefálico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003124,
+   "descricao": "<p>Menina de 3 meses e 4kg foi submetida a sedação com injeção intramuscular de dexmedetomidina associado a cetamina (ventilação espontânea com cateter nasal de oxigênio) para realização de tomografia computadorizada de tórax. A criança tem historia de grande comunicação interventricular, obstrução do trato de saida do ventriculo direito (VD), dextroposição da aorta e hipertrofia do VD, sem correção cirúrgica prévia de tal condição. Cinco minutos após a administração das medicações, foi necessária a interrupção abrupta do exame, porque a paciente apresentou pressão arterial de 70 x 50 mmHg, frequência cardíaca de 110 bpm, frequência respiratória de 23 ipm e saturação arterial periférica de 72%. A melhor conduta a ser realizada neste momento é administração endovenosa de:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031241,
+     "letra": "A",
+     "descricao": "esmolol",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031242,
+     "letra": "B",
+     "descricao": "fenilefrina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031243,
+     "letra": "C",
+     "descricao": "dobutamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031244,
+     "letra": "D",
+     "descricao": "nitroprussiato de sódio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003125,
+   "descricao": "<p>Mulher de 50 anos, 70kg e 1,65m, com hist&oacute;rico de depress&atilde;o e hipertens&atilde;o portal grave, portadora de deriva&ccedil;&atilde;o porto-sist&ecirc;mica intra-hep&aacute;tica transjugular (TIPS), ingere 10 comprimidos de 10mg de diazepam. Quando comparado a indiv&iacute;duos saud&aacute;veis, &eacute; esperado nesta paciente:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031251,
+     "letra": "A",
+     "descricao": "Um menor nível tecidual cerebral do fármaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031252,
+     "letra": "B",
+     "descricao": "Uma menor duração do efeito adverso do fármaco",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031253,
+     "letra": "C",
+     "descricao": "Uma menor latência para o início dos sintomas de intoxicação",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031254,
+     "letra": "D",
+     "descricao": "Uma maior duração do efeito central do flumazenil, quando comparado ao diazepam",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003126,
+   "descricao": "<p>Qual é o efeito do propofol na capacidade de resposta ao gás carbônico na vasculatura cerebral?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031261,
+     "letra": "A",
+     "descricao": "Possui efeito negligenciável",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20031262,
+     "letra": "B",
+     "descricao": "Atenua a venoconstricção pós-capilar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031263,
+     "letra": "C",
+     "descricao": "Aumenta o resgate capilar na microcirculatura",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031264,
+     "letra": "D",
+     "descricao": "Acentua a vasodilatação da arteríola pré-capilar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003127,
+   "descricao": "<p>Homem de 55 anos, 90kg e 1,65m, vítima de acidente automobilístico há 2 dias com trauma torácico e abdominal, em pós-operatório de laparotomia exploradora por choque hemorrágico (ruptura de baço), evolui com PAM de 55 mmHg, FC de 101 bpm, SatO2 de 87%, índice cardíaco de 1,3 L/min/m2, índice de resistência vascular sistêmica de 3215 dyn.s/cm/m2 e pressão de oclusão capilar pulmonar de 23 mmHg. O quadro é compativel com:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031271,
+     "letra": "A",
+     "descricao": "Sepse",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031272,
+     "letra": "B",
+     "descricao": "Hemorragia abdominal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031273,
+     "letra": "C",
+     "descricao": "Tamponamento cardíaco",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031274,
+     "letra": "D",
+     "descricao": "Tromboembolismo pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003128,
+   "descricao": "<p>Homem de 75 anos, 60kg e 1,75m, foi submetido a osteossíntese de úmero esquerdo sob anestesia geral associada a bloqueio interescalênico com 20mL de ropivacaína 0,75% realizado com estimulador de nervo e ultrassonografia. O paciente tem história de tabagismo 60 maços/ano e limitação fisica por dispneia aos esforços habituais. A cirurgia tem duração de 2 horas e ocorre sem intercorrências. Após o despertar, o paciente é conduzido à recuperação pós-anestésica onde refere dificuldade para respirar e requer oxigênio sob mascara facial (50%) para manter saturação em tomo de 94%. Exame físico mostra taquipneia (24ipm) com murmúrio vesicular rude diminuído à esquerda sem ruídos adventícios. A gasometria arterial revela PaCO2 de 50mmHg e PaO2 de 68mmHg com bicarbonato de 30mEq.L. Ao solicitar uma radiografia de tórax, a alteração mais provável nessa situação é a(o):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031281,
+     "letra": "A",
+     "descricao": "Cefalização da trama vascular com consolidação na região peri-hilar pulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031282,
+     "letra": "B",
+     "descricao": "Retificação do diafragma com elevação da hemicúpula esquerda em relação à direita",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031283,
+     "letra": "C",
+     "descricao": "Aumento da densidade do parênquima pulmonar nas bases com formação de broncogramas aéreos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031284,
+     "letra": "D",
+     "descricao": "Visualização da pleura visceral em uma linha separada da superfície interna da parede torácica com criação de um espaço sem parênquima pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003129,
+   "descricao": "<p>Qual distúrbio hidroeletrolítico deve ser investigado na intoxicação aguda por ecstasy (metileno dioxi meta-anfetamina)?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031291,
+     "letra": "A",
+     "descricao": "Hipercalemia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031292,
+     "letra": "B",
+     "descricao": "Hiponatremia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031293,
+     "letra": "C",
+     "descricao": "Hipofosfatemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031294,
+     "letra": "D",
+     "descricao": "Hipermagnesemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003130,
+   "descricao": "<p>Nos incidentes anestésicos que determinam complicações graves, o principal fator associado é o(a):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031301,
+     "letra": "A",
+     "descricao": "erro humano",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20031302,
+     "letra": "B",
+     "descricao": "falha de equipamento",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031303,
+     "letra": "C",
+     "descricao": "falta de recursos materiais",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031304,
+     "letra": "D",
+     "descricao": "desconhecimento da legislação vigente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003131,
+   "descricao": "<p>É contraindicação para realização de ressonância magnética:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031311,
+     "letra": "A",
+     "descricao": "stent coronariano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031312,
+     "letra": "B",
+     "descricao": "esternorrafia prévia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031313,
+     "letra": "C",
+     "descricao": "marcapasso cardíaco",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031314,
+     "letra": "D",
+     "descricao": "3° trimestre de gestação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003132,
+   "descricao": "<p>Homem de 30 anos, 70kg e 1,70m, v&iacute;tima de queimadura em regi&atilde;o anterior do tronco e face anterior de ambos os membros inferiores, ser&aacute; submetido a debridamento cir&uacute;rgico e curativo sob anestesia. A estimativa prevista de infus&atilde;o de solu&ccedil;&atilde;o de Ringer com lactato nas primeiras 8 horas pela formula de Parkland, utilizando a regra dos nove de Wallace para o c&aacute;lculo do percentual de superf&iacute;cie queimada, &eacute; de:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031321,
+     "letra": "A",
+     "descricao": "3.600 mL",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031322,
+     "letra": "B",
+     "descricao": "5.040 mL",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031323,
+     "letra": "C",
+     "descricao": "6.720 mL",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031324,
+     "letra": "D",
+     "descricao": "10.080 mL",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003133,
+   "descricao": "<p>Homem de 35 anos, 70kg e 1,70m, vítima de politrauma por acidente automobilístico, será submetido a fixação externa de fratura de tíbia. Ao ser admitido no centre cirúrgico, o paciente apresenta agitação, PA de 75x40mmHg, FC de 120bpm e SatO2 de 92% em ar ambiente. O anestesiologista opta pela realização de uma avaliação ultrassonográfica conforme o protocolo RUSH (Rapid Ultrasound in Shock), antes de iniciar a anestesia. Qual critério melhor indica o estado volêmico intravascular nessa situação?</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031331,
+     "letra": "A",
+     "descricao": "Diâmetro sistólico final do ventrículo direito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031332,
+     "letra": "B",
+     "descricao": "Colabamento da veia femoral com o transdutor",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031333,
+     "letra": "C",
+     "descricao": "Colapsibilidade da veia cava inferior com a respiração",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031334,
+     "letra": "D",
+     "descricao": "Presença de linhas B, tipo “cauda de cometa\", no tórax",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003134,
+   "descricao": "<p>Conforme a classificação de risco cirúrgico pelas diretrizes da Sociedade Europeia de Anestesiologia (SEA) e Sociedade Europeia de Cardiologia (SEC), o procedimento com maior chance de complicação no pós-operatório é o(a):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031341,
+     "letra": "A",
+     "descricao": "Endarterectomia de carótida.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031342,
+     "letra": "B",
+     "descricao": "Revascularização cirúrgica do membro inferior.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031343,
+     "letra": "C",
+     "descricao": "Reparo endovascular eletivo de aneurisma de aorta infrarrenal.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031344,
+     "letra": "D",
+     "descricao": "Angioplastia de carótida em indivíduos assintomáticos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003135,
+   "descricao": "<p>Dentre os fatores ligados ao desenvolvimento da criança que interferem na farmacocinética dos anestésicos venosos, há um(a):</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031351,
+     "letra": "A",
+     "descricao": "menor secreção tubular proximal nos primeiros meses de vida",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20031352,
+     "letra": "B",
+     "descricao": "diminuição gradual da excreçao renal de fármacos hidrossolúveis",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031353,
+     "letra": "C",
+     "descricao": "maior ligação protéica de fármacos lipossolúveis nos primeiros meses de vida",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031354,
+     "letra": "D",
+     "descricao": "aumento gradual do volume de distribuição central, proporcional ao peso, dos fármacos hidrossolúveis",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003136,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>A conduta mais efetiva para reestabelecer a SatO2 em um paciente submetido a ventila&ccedil;&atilde;o monopulmonar com tubo de duplo-l&uacute;men &eacute;:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031361,
+     "letra": "A",
+     "descricao": "Elevar a FiO2 para 100%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031362,
+     "letra": "B",
+     "descricao": "Aplicar CPAP ao pulmão não dependente",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20031363,
+     "letra": "C",
+     "descricao": "Elevar a PEEP para valores acima de 5 cmH2O no pulmão dependente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20031364,
+     "letra": "D",
+     "descricao": "Clampeamento temporário da artéria pulmonar do pulmão não dependente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003137,
+   "descricao": "<p>Quando comparados com adultos, os neonatos apresentam:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031371,
+     "letra": "A",
+     "descricao": "tremor como forma de produção de calor mediada pelo centro termorregulador",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031372,
+     "letra": "B",
+     "descricao": "maior volume de distribuição e menor requerimento de dose para os medicamentos hidrossolúveis",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031373,
+     "letra": "C",
+     "descricao": "baixa tolerância à sobrecarga de volume e maior risco de hiponatremia pela dificuldade em excretar água livre e solutos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031374,
+     "letra": "D",
+     "descricao": "indução inalatória mais lenta devido ao aumento da relação entre a ventilação alveolar e a capacidade residual funcional",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003138,
+   "descricao": "<p>Mulher de 75 anos, 85kg e 1,70 m, em uso de amitriptilina 75mg/dia, gabapentina 900mg/dia e fentanil transdérmico 8,4mg (50mcg/h) para controle de síndrome dolorosa crônica em decorrência de artrose bilateral de quadril, será submetida a colectomia parcial videolaparoscópica por doença diverticular. Nessa situação, a melhor conduta perioperatória é:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20031381,
+     "letra": "A",
+     "descricao": "Duplicar a dose de amitriptilina no pré-operatório e manter essa dose por 7 dias no pós-operatório",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20031382,
+     "letra": "B",
+     "descricao": "Descontinuar a gabapentina por conta dos seus efeitos colaterais e interações medicamentosas desfavoráveis",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20031383,
+     "letra": "C",
+     "descricao": "Remover o sistema transdérmico antes da cirurgia e iniciar infusão continua com morfina para controle da dor no pós-operatório",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20031384,
+     "letra": "D",
+     "descricao": "Considerar a dose plena do opióide endovenoso utilizado na analgesia pós-operatória para a reintrodução do fentanil transdérmico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

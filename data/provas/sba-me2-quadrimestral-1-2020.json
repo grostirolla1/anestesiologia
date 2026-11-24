@@ -1,0 +1,232 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-1-2020",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 1ª quadrimestral 2020",
+  "ano": "2020",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002318,
+   "descricao": "<p>Durante a pandemia de Covid-19, um pesquisador resolve elaborar um estudo observacional transversal buscando o risco relativo de s&iacute;ndrome da ang&uacute;stia respirat&oacute;ria do adulto em tabagistas infectados. O delineamento da pesquisa foi equivocado pois:</p> <p><strong>A) </strong>Para responder tal pergunta deveria ser feito um estudo de coorte.&nbsp;</p> <p><strong>B)</strong> N&atilde;o h&aacute; como estabelecer a rela&ccedil;&atilde;o causal num estudo transversal.&nbsp;</p> <p><strong>C)</strong> Pode haver perdas excessivas no seguimento dos casos.&nbsp;</p> <p><strong>D)</strong> Tais estudo d&atilde;o apenas uma indica&ccedil;&atilde;o da preval&ecirc;ncia da doen&ccedil;a.&nbsp;</p> <p><strong>E) </strong>O fator temporal da associa&ccedil;&atilde;o causa-efeito n&atilde;o foi levado em conta.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023181,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023182,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023183,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023184,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002319,
+   "descricao": "<p><strong>Na monitoriza&ccedil;&atilde;o da press&atilde;o venosa central em pacientes candidatos a grandes procedimentos cir&uacute;rgicos:</strong></p> <p><strong>A)</strong> A presen&ccedil;a de uma onda V gigante pode ser indicativa de insufici&ecirc;ncia tric&uacute;spide.&nbsp;</p> <p><strong>B)</strong> A visualiza&ccedil;&atilde;o de ondas A em canh&atilde;o &eacute; indicativa de dissocia&ccedil;&atilde;o atrioventricular.&nbsp;</p> <p><strong>C)</strong> Valores persistentemente elevados apresentam alta acur&aacute;cia para indicar hipervolemia.&nbsp;</p> <p><strong>D)</strong> A onda C indica o momento de fechamento da v&aacute;lvula pulmonar.&nbsp;</p> <p><strong>E)</strong> O descenso X indica a fase de relaxamento atrial.&nbsp;</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023191,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023192,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023193,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023194,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002320,
+   "descricao": "<p>Na farmacologia dos anestésicos venosos: </p><p><b>A) </b>A depuração plasmática do propofol, por conta da sua alta taxa de extração hepática, guarda relação diretamente proporcional ao débito cardíaco.</p><p><b>B) </b>A farmacocinética do propofol não sofre alteração por doença renal.</p><p><b>C) </b>O flumazenil é um antagonista benzodiazepínico de alta afinidade e grande especificidade, porém com uma meia vida mais curta que a maioria deles, o que aumenta o risco de re-sedação e depressão respiratória.</p><p><b>D) </b>A cetamina pode causar instabilidade hemodinâmica por efeito depressor do miocárdio em situações de trauma ou sepse prolongada.</p><p><b>E) </b>A estabilidade hemodinâmica e o efeito antiemético do etomidato fazem deste o fármaco a escolha preferencial para indução em pacientes de estômago cheio e que estejam depletados dos estoques de catecolaminas.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023201,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023202,
+     "letra": "B",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023203,
+     "letra": "C",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023204,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002321,
+   "descricao": "<p>Os princípios físico-químicos básicos que regem os sistemas de administração de anestesia inalatória dizem que:</p><p><b>A) </b>Quando uma mistura de gases existe em um espaço fechado, cada gás exerce sua própria pressão parcial independentemente dos outros gases.</p><p><b>B) </b>A evaporação de um agente inalatório é um fenômeno que ocorre puramente na superfície do líquido.</p><p><b>C) </b>Quando a pressão nas paredes de um recipiente fechado que contém um agente inalatório entra em equilíbrio, o ponto de pressão saturada de vapor deste agente foi atingido.</p><p><b>D) </b>A pressão saturada de vapor do desflurano é constante em uma ampla gama de temperatura.</p><p><b>E) </b>A evaporação de uma agente inalatório é um processo que gera energia térmica ao acontecer.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023211,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023212,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023213,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023214,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002322,
+   "descricao": "<p>Sobre os efeitos dos anestésicos inalatórios nas funções hepáticas e renais: </p><p><b>A) </b>O óxido nitroso apresenta maior toxicidade hepática que o xenônio.</p><p><b>B) </b>O sevoflurano tem uma taxa de biotransformação inferior ao isoflurano.</p><p><b>C) </b>Necrose hepática maciça ocorre com a formação de ácido trifluoracético por via oxidativa na biotransformação do halotano.</p><p><b>D) </b>São fatores de risco para a hepatite pelo halotano: sexo masculino, tabagismo e baixo índice de massa corporal.</p><p><b>E) </b>Os produtos da biodegradação dos agentes inalatórios são mais deletérios que as próprias moléculas dos halogenados.</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023221,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023222,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023223,
+     "letra": "C",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023224,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

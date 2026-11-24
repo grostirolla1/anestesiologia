@@ -1,0 +1,1635 @@
+{
+ "prova": {
+  "slug": "fgv-ebserh-2026",
+  "banca": "FGV",
+  "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+  "titulo": "EBSERH / HU Brasil, Médico - Anestesiologia (FGV)",
+  "cargo": "Médico - Anestesiologia",
+  "ano": "2026",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf",
+  "observacao": "Parte de conhecimentos específicos de anestesiologia, na ordem da prova, com o gabarito definitivo oficial. Conteúdo de terceiros: os direitos pertencem à banca; fora da licença do repositório."
+ },
+ "questoes": [
+  {
+   "id": 8001031,
+   "descricao": "<p>Os anestésicos inalatórios formam um grupo quimicamente e farmacologicamente diverso, que inclui potentes anestésicos voláteis. Correlacione os anestésicos a seguir com os grupos a que pertencem:</p><p><b>Anestésicos </b> <b>Grupos </b> 1. isoflurano 2. desflurano A – alcano 3. halotano B – halogenado 4. óxido nitroso C – inorgânico 5. xenônio 6. sevoflurano</p><p>A correlação correta, na ordem dada, é:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010311,
+     "letra": "A",
+     "descricao": "<p>1-A; 2-B; 3-B; 4-A; 5-C; 6-B.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010312,
+     "letra": "B",
+     "descricao": "<p>1-B; 2-B; 3-A; 4-C; 5-A; 6-C.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010313,
+     "letra": "C",
+     "descricao": "<p>1-B; 2-B; 3-A; 4-C; 5-C; 6-B.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010314,
+     "letra": "D",
+     "descricao": "<p>1-A; 2-B; 3-B; 4-C; 5-C; 6-B.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010315,
+     "letra": "E",
+     "descricao": "<p>1-C; 2-B; 3-A; 4-C; 5-A; 6-B.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 31,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001032,
+   "descricao": "<p>A absorção e a distribuição de um anestésico inalatório podem ser compreendidas como uma série de etapas de transferência de compartimentos a montante com alta pressão parcial para compartimentos a jusante com baixa pressão parcial. Considere as principais etapas a seguir: 1. Transferência do anestésico por uma máquina de anestesia com um vaporizador projetado para fornecer concentrações específicas (em % atm) do anestésico, para uma mistura gasosa fresca que flui em um circuito respiratório. 2. O anestésico se move por difusão transcapilar para o sangue venoso pulmonar. 3. O sangue venoso misto passa pelos capilares alveolares, onde se equilibra novamente com os gases alveolares. 4. O sangue arterial distribui o anestésico para vários tecidos, incluindo o tecido-alvo primário, o SNC. 5. A ventilação transfere os gases do circuito para o espaço alveolar nos pulmões. A ordem correta dessas etapas é</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010321,
+     "letra": "A",
+     "descricao": "<p>1 2 5 3 4.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010322,
+     "letra": "B",
+     "descricao": "<p>2 5 1 4 3.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010323,
+     "letra": "C",
+     "descricao": "<p>5 1 2 3 4.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010324,
+     "letra": "D",
+     "descricao": "<p>1 5 2 4 3.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010325,
+     "letra": "E",
+     "descricao": "<p>5 2 1 4 3.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 32,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001033,
+   "descricao": "<p>Jovem, 19 anos, sofre fratura de rádio com indicação cirúrgica. O anestesiologista optou por usar o bloqueio de Bier, pois tem em mente a segurança do procedimento anestésico-cirúrgico, uma vez que será de curta duração, com a fixação óssea por fio transcutâneo. Opta ainda por utilizar anestésico com um único estereoisômero, sem vasoconstritor, em oposição a outros com misturas racêmicas. Ele sabe que formulações com um único estereoisômero foram desenvolvidas em um esforço para reduzir a</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010331,
+     "letra": "A",
+     "descricao": "<p>lesão neuronal.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010332,
+     "letra": "B",
+     "descricao": "<p>ação sensorial.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010333,
+     "letra": "C",
+     "descricao": "<p>eliminação.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010334,
+     "letra": "D",
+     "descricao": "<p>velocidade de ação.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010335,
+     "letra": "E",
+     "descricao": "<p>toxicidade sistêmica.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 33,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001034,
+   "descricao": "<p>Clínica que realiza procedimentos de endoscopia digestiva utilizava propofol para a sedação de seus pacientes. Com o passar dos anos, ficou claro para os anestesiologistas da clínica que o propofol poderia causar, em vários pacientes, depressão respiratória, circulatória e ocasionar ainda despertar muitas vezes prolongado. Passaram a utilizar, então, midazolam. Observaram que o midazolam, além de necessitar de doses mais altas para alcançar a sedação ideal, também poderia deprimir a respiração e a circulação, além de promover despertar prolongado, muitas vezes exigindo a utilização do flumazenil. O seguinte fármaco pode vir a ser utilizado em substituição ao propofol e ao midazolam para os exames de endoscopia digestiva, com menos efeitos colaterais e com eficiência semelhante, principalmente a do propofol:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010341,
+     "letra": "A",
+     "descricao": "<p>remimazolam.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010342,
+     "letra": "B",
+     "descricao": "<p>etomidato.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010343,
+     "letra": "C",
+     "descricao": "<p>óxido nitroso.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010344,
+     "letra": "D",
+     "descricao": "<p>temazepam.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010345,
+     "letra": "E",
+     "descricao": "<p>lorazepam.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 34,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001035,
+   "descricao": "<p>Mulher, 52 anos, foi submetida a histerectomia total abdominal radical, cirurgia de <i>Wertheim-Meigs</i>, que apesar de ter indicação cada vez mais rara, foi indicada nesta paciente. A analgesia pós-operatória foi programada com a utilização de analgesia controlada pelo paciente, intravenosa. Observou-se que o consumo de morfina foi significativamente maior nesta paciente do que é observado comumente em pacientes com esta técnica analgésica. A hipótese mais provável para esse fenômeno é a paciente ser do grupo de mulheres homozigotas para a variante</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010351,
+     "letra": "A",
+     "descricao": "<p>A116F.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010352,
+     "letra": "B",
+     "descricao": "<p>A118G.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010353,
+     "letra": "C",
+     "descricao": "<p>A120G.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010354,
+     "letra": "D",
+     "descricao": "<p>A122B.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010355,
+     "letra": "E",
+     "descricao": "<p>A114F.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 35,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001036,
+   "descricao": "<p>Diversos fatores contribuem para a formação de atelectasia alveolar durante anestesia geral. A utilização de um volume corrente do paciente já foi sugerida para reverter a atelectasia durante a anestesia. Assinale a opção que indica a pressão de insuflação considerada adequada e o tempo de duração dessa insuflação sustentada tidos como suficientes, atualmente, para abrir com sucesso quase todos os alvéolos atelectasiados induzidos pela anestesia geral.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010361,
+     "letra": "A",
+     "descricao": "<p>20 cmH2O por 9 a 10 segundos.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010362,
+     "letra": "B",
+     "descricao": "<p>30 cmH2O por 6 a 7 segundos.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010363,
+     "letra": "C",
+     "descricao": "<p>30 cmH2O por 9 a 10 segundos.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010364,
+     "letra": "D",
+     "descricao": "<p>40 cmH2O por 6 a 7 segundos.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010365,
+     "letra": "E",
+     "descricao": "<p>40 cmH2O por 7 a 8 segundos.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 36,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001037,
+   "descricao": "<p>Ao realizar anestesia em um lactente de 1 mês, nascido a termo, o anestesiologista sabe que a maturidade funcional do fígado é incompleta nestes lactentes. A maioria dos sistemas enzimáticos para o metabolismo de fármacos está desenvolvida, mas não totalmente ativada ao nascimento. À medida que o bebê cresce, a capacidade de metabolizar substâncias aumenta rapidamente, conforme o fluxo sanguíneo hepático aumenta e os sistemas enzimáticos são funcionalmente induzidos. O sistema do citocromo P450 e o metabolismo de fase I de alguns compostos se encontram em cerca de 50% dos valores de adultos. Diante dessa realidade, o anestesiologista deve estar atento quando necessitar, para essa criança, usar compostos com características</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010371,
+     "letra": "A",
+     "descricao": "<p>lipofílicas.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010372,
+     "letra": "B",
+     "descricao": "<p>ácidas.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010373,
+     "letra": "C",
+     "descricao": "<p>básicas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010374,
+     "letra": "D",
+     "descricao": "<p>hidrofílicas.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010375,
+     "letra": "E",
+     "descricao": "<p>esterásicas.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 37,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001038,
+   "descricao": "<p>O anestésico utilizado para indução inalatória em crianças que causa alterações epileptiformes no EEG quando administrado em altas concentrações, apesar de a etiologia dessas alterações ainda não estar bem estabelecida, é o</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010381,
+     "letra": "A",
+     "descricao": "<p>desflurano.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010382,
+     "letra": "B",
+     "descricao": "<p>sevoflurano.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010383,
+     "letra": "C",
+     "descricao": "<p>óxido nitroso.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010384,
+     "letra": "D",
+     "descricao": "<p>halotano.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010385,
+     "letra": "E",
+     "descricao": "<p>xenônio.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 38,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001039,
+   "descricao": "<p>Uma avaliação completa do paciente, a aplicação de testes diagnósticos rápidos e a ativação precoce de recursos são vitais para garantir os melhores resultados possíveis em pacientes com lesões traumáticas graves. Os pacientes que, em uma observação rápida e inicial após trauma, possuem provavelmente lesões graves com alto risco para a vida são os que apresentam</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010391,
+     "letra": "A",
+     "descricao": "<p>resposta motora na escala de Glasgow ˂ 3; frequência respiratória ˂ 10 ou &gt; 22/min; SpO2 ˂ 95% em ar ambiente.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010392,
+     "letra": "B",
+     "descricao": "<p>resposta motora na escala de Glasgow ˂ 8; frequência respiratória ˂ 8 ou &gt; 29/min; SpO2 ˂ 91% em ar ambiente.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010393,
+     "letra": "C",
+     "descricao": "<p>resposta motora na escala de Glasgow ˂ 5; frequência respiratória ˂ 9 ou &gt; 22/min; SpO2 ˂ 90% em ar ambiente.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010394,
+     "letra": "D",
+     "descricao": "<p>resposta motora na escala de Glasgow ˂ 6; frequência respiratória ˂ 10 ou &gt; 29/min; SpO2 ˂ 90% em ar ambiente.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010395,
+     "letra": "E",
+     "descricao": "<p>resposta motora na escala de Glasgow ˂ 4; frequência respiratória ˂ 8 ou &gt; 30/min; SpO2 ˂ 88% em ar ambiente.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 39,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001040,
+   "descricao": "<p>Gestante a termo, em início de trabalho de parto, opta por não ser submetida a analgesia via neuroeixo. Já no segundo estágio do trabalho de parto refere maior intensidade da dor, pergunta por alguma opção analgésica, mas insiste em não aceitar analgesia no neuroeixo. A anestesiologista que a acompanha oferece uma técnica venosa, sob monitorização intensiva da paciente, além de avisá-la que esta técnica venosa é inferior, em qualidade analgésica, a analgesia espinhal. O fármaco melhor indicado para a técnica que a anestesiologista propôs é a(o)</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010401,
+     "letra": "A",
+     "descricao": "<p>meperdina.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010402,
+     "letra": "B",
+     "descricao": "<p>sufentanil.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010403,
+     "letra": "C",
+     "descricao": "<p>remifentanil.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010404,
+     "letra": "D",
+     "descricao": "<p>alfentanil.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010405,
+     "letra": "E",
+     "descricao": "<p>fentanil.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 40,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001041,
+   "descricao": "<p>Gestante, 34 anos, a termo, chega à maternidade com muito sangramento e um descolamento da placenta é diagnosticado. Ela é imediatamente encaminhada ao centro obstétrico para ser submetida a cesariana de urgência sob anestesia geral. Informa que já foi operada duas vezes com anestesia geral, em cirurgias não obstétricas, sem apresentar problemas relacionados à anestesia. Não possui qualquer comorbidade classificada como ASA 1. Para o relaxamento muscular na indução da anestesia e intubação traqueal, o anestesiologista optou por um bloqueador neuromuscular que é tão eficiente quanto a succinilcolina e, quando revertido, pode ter uma ação mais curta que uma dose equipotente da succinilcolina. Nesse caso, o anestesiologista optou por utilizar</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010411,
+     "letra": "A",
+     "descricao": "<p>mivacúrio.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010412,
+     "letra": "B",
+     "descricao": "<p>atracúrio.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010413,
+     "letra": "C",
+     "descricao": "<p>pancurônio.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010414,
+     "letra": "D",
+     "descricao": "<p>cisatracúrio.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010415,
+     "letra": "E",
+     "descricao": "<p>rocurônio.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 41,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001042,
+   "descricao": "<p>Homem, 35 anos, sofre acidente e é encaminhado à emergência com traumatismo cranioencefálico, alternando acentuadamente o nível de consciência. A resultante da equação pressão arterial média menos pressão intracraniana deve ser mantida, nas primeiras 48 a 72 horas, após traumatismo cranioencefálico em adultos, na faixa alvo de</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010421,
+     "letra": "A",
+     "descricao": "<p>40-60 mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010422,
+     "letra": "B",
+     "descricao": "<p>50-60 mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010423,
+     "letra": "C",
+     "descricao": "<p>50-80 mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010424,
+     "letra": "D",
+     "descricao": "<p>60-70 mmHg.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010425,
+     "letra": "E",
+     "descricao": "<p>70-80 mmHg.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 42,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001043,
+   "descricao": "<p>O uso de barbitúricos está respaldado pela experiência em unidades de terapia intensiva, já tendo demonstrado eficácia no controle da pressão intracraniana (PIC). Outros fármacos vêm sendo utilizados na busca de outras e até melhores opções para o controle da pressão intracraniana tanto no per-operatório como em pacientes nas unidades neurointensivas. Uma síndrome frequentemente fatal, cursando com acidose metabólica e rabdomiólise foi, entretanto, observada em pacientes que receberam, em unidades neurointensivas, infusões prolongadas de</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010431,
+     "letra": "A",
+     "descricao": "<p>propofol.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010432,
+     "letra": "B",
+     "descricao": "<p>etomidato.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010433,
+     "letra": "C",
+     "descricao": "<p>fentanil.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010434,
+     "letra": "D",
+     "descricao": "<p>ketamina.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010435,
+     "letra": "E",
+     "descricao": "<p>midazolam.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 43,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001044,
+   "descricao": "<p>Pacientes que serão submetidos a ressecção pulmonar devem ter sua função respiratória avaliada em 3 áreas no pré-operatório que formam o “tripé da avaliação respiratória”. A atenção do anestesiologista deve estar voltada para a avaliação cuidadosa desse tripé, que está relacionado com a avaliação de</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010441,
+     "letra": "A",
+     "descricao": "<p>função da mecânica cardíaca; reserva cardiopulmonar; presença de bronquite asmática.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010442,
+     "letra": "B",
+     "descricao": "<p>função da mecânica pulmonar; função do parênquima pulmonar; reserva cardiopulmonar.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010443,
+     "letra": "C",
+     "descricao": "<p>função cardíaca; função do parênquima pulmonar; função da mecânica pulmonar.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010444,
+     "letra": "D",
+     "descricao": "<p>mecânica circulatória; função cardíaca; função do parênquima pulmonar.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010445,
+     "letra": "E",
+     "descricao": "<p>reserva cardiopulmonar; função cardíaca; mecânica da mecânica pulmonar.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 44,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001045,
+   "descricao": "<p>O aumento do tônus simpático pode resultar em estresse miocárdico e incapacidade de o paciente eliminar eficazmente as secreções pulmonares. Portanto, para a recuperação cardíaca e pulmonar do paciente, é essencial um bom controle, no período pós-operatório, da</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010451,
+     "letra": "A",
+     "descricao": "<p>síndrome delirante.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010452,
+     "letra": "B",
+     "descricao": "<p>hipertermia.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010453,
+     "letra": "C",
+     "descricao": "<p>dor pós-operatória.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010454,
+     "letra": "D",
+     "descricao": "<p>resposta neuropática ao estresse.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010455,
+     "letra": "E",
+     "descricao": "<p>hipercarbia.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 45,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001046,
+   "descricao": "<p>A primeira medida a ser tomada, uma vez diagnosticada parada cardiorrespiratória (PCR) súbita, sem causa hipóxica, é realizar</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010461,
+     "letra": "A",
+     "descricao": "<p>obtenção de via aérea pérvia com máscara laríngea.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010462,
+     "letra": "B",
+     "descricao": "<p>ventilações de resgate eficientes.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010463,
+     "letra": "C",
+     "descricao": "<p>desobstrução das vias aéreas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010464,
+     "letra": "D",
+     "descricao": "<p>cardioversão.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010465,
+     "letra": "E",
+     "descricao": "<p>compressões torácicas eficazes.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 46,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001047,
+   "descricao": "<p>Na monitorização de bloqueio neuromuscular em uma paciente submetida a colecistectomia videolaparoscópica, se a recuperação do bloqueio neuromuscular não for adequada ao final da cirurgia, o bloqueio deve ser antagonizado. Portanto, para excluir bloqueio neuromuscular residual clinicamente significativo, a relação TOF, quando medida mecanicamente ou eletromiograficamente e aceleromiograficamente, ao final da cirurgia, deve ser</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010471,
+     "letra": "A",
+     "descricao": "<p>≥ 0,7–0,9.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010472,
+     "letra": "B",
+     "descricao": "<p>≥ 0,8–0,9.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010473,
+     "letra": "C",
+     "descricao": "<p>≥ 0,8–1,0.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010474,
+     "letra": "D",
+     "descricao": "<p>≥ 0,9–1,0.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010475,
+     "letra": "E",
+     "descricao": "<p>≥ 0,6–0,7.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 47,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001048,
+   "descricao": "<p>A cocaína e a metanfetamina são dois exemplos de substâncias estimulantes ilícitas, de comum abuso, que atuam no sistema nervoso central, aumentando a concentração de neurotransmissores. Usuários crônicos podem apresentar, agudamente, no pré- operatório de cirurgias de urgência, sinais clínicos de</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010481,
+     "letra": "A",
+     "descricao": "<p>taquicardia, arritmias, vasoconstrição miocárdica e hipertensão arterial.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010482,
+     "letra": "B",
+     "descricao": "<p>bradicardia, vasoconstrição miocárdica, hipertensão arterial e bronquite.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010483,
+     "letra": "C",
+     "descricao": "<p>vasodilatação miocárdica; hipotensão arterial, hipertensão pulmonar e arritmias.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010484,
+     "letra": "D",
+     "descricao": "<p>hipertensão pulmonar, arritmias, bradicardia e hipotensão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010485,
+     "letra": "E",
+     "descricao": "<p>hipertensão arterial, taquicardia, vasodilatação miocárdica e bronquite.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 48,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001049,
+   "descricao": "<p>A raquianestesia tem sido cada vez mais utilizada para cirurgias tanto em crianças sob sedação como em adultos. É fundamental para o sucesso da anestesia, sem complicações neurológicas grosseiras, que o anestesiologista domine a anatomia da região onde realizará o bloqueio. Portanto, ele deve saber que a terminação distal da medula espinhal varia, para quase a totalidade de bebês e de adultos, respectivamente, em</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010491,
+     "letra": "A",
+     "descricao": "<p>L2 e borda inferior de T12.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010492,
+     "letra": "B",
+     "descricao": "<p>L3 e borda inferior de L1.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010493,
+     "letra": "C",
+     "descricao": "<p>L2 e borda inferior de L3.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010494,
+     "letra": "D",
+     "descricao": "<p>L2 e borda inferior de L1.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010495,
+     "letra": "E",
+     "descricao": "<p>L3 e borda inferior de L3.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 49,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001050,
+   "descricao": "<p>Existem evidências de que o principal fator determinante da dose necessária em uma anestesia peridural no paciente idoso pode ser</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010501,
+     "letra": "A",
+     "descricao": "<p>ingurgitamento da vasculatura peridural.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010502,
+     "letra": "B",
+     "descricao": "<p>maior flexibilidade do espaço peridural.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010503,
+     "letra": "C",
+     "descricao": "<p>redução do tecido adiposo no espaço peridural.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010504,
+     "letra": "D",
+     "descricao": "<p>compressão pela estenose óssea do idoso.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010505,
+     "letra": "E",
+     "descricao": "<p>maior rigidez das raízes nervosas.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 50,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001051,
+   "descricao": "<p>Os procedimentos e contextos em que a monitorização neurofisiológica é tipicamente aplicada compartilham a característica de que as alterações detectadas nos sinais monitorizados podem ser corrigidas ou minimizadas, seja modificando a abordagem cirúrgica, seja manipulando parâmetros fisiológicos e farmacológicos sob o controle do anestesiologista. A monitorização neurofisiológica realizada durante uma craniotomia com o paciente acordado para a ressecção de um tumor tem como objetivo a localização e identificação funcional do</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010511,
+     "letra": "A",
+     "descricao": "<p>estímulo doloroso durante a cirurgia.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010512,
+     "letra": "B",
+     "descricao": "<p>tumor ao se estimular o terceiro ventrículo.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010513,
+     "letra": "C",
+     "descricao": "<p>quiasma ótico durante a cirurgia de ressecção tumoral.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010514,
+     "letra": "D",
+     "descricao": "<p>tumor ao se estimular o quarto ventrículo.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010515,
+     "letra": "E",
+     "descricao": "<p>córtex motor durante a cirurgia de ressecção tumoral.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 51,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001052,
+   "descricao": "<p>A cirurgia vascular de grande porte representa um desafio particular para o anestesiologista, pois se trata de operações de alto risco em populações de pacientes com diversas comorbidades. A principal causa de mortalidade não só perioperatória, mas também no pós-operatório, independentemente de prazo após cirurgia, seja ela manifesta ou oculta, é a doença</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010521,
+     "letra": "A",
+     "descricao": "<p>vascular cerebral.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010522,
+     "letra": "B",
+     "descricao": "<p>coronariana.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010523,
+     "letra": "C",
+     "descricao": "<p>renal.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010524,
+     "letra": "D",
+     "descricao": "<p>hepática.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010525,
+     "letra": "E",
+     "descricao": "<p>trombótica.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 52,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001053,
+   "descricao": "<p>A monitorização do débito cardíaco por termodiluição é considerada como <i>gold standard</i> para a medição do débito cardíaco (DC) devido à sua facilidade de implementação e à longa experiência clínica com a sua utilização em diversos contextos, sendo a técnica clínica mais utilizada atualmente com este objetivo. Porém está sujeita a erros de aferição. Uma causa frequente para erros é</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010531,
+     "letra": "A",
+     "descricao": "<p>regurgitação grave da válvula tricúspide.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010532,
+     "letra": "B",
+     "descricao": "<p>regurgitação leve da válvula aórtica.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010533,
+     "letra": "C",
+     "descricao": "<p>lenta injeção do fluido intravenoso.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010534,
+     "letra": "D",
+     "descricao": "<p>estenose leve da válvula aórtica.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010535,
+     "letra": "E",
+     "descricao": "<p><i>shunt</i> extracardíaco.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 53,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001054,
+   "descricao": "<p>As estratégias modernas de ressuscitação volêmica no choque circulatório estão se afastando da administração empírica de volumes intravenosos e se voltando para uma abordagem racional. Há muitos marcadores indiretos utilizados como indicadores de perfusão de órgãos-alvo, mas todos apresentam limitações e fatores de confusão. Sabe-se, atualmente, que os marcadores mais comumente utilizados no choque são a verificação de</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010541,
+     "letra": "A",
+     "descricao": "<p>acidose respiratória, PVC e débito cardíaco.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010542,
+     "letra": "B",
+     "descricao": "<p>alcalose metabólica, déficit de base e PVC.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010543,
+     "letra": "C",
+     "descricao": "<p>débito cardíaco, débito urinário e acidose respiratória.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010544,
+     "letra": "D",
+     "descricao": "<p>débito urinário, lactato e déficit de base.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010545,
+     "letra": "E",
+     "descricao": "<p>lactato, acidose metabólica e PVC.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 54,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001055,
+   "descricao": "<p>A hipertermia maligna fulminante é rara. Porém, pode ocorrer com os sinais clínicos iniciais de forma sutil e devem ser diferenciados de outras doenças que possam apresentar sinais semelhantes. Quando o diagnóstico é óbvio, isto é, hipertermia maligna fulminante ou rigidez induzida por succinilcolina com rápidas alterações metabólicas, ocorre hipermetabolismo acentuado e o diagnóstico pode ser mais fácil. Os sinais clínicos iniciais que, contrastando com os sinais clínicos tardios, comumente levam ao diagnóstico de hipertermia maligna são:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010551,
+     "letra": "A",
+     "descricao": "<p>níveis elevados de CO2 expirado; bradicardia; espasmo do músculo masseter, caso tenha sido utilizada succinilcolina; relaxamento muscular inicial; alcalose respiratória; pele marmorizada e seca.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010552,
+     "letra": "B",
+     "descricao": "<p>bradipneia inicial; espasmo do músculo masseter, caso tenha sido utilizada succinilcolina; rigidez muscular generalizada; acidose metabólica; sudorese profusa; pele marmorizada.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010553,
+     "letra": "C",
+     "descricao": "<p>níveis elevados de CO2 expirado; taquicardia; espasmo do músculo masseter, caso tenha sido utilizada succinilcolina; rigidez muscular generalizada; acidose mista metabólica e respiratória; sudorese profusa.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010554,
+     "letra": "D",
+     "descricao": "<p>bradipneia inicial; espasmo do músculo masseter, caso tenha sido utilizada succinilcolina; rigidez muscular generalizada; alcalose metabólica; sudorese profusa; pele marmorizada.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010555,
+     "letra": "E",
+     "descricao": "<p>níveis elevados de CO2 expirado; taquicardia; espasmo do músculo masseter, caso tenha sido utilizada succinilcolina; relaxamento muscular inicial; alcalose metabólica; pele marmorizada e seca.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 55,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001056,
+   "descricao": "<p>Os carreadores sintéticos de hemoglobina podem ser uma opção terapêutica para pacientes que não podem receber transfusões de sangue alogênico padrão, seja qual for o motivo, ou mesmo quando, eventualmente, não houver disponibilidade de sangue e se buscar estabilizar pacientes hemodinamicamente instáveis. Apesar de úteis em algumas situações, entretanto, esses produtos devem ser utilizados com cautela e com indicação precisa, pois podem acarretar principalmente riscos adicionais significativos</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010561,
+     "letra": "A",
+     "descricao": "<p>cardiovasculares e hepáticos.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010562,
+     "letra": "B",
+     "descricao": "<p>neurológicos e pulmonares.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010563,
+     "letra": "C",
+     "descricao": "<p>pulmonares e renais.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010564,
+     "letra": "D",
+     "descricao": "<p>neurológicos e hepáticos.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010565,
+     "letra": "E",
+     "descricao": "<p>cardiovasculares e renais.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 56,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001057,
+   "descricao": "<p>Pacientes que serão submetidos a cirurgias necessitam de exames diagnósticos e laboratoriais pré-operatórios adequados, condizentes com seu histórico médico e o procedimento cirúrgico proposto. A realização arbitrária de exames pré-operatórios de rotina não se justifica, pois é dispendiosa e, muitas vezes, clinicamente inadequada. Portanto, a avaliação pré-operatória da anestesia é a base clínica para orientar o manejo perioperatório do paciente, reduzindo a morbidade perioperatória e melhorando o desfecho da cirurgia para o paciente. O médico que está numa posição privilegiada para avaliar os riscos associados à anestesia ou a cirurgia e discutir esses riscos com o paciente é o</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010571,
+     "letra": "A",
+     "descricao": "<p>clínico geral.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010572,
+     "letra": "B",
+     "descricao": "<p>anestesiologista.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80010573,
+     "letra": "C",
+     "descricao": "<p>cardiologista.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010574,
+     "letra": "D",
+     "descricao": "<p>neurologista.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010575,
+     "letra": "E",
+     "descricao": "<p>cirurgião.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 57,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001058,
+   "descricao": "<p>Pacientes com comorbidades preexistentes, como diabetes e insuficiência cardíaca, ou com doença renal crônica subjacente, apresentam risco particularmente elevado de disfunção renal no período pós-operatório. O seguinte fármaco pode exacerbar a doença renal subjacente e, sempre que possível, deve ser evitado, de modo a minimizar qualquer possível disfunção renal:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010581,
+     "letra": "A",
+     "descricao": "<p>anti-inflamatório não esteroide.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80010582,
+     "letra": "B",
+     "descricao": "<p>corticosteroide.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010583,
+     "letra": "C",
+     "descricao": "<p>dipirona.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010584,
+     "letra": "D",
+     "descricao": "<p>paracetamol.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010585,
+     "letra": "E",
+     "descricao": "<p>opioide de ação ultracurta.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 58,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001059,
+   "descricao": "<p>Uma das habilidades essenciais para o bloqueio regional com ultrassom é a manipulação adequada do transdutor. Por esse motivo, foi estabelecida uma nomenclatura padronizada que é composta, classicamente, por 5 (cinco) movimentações do transdutor: deslizamento, inclinação, compressão, balanço e rotação. As movimentações frequentemente necessárias para confirmar a visualização de estruturas venosas e melhorar a visibilidade da agulha e das estruturas anatômicas quando o espaço de trabalho é limitado são, respectivamente,</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010591,
+     "letra": "A",
+     "descricao": "<p>a rotação e a compressão.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010592,
+     "letra": "B",
+     "descricao": "<p>a inclinação e o balanço.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010593,
+     "letra": "C",
+     "descricao": "<p>o balanço e o deslizamento.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80010594,
+     "letra": "D",
+     "descricao": "<p>a compressão e o balanço.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80010595,
+     "letra": "E",
+     "descricao": "<p>o deslizamento e a rotação.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 59,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  },
+  {
+   "id": 8001060,
+   "descricao": "<p>A maioria dos procedimentos oftalmológicos pode ser realizada com anestesia tópica ou bloqueio loco-regional orbitário em combinação com sedação leve e monitorização. Apesar de não serem muito frequentes, complicações graves podem ocorrer. Paciente de 75 anos, sem comorbidades importantes, seria submetido a cirurgia de facectomia com implante de lente intraocular. Alguns minutos após o início da anestesia loco-regional, apresenta súbita perda total de consciência e parada respiratória. Essa complicação está associada, provavelmente, à anestesia</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80010601,
+     "letra": "A",
+     "descricao": "<p>subtenoniana.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80010602,
+     "letra": "B",
+     "descricao": "<p>do nervo facial, técnica de O’Brien.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80010603,
+     "letra": "C",
+     "descricao": "<p>retrobulbar.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80010604,
+     "letra": "D",
+     "descricao": "<p>do nervo facial, técnica de van Lint.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80010605,
+     "letra": "E",
+     "descricao": "<p>peribulbar.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "EBSERH / HU Brasil - Edital 02/2026",
+    "cargo": "Médico - Anestesiologia",
+    "numero": 60,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/g002-anestesiologia-g002-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/hubrasil2026_gabaritos_definitivo-retificado.pdf"
+   }
+  }
+ ]
+}

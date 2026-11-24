@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-3-2019",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 3ª quadrimestral 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003560,
+   "descricao": "<p>Na disfunção hepática grave: </p><p>a) pressões intra vesicais acima de 15 mmHg comumente associam-se a ascite com hipertensão abdominal.&nbsp;</p><p>b) há tendência à retenção hidrossalina com aumento de aldosterona e aumento da pressão venosa renal.&nbsp;</p><p>c) ocorre diminuição da afinidade da hemoglobina pelo oxigênio.&nbsp;</p><p>d) há diminuição da resposta a aminas simpatomiméticas.&nbsp;</p><p>e) ocorre secreção inapropriada do hormônio antidiurético.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035601,
+     "letra": "A",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035602,
+     "letra": "B",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035603,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035604,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003561,
+   "descricao": "<p>Agentes de contraste iônico padrão estão associados a reações adversas que dependem da: </p><p><b>A)</b> Dose</p><p><b>B) </b>Concentração</p><p><b>C)</b> Osmolaridade</p><p><b>D)</b> Velocidade de administração</p><p><b>E)</b> Carga de radiação ionizante</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035611,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035612,
+     "letra": "B",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035613,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035614,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003562,
+   "descricao": "<p>Homem de 75 anos, 1,70m, 90 kg, portador de doença parenquimatosa pulmonar que determina redução da capacidade vital as custas do aumento da capacidade residual funcional submetido a colectomia sob Ventilação mecânica controlada a volume (VC 530 ml, FR 12; relação I:E 1:2; FiO2 0,50; P insp 30 mmHg) desenvolve importante acidose respiratória. Quais os parâmetros que devem ser ajustados na ventilação deste paciente?</p> <p><strong>A) </strong>Aumentar o volume corrente.</p> <p><strong>B) </strong>Aumentar o tempo expiratório.</p> <p><strong>C) </strong>Aumentar a relação inspiração/expiração.</p> <p><strong>D) </strong>Aumentar frequência respiratória.</p> <p><strong>E) </strong>Aumentar a FiO2 para 100%.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035621,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035622,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035623,
+     "letra": "C",
+     "descricao": "F V F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035624,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003563,
+   "descricao": "<p>Sobre segurança do paciente em anestesiologia: </p><p>a) a qualidade é consequência de um modelo de gestão que evite, previna ou minimize não conformidades ou erros do sistema.</p><p>b) a aplicação de um sistema de controle e garantia de qualidade exige recursos e correspondentes investimentos, cuja recuperação sempre é quantificada.&nbsp;</p><p>c) a qualidade assistencial tem três componentes a serem considerados: efetividade, eficiência e resultado.&nbsp;</p><p>d) a escolha da técnica de anestesia é função da intervenção a ser realizada.&nbsp;</p><p>e) um serviço de anestesiologia de nível 3 deve verificar se a instituição dispõe de uma lista de anestesiologistas organizados por plantões, ativos ou a distância, para cada dia da semana.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035631,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035632,
+     "letra": "B",
+     "descricao": "V F F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035633,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035634,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003564,
+   "descricao": "<p>Na gerência do centro cirúrgico:</p><p><b>A)</b> Os anestesiologistas são bons candidatos à posição de diretor do centro cirúrgico.&nbsp;</p><p><b>B) </b>São responsabilidades para com o Serviço de Anestesiologia, forte relação de trabalho com hierarquia de enfermagem e com a administração do hospital.&nbsp;</p><p><b>C) </b>É papel do diretor clínico com a enfermagem do Centro Cirúrgico: suporte básico da administração do hospital.&nbsp;</p><p><b>D)</b> O Diretor de um centro cirúrgico deve identificar desde o início os problemas que&nbsp;possam remediar com facilidade para obter sucesso e aceitação de imediato.&nbsp;</p><p><b>E) </b>O processo de programação envolve estimar, organizar e reunir o pessoal, os equipamentos, o espaço e o tempo necessários para a realização de um procedimento.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035641,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035642,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035643,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035644,
+     "letra": "D",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003565,
+   "descricao": "<p>Homem de 50 anos, 65kg e 1,80m portador de cirrose CHILD C será submetido a transplante hepático. Na cateterização da artéria pulmonar, os seguintes parâmetros hemodinâmicos são anotados: pressão média da artéria pulmonar de 40 mmHg, pressão de oclusão capilar pulmonar de 12 mmHg, débito cardíaco de 5 L/min e resistência vascular pulmonar de 425 din.s.cm-5. Com base nestes dados: </p><p>a) há sinais claros de um padrão de circulação hiperdinâmica com sobrecarga de fluido.&nbsp;</p><p>b) o quadro é característico de síndrome hepatopulmonar.&nbsp;</p><p>c) o ecocardiograma transesofagico traria informações mais acuradas da hemodinâmica pulmonar.&nbsp;</p><p>d) temos uma provável situação de hipertensão porto-pulmonar.&nbsp;</p><p>e) está contraindicado o transplante hepático.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035651,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035652,
+     "letra": "B",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035653,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035654,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003566,
+   "descricao": "<p>Na dor aguda: </p><p>a) Do tipo inflamatória, há uma modificação do padrão de resposta de nociceptores periféricos.&nbsp;</p><p>b) Os nociceptores cutâneos são de dois tipos distintos: os mecanorreceptores de limiar elevado e os nociceptores polimodais.&nbsp;</p><p>c) Os inibidores das ciclooxigenases (COX)-2, diferentemente dos antiinflamatórios não esteroidais, podem ser usados em pacientes idosos, ou com história de disfunção renal ou coronariana e distúrbio de coagulação.&nbsp;</p><p>d) A lidocaína por via venosa na dose de 2 mg/kg/h pode ser utilizada em cirurgias abdominais para manter a analgesia no intraoperatório, porém não reduz o consumo de opioides no pós-operatório.&nbsp;</p><p>e) A cetamina faz parte do esquema terapêutico proposto pela organização mundial de saúde para o tratamento da dor de intensidade moderada.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035661,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035662,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035663,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035664,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-2-2026",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 2ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002454,
+   "descricao": "<p>Um paciente de 56 anos, ASA II, será submetido a cirurgia combinada de reparo do manguito rotador e tenorrafia do quinto dedo da mão ipsilateral. Após bloqueio interescalênico guiado por ultrassom, a cirurgia do ombro é realizada com sucesso. Considerando a cobertura incompleta desse bloqueio para a cirurgia da mão, opta-se por um bloqueio complementar guiado por neuroestimulação. Qual resposta motora confirma o posicionamento adequado da agulha?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024541,
+     "letra": "A",
+     "descricao": "Flexão do cotovelo.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024542,
+     "letra": "B",
+     "descricao": "Extensão do punho e dos dedos.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024543,
+     "letra": "C",
+     "descricao": "Adução do polegar.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024544,
+     "letra": "D",
+     "descricao": "Flexão do punho e dos três primeiros dedos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002455,
+   "descricao": "<p>Paciente de 58 anos, portador de neuralgia refratária do trigêmeo envolvendo V2 (nervo maxilar) e V3 (nervo mandibular), será submetido à bloqueio percutâneo do gânglio de Gasser pela técnica de Härtel. Durante a progressão da agulha, o anestesiologista objetiva alcançar:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024551,
+     "letra": "A",
+     "descricao": "Forâmen oval, trajeto de passagem do ramo mandibular (V3) do trigêmeo.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024552,
+     "letra": "B",
+     "descricao": "Forâmen espinhoso, por onde emerge o nervo maxilar (V2).",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024553,
+     "letra": "C",
+     "descricao": "Forâmen redondo, local de emergência do ramo oftálmico (V1).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024554,
+     "letra": "D",
+     "descricao": "Canal carotídeo, adjacente ao gânglio trigeminal.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002456,
+   "descricao": "<p>Paciente de 82 anos, sexo feminino, ASA III, portadora de hipertensão arterial e fibrilação atrial crônica, é admitida na emergência com fratura transtrocantérica do fêmur esquerdo. A equipe de anestesiologia realiza um bloqueio de fáscia ilíaca suprainguinal guiado por ultrassom com 30 mL de ropivacaína 0,2% para analgesia pré-operatória. Após 30 minutos, a paciente apresenta alívio significativo da dor na face anterior da coxa e na região inguinal, porém mantém desconforto à rotação passiva do quadril. Considerando a anatomia do compartimento da fáscia ilíaca e a distribuição dos nervos do plexo lombar, qual das seguintes afirmativas explica corretamente a razão para a persistência de dor durante a mobilização articular do quadril.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024561,
+     "letra": "A",
+     "descricao": "O nervo obturador, durante seu trajeto intrapélvico, é separado do compartimento da fáscia ilíaca pelo músculo psoas, o que torna seu bloqueio inconsistente por essa técnica e pode resultar em analgesia incompleta da articulação do quadril.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024562,
+     "letra": "B",
+     "descricao": "O nervo cutâneo femoral lateral, por emergir lateralmente ao músculo ilíaco e não sob a fáscia ilíaca, é o principal responsável pela inervação articular do quadril e não é alcançado pela abordagem suprainguinal.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024563,
+     "letra": "C",
+     "descricao": "O nervo femoral, ao emitir seus ramos articulares para o quadril distalmente ao ligamento inguinal, não contribui para a inervação da cápsula articular proximal, sendo a dor residual explicada pela ausência de bloqueio de seus ramos motores.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024564,
+     "letra": "D",
+     "descricao": "A fáscia ilíaca se interrompe ao nível do ligamento inguinal, impedindo qualquer difusão cranial do anestésico local e tornando impossível o bloqueio dos nervos que inervam a articulação do quadril por essa abordagem.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002457,
+   "descricao": "<p>A figura abaixo representa a interação fisiológica de qual neuropeptídeo com seu receptor?</p><p><img src=\"data/imagens/15b3719248dc4343.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024571,
+     "letra": "A",
+     "descricao": "Aldosterona.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024572,
+     "letra": "B",
+     "descricao": "Dopamina.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024573,
+     "letra": "C",
+     "descricao": "Vasopressina.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024574,
+     "letra": "D",
+     "descricao": "Angiotensina.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002458,
+   "descricao": "<p>Observe a figura abaixo e assinale a alternativa correta.</p> <p><img src=\"data/imagens/2d9a8667070f6270.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024581,
+     "letra": "A",
+     "descricao": "A osmolaridade é determinada pelo número total de partículas dissolvidas na solução, enquanto a tonicidade depende apenas dos osmóis efetivos, capazes de manter gradiente osmótico através da membrana celular.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024582,
+     "letra": "B",
+     "descricao": "A bomba de sódio e potássio ATPase controla o volume celular, mantém o potencial elétrico transmembrana e sua atividade é diretamente proporcional à concentração plasmática de sódio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024583,
+     "letra": "C",
+     "descricao": "Um mol de glicose exerce a mesma pressão osmótica efetiva sobre a membrana celular que um mol de cloreto de sódio.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024584,
+     "letra": "D",
+     "descricao": "A osmolaridade plasmática é determinada principalmente pelas proteínas plasmáticas, responsáveis pela maior parte da pressão osmótica do compartimento intravascular.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002459,
+   "descricao": "<p>Paciente de 58 anos, em p&oacute;s-operat&oacute;rio de corre&ccedil;&atilde;o de obstru&ccedil;&atilde;o intestinal, mant&eacute;m sondagem nasog&aacute;strica em drenagem cont&iacute;nua h&aacute; 5 dias por d&eacute;bito elevado. Evolui com taquicardia, hipotens&atilde;o, extremidades frias e mosqueadas, sendo iniciada investiga&ccedil;&atilde;o de foco s&eacute;ptico abdominal. Gasometria arterial: pH 7,43; PaCO₂ 39 mmHg; HCO₃⁻ 25 mmol/L; Na⁺ 140 mmol/L; Cl⁻ 90 mmol/L; K⁺ 3,0 mmol/L; lactato 6 mmol/L; albumina 4,0 g/dL. Assinale a alternativa que melhor interpreta o equil&iacute;brio &aacute;cido-base dessa paciente:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024591,
+     "letra": "A",
+     "descricao": "Equilíbrio ácido-base normal, pois o pH, a PaCO₂ e o HCO₃⁻ encontram-se dentro da faixa de referência, não havendo indicação de calcular o ânion gap nem de investigar outros componentes metabólicos associados.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024592,
+     "letra": "B",
+     "descricao": "Alcalose metabólica de contração de volume secundária às perdas gástricas, sendo o ânion gap elevado uma consequência esperada da hipocloremia associada, compatível com o quadro hemodinâmico de hipovolemia apresentado pela paciente.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024593,
+     "letra": "C",
+     "descricao": "Distúrbio misto: acidose metabólica com ânion gap elevado (hipoperfusão tecidual e hiperlactatemia) associada a alcalose metabólica por perda de H⁺ pela sondagem nasogástrica, com mascaramento mútuo do pH e do bicarbonato.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024594,
+     "letra": "D",
+     "descricao": "Alcalose metabólica isolada por perda gástrica de ácido clorídrico, com hipocloremia compensatória, sendo o lactato elevado justificado pela hipoperfusão tecidual decorrente da própria hipovolemia causada pelas perdas digestivas.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002460,
+   "descricao": "<p>Sobre as reações relacionadas à transfusão de hemocomponentes, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024601,
+     "letra": "A",
+     "descricao": "As reações hemolíticas intravasculares por incompatibilidade ABO ocorrem predominantemente em pacientes do grupo sanguíneo AB.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024602,
+     "letra": "B",
+     "descricao": "A TRALI (Transfusion Related Acute Lung Injury) se assemelha clinicamente à Síndrome da Angústia Respiratória Aguda, mas dela se diferencia por cursar com pressão venosa central normal ou baixa.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024603,
+     "letra": "C",
+     "descricao": "A reação alérgica grave por anticorpos anti-IgA deve ser tratada preferencialmente com transfusão adicional de plasma do mesmo doador.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024604,
+     "letra": "D",
+     "descricao": "A hemólise não imune, associada a bombas de infusão com roletes ou variações extremas de temperatura, ocorre exclusivamente em transfusões com incompatibilidade do fator Rh.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002461,
+   "descricao": "<p>As soluções carregadoras de oxigênio são soluções que promovem a expansão de volume e transportam oxigênio. Sobre as soluções carregadoras de oxigênio, assinale a assertiva correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024611,
+     "letra": "A",
+     "descricao": "As hemoglobinas livres de estroma contêm algumas modificações na molécula de hemoglobina e, portanto, necessitam de prova cruzada, teste ABO e RH para serem infundidas.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024612,
+     "letra": "B",
+     "descricao": "As soluções de hemoglobina livres de estroma contém moléculas de hemoglobina modificada para que haja menor filtração renal e maior tempo de retenção intravascular.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024613,
+     "letra": "C",
+     "descricao": "Os perfluorocarbonos apresentam alta eficiência no transporte de oxigênio, com capacidade superior à do sangue total, sendo sua principal limitação clínica a elevada viscosidade intravascular.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024614,
+     "letra": "D",
+     "descricao": "A hemoglobina cross-linked perde a interação com o 2,3-DPG em razão da dissociação das cadeias alfa e beta, o que desloca a curva de dissociação da hemoglobina para a direita e facilita a liberação de oxigênio aos tecidos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002462,
+   "descricao": "<p>Paciente de 65 anos, sem comorbidades prévias, está sendo submetido à pancreatectomia com derivação bíliodigestiva por neoplasia de cabeça de pâncreas. Após duas horas de cirurgia apresenta queda do débito cardíaco e variação da pressão de pulso (VPP)&gt;14%, variação do volume sistólico (VVS)&gt;15%, elevação passiva das pernas com aumento de 10% do débito cardíaco. Neste momento, qual seria a conduta mais apropriada? Administrar:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024621,
+     "letra": "A",
+     "descricao": "Noradrenalina.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024622,
+     "letra": "B",
+     "descricao": "Concentrado de hemácias.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024623,
+     "letra": "C",
+     "descricao": "Solução salina.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024624,
+     "letra": "D",
+     "descricao": "Dobutamina.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002463,
+   "descricao": "<p>Uma paciente de 28 anos, multípara, com história familiar de perdas gestacionais precoces, está agendada para uma colectomia total eletiva. Na avaliação pré-anestésica, apresenta um TTPA isoladamente prolongado (relação paciente/controle de 2,1), que não se corrige após o teste de mistura 1:1 com plasma normal. O Tempo de Protrombina (TP) e a contagem de plaquetas são normais. Qual deve ser a interpretação correta deste achado laboratorial e a respectiva implicação perioperatória?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024631,
+     "letra": "A",
+     "descricao": "Há deficiência congênita do Fator VIII (Hemofilia A); alto risco de sangramento perioperatório; necessidade de reposição de fator recombinante.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024632,
+     "letra": "B",
+     "descricao": "Presença de um inibidor circulante direcionado contra os fosfolipídios do teste (anticoagulante lúpico); paradoxalmente, a paciente apresenta maior risco de eventos tromboembólicos e não de sangramento hemorrágico.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024633,
+     "letra": "C",
+     "descricao": "Consumo excessivo de fatores da via comum por Coagulação Intravascular Disseminada crônica compensada; alto risco hemorrágico.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024634,
+     "letra": "D",
+     "descricao": "Deficiência severa do Fator XII; alto risco de sangramento de difícil controle cirúrgico; contraindicação absoluta a bloqueios de eixo neural.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002464,
+   "descricao": "<p>Paciente de 50 anos, hipertenso, dislipidêmico, em uso de antagonistas da angiotensina II e betabloqueador, submetido a revascularização miocárdica e troca de valva aórtica, é anestesiado e submetido a acessos venosos e arteriais. Após esternotomia e preparo das bolsas para inserção das cânulas de CEC, obtém-se o TCA inicial de 135 segundos. Após isso, calcula-se a dose de heparina regular de 30.000 UI (6 mL) administrada via IV. Após 5 minutos, o TCA controle é de 300 segundos. É então feita uma dose de reforço de 10.000 UI (2 mL) de heparina regular; espera-se mais 5 minutos e o valor do TCA é de 310 segundos. Dentro das causas abaixo, qual o provável diagnóstico e qual a conduta a ser tomada para que a CEC (Circulação Extracorpórea) possa ser iniciada?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024641,
+     "letra": "A",
+     "descricao": "Diagnóstico: Resistência à heparina. Conduta: Substituir imediatamente a heparina por inibidores diretos da trombina (como bivalirudina ou argatroban) para alcançar o TCA adequado (> 480 segundos) antes de iniciar a CEC.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024642,
+     "letra": "B",
+     "descricao": "Diagnóstico: Resistência à heparina. Conduta: Administrar concentrado de Antitrombina III exógena (500 a 1.000 unidades) ou Plasma Fresco Congelado (2 a 4 unidades) para restaurar a sensibilidade à heparina.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024643,
+     "letra": "C",
+     "descricao": "Diagnóstico: Trombocitopenia Induzida por Heparina (TIH) tipo II. Conduta: Administrar ácido tranexâmico associado a sucessivas doses adicionais de heparina não fracionada (até 80.000 UI) para forçar o bloqueio da cascata de coagulação.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024644,
+     "letra": "D",
+     "descricao": "Diagnóstico: Trombocitopenia Induzida por Heparina (TIH) tipo II. Conduta: Suspender a heparina, administrar sulfato de protamina para reversão imediata e postergar a cirurgia até a negativação dos anticorpos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002465,
+   "descricao": "<p>Um homem de 58 anos com cirrose hepática e ascite crônica apresenta redução do volume circulante efetivo, hipocalemia e alcalose metabólica. A ativação persistente do sistema renina–angiotensina–aldosterona contribui para esses achados. Qual mecanismo explica melhor a ação renal da aldosterona nesse paciente?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024651,
+     "letra": "A",
+     "descricao": "Ativa receptores de membrana e aumenta imediatamente o AMP cíclico, reduzindo a reabsorção tubular de sódio e favorecendo a retenção renal de potássio.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024652,
+     "letra": "B",
+     "descricao": "Inibe a síntese de canais apicais de sódio e reduz a atividade da Na⁺/K⁺-ATPase, aumentando a natriurese e diminuindo a excreção urinária de potássio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024653,
+     "letra": "C",
+     "descricao": "Ativa receptores mineralocorticoides e induz transcrição gênica, aumentando canais apicais de sódio e a Na⁺/K⁺-ATPase basolateral, com retenção de sódio e perda de potássio.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024654,
+     "letra": "D",
+     "descricao": "Estimula diretamente a filtração glomerular e bloqueia a reabsorção de sódio no túbulo distal, produzindo expansão volêmica rápida sem alterações relevantes na concentração de potássio.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002466,
+   "descricao": "<p>Em relação à fisiopatologia da lesão renal aguda (LRA) no perioperatório, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024661,
+     "letra": "A",
+     "descricao": "A hipotensão arterial intraoperatória prolongada promove aumento sustentado da autorregulação renal, reduzindo o risco de necrose tubular aguda.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024662,
+     "letra": "B",
+     "descricao": "A hipervolemia é considerada estratégia protetora renal universalmente benéfica, sobretudo em pacientes críticos e cardiopatas.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024663,
+     "letra": "C",
+     "descricao": "A persistência da hipoperfusão renal pode exceder a capacidade autorregulatória do rim, culminando em hipóxia celular e necrose tubular.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024664,
+     "letra": "D",
+     "descricao": "A congestão venosa apresenta impacto mínimo sobre a função renal, sendo irrelevante na gênese da insuficiência renal congestiva.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002467,
+   "descricao": "<p>Um homem de 62 anos, com doença renal crônica estágio 5 é submetido a uma cirurgia abdominal sob anestesia geral e ventilação mecânica controlada. Durante o intraoperatório, para corrigir hipoxemia, a PEEP é aumentada de 5 para 18 cmH₂O. Ocorre elevação da pressão venosa central e redução progressiva do débito urinário. Assinale a alternativa que melhor explica esse achado, comparando com a elevação da PEEP.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024671,
+     "letra": "A",
+     "descricao": "Reduz a pressão venosa renal e aumenta a drenagem capilar peritubular, favorecendo a reabsorção de sódio e reduzindo a diurese.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024672,
+     "letra": "B",
+     "descricao": "Reduz o retorno venoso e o débito cardíaco, ao mesmo tempo que ativa o sistema renina–angiotensina–aldosterona e estimula a liberação de vasopressina.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024673,
+     "letra": "C",
+     "descricao": "Promove distensão atrial, aumenta a liberação de peptídeo natriurético atrial e reduz a atividade da renina, da aldosterona e da vasopressina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024674,
+     "letra": "D",
+     "descricao": "Aumenta a pressão alveolar, reduzindo a resistência vascular pulmonar, melhorando a pós-carga do ventrículo direito e reduzindo o fluxo urinário.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002468,
+   "descricao": "<p>Sobre as soluções de irrigação utilizadas na ressecção transuretral da próstata (RTU), assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024681,
+     "letra": "A",
+     "descricao": "O sorbitol é isosmolar ao plasma e, por isso, não está associado à síndrome pós-RTU.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024682,
+     "letra": "B",
+     "descricao": "O manitol é rapidamente metabolizado em glicose, sendo a principal causa de hiperglicemia durante a RTU.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024683,
+     "letra": "C",
+     "descricao": "A glicina e a solução fisiológica apresentam perfil semelhante de complicações sistêmicas, diferindo apenas na condutividade elétrica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024684,
+     "letra": "D",
+     "descricao": "A absorção de água destilada pode causar hemólise intravascular, enquanto a glicina está associada à hiperamonemia e a distúrbios visuais.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-2-2022",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 2ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002422,
+   "descricao": "<p>Paciente de 22 anos, politraumatizado, vítima de acidente de moto, chega ao centro&nbsp;cirúrgico em choque hipovolêmico após intensa tentativa de ressuscitação volêmica com&nbsp;cristaloides.</p><p>A) Pacientes com coagulopatia, hipotermia e acidose têm melhor&nbsp;prognóstico.</p><p>B) Os níveis do íon cálcio estão elevados após uma transfusão maciça de&nbsp;concentrado de hemácias.</p><p>C) A transfusão maciça é definida como a transfusão de 10 unidades de&nbsp;concentrado de hemácias ou mais em um período de 24 horas.</p><p>D) Plasma fresco congelado e concentrado de plaquetas devem ser&nbsp;ministrados após a administração de uma quantidade específica de&nbsp;concentrado de hemácias, geralmente em uma proporção 1:1:1.</p><p>E) Hemorragias agudas graves que podem provocar choque hipovolêmico&nbsp;necessitam de substituição imediata de hemoderivados, antes dos&nbsp;resultados dos exames laboratoriais estarem disponíveis.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024221,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024222,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20024223,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024224,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002423,
+   "descricao": "<p>Homem, 36 anos, 1,81m, 68Kg com doença renal crônica (DRC) estágio &gt;4. Pressão&nbsp;arterial 170/110 mmHg, frequência cardíaca 67 bpm. Será submetido à confecção de fistula&nbsp;arteriovenosa para realização da sua terapia de substituição renal (TSR) com hemodiálise&nbsp;em dias alternados. Última TSR há 24h, com os seguintes exames de controle após sua&nbsp;realização:</p><p>Exames laboratoriais </p><p>Hemoglobina 8,9.0 g.L-1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Proteína plasmática 3,6 g/dL </p><p>Leucócitos 5,6 x 109.L-1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ureia 72 mg.dl-1</p><p>Neutrófilos 10 x 109.L-1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Creatinina 3,58 mg.dl-1</p><p>Plaquetas 400 x 109.L-1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sódio 134 mEq/L</p><p>Com relação a este caso: </p><p>a) As doses de benzodiazepínicos, barbitúricos devem ser diminuídas e&nbsp;propofol aumentada.&nbsp;</p><p>b) Morfina é metabolizada hepaticamente para uma forma hidrossolúvel para excreção pelos rins. </p><p> c) Morfina-6-glucaronida e normeperidina não se acumulam mesmo com doses repetidas. </p><p> d) Controle pressórico e glicêmico são o tratamento de suporte da DRC. </p><p> e) O anestésico local deve ser usado com cautela devido ao risco aumentado de toxicidade sistêmica.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024231,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024232,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024233,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024234,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002424,
+   "descricao": "<p>Menino de 4 anos, 18 kg, em programação de postectomia, tratamento de hidrocele e&nbsp;orquidopexia. Sobre esse caso:</p><p>a) A inervação sensitiva do testículo origina-se no nível de T6.</p><p>b) Bloqueio peniano deve ser realizado utilizando anestésico local com&nbsp;vasoconstrictor.</p><p>c) Bloqueios regionais reduzem o risco de complicações como&nbsp;laringoespasmo e reflexos autonômicos indesejáveis.</p><p>d) Bloqueios dos nervos ilioinguinal, íleo-hipogástrico e peniano podem ser&nbsp;utilizados em associação à anestesia geral.</p><p>e) Bloqueio peridural sacral em associação à anestesia geral diminui o&nbsp;consumo de analgésicos, porém aumenta o risco de retenção urinária.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024241,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024242,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024243,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024244,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002425,
+   "descricao": "<p>Com relação ao plexo braquial e seus nervos terminais representados pelos números 1, 2, 3 e 4:</p><p><img src=\"data/imagens/8bbf65b852d79f9e.jpg\" alt=\"\"></p><p>a) O nervo representado pelo nº 1 é responsável pela inervação da face lateral do antebraço.</p><p>b) O nervo nº 3 ao ser estimulado promove a pronação do antebraço e inerva pele da superfície anterolateral da mão.</p><p>c) O nervo formado pelos ramos dos fascículos lateral e medial responde com adução do polegar ao ser estimulado.</p><p>d) A flexão do quinto dedo e inervação da pele sobre a superfície medial da mão se dá através do nervo representado pelo nº 4.</p><p>e) O estímulo do nervo formado pelo fascículo posterior nº 2 leva à flexão do punho e inerva a pele sobre a superfície póstero-lateral do braço e mão.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024251,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024252,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024253,
+     "letra": "C",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024254,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002426,
+   "descricao": "<p>Recém-nascido de 3 semanas de vida e 3 Kg está no consultório de avaliação pré-anestésica. Tem diagnóstico de estenose hipertrófica do piloro com relato de vários episódios de vômitos durante o dia.</p><p>Gasometria arterial revela pH 7,52; PaCO<sub>2</sub> 48 mmHg; PaO<sub>2</sub>&nbsp;170 mmHg; HCO<sub>3</sub>- 30 mEq/L; BE de 6,8. Quais alterações do equilíbrio ácido-base e eletrolíticas você espera encontrar nesse neonato?</p><p><b>A)</b> Hipocalemia.</p><p><b>B)</b> Hiponatremia.</p><p><b>C)</b> Hipocloremia.</p><p><b>D)</b> Acidose metabólica.</p><p><b>E)</b> Acidose respiratória.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024261,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024262,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024263,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024264,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002427,
+   "descricao": "<p>Mulher de 38 anos, 60 kg e 159 cm, vítima de queda da própria altura, apresenta fratura do cotovelo e será submetida a tratamento cirúrgico. Com relação à técnica anestésica:</p><p>a) O bloqueio do plexo braquial através da abordagem supraclavicular caracteriza-se por período de latência mais prolongado e bloqueio sensitivo efetivo com pouco bloqueio motor.</p><p>b) O bloqueio do plexo braquial por abordagem supraclavicular está indicado para cirurgias sobre a mão, antebraço, cotovelo e terço distal do úmero.</p><p>c) Na abordagem supraclavicular do plexo braquial podem ocorrer punção vascular, paralisia do nervo laríngeo recorrente e síndrome de Horner.</p><p>d) Para o bloqueio supraclavicular do plexo braquial guiado por ultrassonografia deve-se utilizar transdutor curvo de alta frequência.</p><p>e) No bloqueio supraclavicular do plexo braquial guiado por ultrassonografia é possível a visualização da pleura.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024271,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024272,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024273,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024274,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002428,
+   "descricao": "<p>Mulher de 14 anos, 1,82 m e 68 Kg, com história de laparotomia exploradora há dois dias por apendicite supurada, evoluiu com quadro de dor abdominal acentuada, náuseas, vômitos, não aceitação da dieta e febre. Será submetida a reabordagem cirúrgica abdominal. Seus exames laboratoriais apresentam aumento agudo da creatinina sérica para 2,5 vezes da linha de base e diurese de 80 ml nas últimas 4 horas. Sua fração de excreção de sódio é de 4%, cilindros granulares grosseiros e células epiteliais tubulares renais são vistos na microscopia urinária. Não há glóbulos vermelhos ou glóbulos brancos ou eosinófilos. Exames laboratoriais: hemoglobina 8,9 g.L-1, leucócitos 25,6 x 109.L-1, neutrófilos 14 x 109.L-1, presença de granulação grosseira em neutrófilos, plaquetas 400 x 109.L-1. Em relação a este caso:</p><p>a) O aumento da creatinina e a diminuição da diurese caracterizam lesão renal aguda (LRA).</p><p>b) A paciente apresenta uma lesão renal aguda oligúrica.</p><p>c) O uso de antibióticos e anti-inflamatórios pode acentuar o prejuízo renal nessa paciente.</p><p>d) Essa paciente tem fatores de risco para todas as três categorias de lesão renal aguda, mas a causa pode ser diferenciada pela fração de excreção de sódio de 4%, que sugere uma necrose tubular aguda (NTA).</p><p>e) Na anestesia desta paciente, o uso de ventilação mecânica com PEEP alta pode aumentar a taxa de filtração glomerular e o débito urinário, protegendo-a contra a lesão renal aguda.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024281,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024282,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024283,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024284,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002429,
+   "descricao": "<p>Homem de 65 anos, 1,70 m e 110 kg, em programação de prostatectomia radical por videolaparoscopia. Sobre esse caso:</p><p>a) Hidratação vigorosa com soluções cristaloides deve ser preconizada, objetivando-se manter a diurese clara.</p><p>b) A posição de cefalodeclive acentuado pode causar edema facial, faríngeo e laríngeo, sendo recomendada vigilância respiratória após a extubação.</p><p>c) Deve-se solicitar reserva de concentrados de hemácias devido ao maior risco de sangramento, em comparação à prostatectomia radical aberta.</p><p>d) O cefalodeclive associado ao pneumoperitôneo interfere na mecânica ventilatória, com tendência à redução nas pressões de pico inspiratório.</p><p>e) Hipercarbia acentuada e edema cerebral são possíveis consequências relacionadas ao posicionamento e pneumoperitôneo, sendo recomendado manter a ventilação mecânica após a cirurgia em alguns casos.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024291,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024292,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024293,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024294,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002430,
+   "descricao": "<p>Homem, 58 anos, 1,70 m e 70 Kg, será submetido à correção de hérnia inguinal bilateral. Indicada a realização do bloqueio no plano fascial do músculo transverso abdominal (TAP block) com ultrassom para a analgesia pós-operatória:</p> <p><strong>A) </strong>O TAP block produz analgesia da pele, músculos, peritônios parietal e visceral</p> <p><strong>B)</strong> A inervação da face anterior da parede abdominal se dá por meio das seis últimas raízes torácicas e primeira lombar</p> <p><strong>C) </strong>O anestésico local deve ser administrado no espaço interfascial entre os músculos oblíquo interno e o transverso abdominal</p> <p><strong>D)</strong> A analgesia pelo TAP block se estende por toda a parede abdominal, dispensando a necessidade de realizar o bloqueio bilateralmente</p> <p><strong>E)</strong> Na imagem de ultrassom na abordagem clássica deve-se visualizar: subcutâneo, músculo oblíquo externo, músculo oblíquo interno, músculo transverso do abdome e cavidade abdominal</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024301,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024302,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024303,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20024304,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002431,
+   "descricao": "<p>Mulher, 56 anos, 54 kg e 1,55 m, est&aacute; internada na UTI h&aacute; 26 dias devido a complica&ccedil;&otilde;es ap&oacute;s cirurgia abdominal. Ser&aacute; submetida &agrave; laparotomia exploradora. Os exames laboratoriais evidenciam: hemoglobina de 8,6 g.dL⁻&sup1;, albumina de 2,3 g.dL⁻&sup1;, desidrogenase l&aacute;tica de 250 U.L⁻&sup1;, ureia de 70 mg.dL⁻&sup1;, creatinina de 1,5 mg.dL⁻&sup1;, Na⁺ de 132 mEq.L⁻&sup1;, K⁺ de 4,2 mEq.L⁻&sup1;, Cl⁻ de 100 mEq.L⁻&sup1;, pH de 7,25, PaCO₂ de 38 mmHg, PaO₂ de 100 mmHg, HCO₃⁻ de 16 mEq.L⁻&sup1;, BE de -9.</p> <p>Qual altera&ccedil;&atilde;o laboratorial indica que o paciente apresenta reten&ccedil;&atilde;o de &aacute;cidos n&atilde;o vol&aacute;teis a despeito de anion gap aparentemente normal?</p> <p><strong>A)</strong> Ureia de 78 mg.dL⁻&sup1;<br><strong>B) </strong>Cloro de 100 mEq.L⁻&sup1;<br><strong>C) </strong>Albumina de 2,3 g.dL⁻&sup1;<br><strong>D) </strong>Hemoglobina de 8,9 g.dL⁻&sup1;<br><strong>E) </strong>Desidrogenase l&aacute;tica de 250 U.L⁻&sup1;</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024311,
+     "letra": "A",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20024312,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024313,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024314,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002432,
+   "descricao": "<p>Mulher, 38 anos, 66 kg, 1,58 m, vítima de queda da própria altura, apresenta fratura proximal do úmero. Será submetida a tratamento cirúrgico da fratura. Com relação à técnica adequada:</p> <p><strong>A)</strong> A via interescalênica para bloqueio do plexo braquial tipicamente permite a anestesia das regiões supridas pelo nervo axilar, supraescapular, radial, mediano e musculocutâneo</p> <p><strong>B) </strong>A abordagem interescalênica para bloqueio do plexo braquial está indicada para procedimentos envolvendo o úmero até a região do cotovelo</p> <p><strong>C) </strong>Para realização do bloqueio interescalênico guiado por ultrassonografia, o transdutor deve ser colocado no nível da 8ª vértebra cervical</p> <p><strong>D) </strong>A ocorrência de rouquidão e síndrome de Horner são complicações da abordagem interescalênica do bloqueio do plexo braquial</p> <p><strong>E)</strong> Bloqueio do nervo frênico é frequente na abordagem interescalênica para bloqueio do plexo braquial</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20024321,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20024322,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20024323,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20024324,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

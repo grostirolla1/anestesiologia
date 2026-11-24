@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-1-2019",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 1ª quadrimestral 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001108,
+   "descricao": "<p><b>De acordo com a resolução do Conselho Federal de Medicina que regulamenta o ato anestésico (2174/17): </b></p><p><b>A)</b>&nbsp;Em caso de pacientes cardiopatas com liberação por escrito do cardiologista assistente, a decisão sobre a realização ou não do ato anestésico é compartilhada entre este especialista e o anestesiologista.&nbsp;</p><p><b>B)</b>&nbsp;A determinação da temperatura do paciente deve ser realizada em procedimentos com duração superior a 30 (trinta) minutos.&nbsp;</p><p><b>C)</b>&nbsp;Na ausência de médico plantonista na sala de recuperação pós-anestésica, caberá ao médico anestesista responsável pelo procedimento anestésico o pronto atendimento ao paciente até a sua plena recuperação.&nbsp;</p><p><b>D)</b>&nbsp;Enquanto aguarda a remoção, o paciente deverá permanecer no local onde foi realizado o procedimento anestésico, sob a atenção do médico anestesista responsável.&nbsp;</p><p><b>E)</b>&nbsp;O médico anestesista deve permanecer dentro da sala do procedimento durante as anestesias gerais ou regionais mantendo vigilância permanente, assistindo o paciente até o término do ato anestésico.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011081,
+     "letra": "A",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011082,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011083,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011084,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001109,
+   "descricao": "<p>O conselho superior da SBA: </p><p>A) Deve eleger substitutos para cargos vagos no período entre as eleições.&nbsp;</p><p>B) É composto pelos três últimos presidentes da SBA.&nbsp;</p><p>C) Não tem como função apreciar as denúncias em grau de recurso.&nbsp;</p><p>D) Deve recomendar à diretoria uma chapa para disputar as eleições para cargos a vagar em comissões e comitês.&nbsp;</p><p>E) Deve presidir a Assembleia de Representantes.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011091,
+     "letra": "A",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011092,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011093,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011094,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001110,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao risco profissional do anestesiologista exposto &agrave; radia&ccedil;&atilde;o ionizante durante cirurgias com fluoroscopia:</p> <p>a) &Eacute; recomendado manter uma dist&acirc;ncia m&iacute;nima de aproximadamente 1 metro do paciente.&nbsp;</p> <p>b) Uma dist&acirc;ncia aproximada de 2 metros do paciente equivale a prote&ccedil;&atilde;o conferida por um capote de chumbo de 2,5mm de espessura.&nbsp;</p> <p>c) A maior parte dos raios X espalhados no ambiente &eacute; proveniente da fonte emissora.&nbsp;</p> <p>d) A exposi&ccedil;&atilde;o m&aacute;xima anual recomendada para uma gestante &eacute; cem vezes menor que para demais profissionais.&nbsp;</p> <p>e) Capotes de chumbo ideais devem conter uma camada m&iacute;nima de 1mm de espessura.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011101,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011102,
+     "letra": "B",
+     "descricao": "V V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011103,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011104,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001111,
+   "descricao": "<p>Homem de 62 anos, 78kg e 1,65m, hipertenso, diabético e dislipidêmico em uso regular de losartana, anlodipina, hidroclorotiazida, insulina regular e NPH, atorvastatina e aspirina será submetido a revascularização aorto-ilíaca por conta de claudicação intermitente. Exames pré-operatórios evidenciam glicemia de 164mg/dl, hemoglobina glicada de 6,2%, ureia de 89mg/dl, creatinina de 2,1mg/dl e bloqueio de ramo esquerdo no eletrocardiograma. Nesta situação:</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011111,
+     "letra": "A",
+     "descricao": "Um teste ergométrico deve ser solicitado antes do procedimento proposto",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011112,
+     "letra": "B",
+     "descricao": "O efeito vasoconstrictor do dipiridamol na circulação coronariana pode revelar áreas de isquemia na cintilografia de perfusão miocárdica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011113,
+     "letra": "C",
+     "descricao": "A administração de uma medicação α2-agonista reduz o risco de isquemia miocárdica no perioperatório.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011114,
+     "letra": "D",
+     "descricao": "A losartana aumenta o risco de hipotensão no intraperatório e sua interrupção no dia da cirurgia deve ser ponderada.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001112,
+   "descricao": "<p>Paciente masculino, 42 anos, 80 kg, 1,70m, será submetido a artroscopia de ombro sob anestesia geral e bloqueio de plexo braquial. Durante avaliação pré-anestésica é observado presença de barba volumosa. Foi solicitado ao paciente corte da barba para cirurgia sendo detectado micrognatia importante. A avaliação e o manuseio da via aérea devem levar em consideração que: </p><p><b>A) </b>A presença de barba aumenta o risco da dificuldade de ventilação sob máscara.</p><p><b>B) </b>A presença de micrognatia poderá dificultar a visualização da laringe.</p><p><b>C) </b>A intubação orotraqueal poderá ser realizada após a indução da anestesia geral, uma vez que, em caso de falha, a micrognatia não interfere na efetividade de ventilação sob máscara laríngea.</p><p><b>D) </b>A distância tireo-mentoniana reduzida irá proporcionar aumento da classificação de CormackLehane.</p><p><b>E) </b>A detecção de um preditor de via aérea difícil é suficiente e não necessita do exames de outros preditores.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011121,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011122,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011123,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011124,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001113,
+   "descricao": "<p>No posicionamento de pacientes para procedimentos anest&eacute;sicos cir&uacute;rgicos:</p> <p><strong>A)</strong> O dec&uacute;bito dorsal com membros inferiores abaixo do cora&ccedil;&atilde;o, reduz o d&eacute;bito card&iacute;aco</p> <p><strong>B) </strong>O cefaloaclive com press&atilde;o arterial sist&ecirc;mica normal aumenta a press&atilde;o de perfus&atilde;o cerebral conforme o grau de eleva&ccedil;&atilde;o da cabe&ccedil;a</p> <p><strong>C)</strong> O dec&uacute;bito lateral reduz a capacidade residual funcional e favorece o desenvolvimento de atelectasia</p> <p><strong>D) </strong>Pontos de press&atilde;o em qualquer tecido mole pode reduzir o fluxo sangu&iacute;neo local e causar isquemia</p> <p><strong>E) </strong>As neuropatias do nervo radial acontecem menos frequentemente que as do nervo mediano</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011131,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011132,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011133,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011134,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001114,
+   "descricao": "<p>Na prevenção de eventos cardíacos perioperatórios: </p><p><b>A) </b>os betabloqueadores devem ser continuados em pacientes que já fazem uso destes para condições clínicas como angina, arritmias e hipertensão.</p><p><b>B) </b>os betabloqueadores podem ser iniciados no dia da cirurgia em pacientes de alto risco.</p><p><b>C) </b>a interrupção do uso de estatinas no perioperatório associa-se a um aumento de morbidade.</p><p><b>D) </b>as estatinas não devem ser iniciadas em pacientes de alto risco cirúrgico no pré-operatório, entretanto os pacientes que já utilizam esses fármacos devem manter o seu uso.</p><p><b>E) </b>procedimentos que requerem a interrupção dos tienopiridínicos em pacientes com alto risco de trombose de stent cardíaco devem ser realizados com o uso de aspirina.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011141,
+     "letra": "A",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011142,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011143,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011144,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001115,
+   "descricao": "<p><b>No algoritmo de manuseio do paciente com via aérea difícil: </b></p><p><b>A)</b> Deve-se considerar chamar ajuda, retornar à ventilação espontânea ou acordar o paciente no caso de falha na intubação após a indução anestésica.&nbsp;</p><p><b>B)</b> Após 4 tentativas de intubação sem sucesso, é possivel seguir com essa técnica para o controle da via aérea, se o paciente seguir com oxigenação e ventilação sob máscara facial adequadas.&nbsp;</p><p><b>C)</b> Após deparar-se com insucesso da intubação e falha na ventilação sob máscara facial, deve-se proceder com intubação por videolaringoscópio.&nbsp;</p><p><b>D)</b> Quando há falha tanto na ventilação sob máscara facial quanto na inserção de um dispositivo supraglótico e na intubação traqueal, deve-se considerar cricostomia.&nbsp;</p><p><b>E)</b> A via aérea invasiva inclui o acesso cirúrgico ou percutâneo, ventilação por jato e intubação retrógrada.&nbsp;</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011151,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011152,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011153,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011154,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-3-2018",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 3ª quadrimestral 2018",
+  "ano": "2018",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001279,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos anest&eacute;sicos locais: </p> <p><strong>A) </strong>As aminoamidas s&atilde;o metabolizadas pela via do citocromo P450 no f&iacute;gado</p> <p><strong>B) </strong>Nas fibras nervosas mielinizadas, os anest&eacute;sicos locais se ligam aos canais de s&oacute;dio voltagem-dependente na membrana axonal sob a bainha de mielina</p> <p><strong>C) </strong>No paciente cirr&oacute;tico a ropivaca&iacute;na tem menor risco de toxicidade sist&ecirc;mica</p> <p><strong>D) </strong>A hipoalbuminemia reduz o risco de toxicidade sist&ecirc;mica do anest&eacute;sico local</p> <p><strong>E)</strong> Toxicidade direta aos mi&oacute;citos &eacute; uma complica&ccedil;&atilde;o dos anest&eacute;sicos locais</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012791,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012792,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012793,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012794,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001280,
+   "descricao": "<p>Sobre anatofisiologia do componente pré sináptico da transmissão neuromuscular: </p><p><b>A) </b>Os canais rápidos de cálcio (P) são responsáveis pela liberação da acetilcolina.</p><p><b>B) </b>O fármaco 4 aminopirina diminuem a duração do potencial de ação e da liberação de acetilcolina.</p><p><b>C) </b>Os canais lentos de cálcio (L) são sensíveis ao aumento da ativação da adenil ciclase.</p><p><b>D) </b>Os canais lentos de cálcio (L) são sensíveis as drogas da classe das aminopiridinas.</p><p><b>E) </b>O Cádmio (Cd +2) atua no canal P diminui a transmissão neuromuscular.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012801,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012802,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012803,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012804,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001281,
+   "descricao": "<p>Na ressuscita&ccedil;&atilde;o cardiopulmonar (RCP) observa-se que:</p> <p><strong>A) </strong>A satura&ccedil;&atilde;o de oxig&ecirc;nio pr&eacute;-ductal atinge valores de 87 a 92 % no quinto minuto do rec&eacute;m-nascido a termo</p> <p><strong>B) </strong>A ces&aacute;rea perimortem est&aacute; indicada no quarto minuto das manobras sem retorno da circula&ccedil;&atilde;o espont&acirc;nea somente no terceiro trimestre da gravidez</p> <p><strong>C) </strong>O uso de desfibrilador monof&aacute;sico no tratamento da fibrila&ccedil;&atilde;o ventricular deve usar uma carga individual de 200 Joules</p> <p><strong>D) </strong>Na taquicardia polim&oacute;rfica ventricular (torsade pointes) secund&aacute;ria a um intervalo QT longo, o uso de amiodarona e procainamida est&aacute; contra-indicado</p> <p><strong>E)</strong> O retorno da circula&ccedil;&atilde;o espont&acirc;nea inclui presen&ccedil;a de pulso e press&atilde;o, capnometria maior que 40 mmHg e ondas de press&atilde;o arterial espont&acirc;nea</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012811,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012812,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012813,
+     "letra": "C",
+     "descricao": "F F V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012814,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001282,
+   "descricao": "<p>Mulher de 72 anos, 62Kg e 1,60m, ASA I, &eacute; submetida a corre&ccedil;&atilde;o de incontin&ecirc;ncia urinaria por via baixa sob raquianestesia com 20mg de bupivaca&iacute;na hiperb&aacute;rica em L2-L3. Ap&oacute;s 5 minutos, o n&iacute;vel sensorial est&aacute; em T4. Devemos esperar:</p> <p><strong>1. </strong>Aumento na PaO2.</p> <p><strong>2. </strong>Diminui&ccedil;&atilde;o no espa&ccedil;o morto.</p> <p><strong>3. </strong>Diminui&ccedil;&atilde;o da for&ccedil;a expirat&oacute;ria.</p> <p><strong>4. </strong>Dispneia decorrente de hipoxemia.</p> <p><strong>5. </strong>Aumento da PaCO2.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012821,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012822,
+     "letra": "B",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012823,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012824,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001283,
+   "descricao": "<p>Paciente sexo feminino, 27 anos, submetida a bloqueio subaracn&oacute;ideo para realiza&ccedil;&atilde;o de histerectomia vaginal apresenta cefaleia de grande intensidade cerca de doze horas ap&oacute;s a realiza&ccedil;&atilde;o do procedimento. Em rela&ccedil;&atilde;o ao diagn&oacute;stico e &agrave; conduta diante da cefaleia p&oacute;s-pun&ccedil;&atilde;o da dura-m&aacute;ter &eacute; correto afirmar que:</p> <p><strong>A. </strong>Apresenta uma localiza&ccedil;&atilde;o frontal, temporal ou occipital com poss&iacute;vel irradia&ccedil;&atilde;o para regi&atilde;o cervical.</p> <p><strong>B. </strong>Apresenta exacerba&ccedil;&atilde;o na posi&ccedil;&atilde;o supina.</p> <p><strong>C. </strong>Apresenta na maioria dos casos remiss&atilde;o espont&acirc;nea em at&eacute; sete dias, n&atilde;o necessitando no caso de outra abordagem alem de repouso, analg&eacute;sicos e hidrata&ccedil;&atilde;o.</p> <p><strong>D. </strong>Apresenta maior incid&ecirc;ncia em pacientes do sexo feminino.</p> <p><strong>E. </strong>A utiliza&ccedil;&atilde;o do tamp&atilde;o sangu&iacute;neo no caso apresenta baixa efic&aacute;cia e alto &iacute;ndice de recidivas em 24 horas.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012831,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012832,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012833,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012834,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001284,
+   "descricao": "<p>&Eacute; crit&eacute;rio obrigat&oacute;rio de alta da sala de recupera&ccedil;&atilde;o p&oacute;s-anest&eacute;sica (SRPA) para a enfermaria:</p> <p>A) Tempo m&iacute;nimo de 1 hora na unidade.&nbsp;</p> <p>B) Apresentar d&eacute;bito urin&aacute;rio.&nbsp;</p> <p>C) Ser capaz de ingerir l&iacute;quidos.&nbsp;</p> <p>D) Apresentar frequ&ecirc;ncia respirat&oacute;ria normal.&nbsp;</p> <p>E) Estar acordado e alerta.&nbsp;</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012841,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012842,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012843,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012844,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001285,
+   "descricao": "<p>Em relação aos anestésicos locais: </p><p>a) um fármaco com grande afinidade protéica apresenta maior risco de toxicidade em situações de hipoalbuminemia.&nbsp;</p><p>b) a diminuição do pH diminui a latencia.&nbsp;</p><p>c) a ropivacaína é comercializada apenas na sua forma levógira.&nbsp;</p><p>d) a adição de bicarbonato à solução reduz a concentração mínima capaz de produzir efeitos anestésicos pelo fármaco.&nbsp;</p><p>e) os amino-amidas apresentam meia vida aumentada em neonatos.&nbsp;</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012851,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012852,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012853,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012854,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001286,
+   "descricao": "<p>Mulher de 52 anos, 82 kg e 1,55m, será submetida a anestesia geral para cirurgia videolaparoscópica de urgência. Apresenta antecedente de miastenia gravis e dislipidemia. Em uso de corticoide e rosuvastatina. O gerenciamento do bloqueador neuromuscular deve levar em consideração que: </p><p><b>A) </b>Na miastenia gravis há aumento da sensibilidade aos bloqueadores neuromusculares não despolarizantes.</p><p><b>B) </b>Na miastenia gravis há resistência ao bloqueador neuromuscular despolarizante.</p><p><b>C) </b>A rosuvastatina não altera a potência, duração clínica e duração total do bloqueador neuromuscular.</p><p><b>D) </b>A rosuvastatina proporciona aumento da fasciculação e dos níveis plasmáticos de potássio após administração da succinilcolina.</p><p><b>E) </b>A hipotermia acidental no intraoperatório pode ocasionar aumento na duração de ação do bloqueador não despolarizante.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012861,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012862,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012863,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012864,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001287,
+   "descricao": "<p>Homem de 76 anos, 65kg e 1,75m, portador de DPOC est&aacute;vel em uso regular de fenoterol, tiotr&oacute;pio e fluticasona, com satura&ccedil;&atilde;o arterial em ar ambiente de 91% e sem demais comorbidades, ser&aacute; submetido a herniorrafia inguinal bilateral sob raquianestesia e seda&ccedil;&atilde;o leve. Foram administrados 15 mg de bupivacaina hiperb&aacute;rica subaracn&oacute;idea, em pun&ccedil;&atilde;o &uacute;nica em L3-L4, sem intercorr&ecirc;ncias. N&iacute;vel sensorial obtido T8. Nessa situa&ccedil;&atilde;o:</p> <p><strong>A. </strong>Aumento do shunt intrapulmonar &eacute; esperado.</p> <p><strong>B. </strong>Dispneia e queda da oximetria de pulso podem ser frequente.</p> <p><strong>C. </strong>Diminui&ccedil;&atilde;o do volume de reserva expirat&oacute;rio &eacute; esperado.</p> <p><strong>D. </strong>A utiliza&ccedil;&atilde;o de m&eacute;todo de controle de hipotermia n&atilde;o &eacute; necess&aacute;ria, j&aacute; que n&atilde;o h&aacute; perda de calor expressiva.</p> <p><strong>E. </strong>A execu&ccedil;&atilde;o de barbotagem promoveria um menor tempo de lat&ecirc;ncia e maiores dispers&atilde;o e previsibilidade no n&iacute;vel sensorial obtido.</p>",
+   "ano": "2018",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012871,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012872,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012873,
+     "letra": "C",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012874,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

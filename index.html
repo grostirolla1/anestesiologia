@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anestesiologia aberta</title>
+  <meta name="description" content="Banco aberto de questões de anestesiologia: questões de TSA, TEA, ME e concursos explicadas a partir da literatura. Da residência ao título, aberto para todos.">
+  <meta name="color-scheme" content="light">
+  <script>try { var t = localStorage.getItem('anestesiologia-aberta:tema'); document.documentElement.dataset.theme = t === 'dark' ? 'dark' : 'light'; } catch (e) {}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="pular" href="#conteudo">Ir para o conteúdo</a>
+  <header class="topo">
+    <a class="marca" href="#/">Anestesiologia aberta</a>
+    <nav aria-label="Principal">
+      <a href="#/montar/estudo">Estudar</a>
+      <a href="#/montar/simulado">Simulado</a>
+      <a href="#/ia">Estudar com IA</a>
+      <a href="#/contribuir">Contribuir</a>
+      <a href="#/sobre">Sobre</a>
+    </nav>
+    <button type="button" class="troca-tema" id="troca-tema" aria-label="Trocar entre tema claro e escuro">Tema escuro</button>
+  </header>
+  <main id="conteudo" tabindex="-1">
+    <p class="carregando">Carregando as questões…</p>
+  </main>
+  <footer class="rodape">
+    <p>As respostas seguem o gabarito oficial. As explicações são escritas com IA a partir da literatura e podem conter erros. Encontrou um? <a href="#/contribuir">Aponte</a>.</p>
+    <p>Material de estudo: não substitui livro-texto, diretriz nem julgamento clínico.</p>
+    <p><a href="https://github.com/grostirolla1/anestesiologia">Código e questões no GitHub</a></p>
+  </footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

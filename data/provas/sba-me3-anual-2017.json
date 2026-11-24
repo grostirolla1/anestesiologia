@@ -1,0 +1,1728 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2017",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2017",
+  "ano": "2017",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003029,
+   "descricao": "<p>O médico responsável pelo gerenciamento do centro cirúrgico deve possuir:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030291,
+     "letra": "A",
+     "descricao": "Estilo de liderança agressivo e centralizador",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030292,
+     "letra": "B",
+     "descricao": "Ponto de vista firme e impositivo sobre as demandas diárias",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030293,
+     "letra": "C",
+     "descricao": "Capacidade de abordar controles regulatórios e de supervisão",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030294,
+     "letra": "D",
+     "descricao": "Ascensão sobre os demais profissionais e consequente subordinação destes aos seus comandos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003030,
+   "descricao": "<p>A elevação da complacência pulmonar decorrente dos efeitos mecânicos da PEEP (pressão expiratória final positiva) e CPAP (pressão via aérea positiva continua) se reflete na função pulmonar por:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030301,
+     "letra": "A",
+     "descricao": "Recrutamento alveolar",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030302,
+     "letra": "B",
+     "descricao": "Hiperdistensão alveolar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030303,
+     "letra": "C",
+     "descricao": "Turbilhonamento do ar alveolar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030304,
+     "letra": "D",
+     "descricao": "Distribuição heterogênea da ventilação alveolar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003031,
+   "descricao": "<p>É considerado índice fisiológico preditivo de insucesso no desmame da ventilação mecânica:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030311,
+     "letra": "A",
+     "descricao": "Volume corrente de 6 mL.kg’1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030312,
+     "letra": "B",
+     "descricao": "Capacidade vital de 18 mL.kg’1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030313,
+     "letra": "C",
+     "descricao": "Pressão inspiratória de - 20 cmH2O",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030314,
+     "letra": "D",
+     "descricao": "Índice combinado ou de Tobin de 90",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003032,
+   "descricao": "<p><b>(Questão adaptada) </b>Causa de obstrução da via aérea superior em paciente politraumatizado:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030321,
+     "letra": "A",
+     "descricao": "Broncoespasmo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030322,
+     "letra": "B",
+     "descricao": "Contusão pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030323,
+     "letra": "C",
+     "descricao": "Aspiração de sangue",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030324,
+     "letra": "D",
+     "descricao": "Inalação de gás tóxico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003033,
+   "descricao": "<p>Homem de 59 anos, em unidade de terapia intensiva, com história de pneumonectomia total direita Por câncer de pulmão, diabetes mellitus e insuficiência renal crônica, dialisado em fístula arteriovenosa no antebraço direito. Atualmente em estágio inicial de choque séptico, necessita de acesso venoso central para administração de vasopressores. Qual local e mais apropriado para a inserção do acesso central neste indivíduo?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030331,
+     "letra": "A",
+     "descricao": "Veia subclávia direita",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030332,
+     "letra": "B",
+     "descricao": "Veia subclávia esquerda",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030333,
+     "letra": "C",
+     "descricao": "Veia jugular interna direita",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030334,
+     "letra": "D",
+     "descricao": "Veia jugular interna esquerda",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003034,
+   "descricao": "<p>No paciente usuário de cocaína, qual o mecanismo eletrofisiológico responsável pelo surgimento de arritmias ventriculares?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030341,
+     "letra": "A",
+     "descricao": "Aumento da liberação de Ca+2 sarcoplasmático",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030342,
+     "letra": "B",
+     "descricao": "Inibição da liberação de Mg+ sarcoplasmático",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030343,
+     "letra": "C",
+     "descricao": "Inibição da condutância de Ca+2 na membrana miocárdica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030344,
+     "letra": "D",
+     "descricao": "Aumento da condutância de Na+ na membrana miocárdica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003035,
+   "descricao": "<p>O pico de concentração plasmática da adrenalina associada a lidocaína após a infiltração subcutânea e atingido após (minutos):</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030351,
+     "letra": "A",
+     "descricao": "90",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030352,
+     "letra": "B",
+     "descricao": "120",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030353,
+     "letra": "C",
+     "descricao": "150",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030354,
+     "letra": "D",
+     "descricao": "180",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003036,
+   "descricao": "<p>Na primeira fase de ressuscitação do paciente queimado deve-se evitar:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030361,
+     "letra": "A",
+     "descricao": "Uso de diuréticos",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030362,
+     "letra": "B",
+     "descricao": "Ventilação de alta frequência",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030363,
+     "letra": "C",
+     "descricao": "Intubação traqueal para prevenir edema",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030364,
+     "letra": "D",
+     "descricao": "Reposição hídrica inicial pelo método de Parkland",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003037,
+   "descricao": "<p>A ventilação mecânica, em pacientes com doença pulmonar obstrutiva crônica, deve ser ajustada para manter o nível de CO2 adequado, evitando:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030371,
+     "letra": "A",
+     "descricao": "Auto-PEEP",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030372,
+     "letra": "B",
+     "descricao": "Broncoespasmo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030373,
+     "letra": "C",
+     "descricao": "Hipoventilação pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030374,
+     "letra": "D",
+     "descricao": "Acidose respiratória rebote",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003038,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a ventila&ccedil;&atilde;o monopulmonar com tubo traqueal de duplo l&uacute;men (TDL), podemos afirmar</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030381,
+     "letra": "A",
+     "descricao": "O TDL esquerdo é contraindicado para procedimentos do lado direito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030382,
+     "letra": "B",
+     "descricao": "O TDL direito e preferível para procedimentos do lado direito e esquerdo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030383,
+     "letra": "C",
+     "descricao": "A profundidade necessária para a inserção do TDL está correlacionada com a idade do paciente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030384,
+     "letra": "D",
+     "descricao": "A largura do brônquio esquerdo e estimada pela multiplicação da largura da traqueia por 0,6813",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003039,
+   "descricao": "<p>Com qual onda do eletrocardiograma a cardiovers&atilde;o el&eacute;trica deve ser sincronizada para tratamento de fibrila&ccedil;&atilde;o atrial?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030391,
+     "letra": "A",
+     "descricao": "Q",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030392,
+     "letra": "B",
+     "descricao": "R",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20030393,
+     "letra": "C",
+     "descricao": "S",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030394,
+     "letra": "D",
+     "descricao": "T",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003040,
+   "descricao": "<p>&Iacute;ndice de fun&ccedil;&atilde;o pulmonar preditivo de alto risco de complica&ccedil;&otilde;es respirat&oacute;rias no p&oacute;s-operat&oacute;rio de pneumectomia:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030401,
+     "letra": "A",
+     "descricao": "VEF1ppo (VEF1 previsto no pós-operatório) menor que 30 %",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030402,
+     "letra": "B",
+     "descricao": "DLco (capacidade de difusão da membrana) menor que 40 %",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030403,
+     "letra": "C",
+     "descricao": "VO2 máx. (consumo máximo de oxigênio) menor que 15 mL.kg‘1.min'1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030404,
+     "letra": "D",
+     "descricao": "Sat O2 (saturação de oxigênio) durante exercício menor que 4% da basal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003041,
+   "descricao": "<p>Em qual exame pré-operatório a síndrome de Brugada pode ser detectada?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030411,
+     "letra": "A",
+     "descricao": "Ecocardiografia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030412,
+     "letra": "B",
+     "descricao": "Eletrocardiograma",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20030413,
+     "letra": "C",
+     "descricao": "Cintilografia cardíaca",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030414,
+     "letra": "D",
+     "descricao": "Ressonância cardíaca",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003042,
+   "descricao": "<p>Paciente portador de cardiopatia congênita com pressão arterial pulmonar média de 29 mmHg. Durante o manejo anestésico, qual o fator relacionado a diminuição da resistência vascular pulmonar neste caso?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030421,
+     "letra": "A",
+     "descricao": "Hipercapnia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030422,
+     "letra": "B",
+     "descricao": "PEEP de 10 mmHg",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030423,
+     "letra": "C",
+     "descricao": "Diminuição da PaO2",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030424,
+     "letra": "D",
+     "descricao": "Ventilação espontânea",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003043,
+   "descricao": "<p>Qual parâmetro hemodinâmico aumenta com o clampeamento aórtico durante cirurgias de aneurisma suprarrenal?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030431,
+     "letra": "A",
+     "descricao": "Débito cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030432,
+     "letra": "B",
+     "descricao": "Fração de ejeção",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030433,
+     "letra": "C",
+     "descricao": "Fluxo sanguíneo renal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030434,
+     "letra": "D",
+     "descricao": "Pressão arterial acima do clampeamento",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003044,
+   "descricao": "<p>Qual das curvas do gráfico fluxo sanguíneo encefálico versus pressão arterial média, correlaciona-se com anemia aguda?</p><p><img src=\"data/imagens/6345035c92e2c0d9.jpg\" alt=\"\"><br></p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030441,
+     "letra": "A",
+     "descricao": "A",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030442,
+     "letra": "B",
+     "descricao": "B",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030443,
+     "letra": "C",
+     "descricao": "C",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030444,
+     "letra": "D",
+     "descricao": "D",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003045,
+   "descricao": "<p>Dentre os métodos de neuroproteção, qual está relacionado com integridade da membrana neuronal, homeostase da concentração iônica e diminuição da taxa metabólica cerebral de oxigênio?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030451,
+     "letra": "A",
+     "descricao": "Hipotermia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030452,
+     "letra": "B",
+     "descricao": "Hiperperfusão cerebral",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030453,
+     "letra": "C",
+     "descricao": "Hipertensão arterial permissiva",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030454,
+     "letra": "D",
+     "descricao": "Barbitúricos em doses tituladas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003046,
+   "descricao": "<p>Paciente será submetido a cirurgia para clampeamento de aneurisma cerebral por via endovascular. Ao exame neurológico apresenta-se sonolento e com déficit focal moderado. A tomografia computadorizada mostra coleção subaracnóidea densa &gt; 1 mm de espessura em sentindo vertical. Quais os escores de Hunt-Hess e Fischer, respectivamente?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030461,
+     "letra": "A",
+     "descricao": "3 e 4",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030462,
+     "letra": "B",
+     "descricao": "2 e 4",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030463,
+     "letra": "C",
+     "descricao": "2 e 3",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030464,
+     "letra": "D",
+     "descricao": "3 e 3",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003047,
+   "descricao": "<p>Qual mecanismo de perda de calor descrito por propriedade de superfície, ou seja, emissividade durante a anestesia e cirurgia?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030471,
+     "letra": "A",
+     "descricao": "Radiação",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030472,
+     "letra": "B",
+     "descricao": "Condução",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030473,
+     "letra": "C",
+     "descricao": "Convecção",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030474,
+     "letra": "D",
+     "descricao": "Evaporação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003048,
+   "descricao": "<p>Mulher, 68 anos, com artrite reumatoide grave, realizou avaliação da função pulmonar pré-operatória. O volume expiratório forçado no 1º segundo (VEF1) e a capacidade vital forçada (CVF) estão dentro dos limites normais. No entanto, a ventilação voluntaria máxima (VVM) é de apenas 40% da prevista. Qual é o próximo exame a ser solicitado para completar a avaliação pulmonar deste paciente?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030481,
+     "letra": "A",
+     "descricao": "Curva fluxo-volume",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030482,
+     "letra": "B",
+     "descricao": "Medida do fluxo de pico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030483,
+     "letra": "C",
+     "descricao": "Scan da ventilação I perfusão",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030484,
+     "letra": "D",
+     "descricao": "Gasometria arterial em ar ambiente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003049,
+   "descricao": "<p>Mulher, 59 anos, com histórico de perda de peso significativa, dificuldade para subir 1 lance de escada, de hipertensão arterial, diabetes e glaucoma controlados, programada para cirurgia de fratura patológica de fêmur. Quantos critérios da síndrome de fragilidade esta paciente possui?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030491,
+     "letra": "A",
+     "descricao": "1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030492,
+     "letra": "B",
+     "descricao": "2",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20030493,
+     "letra": "C",
+     "descricao": "3",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030494,
+     "letra": "D",
+     "descricao": "4",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003050,
+   "descricao": "<p>Paciente de 60 anos, previamente hígido, sem uso de medicações, com presbiacusia e uso de aparelho auditivo bilateral, apresenta dor e limitação da deambulação por lesão de osteoartrose em quadril esquerdo há 6 meses, submetido a anestesia geral combinada a peridural com cateter para analgesia pós-operatória para artroplastia de quadril com prótese. Encaminhado a UTI, onde após 6 h do POI evoluiu com delírio pós-operatório. Indique a alternativa que apresenta associação de fatores predisponentes, deste paciente, para o desenvolvimento de delírio pós-operatório:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030501,
+     "letra": "A",
+     "descricao": "Peridural e cirurgia de quadril",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030502,
+     "letra": "B",
+     "descricao": "Idade e necessidade de UTI pós-operatório",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030503,
+     "letra": "C",
+     "descricao": "Déficit auditivo e limitação da deambulação",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030504,
+     "letra": "D",
+     "descricao": "Ausência de comorbidades e anestesia geral",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003051,
+   "descricao": "<p>Recém-nascido de 4 kg, 3 horas de vida apresenta-se com macrossomia e macroglossia, sem outras anomalias, programado para reparo cirúrgico de onfalocele. Qual a provável alteração observada neste paciente?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030511,
+     "letra": "A",
+     "descricao": "Hipoxemia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030512,
+     "letra": "B",
+     "descricao": "Hipercalemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030513,
+     "letra": "C",
+     "descricao": "Hipoglicemia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030514,
+     "letra": "D",
+     "descricao": "Acidose metabólica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003052,
+   "descricao": "<p>Qual dos seguintes opioides tem menor meia*vida no recém-nascido em comparação com crianças mais velhas?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030521,
+     "letra": "A",
+     "descricao": "Fentanil",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030522,
+     "letra": "B",
+     "descricao": "Alfentanil",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030523,
+     "letra": "C",
+     "descricao": "Sufentanil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030524,
+     "letra": "D",
+     "descricao": "Remifentanil",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003053,
+   "descricao": "<p>Paciente submetido a transplante card&iacute;aco h&aacute; 3 anos, apresenta-se para fixa&ccedil;&atilde;o de f&ecirc;mur ap&oacute;s queda. Sobre o manejo anest&eacute;sico afirmamos que:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030531,
+     "letra": "A",
+     "descricao": "Indicado atropina em caso de bradicardia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030532,
+     "letra": "B",
+     "descricao": "Débito cardíaco não depende da pré-carga",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030533,
+     "letra": "C",
+     "descricao": "Fenilefrina será mais eficaz do que a efedrina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030534,
+     "letra": "D",
+     "descricao": "Frequência cardíaca de repouso e de 80 a 90 batimentos/minuto",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003054,
+   "descricao": "<p>Fator de risco para apneia pós-operatória em prematuro programado para herniorrafia inguinal bilateral:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030541,
+     "letra": "A",
+     "descricao": "Hematócrito de 32%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030542,
+     "letra": "B",
+     "descricao": "Hemoglobina de 11,5 dL.kg'1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030543,
+     "letra": "C",
+     "descricao": "Idade pós-conceptual de 43 semanas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030544,
+     "letra": "D",
+     "descricao": "Anestesia inalatória associada a bloqueio regional",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003055,
+   "descricao": "<p>Qual das seguintes escalas e indicada para avaliação da dor pós-operatória no neonato?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030551,
+     "letra": "A",
+     "descricao": "Objetiva de dor (OPS)",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030552,
+     "letra": "B",
+     "descricao": "Analógica visual (EAV)",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030553,
+     "letra": "C",
+     "descricao": "Faces de Wong e Backer",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030554,
+     "letra": "D",
+     "descricao": "Mensuração de dor pós-operatória pelos pais (PPPM)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003056,
+   "descricao": "<p>Mulher, 60 anos, submetida a transplante renal há 3 anos. Recentemente apresenta sintomas de angina, dor em membros inferiores a deambulação e agravamento da hipertensão arterial. Qual agente imunossupressor causa estes sintomas?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030561,
+     "letra": "A",
+     "descricao": "Azatioprina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030562,
+     "letra": "B",
+     "descricao": "Rapamicina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030563,
+     "letra": "C",
+     "descricao": "Ciclosporina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030564,
+     "letra": "D",
+     "descricao": "Prednisolona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003057,
+   "descricao": "<p>Quais os exames laboratoriais utilizados para calcular ๐ escore de MELD (Model for End-Stage Liver Disease) utilizado como preditor de mortalidade pré-transplante hepático?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030571,
+     "letra": "A",
+     "descricao": "Bilirrubina, cálcio ionizado e fosfatase alcalina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030572,
+     "letra": "B",
+     "descricao": "Fosfatase alcalina, albumina e ureia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030573,
+     "letra": "C",
+     "descricao": "Ureia, potássio e fosfatase acida",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030574,
+     "letra": "D",
+     "descricao": "INR, creatinina e bilirrubina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003058,
+   "descricao": "<p>Homem, 54 anos, em uso de analgesia controlada pelo paciente (PCA) após artroplastia total do quadril. Programada administração de dose máxima 2 mg de morfina a cada a 15 minutos (tempo de bloqueio), com dose máxima total de 30 mg em 4 horas. No primeiro dia o doente recebe 15 doses a cada 4 horas pressionando o botão de entrega a cada 10 a 12 minutos. Qual adequação dever ser feita no programa?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030581,
+     "letra": "A",
+     "descricao": "Mudar o analgésico de morfina para meperidina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030582,
+     "letra": "B",
+     "descricao": "Aumentar o tempo de bloqueio de 15 a 25 minutos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030583,
+     "letra": "C",
+     "descricao": "Interromper a bomba de PCA e administrar morfina intramuscular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030584,
+     "letra": "D",
+     "descricao": "Aumentar a dose para 3 mg a cada 15 minutos, até uma dose máxima total de 48 mg a cada 4 horas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003059,
+   "descricao": "<p>Parâmetro hemodinâmico encontrado na monitorização com cateter da artéria pulmonar durante a fase hiperdinâmica do choque séptico:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030591,
+     "letra": "A",
+     "descricao": "Diminuição do débito cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030592,
+     "letra": "B",
+     "descricao": "Diminuição do índice cardíaco",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030593,
+     "letra": "C",
+     "descricao": "Pressão de capilar pulmonar reduzida",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030594,
+     "letra": "D",
+     "descricao": "Queda acentuada da resistência vascular periférica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003060,
+   "descricao": "<p>Paciente do sexo feminino com quadro de dor, edema, alodinia, hiperestesia e pele quente, em tornozelo esquerdo, após trauma há cerca de dois meses. Entre as opções abaixo, qual a melhor conduta para o manejo do quadro álgico dessa paciente?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030601,
+     "letra": "A",
+     "descricao": "Bloqueio do gânglio ímpar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030602,
+     "letra": "B",
+     "descricao": "Bloqueio simpático lombar",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20030603,
+     "letra": "C",
+     "descricao": "Administração endovenosa de morfina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030604,
+     "letra": "D",
+     "descricao": "Bloqueio do plexo hipogástrico superior",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003061,
+   "descricao": "<p>Qual é o limiar de hemoglobina glicada em que há um aumento expressivo no risco de microalbuminúria?&nbsp;</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030611,
+     "letra": "A",
+     "descricao": "5,4",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030612,
+     "letra": "B",
+     "descricao": "6,1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030613,
+     "letra": "C",
+     "descricao": "8,1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030614,
+     "letra": "D",
+     "descricao": "9,2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003062,
+   "descricao": "<p>Diante de um paciente com hipertensão intracraniana, associada a edema cerebral, o anestesista deve:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030621,
+     "letra": "A",
+     "descricao": "Posicionar o paciente em cefaloaclive",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20030622,
+     "letra": "B",
+     "descricao": "Manter osmolaridade plasmática entre 270-280 mOsm/L",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030623,
+     "letra": "C",
+     "descricao": "Administrar esteroides em casos de sangramento extradural",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030624,
+     "letra": "D",
+     "descricao": "Instituir ventilação mecânica com PEEP maior que 12 cmH2O",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003063,
+   "descricao": "<p>Complicação mais comum após procedimentos intervencionistas de crioablação tumoral guiado por ressonância magnética:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030631,
+     "letra": "A",
+     "descricao": "Anafilaxia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030632,
+     "letra": "B",
+     "descricao": "Sangramento",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20030633,
+     "letra": "C",
+     "descricao": "Mioglobinúria",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030634,
+     "letra": "D",
+     "descricao": "Trombocitopenia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003064,
+   "descricao": "<p>Homem, 89 anos, submetido a embolização de aneurisma cerebral sob anestesia geral. Qual efeito do propofol 2 mg.kg’1 em infusão continua sobre a responsividade ao CO2 na vasculatura cerebral?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030641,
+     "letra": "A",
+     "descricao": "Diminui em 30%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030642,
+     "letra": "B",
+     "descricao": "Diminui em 50%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030643,
+     "letra": "C",
+     "descricao": "Aumenta em 50%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030644,
+     "letra": "D",
+     "descricao": "Permanece inalterada",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003065,
+   "descricao": "<p>Mulher, 53 anos, portadora de hipertireoidismo, programada para histerectomia total. Qual a combinação de fármacos utilizada no pré-operatório para diminuir os sintomas cardiovasculares e as concentrações séricas de T3 e T4?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030651,
+     "letra": "A",
+     "descricao": "Tapazol e enalapril",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030652,
+     "letra": "B",
+     "descricao": "Atenolol e levotiroxina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030653,
+     "letra": "C",
+     "descricao": "Metimazol e amiodarona",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030654,
+     "letra": "D",
+     "descricao": "Propanolol e iodeto de potássio",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003066,
+   "descricao": "<p>Paciente vítima de acidente automobilístico, apresentando-se com Fratura Lefort II, trata-se de uma fratura:</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030661,
+     "letra": "A",
+     "descricao": "Horizontal dento alveolar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030662,
+     "letra": "B",
+     "descricao": "Permite a comunicação com a fossa craniana anterior",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030663,
+     "letra": "C",
+     "descricao": "Piramidal ou triangular que separa a maxila do zigoma",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20030664,
+     "letra": "D",
+     "descricao": "Completo deslocamento do esqueleto facial em relação aos ossos do crânio",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003067,
+   "descricao": "<p>No quesito segurança em anestesia, qual fator representa impacto positivo no desempenho do anestesiologista?</p>",
+   "ano": "2017",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20030671,
+     "letra": "A",
+     "descricao": "Música no ambiente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20030672,
+     "letra": "B",
+     "descricao": "Presença de visitantes",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20030673,
+     "letra": "C",
+     "descricao": "Distrações de curta duração",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20030674,
+     "letra": "D",
+     "descricao": "Exercício de simulação realística",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

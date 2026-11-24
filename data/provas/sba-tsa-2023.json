@@ -1,0 +1,716 @@
+{
+ "prova": {
+  "slug": "sba-tsa-2023",
+  "banca": "SBA",
+  "concurso": "TSA",
+  "titulo": "TSA 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006346,
+   "descricao": "<p>Qual dos fitoter&aacute;picos abaixo aumenta o risco de hipoglicemia perioperat&oacute;ria:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063461,
+     "letra": "A",
+     "descricao": "Ginseng",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063462,
+     "letra": "B",
+     "descricao": "Chá Verde",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063463,
+     "letra": "C",
+     "descricao": "Ecchinacea",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063464,
+     "letra": "D",
+     "descricao": "Gingko Biloba",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006347,
+   "descricao": "<p>Assinale a op&ccedil;&atilde;o que apresenta um diagn&oacute;stico classificado como ASA P2 e um paciente ASA P3, RESPECTIVAMENTE.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063471,
+     "letra": "A",
+     "descricao": "Uso abusivo de álcool || Diabetes mal controlado",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063472,
+     "letra": "B",
+     "descricao": "IMC 39 kg/m2 || IAM há 65 dias",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063473,
+     "letra": "C",
+     "descricao": "Gestação de 38 semanas || Prematuro com idade corrigida de 50 semanas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063474,
+     "letra": "D",
+     "descricao": "Mielomeningocele || Portador de marca passo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006348,
+   "descricao": "<p>Em relação a anestesia para o paciente oncológico, em uso de quimioterápico, qual é um efeito colateral possível da Cisplatina:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063481,
+     "letra": "A",
+     "descricao": "Cardiotoxicidade",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063482,
+     "letra": "B",
+     "descricao": "Cistite Hemorrágica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063483,
+     "letra": "C",
+     "descricao": "Fibrose Pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063484,
+     "letra": "D",
+     "descricao": "Neuropatia Periférica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006349,
+   "descricao": "<p>Na Sociedade Brasileira de Anestesiologia, quem &eacute; respons&aacute;vel por indicar suplentes para cargos vagos:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063491,
+     "letra": "A",
+     "descricao": "Assembleia Geral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063492,
+     "letra": "B",
+     "descricao": "Diretoria",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063493,
+     "letra": "C",
+     "descricao": "Conselho Superior",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063494,
+     "letra": "D",
+     "descricao": "Assembleia dos Representantes",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006350,
+   "descricao": "<p>Sr Geraldo, de 68 anos, apresenta-se em seu consult&oacute;rio para uma avalia&ccedil;&atilde;o pr&eacute; anest&eacute;sica.&nbsp;&nbsp;Voc&ecirc; opta por interrog&aacute;-lo, com o objetivo de obter uma estratifica&ccedil;&atilde;o de risco. Utilizando uma s&eacute;rie de perguntas, voc&ecirc; obt&ecirc;m a sua classifica&ccedil;&atilde;o de acordo com o question&aacute;rio de DASi.</p> <p>Sr Geraldo relata que consegue se cuidar, que d&aacute; conta de andar dentro de casa, ou mesmo em ambientes externos planos e mesmo subir um lance de escadas. Mas, n&atilde;o consegue correr, mesmo pequenas dist&acirc;ncias, como 50 metros. Ele tampouco consegue realizar atividades pesadas como jogar golfe, fazer jardinagem, ou ter rela&ccedil;&otilde;es sexuais. Qual a pontua&ccedil;&atilde;o de Sr Geraldo na escala de DASi?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063501,
+     "letra": "A",
+     "descricao": "12,75",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063502,
+     "letra": "B",
+     "descricao": "20",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063503,
+     "letra": "C",
+     "descricao": "5,5",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063504,
+     "letra": "D",
+     "descricao": "40",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006351,
+   "descricao": "<p>Voc&ecirc; est&aacute; no consult&oacute;rio de avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica, atendendo a um paciente de 72 anos, obeso, diab&eacute;tico e coronariopata, candidato a cirurgia abdominal de porte intermedi&aacute;rio. Opta ent&atilde;o por submet&ecirc;-lo ao question&aacute;rio DASi, a fim de estabelecer sua capacidade funcional.</p> <p>Constatou ent&atilde;o que esse paciente &eacute; capaz de realizar atividades de autocuidado (comer, tomar banho e se vestir), caminhar dentro de casa, na rua e at&eacute; mesmo subir um lance de escadas.</p> <p>Ap&oacute;s an&aacute;lise dessas informa&ccedil;&otilde;es o escore do paciente foi de 12.75 pontos, Isso significa que sua capacidade funcional aproximada &eacute; de quantos equivalentes metab&oacute;licos (METs)?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063511,
+     "letra": "A",
+     "descricao": "2.4",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063512,
+     "letra": "B",
+     "descricao": "4.64",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063513,
+     "letra": "C",
+     "descricao": "4.3",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063514,
+     "letra": "D",
+     "descricao": "4.94",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006352,
+   "descricao": "<p>Um anestesista est&aacute; a uma dist&acirc;ncia 1,5 metros de um aparelho de Raio-X durante a cirurgia. A essa dist&acirc;ncia ele est&aacute; recebendo uma dose X de radia&ccedil;&atilde;o. Caso o anestesista se afaste at&eacute; uma dist&acirc;ncia de 3 metros, qual ser&aacute; a nova dose de radia&ccedil;&atilde;o que ele receber&aacute;?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063521,
+     "letra": "A",
+     "descricao": "0,1 X",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063522,
+     "letra": "B",
+     "descricao": "0,25 X",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063523,
+     "letra": "C",
+     "descricao": "0,5 X",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063524,
+     "letra": "D",
+     "descricao": "0,75 X",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006353,
+   "descricao": "<p>Idosa, de 77 anos, hipertensa e diab&eacute;tica e 66kg, sofre fratura de f&ecirc;mur. Em uso de dabigatana para controle de fibrila&ccedil;&atilde;o atrial n&atilde;o valvar.&nbsp; Apresenta em revis&atilde;o laboratorial: Hb 9,3, creatinina de 0.6, Na: 140. Sobre a paciente, &eacute; correto afirmar que:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063531,
+     "letra": "A",
+     "descricao": "CHA2DS2VASC de 3. Dabigatran deve ser suspenso por 72h e retomado após 6 h. Sem necessidade de terapia de ponte",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063532,
+     "letra": "B",
+     "descricao": "CHA2DS2VASC de 3. Dabigatran deve ser suspenso por 5 dias e retomado após 48 h. Com necessidade de terapia de ponte",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063533,
+     "letra": "C",
+     "descricao": "CHA2DS2VASC de 5. Dabigatran deve ser suspenso por 72h e retomado após 6 h. Sem necessidade de terapia de ponte",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063534,
+     "letra": "D",
+     "descricao": "CHA2DS2VASC de 5. Dabigatran deve ser suspenso por 5 dias e retomado após 48 h. Com necessidade de terapia de ponte",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006354,
+   "descricao": "<p>Paciente idoso de 72 anos, diab&eacute;tico e hipertenso. Em uso das seguintes medica&ccedil;&otilde;es: Atenolol, Pioglitazona, Valsartana, Rosuvastatina e Insulina NPH. Nega hist&oacute;ria de eventos cardiovasculares. Traz exames com fun&ccedil;&atilde;o renal preservada. Conseguia realizar as atividades da vida di&aacute;ria, mas tinha limita&ccedil;&atilde;o para caminhar dist&acirc;ncias curtas. Ser&aacute; submetido a uma hepatectomia. Qual a conduta?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063541,
+     "letra": "A",
+     "descricao": "Calcular escore de cálcio e submeter a angioplastia se necessário",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063542,
+     "letra": "B",
+     "descricao": "Cateterismo para estratificação pormenorizada do risco cardiovascular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063543,
+     "letra": "C",
+     "descricao": "Liberar para cirurgia mantendo betabloqueador e suspendendo valsartana",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063544,
+     "letra": "D",
+     "descricao": "Solicita ecocardiografia com estresse farmacológico + cateterismo se necessário",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006355,
+   "descricao": "<p>Paciente jovem, do sexo masculino, internado por síndrome de Fournier. Usuário de heroína e maconha, apresenta múltiplas manchas na barriga. No pós-operatório evolui com fraqueza muscular descendente e diplopia. Esse quadro clínico deve levantar a suspeita de:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063551,
+     "letra": "A",
+     "descricao": "Milller-Fisher",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063552,
+     "letra": "B",
+     "descricao": "Guillain-Barré",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063553,
+     "letra": "C",
+     "descricao": "Crise Miastênica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063554,
+     "letra": "D",
+     "descricao": "Botulismo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006356,
+   "descricao": "<p>Paciente h&iacute;gida, comparece para consulta pr&eacute; anest&eacute;sica. Voc&ecirc; orienta o seguinte protocolo de jejum: 6 horas para torrada e caf&eacute;, 2 horas para &aacute;gua de coco.&nbsp;Esta recomenda&ccedil;&atilde;o pode provocar:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063561,
+     "letra": "A",
+     "descricao": "Redução do pH gástrico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063562,
+     "letra": "B",
+     "descricao": "Redução da hiperglicemia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063563,
+     "letra": "C",
+     "descricao": "Maior risco de broncoaspiração",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063564,
+     "letra": "D",
+     "descricao": "Redução da sensibilidade periférica à insulina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006357,
+   "descricao": "<p>Os pept&iacute;deos natriur&eacute;ticos do tipo cerebral (BNPs) e o fragmento N-terminal do proBNP (NT-proBNP) s&atilde;o liberados pelo mioc&aacute;rdio em resposta a est&iacute;mulos como o estiramento e a isquemia mioc&aacute;rdica. Alguns guidelines de manejo perioperat&oacute;rio recomendam a medi&ccedil;&atilde;o de NT-proBNP ou BNP antes de cirurgias n&atilde;o card&iacute;acas para melhorar a estimativa do risco card&iacute;aco perioperat&oacute;rio. </p> <p>Quais s&atilde;o os valores de corte para esses marcadores, considerados significativos pela Sociedade Americana (Guideline 2024)?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063571,
+     "letra": "A",
+     "descricao": "Valores ≥ 300 ng/L para NT-proBNP e ≥ 92 ng/L para BNP",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063572,
+     "letra": "B",
+     "descricao": "Valores ≥ 3000 ng/L para NT-proBNP e ≥ 92 ng/L para BNP",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063573,
+     "letra": "C",
+     "descricao": "Valores ≥ 92 ng/L para NT-proBNP e ≥ 3000 ng/L para BNP",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063574,
+     "letra": "D",
+     "descricao": "Valores ≥ 3000 ng/L para NT-proBNP e ≥ 300 ng/L para BNP",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006358,
+   "descricao": "<p>Paciente de 57 anos, masculino, previamente hígido,&nbsp;submetido&nbsp;a colectomia parcial videolaparoscópica por neoplasia, que havia acabado de começar.&nbsp;Subitamente o paciente ficou hipotenso. O ECG indicava, ritmo regular, frequência de 118 bpm, QRS estreito e infra-desnivelamento do segmento ST.</p><p>O anestesista informou a equipe, solicitou a interrupção do pneumoperitônio e pediu para chamar ajuda e buscar o desfibrilador. Fez duas doses de adenosina, sem melhora. Fez então uma dose de metoprolol e solicitou um desfibrilador. Qual erro se destaca nesse enunciado?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063581,
+     "letra": "A",
+     "descricao": "O anestesista deveria ter envolvido o resto da equipe na condução da crise.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063582,
+     "letra": "B",
+     "descricao": "O anestesista errou por negligência, falta de observância do dever de cuidado.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063583,
+     "letra": "C",
+     "descricao": "O anestesista deveria ter se antecipado e delineado previamente um plano de conduta.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063584,
+     "letra": "D",
+     "descricao": "O anestesista cometeu um erro de fixação e deveria ter aplicada a regra 10 segundos a cada 10 minutos.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006359,
+   "descricao": "<p>Paciente cirrótico, com histórico de hepatectomia realizada há 2 anos. Qual condição apresentada contraindica a realização de cirurgia eletiva?</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063591,
+     "letra": "A",
+     "descricao": "MELD: 10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063592,
+     "letra": "B",
+     "descricao": "Creatinina: 1,3",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063593,
+     "letra": "C",
+     "descricao": "Child-Pugh: 6",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063594,
+     "letra": "D",
+     "descricao": "Hepatite B aguda",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006360,
+   "descricao": "<p>Paciente A.C.S, sexo masculino, 34 anos, com diagn&oacute;stico de hipertens&atilde;o pulmonar do grupo IV. Nega outras comorbidades. Relata ser capaz de subir dois lances de escada. Traz ECG em ritmo sinusal, sem achados not&aacute;veis. Ser&aacute; submetido a colecistectomia. Sobre esse caso, assinale a alternativa correta:</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063601,
+     "letra": "A",
+     "descricao": "A boa capacidade funcional isenta da extensão de propedêutica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063602,
+     "letra": "B",
+     "descricao": "O paciente apresenta 1 ponto no escore de Lee e 2 no escore AUB-HAS 2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063603,
+     "letra": "C",
+     "descricao": "O paciente deve ser encaminhado ao procedimento eletivo, pois apresenta HAP idiopática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063604,
+     "letra": "D",
+     "descricao": "Apresenta um modificador de risco cardiovascular. Portanto, independente da capacidade funcional, deve ser encaminhado ao cardiologista",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006361,
+   "descricao": "<p>Na avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica de pacientes oncol&oacute;gicos, &eacute; importante considerar os potenciais efeitos adversos associados &agrave; quimioterapia. Associe cada f&aacute;rmaco apresentado a seguir ao seu efeito adverso caracter&iacute;stico:</p> <img src=\"data/imagens/e8cb10ddaae9ddab.png\" alt=\"\"><br> &nbsp;A sequ&ecirc;ncia correta &eacute;:",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063611,
+     "letra": "A",
+     "descricao": "1c – 2d – 3b – 4a",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063612,
+     "letra": "B",
+     "descricao": "1a – 2d – 3c – 4b",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063613,
+     "letra": "C",
+     "descricao": "1c – 2b – 3d – 4a",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063614,
+     "letra": "D",
+     "descricao": "1d – 2c – 3b – 4a",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  }
+ ]
+}

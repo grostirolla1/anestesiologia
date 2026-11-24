@@ -1,0 +1,1860 @@
+{
+ "prova": {
+  "slug": "sba-me2-anual-2013",
+  "banca": "SBA",
+  "concurso": "ME2 anual",
+  "titulo": "ME2 anual 2013",
+  "ano": "2013",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001798,
+   "descricao": "<p>Em cirurgias videoendoscópicas, o aumento da pressão intra-abdominal produzida pelo pneumoperitônio promove:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20017981,
+     "letra": "A",
+     "descricao": "Hipotensão arterial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20017982,
+     "letra": "B",
+     "descricao": "Aumento do retorno venoso",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20017983,
+     "letra": "C",
+     "descricao": "Aumento do débito cardíaco",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20017984,
+     "letra": "D",
+     "descricao": "Aumento da resistência vascular sistêmica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001799,
+   "descricao": "<p>No obeso mórbido, qual dos fármacos abaixo deve ser administrado clinicamente na indução anestésica com base no peso corporal ideal?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20017991,
+     "letra": "A",
+     "descricao": "Succinilcolina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20017992,
+     "letra": "B",
+     "descricao": "Propofol",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20017993,
+     "letra": "C",
+     "descricao": "Midazolam",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20017994,
+     "letra": "D",
+     "descricao": "Sufentanil",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001800,
+   "descricao": "<p>Sobre o plasma fresco congelado é correto afirmar que:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018001,
+     "letra": "A",
+     "descricao": "É o plasma totalmente congelado até oito horas após a coleta",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018002,
+     "letra": "B",
+     "descricao": "Deve ser armazenado a uma temperatura de no mínimo -10ºC",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018003,
+     "letra": "C",
+     "descricao": "Quando armazenado corretamente apresenta validade de 2 meses",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018004,
+     "letra": "D",
+     "descricao": "É indicado na perda volêmica superior a 20%",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001801,
+   "descricao": "<p>Paciente sob anestesia venosa total com infusão alvo-controlada de propofol e remifentanil, suplementada com bloqueio de nervo femoral e ventilação sob máscara laríngea está sendo submetido a videoartroscopia de joelho D. Sinal clínico mais sensível como indicador de superficialização da anestesia:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018011,
+     "letra": "A",
+     "descricao": "aumento do tônus muscular",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018012,
+     "letra": "B",
+     "descricao": "aumento da pressão arterial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018013,
+     "letra": "C",
+     "descricao": "apneia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018014,
+     "letra": "D",
+     "descricao": "aumento da frequência cardíaca",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001802,
+   "descricao": "<p>Na técnica de administração de anestesia alvo-controlada:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018021,
+     "letra": "A",
+     "descricao": "A concentração da droga será a resultante da infusão / depuração da droga",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018022,
+     "letra": "B",
+     "descricao": "O volume infundido é reduzido progressivamente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018023,
+     "letra": "C",
+     "descricao": "O sistema de infusão calcula a infusão baseada no peso ideal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018024,
+     "letra": "D",
+     "descricao": "O uso da concentração alvo no sítio de ação leva a uma indução mais lenta",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001803,
+   "descricao": "<p>Quanto à solução fisiológica, podemos afirmar que:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018031,
+     "letra": "A",
+     "descricao": "É a solução que mais se assemelha com a composição do plasma",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018032,
+     "letra": "B",
+     "descricao": "Pode ser classificada como solução cristalóide balanceada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018033,
+     "letra": "C",
+     "descricao": "A alta concentração de eletrólitos resulta em maior morbidade",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018034,
+     "letra": "D",
+     "descricao": "É a solução ideal para utilização em pacientes renais crônicos com hipercalemia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001804,
+   "descricao": "<p>Reduz a incid&ecirc;ncia de mem&oacute;ria de eventos intra-operat&oacute;rios em pacientes submetidas a anestesia geral para cesariana:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018041,
+     "letra": "A",
+     "descricao": "Doses adequadas de hipnóticos",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018042,
+     "letra": "B",
+     "descricao": "Aumento da redistribuição dos hipnóticos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018043,
+     "letra": "C",
+     "descricao": "Redução da capacidade e residual funcional",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018044,
+     "letra": "D",
+     "descricao": "Maior dificuldade com a via aérea",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001805,
+   "descricao": "<p>Componente do eletrocardiograma (ECG) que corresponde ao período em que os ventrículos se encontram completamente despolarizados:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018051,
+     "letra": "A",
+     "descricao": "Intervalo PR",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018052,
+     "letra": "B",
+     "descricao": "Segmento PR",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018053,
+     "letra": "C",
+     "descricao": "Intervalo QT",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018054,
+     "letra": "D",
+     "descricao": "Segmento ST",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001806,
+   "descricao": "<p>É CORRETO em relação à paciente gestante portadora de diabete melito tipo 1:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018061,
+     "letra": "A",
+     "descricao": "O diabete melito materno é fator protetor em relação a malformações congênitas fetais",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018062,
+     "letra": "B",
+     "descricao": "Gestantes diabéticas tipo 1 desenvolvem cetoacidose com níveis de glicemia mais elevados do que diabéticas não-gestantes",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018063,
+     "letra": "C",
+     "descricao": "A anestesia neuraxial diminui as necessidades de administração de glicose e insulina no período periparto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018064,
+     "letra": "D",
+     "descricao": "A glicemia materna deve ser mantida entre 60 e 120 mg.dl-1 no período periparto",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001807,
+   "descricao": "<p>Assinale a alternativa CORRETA:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018071,
+     "letra": "A",
+     "descricao": "a taxa de filtracão glomerular do adulto normal é 50 ml.min-1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018072,
+     "letra": "B",
+     "descricao": "em pacientes instáveis pode-se utilizar medidas fidedignas de depuração da creatinina a cada 2 horas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018073,
+     "letra": "C",
+     "descricao": "são necessárias taxas de filtração glomerular menores que 15 ml.kg-1 para que ocorra aumento significativo da concentração de creatinina sérica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018074,
+     "letra": "D",
+     "descricao": "aumento de 50% da creatinina plasmática em pacientes críticos indica insuficiência renal irreversível",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001808,
+   "descricao": "<p>Prejudica a estimativa do débito cardíaco por análise do contorno da onda de pulso arterial:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018081,
+     "letra": "A",
+     "descricao": "fibrilação atrial",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018082,
+     "letra": "B",
+     "descricao": "estenose aórtica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018083,
+     "letra": "C",
+     "descricao": "taquicardia sinusal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018084,
+     "letra": "D",
+     "descricao": "administração rápida de fluidos venosos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001809,
+   "descricao": "<p>Aumenta durante a litotripsia extracorpórea:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018091,
+     "letra": "A",
+     "descricao": "fluxo sanguíneo pulmonar",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018092,
+     "letra": "B",
+     "descricao": "capacidade vital",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018093,
+     "letra": "C",
+     "descricao": "capacidade residual funcional",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018094,
+     "letra": "D",
+     "descricao": "volume corrente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001810,
+   "descricao": "<p>Principal causa de sangramento após o parto:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018101,
+     "letra": "A",
+     "descricao": "Retenção placentária",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018102,
+     "letra": "B",
+     "descricao": "Inversão uterina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018103,
+     "letra": "C",
+     "descricao": "Atonia uterina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018104,
+     "letra": "D",
+     "descricao": "Lesões no trato genital",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001811,
+   "descricao": "<p>Em um paciente de 70 kg, com sódio sérico de 120 mEq/L onde se deseja obter 130 mEq/L com uma reposição utilizando solução de cloreto de sódio a 3%, o ritmo de infusão e duração da infusão para obter o resultado desejado?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018111,
+     "letra": "A",
+     "descricao": "20 mL/h por 10 horas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018112,
+     "letra": "B",
+     "descricao": "20 mL/h por 20 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018113,
+     "letra": "C",
+     "descricao": "41 mL/h por 10 horas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018114,
+     "letra": "D",
+     "descricao": "41 mL/h por 20 horas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001812,
+   "descricao": "<p>No paciente com desnutrição, a principal conseqüência para depuração renal é o aumento da:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018121,
+     "letra": "A",
+     "descricao": "Superfície filtrante dos capilares glomerulares",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018122,
+     "letra": "B",
+     "descricao": "Permeabilidade hidráulica específica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018123,
+     "letra": "C",
+     "descricao": "Pressão de ultrafiltração",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018124,
+     "letra": "D",
+     "descricao": "Pressão intratubular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001813,
+   "descricao": "<p>É CORRETO em relação aos achados da monitorização de profundidade anestésica por eletroencefalograma processado:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018131,
+     "letra": "A",
+     "descricao": "Ativação cortical paradoxal associada ao uso do cetamina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018132,
+     "letra": "B",
+     "descricao": "Depressão diretamente proporcional às doses de opióides",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018133,
+     "letra": "C",
+     "descricao": "Correlação positiva com a dose de propofol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018134,
+     "letra": "D",
+     "descricao": "Relação entre concentração e efeito constante para todos os anestésicos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001814,
+   "descricao": "<p>Na anestesia inalatória no adulto com fluxo de gases frescos inferior a 500 ml/min temos:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018141,
+     "letra": "A",
+     "descricao": "Baixa umidade dos gases",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018142,
+     "letra": "B",
+     "descricao": "Indicação para uso do capnógrafo com modo sidestream",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018143,
+     "letra": "C",
+     "descricao": "Aumento do consumo do absorvedor de CO2",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018144,
+     "letra": "D",
+     "descricao": "Maior perda de calor",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001815,
+   "descricao": "<p>Ao monitorarmos a anestesia geral com eletroencefalograma, que tipo de onda vai predominar quando o paciente estiver em plano anestésico adequado?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018151,
+     "letra": "A",
+     "descricao": "Delta",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018152,
+     "letra": "B",
+     "descricao": "Teta",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018153,
+     "letra": "C",
+     "descricao": "Alfa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018154,
+     "letra": "D",
+     "descricao": "Beta",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001816,
+   "descricao": "<p>Fator que aumenta a reabsorção distal de sódio:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018161,
+     "letra": "A",
+     "descricao": "angiotensina II",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018162,
+     "letra": "B",
+     "descricao": "peptídeo natriurético atrial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018163,
+     "letra": "C",
+     "descricao": "hormônio antidiurético",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018164,
+     "letra": "D",
+     "descricao": "aldosterona",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001817,
+   "descricao": "<p>O cálculo do ânion gap (hiato iônico) deve ser corrigido na presença de:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018171,
+     "letra": "A",
+     "descricao": "Hipoalbuminemia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018172,
+     "letra": "B",
+     "descricao": "Hipomagnesemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018173,
+     "letra": "C",
+     "descricao": "Hipoglicemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018174,
+     "letra": "D",
+     "descricao": "Hipotermia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001818,
+   "descricao": "<p>Podemos afirmar que para a realização de anestesia ambulatorial é necessário:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018181,
+     "letra": "A",
+     "descricao": "Monitorizar a saturação de hemoglobina em hospitais que tem usinas concentradoras de oxigênio",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018182,
+     "letra": "B",
+     "descricao": "Ter garantia de suporte hospitalar no local sem necessitar de transporte para outra unidade",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018183,
+     "letra": "C",
+     "descricao": "Garantir condições de esterilização e desinfecção dos instrumentos a serem realizadas na unidade ambulatorial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018184,
+     "letra": "D",
+     "descricao": "Garantir atendimento 24h por dia na própria unidade em que a cirurgia ambulatorial foi realizada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001819,
+   "descricao": "<p>Alteração cardiovascular observada na gravidez:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018191,
+     "letra": "A",
+     "descricao": "Aumento do débito cardíaco, atingindo maior valor em torno da 20ª semana",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018192,
+     "letra": "B",
+     "descricao": "Diminuição da resistência vascular pulmonar",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018193,
+     "letra": "C",
+     "descricao": "Redução do volume sanguíneo circulante no segundo trimestre",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018194,
+     "letra": "D",
+     "descricao": "Hipertensão arterial quando assume decúbito ventral",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001820,
+   "descricao": "<p>Paciente submetido a procedimento cirúrgico ambulatorial apresenta sinais vitais com alterações menores que 20% do pré-operatório, bem orientado e com deambulação firme, ingeriu líquido e urinou, ausência de dor, levemente nauseado, mínimo sangramento cirúrgico. Segundo a tabela de Chung, para avaliar a recuperação física dos pacientes submetidos a cirurgia ambulatorial, apresenta pontuação de:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018201,
+     "letra": "A",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018202,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018203,
+     "letra": "C",
+     "descricao": "9",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018204,
+     "letra": "D",
+     "descricao": "10",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001821,
+   "descricao": "<p>Mecanismo de manutenção fluxo sanguíneo renal em situações de hipotensão arterial:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018211,
+     "letra": "A",
+     "descricao": "vasoconstrição das arteríolas renais",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018212,
+     "letra": "B",
+     "descricao": "liberação de óxido nítrico local",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018213,
+     "letra": "C",
+     "descricao": "resposta miogênica das arteríolas renais com vasoconstricção",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018214,
+     "letra": "D",
+     "descricao": "ativação da mácula densa levando a vasoconstrição glomerular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001822,
+   "descricao": "<p>Durante uma colecistectomia vídeolaparoscópica você observa uma redução abrupta da PETCO2, sem instabilidade hemodinâmica. Assinale a possível causa:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018221,
+     "letra": "A",
+     "descricao": "Embolia pulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018222,
+     "letra": "B",
+     "descricao": "Aspiração insuficiente pelo capnógrafo side stream",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018223,
+     "letra": "C",
+     "descricao": "Hiperfluxo pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018224,
+     "letra": "D",
+     "descricao": "Saturação do sistema absorvedor de CO2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001823,
+   "descricao": "<p>Ao realizarmos uma hidratação excessiva com solução de cloreto de sódio a 0,9% no paciente transplantado renal observamos:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018231,
+     "letra": "A",
+     "descricao": "Hipercalcemia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018232,
+     "letra": "B",
+     "descricao": "Hipopotassemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018233,
+     "letra": "C",
+     "descricao": "Hipermagnesemia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018234,
+     "letra": "D",
+     "descricao": "Acidose hiperclorêmica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001824,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>Assinale o paciente que voc&ecirc; iria considerar para cirurgia ambulatorial:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018241,
+     "letra": "A",
+     "descricao": "Bebê que nasceu com 35 semanas e está no momento com 44 semanas pós-conceptuais para realizar correção de hérnia inguinal bilateral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018242,
+     "letra": "B",
+     "descricao": "Paciente de 34 anos, do sexo masculino que necessita de biópsia de próstata e tem o diagnóstico de ser susceptível a hipertermia maligna",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018243,
+     "letra": "C",
+     "descricao": "Homem 64 anos, IMC 50 kg/m2, faz uso domiciliar de CPAP com quadro de infecção respiratória há 6 dias, para realizar adenoidectomia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018244,
+     "letra": "D",
+     "descricao": "Mulher, 48 anos, com duas angioplastias prévias que refere dor paraesternal de surgimento súbito, não relacionada aos exercícios, para cirurgia de catarata",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001825,
+   "descricao": "<p>Diurético associado a ocorrência de pancreatite:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018251,
+     "letra": "A",
+     "descricao": "hidroclorotiazida",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018252,
+     "letra": "B",
+     "descricao": "furosemida",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018253,
+     "letra": "C",
+     "descricao": "manitol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018254,
+     "letra": "D",
+     "descricao": "espironolactona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001826,
+   "descricao": "<p>Qual é a concentração intracelular de potássio em mEq/L:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018261,
+     "letra": "A",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018262,
+     "letra": "B",
+     "descricao": "50",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018263,
+     "letra": "C",
+     "descricao": "100",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018264,
+     "letra": "D",
+     "descricao": "150",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001827,
+   "descricao": "<p>Paciente submetido a toracotomia direita por lesão com arma branca. Permaneceu em suporte ventilatório por 4 dias. Após extubação traqueal apresentou à gasometria arterial pH = 7,20; PaCO2 = 60mmHg e HCO3 = 26mEq/L evidenciando:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018271,
+     "letra": "A",
+     "descricao": "Acidose metabólica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018272,
+     "letra": "B",
+     "descricao": "Acidose respiratória",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018273,
+     "letra": "C",
+     "descricao": "Acidose mista",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018274,
+     "letra": "D",
+     "descricao": "Alcalose metabólica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001828,
+   "descricao": "<p>Diminui a glicoproteína IIb/IIIa:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018281,
+     "letra": "A",
+     "descricao": "Dextrana a 70%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018282,
+     "letra": "B",
+     "descricao": "Albumina a 25%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018283,
+     "letra": "C",
+     "descricao": "Hidroxietilamido",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018284,
+     "letra": "D",
+     "descricao": "Gelatina modificada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001829,
+   "descricao": "<p>Nos distúrbios hidroeletrolíticos metabólicos assinale as alterações relacionadas às diferenças de íons fortes (SID):</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018291,
+     "letra": "A",
+     "descricao": "Acidose que está associada a uma redução das diferenças de íons fortes",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018292,
+     "letra": "B",
+     "descricao": "Acidose que leva a uma redução da concentração de ácidos fracos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018293,
+     "letra": "C",
+     "descricao": "Redução das diferenças de íons fortes decorrente do ganho de íons Na+",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018294,
+     "letra": "D",
+     "descricao": "No líquido extracelular as diferenças de íons fortes são negativas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001830,
+   "descricao": "<p>Considerando os sistemas tampão:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018301,
+     "letra": "A",
+     "descricao": "O fosfato é o principal tampão extracelular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018302,
+     "letra": "B",
+     "descricao": "A hipoalbuminemia pode reduzir o efeito tampão intracelular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018303,
+     "letra": "C",
+     "descricao": "A hemoglobina é o principal tampão para distúrbios metabólicos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018304,
+     "letra": "D",
+     "descricao": "O bicarbonato é o principal tampão extracelular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001831,
+   "descricao": "<p>No paciente em uso de warfarina, com INR entre 2 e 3, sugere-se:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018311,
+     "letra": "A",
+     "descricao": "suspender ao menos 4 doses da warfarina buscando atingir um INR abaixo de 1,5 para bloqueios do neuroeixo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018312,
+     "letra": "B",
+     "descricao": "suspender a warfarina ao menos por 15 dias",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018313,
+     "letra": "C",
+     "descricao": "suspender a warfarina por 15 dias e substituir por heparina de baixo peso molecular evitando elevar o INR > 3",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018314,
+     "letra": "D",
+     "descricao": "evitar introdução de vitamina K após suspensão da warfarina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001832,
+   "descricao": "<p>Alteração respiratórias no obeso mórbido:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018321,
+     "letra": "A",
+     "descricao": "Volume de reserva inspiratório aumentado",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018322,
+     "letra": "B",
+     "descricao": "Capacidade residual funcional aumentada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018323,
+     "letra": "C",
+     "descricao": "Volume-minuto aumentado",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018324,
+     "letra": "D",
+     "descricao": "Capacidade pulmonar total aumentada",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001833,
+   "descricao": "<p>Na recusa da anestesia regional para analgesia de parto, qual dos f&aacute;rmacos abaixo constitui a melhor indica&ccedil;&atilde;o para analgesia sist&ecirc;mica:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018331,
+     "letra": "A",
+     "descricao": "Meperidina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018332,
+     "letra": "B",
+     "descricao": "Fentanil",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018333,
+     "letra": "C",
+     "descricao": "Alfentanil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018334,
+     "letra": "D",
+     "descricao": "Remifentanil",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001834,
+   "descricao": "<p>É fator de risco para o desenvolvimento de trombose venosa profunda em pacientes obesos submetidos a cirurgias bariátricas:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018341,
+     "letra": "A",
+     "descricao": "Índice de massa corporal = 40 kg.m-2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018342,
+     "letra": "B",
+     "descricao": "Obesidade centrífuga",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018343,
+     "letra": "C",
+     "descricao": "Altura menor que 150 cm",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018344,
+     "letra": "D",
+     "descricao": "Síndrome da apnéia obstrutiva do sono",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001835,
+   "descricao": "<p><b>(QUESTÃO ADAPTADA) </b>Qual critério se encaixa no diagnostico de pré-eclâmpsia com sinais de gravidade?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018351,
+     "letra": "A",
+     "descricao": "pressão arterial distolica = 100 mmHg",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018352,
+     "letra": "B",
+     "descricao": "creatinina sérica = 2 mg/dL",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018353,
+     "letra": "C",
+     "descricao": "diurese = 800 mL/24h",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018354,
+     "letra": "D",
+     "descricao": "edema pré-tibial isolado",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001836,
+   "descricao": "<p>O reflexo oculocard&iacute;aco &eacute; mais frequente durante cirurgias oculares realizadas sob:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018361,
+     "letra": "A",
+     "descricao": "Anestesia tópica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20018362,
+     "letra": "B",
+     "descricao": "Bloqueio retrobulbar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018363,
+     "letra": "C",
+     "descricao": "Bloqueio subtenoniano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018364,
+     "letra": "D",
+     "descricao": "Bloqueio peribulbar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001837,
+   "descricao": "<p>Assinale a associação correta entre etapa da coagulação e evento subjacente:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018371,
+     "letra": "A",
+     "descricao": "Iniciação - ativação do fator X",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018372,
+     "letra": "B",
+     "descricao": "Amplificação - transformação de protrombina (fator II) em trombina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018373,
+     "letra": "C",
+     "descricao": "Propagação - produção dos complexos tenase e protrombinase",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018374,
+     "letra": "D",
+     "descricao": "Estabilização - interação de plaquetas com o fator de von Willebrand",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001838,
+   "descricao": "<p>Paciente acidentado e alcoolizado com fratura de fêmur. Submetido a cirurgia sob anestesia subaracnoidea. Quatro horas após a cirurgia apresenta sonolência, petéquias na mucosa oral, taquipneia, hemoptise, infiltrado bilateral ao Rx de tórax. Diagnóstico provável:</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018381,
+     "letra": "A",
+     "descricao": "Aspiração de conteúdo gástrico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018382,
+     "letra": "B",
+     "descricao": "Síndrome da implantação do cimento",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20018383,
+     "letra": "C",
+     "descricao": "Embolia gordurosa",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20018384,
+     "letra": "D",
+     "descricao": "Embolia aérea",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001839,
+   "descricao": "<p>Qual dos monitores abaixo permite o diagnóstico mais precoce de isquemia miocárdica intraoperatória?</p>",
+   "ano": "2013",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20018391,
+     "letra": "A",
+     "descricao": "Cardioscópio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20018392,
+     "letra": "B",
+     "descricao": "Ecocardiografia transesofágica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20018393,
+     "letra": "C",
+     "descricao": "Cateter de artéria pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20018394,
+     "letra": "D",
+     "descricao": "Débito cardíaco não-invasivo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 anual",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,716 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-2-2021",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 2ª quadrimestral 2021",
+  "ano": "2021",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001210,
+   "descricao": "<p><strong>Em rela&ccedil;&atilde;o aos requisitos m&iacute;nimos para desempenho e seguran&ccedil;a dos componentes do aparelho de anestesia:</strong></p> <p><strong>A)</strong> Nos vaporizadores calibrados, a altera&ccedil;&atilde;o do fluxo total de gases influencia de maneira significativa a concentra&ccedil;&atilde;o final do anest&eacute;sico que sai dos mesmos.&nbsp;</p> <p><strong>B)</strong> A alta concentra&ccedil;&atilde;o de &oacute;xido nitroso como agente carreador de anest&eacute;sico pode resultar num aumento da concentra&ccedil;&atilde;o do anest&eacute;sico na sa&iacute;da do vaporizador.&nbsp;</p> <p><strong>C)</strong> Nos vaporizadores universais com flux&ocirc;metro, uma fra&ccedil;&atilde;o do fluxo total de gases passa sobre a superf&iacute;cie do l&iacute;quido vol&aacute;til e carreia o vapor anest&eacute;sico da c&acirc;mara de vaporiza&ccedil;&atilde;o.&nbsp;</p> <p><strong>D)</strong> A capacidade do reservat&oacute;rio de cal sodada deve conter espa&ccedil;o intergranular de no m&iacute;nimo um volume corrente do paciente.&nbsp;</p> <p><strong>E)</strong> O excesso de umidade no composto absorvedor associado a altas temperaturas favorecem o aparecimento do composto A.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012101,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012102,
+     "letra": "B",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012103,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012104,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001211,
+   "descricao": "<p><strong>Em rela&ccedil;&atilde;o ao sistema nervoso aut&ocirc;nomo:</strong></p> <p><strong>A)</strong> &Eacute; constitu&iacute;do pelos sistemas simp&aacute;tico e parassimp&aacute;tico, com arranjos anat&ocirc;micos pr&oacute;prios, funcionando de forma aut&ocirc;noma, n&atilde;o relacionada ao sistema nervoso central.&nbsp;</p> <p><strong>B)</strong> No abdome e na pelve os sistemas simp&aacute;tico e parassimp&aacute;tico formam extensos plexos nervosos com neur&ocirc;nios provenientes de ambas as divis&otilde;es, impossibilitando a identifica&ccedil;&atilde;o precisa de cada fibra presente.&nbsp;</p> <p><strong>C)</strong> Diferente do sistema nervoso perif&eacute;rico somatossensorial, que s&oacute; necessita de um neur&ocirc;nio para a conex&atilde;o entre o sistema nervoso central (medula) e o &oacute;rg&atilde;o efetor, o sistema nervoso aut&ocirc;nomo requer dois neur&ocirc;nios.&nbsp;</p> <p><strong>D)</strong> A transmiss&atilde;o dos impulsos pelo sistema efetor auton&ocirc;mico perif&eacute;rico depende basicamente dos neurotransmissores acetilcolina e adrenalina.&nbsp;</p> <p><strong>E)</strong> Uma vez liberada em grande quantidade na sinapse, a acetilcolina interage com seu receptor, deflagrando a despolariza&ccedil;&atilde;o p&oacute;s-sin&aacute;ptica antes de ser hidrolisada pela acetilcolinesterase.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012111,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012112,
+     "letra": "B",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012113,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012114,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001212,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; fisiologia cardiovascular e &agrave; circula&ccedil;&atilde;o coronariana:</p> <p>a) a pr&eacute;-carga &eacute; a for&ccedil;a de estiramento da fibra muscular no final da di&aacute;stole.&nbsp;</p> <p>b) o relaxamento mioc&aacute;rdico isovolum&eacute;trico &eacute; a primeira fase de di&aacute;stole e ocorre de forma passiva sem gasto energ&eacute;tico.&nbsp;</p> <p>c) a afer&ecirc;ncia do reflexo de Bainbridge ocorre a partir de receptores de estiramento no arco a&oacute;rtico e seio carot&iacute;deo.&nbsp;</p> <p>d) a regi&atilde;o subendoc&aacute;rdica &eacute; a mais influenciada pelas altera&ccedil;&otilde;es da perfus&atilde;o coronariana durante a s&iacute;stole.&nbsp;</p> <p>e) o aumento da SaO2 &eacute; o principal determinante do aumento da oferta de oxig&ecirc;nio ao cora&ccedil;&atilde;o em situa&ccedil;&otilde;es de aumento de consumo.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012121,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012122,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012123,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012124,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001213,
+   "descricao": "<p>Com relação aos fármacos que atuam no sistema cardiovascular:<br></p><p>a) a milrinona é o fármaco de escolha em situações de falência do ventrículo direito, por aumentar a pressão de perfusão da artéria pulmonar sem aumento no consumo de oxigênio pelo miocárdio.&nbsp;</p><p>b) o levosimendan atua por via independente do receptor beta-adrenérgico, prolongando a interação actina-miosina por meio da ligação do cálcio à troponina.&nbsp;</p><p>c) ao contrário do nitroprussiato de sódio, a nitroglicerina apresenta maior atividade nos vasos de capacitância, diminuindo a pré-carga e o consumo de oxigênio pelo miocárdio.&nbsp;</p><p>d) os betabloqueadores devem ser suspensos no dia da cirurgia em pacientes hipertensos.&nbsp;</p><p>e) a fenilefrina não é inativada pela catecol-o-metil-transferase (COMT) e apresenta duração de ação muito mais prolongada do que as catecolaminas.&nbsp;</p><p><br></p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012131,
+     "letra": "A",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012132,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012133,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012134,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001214,
+   "descricao": "<p>Sobre a difus&atilde;o de gases e hematose pulmonar:</p> <p><strong>A) </strong>O CO2 se difunde mais rapidamente que o O2.</p> <p><strong>B) </strong>A difus&atilde;o de O2 e CO2 na membrana ocorre com disp&ecirc;ndio de energia.</p> <p><strong>C) </strong>A capacidade de difus&atilde;o pela membrana depende diretamente do gradiente de press&atilde;o alv&eacute;olo-arterial.</p> <p><strong>D) </strong>A &aacute;rea de superf&iacute;cie alveolar perfundida &eacute; um determinante da capacidade de difus&atilde;o.</p> <p><strong>E) </strong>A quantidade de O2 que se difunde é inversamente proporcional à espessura da membrana alv&eacute;olo-arterial.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012141,
+     "letra": "A",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012142,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012143,
+     "letra": "C",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012144,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001215,
+   "descricao": "<p>Na farmacologia geral aplicada à anestesia, são exemplos de interações medicamentosas do tipo farmacodinâmicas:</p> <p><strong>A)</strong> Encapsulamento do rocurônio pelo sugamadex.&nbsp;</p> <p><strong>B)</strong> Deslocamento do fentanil do receptor opioide pela naloxona.&nbsp;</p> <p><strong>C)</strong> Redução da CAM do isoflurano pela associação com remifentanil.&nbsp;</p> <p><strong>D)</strong> Precipitação da solução de anestésico local pela associação ao bicarbonato de sódio.&nbsp;</p> <p><strong>E)</strong> Aumento da duração da anestesia infiltrativa pelo uso de epinefrina na solução anestésica.&nbsp;</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012151,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012152,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012153,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012154,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001216,
+   "descricao": "<p>Sobre os agentes opioides administrados no perioperat&oacute;rio:</p> <p><strong>A) </strong>O remifentanil promove libera&ccedil;&atilde;o de histamina de maneira dose-dependente.</p> <p><strong>B) </strong>A dose do remifentanil deve ser ajustada na presen&ccedil;a de insufici&ecirc;ncia hep&aacute;tica.</p> <p><strong>C) </strong>A rigidez muscular induzida por opioides &eacute; mais comum ap&oacute;s infus&atilde;o r&aacute;pida ou doses elevadas.</p> <p><strong>D) </strong>A depress&atilde;o respirat&oacute;ria por opioides &eacute; mediada por receptores mu, de modo dose-dependente.</p> <p><strong>E) </strong>A lat&ecirc;ncia para efeito do alfentanil &eacute; menor que do fentanil devido ao seu pKa de 6,5 e &agrave; menor fra&ccedil;&atilde;o ionizada.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012161,
+     "letra": "A",
+     "descricao": "F F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012162,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012163,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012164,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001217,
+   "descricao": "<p>Um adolescente autista não permitiu acesso venoso durante o preparo da anestesia. Foi indicada indução por via inalatória, com oxigênio a 28%, óxido nitroso a 65% e sevoflurano a 7%. A indução foi rápida e sem intercorrências, devido à aceleração da elevação da FA/FI do sevoflurano pela associação com o N2O. </p><p><b>A) </b>A elevada solubilidade do N2O é a responsável pelo efeito.</p><p><b>B) </b>A rápida indução observada no caso clínico foi decorrente do efeito de segundo gás.</p><p><b>C) </b>A curta latência ocorreu pois o N2O é um anestésico potente na concentração em que foi administrado.</p><p><b>D) </b>Se fosse utilizado o halotano no lugar do sevoflurano, o efeito de aceleração da elevação da FA/FI não seria observado.</p><p><b>E) </b>Se fosse utilizado desflurano no lugar do sevoflurano, o efeito de aceleração da elevação da FA/FI seria observado em menor proporção.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012171,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012172,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012173,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012174,
+     "letra": "D",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001218,
+   "descricao": "<p>Sobre os vaporizadores:</p> <p><strong>A) </strong>Os vaporizadores espec&iacute;ficos para sevoflurano compensam as altera&ccedil;&otilde;es provocadas pela temperatura.</p> <p><strong>B) </strong>Os vaporizadores espec&iacute;ficos para desflurano n&atilde;o necessitam compensar as altera&ccedil;&otilde;es provocadas pela temperatura.</p> <p><strong>C) </strong>O aumento da temperatura no interior do vaporizador causa redu&ccedil;&atilde;o da oferta dos gases anest&eacute;sicos.</p> <p><strong>D) </strong>Os vaporizadores de bypass vari&aacute;vel compensam as altera&ccedil;&otilde;es do fluxo de gases.</p> <p><strong>E) </strong>Nos vaporizadores de bypass vari&aacute;vel uma parte do fluxo de gases n&atilde;o entra em contato com o agente anest&eacute;sico.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012181,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012182,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012183,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012184,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001219,
+   "descricao": "<p><strong>Sobre o sistema nervoso aut&ocirc;nomo (SNA):</strong></p> <p><strong>A)</strong> As fibras pr&eacute;-ganglionares do SNA originadas no sistema nervoso central (SNC) s&atilde;o mielinizadas.</p> <p><strong>B)</strong> As fibras pr&eacute;-ganglionares cranianas do SNA parassimp&aacute;tico t&ecirc;m origem nos nervos cranianos III, VII, IX e X.</p> <p><strong>C)</strong> Simp&aacute;tico e parassimp&aacute;tico s&atilde;o os componentes aferentes do SNA.</p> <p><strong>D)</strong> Nos g&acirc;nglios do SNA, a neurotransmiss&atilde;o &eacute; colin&eacute;rgica para o SNA parassimp&aacute;tico e &eacute; noradren&eacute;rgica para o SNA simp&aacute;tico.</p> <p><strong>E)</strong> Os receptores colin&eacute;rgicos nicot&iacute;nicos s&atilde;o da categoria de receptores acoplados &agrave; prote&iacute;na G.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012191,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012192,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012193,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012194,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001220,
+   "descricao": "<p>Sobre a curva de pressão-volume durante o ciclo cardíaco conforme a figura abaixo, responda:</p><p><img src=\"data/imagens/c9a489b077024301.jpg\" alt=\"\"><br></p><p>a) O intervalo B-C representa a fase de ejeção ventricular.</p><p>b) O ponto B representa o volume diastólico final.</p><p>c) O ponto D representa a abertura da válvula mitral.</p><p>d) O intervalo A-B representa a fase de enchimento ventricular.</p><p>e) A curva de pressão-volume representa uma medida indireta da relação de Frank-Starling entre força e comprimento do músculo.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012201,
+     "letra": "A",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012202,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012203,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012204,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001221,
+   "descricao": "<p>Sobre os fármacos com ação sobre o sistema cardiovascular:</p><p>a) A efedrina é um simpatomimético de ação mista e tem sua resposta amplificada mediante tratamento prévio com reserpina ou guanetidina.</p><p>b) A vasopressina liga-se a receptores V2 e promove vasoconstrição direta.</p><p>c) A milrinona é um fármaco inotrópico positivo que atua por inibição de fosfodiesterase.</p><p>d) Os antiarrítmicos da classe I-b atuam por meio do bloqueio de receptores beta adrenérgicos.</p><p>e) A vasodilatação arterial e redução da pós-carga observadas com a administração de dobutamina decorrem da estimulação dos receptores beta-2 vasculares.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012211,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012212,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012213,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012214,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001222,
+   "descricao": "<p>Sobre os mecanismos de hipoxemia em diferentes distúrbios pulmonares, julgue os itens de A ao E assinalados no quadro a seguir:</p><p><img src=\"data/imagens/65943ceadb6a6b79.jpg\" alt=\"\"></p><p><b>A) </b>Na asma, o item A se refere à presença de distúrbio de difusão.</p><p><b>B) </b>Na fibrose pulmonar, o item B se refere à presença de distúrbio de difusão.</p><p><b>C) </b>Na atelectasia, o item C se refere à presença de distúrbio de difusão.</p><p><b>D) </b>No edema pulmonar, o item D se refere à presença de shunt.</p><p><b>E) </b>Na embolia pulmonar, o item E se refere à presença de hipoventilação.•</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012221,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012222,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012223,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012224,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001223,
+   "descricao": "<p>Observe a figura e responda as quest&otilde;es:</p> <p><img src=\"data/imagens/47b1a5da34af2dd6.jpg\" alt=\"\"></p> <p><strong>A)</strong> Se A e B s&atilde;o duas drogas diferentes que produzem o mesmo efeito fisiol&oacute;gico, a droga A &eacute; mais eficaz que a droga B.</p> <p><strong>B)</strong> Se A e B s&atilde;o duas drogas diferentes que produzem o mesmo efeito fisiol&oacute;gico, a droga A &eacute; mais potente que a droga B.</p> <p><strong>C)</strong> Se a curva A descreve a rela&ccedil;&atilde;o dose-resposta para uma droga X atuando sozinha, e a curva B descreve a rela&ccedil;&atilde;o dose-resposta para a droga X na presen&ccedil;a de uma droga Y, ent&atilde;o pode-se afirmar que a droga Y &eacute; um antagonista competitivo da droga X.</p> <p><strong>D)</strong> Quando dois f&aacute;rmacos t&ecirc;m uma intera&ccedil;&atilde;o aditiva, na sua coadministra&ccedil;&atilde;o, o efeito global ser&aacute; a soma dos dois efeitos individuais.</p> <p><strong>E)</strong> O &iacute;ndice terap&ecirc;utico dos f&aacute;rmacos A e B &eacute; calculado pelo produto da dose letal m&eacute;dia (DL50) pela dose eficaz m&eacute;dia (DE50).</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012231,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012232,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012233,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012234,
+     "letra": "D",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001224,
+   "descricao": "<p>A figura mostra a administração de dois anestésicos voláteis distintos, A e B, ao longo do tempo. Observe a figura e responda as questões:</p><p><img src=\"data/imagens/d5d2975bd7ff3c56.jpg\" alt=\"\"></p><p><b>A) </b>Esta relação entre a fracional arterial em relação à inspiratória representa a captação dos anestésicos inalatórios.</p><p><b>B) </b>O anestésico volátil A é mais solúvel que o anestésico B.</p><p><b>C) </b>A coadministração com N2O a 70% acelera o equilíbrio mais para o anestésico B que para o anestésico A.</p><p><b>D) </b>A diferença entre a linha contínua e linha pontilhada do anestésico B demonstra o efeito de segundo gás.</p><p><b>E) </b>O efeito de segundo gás não ocorre com o desflurano.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012241,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012242,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012243,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012244,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001225,
+   "descricao": "<p>Considerando os conceitos farmacocin&eacute;ticos dos anest&eacute;sicos venosos:</p> <p><strong>A) </strong>A meia vida contexto-sensitiva &eacute; o tempo necess&aacute;rio para decr&eacute;scimo de 50% da concentra&ccedil;&atilde;o plasm&aacute;tica do f&aacute;rmaco ap&oacute;s a interrup&ccedil;&atilde;o da sua infus&atilde;o cont&iacute;nua.</p> <p><strong>B) </strong>Em um tempo equivalente a duas meias-vidas de distribui&ccedil;&atilde;o, um f&aacute;rmaco alcan&ccedil;a seu estado de equil&iacute;brio (steady state).</p> <p><strong>C) </strong>Do ponto de vista exclusivamente farmacocin&eacute;tico, ap&oacute;s 4 horas de infus&atilde;o cont&iacute;nua, o propofol apresenta a curva de meia-vida contexto sensitiva mais prop&iacute;cia ao r&aacute;pido despertar do que cetamina e etomidato.</p> <p><strong>D) </strong>O t&eacute;rmino do efeito do propofol ap&oacute;s sua administra&ccedil;&atilde;o em bolus ocorre devido &agrave; sua elevada biotransforma&ccedil;&atilde;o.</p> <p><strong>E) </strong>Na curva de concentra&ccedil;&atilde;o plasm&aacute;tica ap&oacute;s inje&ccedil;&atilde;o em bolus, a meia-vida alfa tamb&eacute;m &eacute; chamada de fase de elimina&ccedil;&atilde;o r&aacute;pida.</p>",
+   "ano": "2021",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012251,
+     "letra": "A",
+     "descricao": "V F F F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012252,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012253,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012254,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

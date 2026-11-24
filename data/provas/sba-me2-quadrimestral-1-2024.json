@@ -1,0 +1,232 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-1-2024",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 1ª quadrimestral 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002352,
+   "descricao": "<p>Na metodologia cient&iacute;fica:</p> <p><strong>A)</strong> O chamado desvio padr&atilde;o representa a variabilidade m&eacute;dia de uma distribui&ccedil;&atilde;o da amostra estudada teste t-Student &eacute; aplic&aacute;vel para compara&ccedil;&atilde;o entre duas m&eacute;dias</p> <p><strong>B)</strong> O chamado desvio padr&atilde;o representa a variabilidade m&eacute;dia de uma distribui&ccedil;&atilde;o da&nbsp;amostra estudada</p> <p><strong>C) </strong>O n&iacute;vel de signific&acirc;ncia representa a probabilidade com que uma hip&oacute;tese nula pode ser&nbsp;rejeitada com seguran&ccedil;a</p> <p><strong>D)</strong> O erro tipo I ocorre quando o tamanho amostral n&atilde;o &eacute; suficiente grande para detectar&nbsp;diferen&ccedil;as reais entre os grupos</p> <p><strong>E)</strong> Os testes param&eacute;tricos s&atilde;o aqueles que exigem normalidade de distribui&ccedil;&atilde;o. Como&nbsp;exemplo temos o teste Qui-quadrado</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023521,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20023522,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023523,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023524,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002353,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao Monitoramento da Press&atilde;o Arterial e An&aacute;lise de Onda para Previs&atilde;o da Responsividade ao&nbsp;Volume:</p> <p>A) Indicadores est&aacute;ticos de pr&eacute;-carga, como a press&atilde;o venosa central (PVC), t&ecirc;m limita&ccedil;&otilde;es e potenciais confus&otilde;es bem documentadas</p> <p>B) A varia&ccedil;&atilde;o da press&atilde;o sist&oacute;lica (VPS) &eacute; um indicador din&acirc;mico de reserva de pr&eacute;-carga e responsividade ao volume baseado em varia&ccedil;&otilde;es c&iacute;clicas na press&atilde;o arterial induzidas&nbsp;pela respira&ccedil;&atilde;o</p> <p>C) Durante a inspira&ccedil;&atilde;o em ventila&ccedil;&atilde;o mec&acirc;nica positiva, o aumento da press&atilde;o intrator&aacute;cica reduz tanto a pr&eacute;-carga do ventr&iacute;culo esquerdo quanto o p&oacute;s-carga</p> <p>D) Uma VPS normal em um paciente ventilado mecanicamente &eacute; de 7 a 10 mm Hg, com o componente &Delta; Up da press&atilde;o arterial sist&oacute;lica sendo de 2 a 4 mm Hg e o &Delta; Down de 5 a&nbsp;6 mm Hg</p> <p>E) Uma VPS (&gt;15 mm Hg) &eacute; altamente preditivo de uma alta press&atilde;o de oclus&atilde;o da art&eacute;ria pulmonar (PAWP), sugerindo uma reserva de pr&eacute;-carga ventricular esquerda reduzida</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023531,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023532,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023533,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023534,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002354,
+   "descricao": "<p>Sobre os sistemas e aparelhos para administra&ccedil;&atilde;o de agentes inalat&oacute;rios:</p> <p><strong>A) </strong>No sistema circular a v&aacute;lvula unidirecional fica entre o paciente e a bolsa reservat&oacute;rio e o fluxo de g&aacute;s fresco posicionado entre a v&aacute;lvula inspirat&oacute;ria e o canister absorvedor de CO2.</p> <p><strong>B) </strong>A v&aacute;lvula de ajuste de limite de press&atilde;o, APL (Adjustable Pressure Limiting) tem como fun&ccedil;&atilde;o regular a press&atilde;o no sistema e escape de gases excedentes, e portanto deve estar localizada entre o paciente e a v&aacute;lvula inspirat&oacute;ria.</p> <p><strong>C) </strong>O fluxo da v&aacute;lvula de oxig&ecirc;nio direto deve ser fornecido &agrave; sa&iacute;da comum dos gases, sem passar pelo vaporizador, e pode variar entre 35 e 75 L.min-1 medidos &agrave; press&atilde;o atmosf&eacute;rica.</p> <p><strong>D) </strong>Os vaporizadores de desvio vari&aacute;vel fornecem uma concentra&ccedil;&atilde;o constante do anest&eacute;sico dependendo da temperatura ou do fluxo que passe pelo vaporizador.</p> <p><strong>E) </strong>Vaporizadores quando inclinados, podem preencher a &aacute;rea de desvio vari&aacute;vel com l&iacute;quido anest&eacute;sico, mas mesmo assim n&atilde;o alteram a concentra&ccedil;&atilde;o anest&eacute;sica final.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023541,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023542,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023543,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023544,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002355,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos anest&eacute;sicos inalat&oacute;rios, analise as afirma&ccedil;&otilde;es abaixo:</p> <p><strong>A) </strong>Estado de anestesia geral &eacute; geralmente alcan&ccedil;ado a partir de 1,3 CAM de um anest&eacute;sico inalat&oacute;rio.</p> <p><strong>B) </strong>Na presen&ccedil;a de espa&ccedil;o morto alveolar, o uso de alto fluxo de g&aacute;s fresco (FGF) durante a administra&ccedil;&atilde;o do anest&eacute;sico ir&aacute; atenuar o efeito de redu&ccedil;&atilde;o da capta&ccedil;&atilde;o do anest&eacute;sico pelo alv&eacute;olo.</p> <p><strong>C) </strong>Os halogenados de modo geral causam redu&ccedil;&atilde;o do volume minuto principalmente as custas do volume corrente, assim como redu&ccedil;&atilde;o da frequ&ecirc;ncia respirat&oacute;ria dose - dependente.</p> <p><strong>D) </strong>Levando em considera&ccedil;&atilde;o a elevada taxa de vaporiza&ccedil;&atilde;o do desflurano, uma das caracter&iacute;sticas necess&aacute;rias do vaporizador, &eacute; ocorrer resfriamento for&ccedil;ado de sua c&acirc;mara evaporadora para se manter a evapora&ccedil;&atilde;o do agente est&aacute;vel.</p> <p><strong>E) </strong>A hip&oacute;xia difusional &eacute; um fen&ocirc;meno que ocorre durante a r&aacute;pida libera&ccedil;&atilde;o de &oacute;xido nitroso dos tecidos de pacientes anestesiados, a partir do momento que o g&aacute;s &eacute; interrompido.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023551,
+     "letra": "A",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023552,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20023553,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20023554,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002356,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>Sobre anestesia venosa:&nbsp;</p> <p><strong>A) </strong>Ap&oacute;s a interrup&ccedil;&atilde;o da administra&ccedil;&atilde;o de propofol, a redu&ccedil;&atilde;o do seu efeito cl&iacute;nico ocorre principalmente devido &agrave; sua elimina&ccedil;&atilde;o.</p> <p><strong>B) </strong>O sufentanil apresenta maior lipossolubilidade quando comparado ao fentanil, no entanto apresenta menor volume de distribui&ccedil;&atilde;o em virtude de sua maior liga&ccedil;&atilde;o &agrave;s prote&iacute;nas plasm&aacute;ticas e maior depura&ccedil;&atilde;o hep&aacute;tica.</p> <p><strong>C) </strong>Entre os modelos farmacocin&eacute;ticos para o propofol, o modelo Paedfusor apresenta o volume do compartimento central e a depura&ccedil;&atilde;o em uma correla&ccedil;&atilde;o n&atilde;o-linear com o peso.</p> <p><strong>D) </strong>N&atilde;o h&aacute; vantagem na infus&atilde;o alvo-controlada do remifentanil tendo em vista seu pequeno volume de distribui&ccedil;&atilde;o e r&aacute;pida constante de equil&iacute;brio.</p> <p><strong>E) </strong>O modelo de Marsh sempre subestima a concentra&ccedil;&atilde;o plasm&aacute;tica real.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20023561,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20023562,
+     "letra": "B",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20023563,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20023564,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

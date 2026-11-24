@@ -1,0 +1,320 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-2-2023",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 2ª quadrimestral 2023",
+  "ano": "2023",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001241,
+   "descricao": "<p>Sobre a farmacologia geral:</p> <p><strong>A)</strong>&nbsp;A farmacocin&eacute;tica descreve a rela&ccedil;&atilde;o entre a dose e concentra&ccedil;&atilde;o plasm&aacute;tica ou concentra&ccedil;&atilde;o no s&iacute;tio efetor.</p> <p><strong>B)</strong>&nbsp;Farmacodin&acirc;mica descreve a rela&ccedil;&atilde;o entre a concentra&ccedil;&atilde;o do medicamento e o efeito farmacol&oacute;gico.</p> <p><strong>C)</strong>&nbsp;Histerese refere-se ao atraso temporal entre as mudan&ccedil;as na concentra&ccedil;&atilde;o plasm&aacute;tica e no efeito do medicamento</p> <p><strong>D)</strong>&nbsp;Volume de distribui&ccedil;&atilde;o &eacute; a raz&atilde;o entre a concentra&ccedil;&atilde;o (numerador) e a dose (denominador).</p> <p><strong>E)</strong>&nbsp;A depura&ccedil;&atilde;o (clearence ) refere-se &agrave; taxa de sa&iacute;da de um medicamento da corrente sangu&iacute;nea.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012411,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012412,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012413,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012414,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001242,
+   "descricao": "<p>Com relação à farmacologia dos anestésicos venosos.</p><p><b>A) </b>Propofol em baixas doses (10mg IV) deprime atividade medular espinhal e por esse mecanismo é efetivo no tratamento de prurido associado a opioides intratecais.</p><p><b>B) </b>As duas curvas representam injeções intravenosas: Curva A = propofol 2,5mg/kg e Curva B = tiopental 5mg/kg.</p><p><img src=\"data/imagens/42bbcdf06176bbc8.jpg\" alt=\"\"></p><p><b>C) </b>Fospropofol causa menor dor à injeção e está associado a disestesia ou sensação de queimação perineal.</p><p><b>D) </b>Benzodiazepínicos interagem entre a subunidade α e γ do receptor GABA A, sendo a subunidade γ necessária para a ligação do fármaco.</p><p><b>E) </b>Cetamina está associada à catalepsia, condição caracterizada por falta de resposta a estímulos externos e rigidez muscular.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012421,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012422,
+     "letra": "B",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012423,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012424,
+     "letra": "D",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001243,
+   "descricao": "<p>Sobre a farmacologia dos anest&eacute;sicos inalat&oacute;rios:</p> <p><strong>A) </strong>Os efeitos analg&eacute;sicos do &oacute;xido nitroso duram cerca de 2 h ap&oacute;s o t&eacute;rmino do efeito hipn&oacute;tico.</p> <p><strong>B) </strong>A solubilidade sangu&iacute;nea do isoflurano &eacute; cerca de 18% menor em neonatos e idosos em compara&ccedil;&atilde;o com adultos jovens.</p> <p><strong>C) </strong>O metabolismo do sevoflurano resulta na forma&ccedil;&atilde;o de prote&iacute;nas hep&aacute;ticas trifluoroacetiladas com potencial para produzir hepatotoxicidade, bem como sensibilidade cruzada entre as drogas.</p> <p><strong>D) </strong>O desflurano demonstra um potencial de aquecimento global maior que o sevoflurano e o isoflurano.</p> <p><strong>E) </strong>O &oacute;xido nitroso &eacute; um contribuidor proeminente tanto para destrui&ccedil;&atilde;o da camada de oz&ocirc;nio, bem como o efeito estufa.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012431,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012432,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012433,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012434,
+     "letra": "D",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001244,
+   "descricao": "<p>Informa&ccedil;&otilde;es cl&iacute;nicas do ox&iacute;metro de pulso:</p> <p><strong>A) </strong>O probe do ox&iacute;metro usado na testa &eacute; baseado na oximetria de reflet&acirc;ncia.</p> <p><strong>B) </strong>Na hipotens&atilde;o arterial que necessita vasopressor intravenoso, os probes de orelha e testa s&atilde;o mais precisos na leitura da satura&ccedil;&atilde;o de oxig&ecirc;nio.</p> <p><strong>C) </strong>A leitura do ox&iacute;metro de pulso na faixa de luz infravermelha favorece a absorv&acirc;ncia de luz da oxihemoglobina.</p> <p><strong>D) </strong>A oximetria de transmiss&atilde;o envolve a coloca&ccedil;&atilde;o do emissor e do detector em lados opostos do tecido onde est&aacute; sendo medido a satura&ccedil;&atilde;o de oxig&ecirc;nio.</p> <p><strong>E) </strong>A leitura da satura&ccedil;&atilde;o de oxig&ecirc;nio e a pletismografia independem da eleva&ccedil;&atilde;o da bilirrubina.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012441,
+     "letra": "A",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012442,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012443,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012444,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001245,
+   "descricao": "<p><strong>Com rela&ccedil;&atilde;o ao sistema nervoso aut&ocirc;nomo:</strong></p> <p><strong>A)</strong> Os neur&ocirc;nios parassimp&aacute;ticos e simp&aacute;ticos pr&eacute;-ganglionares possuem transmiss&atilde;o colin&eacute;rgica.</p> <p><strong>B)</strong> As fibras pr&eacute;-ganglionares simp&aacute;ticas geralmente s&atilde;o longas, pois os g&acirc;nglios simp&aacute;ticos est&atilde;o pr&oacute;ximos dos &oacute;rg&atilde;os efetores.</p> <p><strong>C)</strong> O agonismo dos receptores beta-2 conduz o pot&aacute;ssio para dentro dos eritr&oacute;citos e c&eacute;lulas musculares.</p> <p><strong>D)</strong> O agonismo de receptores alfa-2 diminui a libera&ccedil;&atilde;o de insulina nas c&eacute;lulas beta pancre&aacute;ticas.</p> <p><strong>E) </strong>O sistema nervoso parassimp&aacute;tico &eacute; originado nos nervos cranianos III, VII, IX e X, assim como nos segmentos tor&aacute;cicos.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012451,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012452,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012453,
+     "letra": "C",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012454,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001246,
+   "descricao": "<p>Quanto &agrave;s vari&aacute;veis hemodin&acirc;micas podemos dizer que:</p> <p><strong>A)</strong> A Press&atilde;o Arterial M&eacute;dia (PAM) &eacute; o resultado do D&eacute;bito card&iacute;aco (DC) multiplicado pela Resist&ecirc;ncia Vascular Sist&ecirc;mica (RVS).</p> <p><strong>B)</strong> O volume de eje&ccedil;&atilde;o &eacute; o resultado do volume diast&oacute;lico final (VDF) menos o volume sist&oacute;lico final (VSF).</p> <p><strong>C) </strong>DC &eacute; o produto da frequ&ecirc;ncia card&iacute;aca (FC) pelo volume diast&oacute;lico (VD).</p> <p><strong>D) </strong>A RVS &eacute; o resultado da PAM menos a press&atilde;o venosa central (PVC) dividido pelo DC.</p> <p><strong>E) </strong>O &iacute;ndice card&iacute;aco &eacute; o resultado do DC dividido pela &aacute;rea de superf&iacute;cie corporal (SC).</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012461,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012462,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012463,
+     "letra": "C",
+     "descricao": "V V V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012464,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001247,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA) </strong>Sobre a fisiologia do sistema respirat&oacute;rio:</p> <p><strong>A) </strong>A press&atilde;o transpulmonar &eacute; a diferen&ccedil;a entre a press&atilde;o dos alv&eacute;olos e a press&atilde;o das superf&iacute;cies externas dos pulm&otilde;es.</p> <p><strong>B) </strong>Em situa&ccedil;&otilde;es normais o fluxo de sangue ao longo da por&ccedil;&atilde;o apical do pulm&atilde;o (Zona 1 de West) &eacute; ausente em qualquer fase do ciclo card&iacute;aco.&nbsp;</p> <p><strong>C) </strong>O coeficiente de difus&atilde;o para a transfer&ecirc;ncia do g&aacute;s atrav&eacute;s da membrana respirat&oacute;ria &eacute; diretamente proporcional &agrave; raiz quadrada do seu peso molecular.</p> <p><strong>D) </strong>O efeito Haldane resulta do fato de que a liga&ccedil;&atilde;o de O2 com hemoglobina nos pulm&otilde;es, torna esta um &aacute;cido mais forte sendo capaz de deslocar o CO2 do sangue para os alv&eacute;olos.</p> <p><strong>E) </strong>O centro respirat&oacute;rio se divide em tr&ecirc;s grupos de neur&ocirc;nios, um grupo respirat&oacute;rio dorsal que promove principalmente a inspira&ccedil;&atilde;o, um grupo respirat&oacute;rio ventral que promove principalmente a expira&ccedil;&atilde;o e o centro pneumot&aacute;xico que controla a frequ&ecirc;ncia e amplitude respirat&oacute;ria.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012471,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012472,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012473,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012474,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

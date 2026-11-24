@@ -1,0 +1,1508 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2012",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2012",
+  "ano": "2012",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002840,
+   "descricao": "<p>Receptor de purina metabotrópico envolvido com a transmissão do estímulo nóxico:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028401,
+     "letra": "A",
+     "descricao": "ASIC1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028402,
+     "letra": "B",
+     "descricao": "P2X3",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028403,
+     "letra": "C",
+     "descricao": "TRPV3",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028404,
+     "letra": "D",
+     "descricao": "P2XY",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002841,
+   "descricao": "<p>No paciente renal terminal submetido a transplante renal de doador cadáver:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028411,
+     "letra": "A",
+     "descricao": "a duração de ação de uma dose clínica de rocurônio é menor do que no paciente normal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028412,
+     "letra": "B",
+     "descricao": "a succinilcolina provoca maior aumento dos níveis plasmáticos de potássio do que em indivíduos normais",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028413,
+     "letra": "C",
+     "descricao": "a pressão diastólica da artéria pulmonar acima de 15 mmHg relaciona-se com maior probabilidade de disfunção do rim implantado",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028414,
+     "letra": "D",
+     "descricao": "a pressão venosa entre 10 e 15 mmHg aumenta a probabilidade de bom funcionamento do rim implantado",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002842,
+   "descricao": "<p>Característica do modelo de gestão de saúde com remuneração por resultados (pay for performance):</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028421,
+     "letra": "A",
+     "descricao": "é fundamentado na prática da “medicina baseada em evidências”",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028422,
+     "letra": "B",
+     "descricao": "incentiva o médico a incluir pacientes com maior risco de insucesso de tratamento em sua clientela",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028423,
+     "letra": "C",
+     "descricao": "é específico para honorários médicos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028424,
+     "letra": "D",
+     "descricao": "o pagamento é assegurado em caso de resultados negativos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002843,
+   "descricao": "<p>A interação de agonista com a subunidade alfa-2 do receptor GABA tipo A causa:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028431,
+     "letra": "A",
+     "descricao": "sedação",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028432,
+     "letra": "B",
+     "descricao": "amnésia anterógrada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028433,
+     "letra": "C",
+     "descricao": "efeito anticonvulsivante",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028434,
+     "letra": "D",
+     "descricao": "relaxamento muscular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002844,
+   "descricao": "<p>Sequência correta das etapas do ciclo de implementação de rotina de qualidade de serviços:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028441,
+     "letra": "A",
+     "descricao": "envolvimento, educação, execução e avaliação",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028442,
+     "letra": "B",
+     "descricao": "educação, envolvimento, ajustamento e avaliação",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028443,
+     "letra": "C",
+     "descricao": "execução, avaliação, ajustamento, publicação dos resultados",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028444,
+     "letra": "D",
+     "descricao": "envolvimento, educação, execução e ajustamento",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002845,
+   "descricao": "<p>Aumenta durante a indução de hipotermia (temperatura central mínima = 28oC):</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028451,
+     "letra": "A",
+     "descricao": "Resistência vascular renal",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028452,
+     "letra": "B",
+     "descricao": "Taxa de filtração glomerular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028453,
+     "letra": "C",
+     "descricao": "Reabsorção tubular de sódio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028454,
+     "letra": "D",
+     "descricao": "Débito urinário",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002846,
+   "descricao": "<p>Na cirurgia de clipagem de aneurisma intracraniano:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028461,
+     "letra": "A",
+     "descricao": "A drenagem liquórica antes da abertura da dura pode causar ressangramento",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028462,
+     "letra": "B",
+     "descricao": "O manitol deve ser administrado após instalação dos retratores",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028463,
+     "letra": "C",
+     "descricao": "A pressão arterial deve ser reduzida durante oclusão da artéria carótida para facilitar a dissecção do aneurisma",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028464,
+     "letra": "D",
+     "descricao": "Hipernatremia e contração do espaço intravascular caracterizam a síndrome de secreção inapropriada de hormônio antidiurético",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002847,
+   "descricao": "<p>Relação ventilação/perfusão no recém-nascido:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028471,
+     "letra": "A",
+     "descricao": "0,4",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028472,
+     "letra": "B",
+     "descricao": "0,6",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028473,
+     "letra": "C",
+     "descricao": "0,8",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028474,
+     "letra": "D",
+     "descricao": "1,0",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002848,
+   "descricao": "<p>Reposição volêmica de manutenção em um paciente pediátrico de 30Kg (ml.h):</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028481,
+     "letra": "A",
+     "descricao": "30",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028482,
+     "letra": "B",
+     "descricao": "50",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028483,
+     "letra": "C",
+     "descricao": "60",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028484,
+     "letra": "D",
+     "descricao": "70",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002849,
+   "descricao": "<p>Localização provável de lesão consequente a trauma raquimedular na região cervical em paciente que apresenta taquipnéia leve e paralisia dos músculos deltoide, braquial, bíceps braquial e braquiorradial.</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028491,
+     "letra": "A",
+     "descricao": "C2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028492,
+     "letra": "B",
+     "descricao": "C3",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028493,
+     "letra": "C",
+     "descricao": "C5",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028494,
+     "letra": "D",
+     "descricao": "C7",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002850,
+   "descricao": "<p>Diminui no cérebro de um indivíduo hígido de 80 anos quando comparado ao do adulto jovem:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028501,
+     "letra": "A",
+     "descricao": "Atividade elétrica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028502,
+     "letra": "B",
+     "descricao": "Fluxo sanguíneo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028503,
+     "letra": "C",
+     "descricao": "Taxa metabólica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028504,
+     "letra": "D",
+     "descricao": "Níveis de acetilcolina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002851,
+   "descricao": "<p>Diminui os níveis séricos de tiroxina (T4):</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028511,
+     "letra": "A",
+     "descricao": "Hepatite crônica ativa",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028512,
+     "letra": "B",
+     "descricao": "Porfiria aguda intermitente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028513,
+     "letra": "C",
+     "descricao": "Síndrome nefrótica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028514,
+     "letra": "D",
+     "descricao": "Gravidez",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002852,
+   "descricao": "<p>Sinal precoce de hipocalcemia pós-paratireoidectomia:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028521,
+     "letra": "A",
+     "descricao": "Estridor laríngeo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028522,
+     "letra": "B",
+     "descricao": "Convulsões",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028523,
+     "letra": "C",
+     "descricao": "Depressão da consciência",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028524,
+     "letra": "D",
+     "descricao": "Parestesias",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002853,
+   "descricao": "<p>Está aumentado(a) no aparelho respiratório do idoso:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028531,
+     "letra": "A",
+     "descricao": "resposta ventilatória à hipóxia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028532,
+     "letra": "B",
+     "descricao": "volume residual",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028533,
+     "letra": "C",
+     "descricao": "elasticidade pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028534,
+     "letra": "D",
+     "descricao": "volume corrente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002854,
+   "descricao": "<p>Correlaciona-se com aumento do risco de dessatura&ccedil;&atilde;o durante ventila&ccedil;&atilde;o monopulmonar:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028541,
+     "letra": "A",
+     "descricao": "Toracotomia esquerda",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028542,
+     "letra": "B",
+     "descricao": "Posição supina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028543,
+     "letra": "C",
+     "descricao": "Baixa perfusão pré-operatória do pulmão a ser operado",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028544,
+     "letra": "D",
+     "descricao": "Doença pulmonar obstrutiva cônica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002855,
+   "descricao": "<p>A C50 do fentanil associado ao tiopental para atenuação da resposta circulatória à intubação traqueal é 3 ηg/mL. O volume aparente de distribuição do fentanil ao tempo do efeito máximo é 75L. Qual a dose a ser aplicada, em μg para atingir a C50 no tempo para o efeito máximo de 3,6 minutos?</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028551,
+     "letra": "A",
+     "descricao": "150",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028552,
+     "letra": "B",
+     "descricao": "175",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028553,
+     "letra": "C",
+     "descricao": "200",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028554,
+     "letra": "D",
+     "descricao": "225",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002856,
+   "descricao": "<p>A lidocaína utilizada na solução tumescente para lipoaspiração pode produzir convulsões quando a concentração plasmática é:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028561,
+     "letra": "A",
+     "descricao": "2 a 3 μg.ml-1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028562,
+     "letra": "B",
+     "descricao": "4 a 5 μg.ml-1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028563,
+     "letra": "C",
+     "descricao": "6 a 7 μg.ml-1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028564,
+     "letra": "D",
+     "descricao": "maior que 10 μg.ml-1",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002857,
+   "descricao": "<p>É um sinal de neuropatia diabética:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028571,
+     "letra": "A",
+     "descricao": "Hiperidrose",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028572,
+     "letra": "B",
+     "descricao": "Hipertensão arterial sistêmica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028573,
+     "letra": "C",
+     "descricao": "Taquicardia em repouso",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028574,
+     "letra": "D",
+     "descricao": "Constipação crônica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002858,
+   "descricao": "<p>Durante a lipoaspiração, quando se utiliza a técnica tumescente, do volume injetado é absorvido para a circulação sistêmica:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028581,
+     "letra": "A",
+     "descricao": "10 a 20%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028582,
+     "letra": "B",
+     "descricao": "30 a 40%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028583,
+     "letra": "C",
+     "descricao": "50 a 60%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028584,
+     "letra": "D",
+     "descricao": "75 a 80%",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002859,
+   "descricao": "<p>Pressão intracraniana de 30 mmHg é considerada:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028591,
+     "letra": "A",
+     "descricao": "fisiológica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028592,
+     "letra": "B",
+     "descricao": "hipertensão intracraniana leve",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028593,
+     "letra": "C",
+     "descricao": "hipertensão intracraniana moderada",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028594,
+     "letra": "D",
+     "descricao": "hipertensão intracraniana grave",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002860,
+   "descricao": "<p>A fase de reperfusão inicia-se com a restauração do fluxo:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028601,
+     "letra": "A",
+     "descricao": "da veia porta",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028602,
+     "letra": "B",
+     "descricao": "das veias supra-hepáticas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028603,
+     "letra": "C",
+     "descricao": "da artéria hepática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028604,
+     "letra": "D",
+     "descricao": "da veia cava inferior",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002861,
+   "descricao": "<p>Efeito da aplicação de pressão positiva ao final da expiração em pacientes sob ventilação mecânica com pressão positiva intermitente:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028611,
+     "letra": "A",
+     "descricao": "aumento da complacência do sistema respiratório é sugestivo de hiperinsuflação alveolar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028612,
+     "letra": "B",
+     "descricao": "melhora da função ventricular em pacientes portadores de insuficiência ventricular esquerda",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028613,
+     "letra": "C",
+     "descricao": "diminuição da complacência respiratória sugere ventilação na porção linear da relação volume/pressão do sistema respiratório",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028614,
+     "letra": "D",
+     "descricao": "aumento da complacência ventricular direita em pacientes com função ventricular normal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002862,
+   "descricao": "<p>O balão intra-aórtico (BIA):</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028621,
+     "letra": "A",
+     "descricao": "é indicado na disfunção ventricular esquerda aguda refratária à terapêutica farmacológica",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028622,
+     "letra": "B",
+     "descricao": "é insuflado durante a sístole e desinsuflado durante a diástole ventricular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028623,
+     "letra": "C",
+     "descricao": "deve ser posicionado na aorta ascendente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028624,
+     "letra": "D",
+     "descricao": "é contraindicado em pacientes com idade superior a 80 anos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002863,
+   "descricao": "<p>Aumenta num indivíduo hígido de 80 anos quando comparado ao do adulto jovem:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028631,
+     "letra": "A",
+     "descricao": "volume das suprarrenais",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028632,
+     "letra": "B",
+     "descricao": "níveis plasmáticos de noradrenalina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028633,
+     "letra": "C",
+     "descricao": "responsividade dos receptores beta adrenérgicos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028634,
+     "letra": "D",
+     "descricao": "atividade dos receptores alfa adrenérgicos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002864,
+   "descricao": "<p>Em dec&uacute;bito lateral:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028641,
+     "letra": "A",
+     "descricao": "No paciente acordado o pulmão dependente é mais ventilado",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028642,
+     "letra": "B",
+     "descricao": "No paciente acordado o pulmão dependente é menos perfundido",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028643,
+     "letra": "C",
+     "descricao": "Na indução da anestesia o pulmão não dependente é mais perfundido",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028644,
+     "letra": "D",
+     "descricao": "Na indução da anestesia o pulmão não dependente é menos ventilado",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002865,
+   "descricao": "<p>Característica do sistema de Mapleson A:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028651,
+     "letra": "A",
+     "descricao": "Fluxo de admissão de gases frescos próximo ao paciente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028652,
+     "letra": "B",
+     "descricao": "Fluxo de admissão de gases frescos mínimo de 2 a 3 vezes o volume-minuto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028653,
+     "letra": "C",
+     "descricao": "Tubo corrugado deve ter volume menor que o do volume alveolar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028654,
+     "letra": "D",
+     "descricao": "Deve ser usado com ventilação espontânea",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002866,
+   "descricao": "<p>Ferramenta que proporciona avaliar o desempenho de um serviço de anestesiologia:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028661,
+     "letra": "A",
+     "descricao": "avaliações das críticas dos usuários",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028662,
+     "letra": "B",
+     "descricao": "estudo de casos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028663,
+     "letra": "C",
+     "descricao": "indicadores hospitalares",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028664,
+     "letra": "D",
+     "descricao": "duração das anestesias",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002867,
+   "descricao": "<p>Aumenta no cérebro durante hipotermia com temperatura central = 28oC:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028671,
+     "letra": "A",
+     "descricao": "Fluxo sanguíneo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028672,
+     "letra": "B",
+     "descricao": "Taxa metabólica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028673,
+     "letra": "C",
+     "descricao": "Liberação de aminoácidos excitatórios",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028674,
+     "letra": "D",
+     "descricao": "Oxigenação tissular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002868,
+   "descricao": "<p>É causa de estridor supraglótico:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028681,
+     "letra": "A",
+     "descricao": "Laringocele",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028682,
+     "letra": "B",
+     "descricao": "Laringomalácia",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028683,
+     "letra": "C",
+     "descricao": "Atresia de coanas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028684,
+     "letra": "D",
+     "descricao": "Traqueomalácia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002869,
+   "descricao": "<p>Dose recomendada de morfina intratecal no paciente pediátrico em μg.Kg-1:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028691,
+     "letra": "A",
+     "descricao": "2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028692,
+     "letra": "B",
+     "descricao": "5",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028693,
+     "letra": "C",
+     "descricao": "10",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028694,
+     "letra": "D",
+     "descricao": "15",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002870,
+   "descricao": "<p>Neurotransmissor excitatório associado à dor crônica:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028701,
+     "letra": "A",
+     "descricao": "Serotonina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028702,
+     "letra": "B",
+     "descricao": "Norepinefrina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028703,
+     "letra": "C",
+     "descricao": "Glicina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028704,
+     "letra": "D",
+     "descricao": "Glutamato",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002871,
+   "descricao": "<p>No perioperatório do paciente com dor cônica em uso de opioides:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028711,
+     "letra": "A",
+     "descricao": "A aderência a regimes de analgesia controlada pelo paciente é maior do que em pacientes normais",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028712,
+     "letra": "B",
+     "descricao": "Náuseas e vômitos associados a opióides são mais prevalentes do que em pacientes normais",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028713,
+     "letra": "C",
+     "descricao": "O uso crônico de opioide peridural requer menor analgesia no pós-operatório",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028714,
+     "letra": "D",
+     "descricao": "A intensidade da dor pré-operatória correlaciona-se positivamente com a da dor pós-operatória",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002872,
+   "descricao": "<p>A busca das melhores práticas na indústria e em instituições médicas que conduzam a um desempenho superior denomina-se:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028721,
+     "letra": "A",
+     "descricao": "brainstorming",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028722,
+     "letra": "B",
+     "descricao": "espionagem industrial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028723,
+     "letra": "C",
+     "descricao": "metodologia de Pareto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028724,
+     "letra": "D",
+     "descricao": "benchmarking",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002873,
+   "descricao": "<p>Na infiltração tumescente utilizada nas lipoaspirações, a dose segura da lidocaína em mg.Kg-1 é de:</p>",
+   "ano": "2012",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028731,
+     "letra": "A",
+     "descricao": "10 a 20",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028732,
+     "letra": "B",
+     "descricao": "35 a 55",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028733,
+     "letra": "C",
+     "descricao": "65 a 75",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028734,
+     "letra": "D",
+     "descricao": "80 a 90",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

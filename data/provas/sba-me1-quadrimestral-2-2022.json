@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-2-2022",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 2ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001226,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; farmacocin&eacute;tica e farmacodin&acirc;mica dos agentes inalat&oacute;rios:</p> <p><strong>A) </strong>M&uacute;sculo e gordura s&atilde;o considerados tecidos de ac&uacute;mulo que afetam a velocidade de recupera&ccedil;&atilde;o da anestesia.</p> <p><strong>B) </strong>O sistema nervoso central &eacute; o tecido do efeito desejado do anest&eacute;sico inalat&oacute;rio e o alv&eacute;olo &eacute; o compartimento central da anestesia inalat&oacute;ria.</p> <p><strong>C) </strong>As press&otilde;es parciais de um anest&eacute;sico nos diferentes tecidos s&atilde;o determinadas pela press&atilde;o parcial deste anest&eacute;sico no sangue.</p> <p><strong>D) </strong>O protoxido est&aacute; indicado nas cirurgias videolaparosc&oacute;pica pois, aumenta o volume e press&atilde;o do g&aacute;s contido em cavidades fechadas.</p> <p><strong>E) </strong>O sevoflurano e o desflurano potencializam, de forma mais intensa, o bloqueio neuromuscular promovido pelos bloqueadores neuromusculares adespolarizantes.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012261,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012262,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012263,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012264,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001227,
+   "descricao": "<p>No que se refere aos conceitos farmacol&oacute;gicos:</p> <p><strong>A)</strong> T&frac12; Ke0 &eacute; a velocidade de equil&iacute;brio entre o plasma e o s&iacute;tio efetor.</p> <p><strong>B)</strong> O aumento de alfa 1-glicoprote&iacute;nas gera aumento da fra&ccedil;&atilde;o livre dos f&aacute;rmacos b&aacute;sicos.</p> <p><strong>C)</strong> Quando se deseja um efeito farmacol&oacute;gico r&aacute;pido deve-se optar por um f&aacute;rmaco com elevada Ke0.</p> <p><strong>D)</strong> O processo desde a entrada de uma droga no organismo at&eacute; atingir o sitio efetor corresponde &agrave; farmacocin&eacute;tica.</p> <p><strong>E)</strong> Meia vida contexto sensitiva &eacute; o tempo para o decr&eacute;scimo de 50% da concentra&ccedil;&atilde;o do f&aacute;rmaco a partir do in&iacute;cio de sua administra&ccedil;&atilde;o.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012271,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012272,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012273,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012274,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001228,
+   "descricao": "<p>Sobre o propofol:</p><p><b>A) </b>Os grupos sanguíneos AB e O estão relacionados à melhor eficácia do efeito anestésico do propofol.</p><p><b>B) </b>O propofol aumenta a pressão intraocular.</p><p><b>C) </b>A ação do propofol se dá por inibição do complexo ionóforo do receptor GABA.</p><p><b>D) </b>Propofol é um potente antioxidante.</p><p><b>E) </b>O propofol diminui o débito cardíaco, a resistência vascular sistêmica e o volume sistólico de ejeção.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012281,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012282,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012283,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012284,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001229,
+   "descricao": "<p>Quanto à farmacologia dos anestésicos inalatórios: </p><p><b>A) </b>O anestésico inalatório que apresenta menor coeficiente de solubilidade sangue:gás é o xenônio.</p><p><b>B) </b>Considerando-se um circuito anestésico desconectado do paciente com volume de 6 litros e com um vaporizador ajustado a 1 %, com um fluxo de gases frescos de 2 L.min-1, ao final de uma constante de tempo a concentração inspirada de sevoflurano será de 1%.</p><p><b>C) </b>Aumentando-se a pressão barométrica, a relação fração alveolar e fração inspirada (FA/FI) tenderá a se aproximar a 1.</p><p><b>D) </b>O compartimento central do anestésico inalatório é o cérebro.</p><p><b>E) </b>O impacto das variações do débito cardíaco sobre a captação dos anestésicos inalatórios é tanto maior quanto menor for a solubilidade do agente considerado.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012291,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012292,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012293,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012294,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001230,
+   "descricao": "<p>Sobre a fisiologia da circulação pulmonar, entende-se que: </p><p><b>A) </b>Espaço morto aparece em locais onde o pulmão está sendo perfundido,&nbsp;mas não ventilado.</p><p><b>B) </b>A distribuição do fluxo sanguíneo nos pulmões independe do&nbsp;posicionamento do indivíduo.</p><p><b>C) </b>Em condições normais, a resistência vascular pulmonar equivale à&nbsp;resistência vascular sistêmica.</p><p><b>D) </b>Hipoventilação em determinada área alveolar causa vasoconstrição das&nbsp;arteríolas pulmonares que irrigam esses alvéolos.</p><p><b>E) </b>As artérias brônquicas carreiam sangue oxigenado para nutrir as&nbsp;estruturas pulmonares que não têm acesso ao oxigênio atmosférico.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012301,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012302,
+     "letra": "B",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012303,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012304,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001231,
+   "descricao": "<p>Eventos relacionados ao sistema nervoso aut&ocirc;nomo:</p> <p><strong>A)</strong> Na resposta ao trauma cir&uacute;rgico, o est&iacute;mulo simp&aacute;tico causa aumento da libera&ccedil;&atilde;o de glicose por glicogen&oacute;lise e neoglicog&ecirc;nese.</p> <p><strong>B)</strong> Em cirurgias de estrabismo h&aacute; risco de taquicardia mediada pelo nervo vago.</p> <p><strong>C)</strong> Ao se administrar um f&aacute;rmaco que altere o di&acirc;metro pupilar, a miose &eacute; mediada pelo sistema parassimp&aacute;tico e a midr&iacute;ase pelo sistema simp&aacute;tico.</p> <p><strong>D)</strong> Les&otilde;es medulares cr&ocirc;nicas respondem com taquicardia &agrave;s situa&ccedil;&otilde;es de hipovolemia.</p> <p><strong>E)</strong> A hipotens&atilde;o ortost&aacute;tica &eacute; comum na popula&ccedil;&atilde;o idosa, refletindo uma diminui&ccedil;&atilde;o da responsividade dos baroreceptores.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012311,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012312,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012313,
+     "letra": "C",
+     "descricao": "V F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012314,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001232,
+   "descricao": "<p>Observe o gráfico abaixo correspondente à relação pressão-volume átrio esquerdo no ciclo cardíaco.</p><p><img src=\"data/imagens/412acef360c8fe4b.jpg\" alt=\"\"></p><p>a) Com a contração atrial, a pressão (PAE) aumenta, com diminuição do colume (VAE), formando a alça A.</p><p>b) Com o fechamento da valva mitral (fvm), inicia-se aa sístole ventricular com diminuição da PAE e aumento do VAE.</p><p>c) Do descenso x ao ponto v, o VAE e PAE aumentam rapidamente formando a porção ascendente da alça V.</p><p>d) Com a abertura a valva mitral (amv), o VAE e PAE caem rapidamente até o descenso y, formando a porção descendente da alça V.</p><p>e) A alça A corresponde à sístole atrial e a alça V à sístole ventricular</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012321,
+     "letra": "A",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012322,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012323,
+     "letra": "C",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012324,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001233,
+   "descricao": "<p><strong>Em rela&ccedil;&atilde;o ao sistema nervoso central e aut&ocirc;nomo:</strong></p> <p><strong>A)</strong> O &uacute;nico componente eferente integro da via reflexa dos baroreceptores nos pacientes tetrapl&eacute;gicos &eacute; o nervo vago.</p> <p><strong>B)</strong> A midr&iacute;ase est&aacute; presente nos quadros de intoxica&ccedil;&atilde;o por f&aacute;rmacos anticolinester&aacute;sicos</p> <p><strong>C)</strong> Durante a manobra de Valsalva sustentada h&aacute; diminui&ccedil;&atilde;o do retorno venoso, diminui&ccedil;&atilde;o do d&eacute;bito card&iacute;aco e da press&atilde;o arterial, seguidos de vasoconstri&ccedil;&atilde;o e taquicardia.</p> <p><strong>D)</strong> Nos feocromocitomas temos a libera&ccedil;&atilde;o pr&eacute;-ganglionar de acetilcolina e p&oacute;s-ganglionar de noradrenalina e adrenalina na medula adrenal.</p> <p><strong>E)</strong> Tumores do tronco cerebral n&atilde;o alteram o controle da respira&ccedil;&atilde;o e do sistema cardiovascular.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012331,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012332,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012333,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012334,
+     "letra": "D",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001234,
+   "descricao": "<p>Os sistemas respiratórios da classificação de Mapleson têm como característica:</p><p>a) Usam baixos fluxos de gases frescos.</p><p>b) O sistema Mapleson A em ventilação espontânea requer um fluxo de gás fresco igual a uma vez o volume-minuto.</p><p>c) A válvula expiratória do tipo alívio de pressão (pop-off) está nos sistemas ABCD.</p><p>d) O sistema de Bain tem características funcionais semelhantes ao Mapleson D e pode ser usado em todas as faixas etárias.</p><p>e) Os sistemas têm baixa resistência inspiratória e expiratória.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012341,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012342,
+     "letra": "B",
+     "descricao": "F V V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012343,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012344,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001235,
+   "descricao": "<p>Mulher de 30 anos, 87 kg e 183 cm, com hist&oacute;ria de desmaios frequentes e miocardiopatia obstrutiva hipertr&oacute;fica familiar. Quais os objetivos hemodin&acirc;micos durante a anestesia para corre&ccedil;&atilde;o de h&eacute;rnia inguinal nesta paciente?</p> <p>a) Diminui&ccedil;&atilde;o da pr&eacute;-carga.</p> <p>b) Diminui&ccedil;&atilde;o da p&oacute;s-carga.</p> <p>c) Diminui&ccedil;&atilde;o da contratilidade.</p> <p>d) Aumento da frequ&ecirc;ncia card&iacute;aca.</p> <p>e) Baixo hemat&oacute;crito.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012351,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012352,
+     "letra": "B",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012353,
+     "letra": "C",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012354,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001236,
+   "descricao": "<p>Sobre a mec&acirc;nica respirat&oacute;ria e o controle da respira&ccedil;&atilde;o, entende-se que:</p> <p><strong>A) </strong>A complac&ecirc;ncia pulmonar &eacute; inversamente proporcional &agrave; elast&acirc;ncia.</p> <p><strong>B) </strong>O controle volunt&aacute;rio da respira&ccedil;&atilde;o se d&aacute; por vias aferentes provenientes do tronco encef&aacute;lico.</p> <p><strong>C) </strong>O aumento do gradiente transpulmonar proporciona maior distens&atilde;o alveolar e maior volume inspirado.</p> <p><strong>D) </strong>Com o aumento da press&atilde;o parcial de di&oacute;xido de carbono no plasma, a ventila&ccedil;&atilde;o alveolar aumenta progressivamente.</p> <p><strong>E) </strong>Na respira&ccedil;&atilde;o espont&acirc;nea, com a contra&ccedil;&atilde;o do diafragma e m&uacute;sculos intercostais, o aumento da press&atilde;o intra-alveolar promove a entrada de ar nos pulm&otilde;es.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012361,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012362,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012363,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012364,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001237,
+   "descricao": "<p>De acordo com o conceito farmacológico de meia vida sensível ao contexto dos anestésicos venosos:</p> <p><img src=\"data/imagens/e1f9a806c24d19ff.jpg\" alt=\"\"></p> <p><b>A) </b>O fármaco nº 1 é o menos indicado para uso em infusão contínua.</p><p><b>B) </b>O fármaco nº 4 representa droga com rápido metabolismo por esterases não especificas.</p><p><b>C) </b>O sufentanil tem um bom perfil para uso contínuo e no gráfico está representado pelo fármaco nº 4.</p><p><b>D) </b>Os fármacos nº 1-2-3-4 são representados por: alfentanil-sufentanil-fentanil-remifentanil, respectivamente.</p><p><b>E) </b>Meia vida sensível ao contexto é definida como a redução de 50% da concentração plasmática após a interrupção da infusão contínua.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012371,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012372,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012373,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012374,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001238,
+   "descricao": "<p>Mulher de 25 anos, 126 Kg e 1,64 m, será submetida a cirurgia videolaparoscópica para retirada da vesícula sob anestesia venosa total. O cálculo da dose de remifentanil será baseado no peso corporal ideal porque o fármaco apresenta:</p><p><b>A) </b>Menor ligação às proteínas plasmáticas.</p><p><b>B) </b>Degradação por meio de esterase plasmática.</p><p><b>C) </b>Volume de distribuição reduzido.</p><p><b>D) </b>Meia vida contexto independente.</p><p><b>E) </b>Menor potência analgésica.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012381,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012382,
+     "letra": "B",
+     "descricao": "F F V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012383,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012384,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001239,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; farmacocin&eacute;tica dos agentes inalat&oacute;rios:</p> <p><strong>A) </strong>O efeito da concentra&ccedil;&atilde;o administrada supera o efeito da solubilidade do&nbsp;anest&eacute;sico.</p> <p><strong>B) </strong>Quando &eacute; usado um sistema de ventila&ccedil;&atilde;o com reinala&ccedil;&atilde;o, a Fi &eacute; menor que a concentra&ccedil;&atilde;o administrada no vaporizador.</p> <p><strong>C) </strong>Em uma situa&ccedil;&atilde;o em que existe aumento da press&atilde;o parcial do anest&eacute;sico no alv&eacute;olo (fra&ccedil;&atilde;o expirada) e diminui&ccedil;&atilde;o da press&atilde;o parcial do anest&eacute;sico na art&eacute;ria pode estar ocorrendo shunt intrapulmonar.</p> <p><strong>D) </strong>O metabolismo do halotano n&atilde;o &eacute; o respons&aacute;vel pela diminui&ccedil;&atilde;o de sua concentra&ccedil;&atilde;o alveolar na fase cin&eacute;tica de elimina&ccedil;&atilde;o.</p> <p><strong>E) </strong>Enquanto o aumento da concentra&ccedil;&atilde;o acelera a indu&ccedil;&atilde;o, estabelecendo-se uma concentra&ccedil;&atilde;o abaixo de zero haver&aacute; acelera&ccedil;&atilde;o da recupera&ccedil;&atilde;o.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012391,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012392,
+     "letra": "B",
+     "descricao": "V V V F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012393,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012394,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001240,
+   "descricao": "<p>Sobre a mecânica respiratória e o controle da respiração, entende-se que:</p><p><b>A) </b>A complacência pulmonar é inversamente proporcional à elastância.</p><p><b>B) </b>O controle voluntário da respiração se dá por vias aferentes provenientes do tronco encefálico.</p><p><b>C) </b>O aumento do gradiente transpulmonar proporciona maior distensão alveolar e maior volume inspirado.</p><p><b>D) </b>Com o aumento da pressão parcial de dióxido de carbono no plasma, a ventilação alveolar aumenta progressivamente.</p><p><b>E) </b>Na respiração espontânea, com a contração do diafragma e músculos intercostais, o aumento da pressão intra-alveolar promove a entrada de ar nos pulmões.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012401,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012402,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012403,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012404,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

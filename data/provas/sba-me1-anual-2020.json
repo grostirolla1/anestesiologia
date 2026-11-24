@@ -1,0 +1,1772 @@
+{
+ "prova": {
+  "slug": "sba-me1-anual-2020",
+  "banca": "SBA",
+  "concurso": "ME1 anual",
+  "titulo": "ME1 anual 2020",
+  "ano": "2020",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2000862,
+   "descricao": "<p>Homem de 26 anos, 55kg e 1,81m, portador do vírus da imunodeficiência humana (HIV) será submetido a biópsia de tumoração cerebral. O paciente vem em uso de antirretrovirais há 2 meses com exames laboratoriais que demonstram carga viral de 500.000 cópias/ml e contagem de linfócitos CD4 em 125 células/mm³. Durante a cateterização da artéria radial, o anestesiologista sofre acidente pérfuro-cortante com instrumento contaminado (perfuração profunda do 1º quirodáctilo com agulha de punção com sangue). Com base no baixo risco de transmissão com a exposição percutânea (0,3%) e da alta taxa de efeitos adversos das medicações anti-virais, além da lavagem vigorosa da área afetada com água, sabão e desinfetantes, qual é a conduta preconizada nessa situação para o tratamento pós-exposição do profissional em questão?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008621,
+     "letra": "A",
+     "descricao": "Uso de nelfinavir oral por uma semana.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008622,
+     "letra": "B",
+     "descricao": "Realização de teste de detecção do HIV após 6 semanas para definição do emprego de antirretrovirais.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008623,
+     "letra": "C",
+     "descricao": "Uso de zidovudina, lamivudina e, possivelmente indinavir, iniciado nas primeiras horas após o evento e mantido por 4 semanas.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008624,
+     "letra": "D",
+     "descricao": "Realização de testes semanais para detecção do HIV no anestesiologista e início de zidovudina e lopinavir em caso de positivação, mesmo que com títulos baixos de anticorpos ou carga viral.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000863,
+   "descricao": "<p>Relacione as letras nas afirmativas abaixo sobre competências na organização SBA com Assembleia Geral (AG), Assembleia de Representantes (AR) e Conselho Superior(CS):</p><p>A ➙ Tem reunião secretariada pelo secretário-geral da SBA</p><p>B ➙ Realizam-se eleições para cargos não administrativos</p><p>C ➙ Avalia as contas da SBA, recomendando ou não a sua aprovação</p><p>D&nbsp; ➙ Em qualquer época pode opinar sobre qualquer assunto quando provocado(a)</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008631,
+     "letra": "A",
+     "descricao": "A: AG || B: AG || C: AR || D: CS",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008632,
+     "letra": "B",
+     "descricao": "A: AR || B: CS || C: CS || D: AG",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008633,
+     "letra": "C",
+     "descricao": "A: AG || B: AR || C: CS || D: CS",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008634,
+     "letra": "D",
+     "descricao": "A: AR || B: AR || C: CS || D: CS",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000864,
+   "descricao": "<p>Em relação à drogadição de fármacos na anestesia:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008641,
+     "letra": "A",
+     "descricao": "É mais frequente em profissionais acima de 35 anos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008642,
+     "letra": "B",
+     "descricao": "Quando corretamente tratada, apresenta baixo índice de recidiva",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008643,
+     "letra": "C",
+     "descricao": "O tempo de instalação é diretamente proporcional à potência do fármaco",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008644,
+     "letra": "D",
+     "descricao": "Relaciona-se a alterações estruturais e conformacionais irreversíveis no sistema mesolímbico de recompensa",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000865,
+   "descricao": "<p>Homem de 70 anos, 78kg e 1,77m, será submetido a prostatectomia radical. Na avaliação pré-anestésica, relata hipertensão arterial controlada e vem em uso de valsartana e AAS. Com relação às medicações de uso habitual, qual é a melhor conduta?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008651,
+     "letra": "A",
+     "descricao": "Suspender o AAS por 72 horas e a valsartana 24 horas antes da cirurgia.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008652,
+     "letra": "B",
+     "descricao": "Manter as medicações até o dia da cirurgia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008653,
+     "letra": "C",
+     "descricao": "Manter o AAS e substituir a valsartana por atenolol 1 semana antes da cirurgia.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008654,
+     "letra": "D",
+     "descricao": "Suspender o AAS por 7 dias e reduzir pela metade a dose da valsartana no dia da cirurgia.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000866,
+   "descricao": "<p>Paciente de 86 anos, 50kg e 1,60m, com quadro de abdome agudo obstrutivo e distensão abdominal, será submetido a laparotomia exploradora. Em relação ao manuseio da via aérea durante a indução da anestesia:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008661,
+     "letra": "A",
+     "descricao": "A compressão da cartilagem cricoide para o colabamento do esôfago deve ser realizada de forma precoce com o paciente ainda consciente.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008662,
+     "letra": "B",
+     "descricao": "A realização da manobra de Sellick deve ser realizada independentemente da dificuldade de visualização das pregas vocais durante a laringoscopia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008663,
+     "letra": "C",
+     "descricao": "Em caso de falha da intubação orotraqueal durante a sequência rápida, pode-se realizar a ventilação manual, desde que a pressão de via aérea não ultrapasse 10 cmH20.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008664,
+     "letra": "D",
+     "descricao": "Na eventualidade de falha da intubação, o resgate da via aérea pode ser realizado com dispositivo supraglótico de segunda geração com o objetivo de facilitar o esvaziamento gástrico.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000867,
+   "descricao": "<p>Mulher de 28 anos, 72kg e 1,65m, na 36a semana de gestação dá entrada no hospital em trabalho de parto. A paciente tem diagnóstico prévio de trombose venosa profunda e vinha em uso regular de enoxaparina (última dose há 4 horas). Na avaliação clínica, o obstetra indicou cesariana em caráter de emergência por sofrimento fetal. Em relação às particularidades do manuseio da via aérea nessa situação, sabe-se que:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008671,
+     "letra": "A",
+     "descricao": "O esvaziamento gástrico estará reduzido por conta dos altos níveis de gonadotrofina coriônica.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008672,
+     "letra": "B",
+     "descricao": "Haverá maior tolerência para o desenvolvimento de hipercapnia após um período de hipoventilação por conta do aumento do volume de reserva inspiratório.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008673,
+     "letra": "C",
+     "descricao": "A utilização de 10 cm H20 de CPAP (pressão positiva contínua nas vias aéreas) após a indução anestésica está indicada para melhorar a oxigenação materno-fetal.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008674,
+     "letra": "D",
+     "descricao": "O ingurgitamento capilar com aumento da friabilidade dos tecidos e o edema mucoso da orofaringe, laringe e traquéia começam precocemente no primeiro trimestre de gestação.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000868,
+   "descricao": "<p>Em relação às alterações que ocorrem na posição prona, marque a alternativa correta:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008681,
+     "letra": "A",
+     "descricao": "Aumento do volume sistólico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008682,
+     "letra": "B",
+     "descricao": "Aumento da capacidade residual",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20008683,
+     "letra": "C",
+     "descricao": "Diminuição da pressão de perfusão cerebral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008684,
+     "letra": "D",
+     "descricao": "Diminuição da resistência vascular pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000869,
+   "descricao": "<p>Na t&eacute;cnica oscilom&eacute;trica para monitoriza&ccedil;&atilde;o de press&atilde;o arterial:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008691,
+     "letra": "A",
+     "descricao": "Deve-se utilizar um manguito do tamanho do diâmetro do braço.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008692,
+     "letra": "B",
+     "descricao": "A pressão média é determinada no momento da perda das oscilações.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008693,
+     "letra": "C",
+     "descricao": "A pressão sistólica é determinada no momento de maior amplitude da variação.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008694,
+     "letra": "D",
+     "descricao": "Pulsos irregulares podem dificultar ou anular o processo de medida das oscilações.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000870,
+   "descricao": "<p>Homem de 52 anos, 85kg e 1,76m, foi submetido a implante de dispositivo de assist&ecirc;ncia ventricular esquerda para suporte de fal&ecirc;ncia card&iacute;aca por miocardite viral. O paciente vinha com edema agudo de pulm&atilde;o e satura&ccedil;&atilde;o arterial em torno de 87%, a despeito de Fi02 de 100% e PEEP de 8mmHg (tentativas pr&eacute;vias com valores de PEEP mais elevados resultaram em piora da hipotens&atilde;o). Com o implante do dispositivo, a oximetria de pulso ir&aacute; mostrar:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008701,
+     "letra": "A",
+     "descricao": "Valores não confiáveis por conta do padrão de fluxo arterial contínuo.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008702,
+     "letra": "B",
+     "descricao": "Valores semelhantes à oximetria cerebral por conta da melhora de perfusão neurológica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008703,
+     "letra": "C",
+     "descricao": "Valores subestimados da saturação arterial verdadeira por conta da hipoperfusão mesentérica induzida pelo padrão de fluxo contínuo.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008704,
+     "letra": "D",
+     "descricao": "Valores superestimados da saturação arterial verdadeira por conta da adição do fluxo contínuo mecânico ao débito cardíaco endógeno do paciente.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000871,
+   "descricao": "<p>Homem de 62 anos, 70kg e 1,65m, hipertenso, diabético e dislipidêmico, com história prévia de acidente vascular cerebral isquêmico, é submetido a colecistectomia videolaparoscópica. Vem em uso regular de losartana, metformina e rosuvastatina. Vinte minutos após a indução com 120mg de propofol, 15mcg de sufentanil, 60mcg de clonidina e 50mg de rocurônio, durante a insuflação do pneumoperitônio, o paciente cursa com aumento da pressão arterial e da frequência cardíaca, mas sem alteração imediata do índice Bispectral - BIS (manutenção anestésica com sevoflurano&nbsp;a 2,0%). No entanto, trinta segundos após esse evento hemodinâmico, o BIS se eleva de 54 para 67. A melhor explicação que justifica o lapso de tempo para a elevação do índice de profundidade anestésica nessa situação é o(a):</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008711,
+     "letra": "A",
+     "descricao": "História prévia do paciente de acidente vascular cerebral.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008712,
+     "letra": "B",
+     "descricao": "Efeito hipnótico sinérgico entre o propofol, a clonidina e o sevoflurano.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008713,
+     "letra": "C",
+     "descricao": "Disautonomia induzida pelo diabetes mellitus com prejuízo das vias espinorreticulares.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008714,
+     "letra": "D",
+     "descricao": "Intensa demanda computacional para geração do valor a partir do eletroencefalograma captado.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000872,
+   "descricao": "<p>Em relação à capnografia:&nbsp;</p><p><img src=\"data/imagens/f2f91d04911bf924.jpg\" alt=\"\"><br></p><p><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008721,
+     "letra": "A",
+     "descricao": "o ponto A representa o final da fase inspiratória.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008722,
+     "letra": "B",
+     "descricao": "o espaço morto fisiológico está representado pela linhas entre os ponto D e E.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008723,
+     "letra": "C",
+     "descricao": "o ponto C representa o valor da fraçao expirada final de gás carbônico (ETC02).",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008724,
+     "letra": "D",
+     "descricao": "a linha entre os pontos B e C representa a mistura do gás alveolar com o espaço morto.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000873,
+   "descricao": "<p>Qual destes receptores, quando ativado em localiza&ccedil;&atilde;o pr&eacute;-sin&aacute;ptica, aumenta a libera&ccedil;&atilde;o sin&aacute;ptica de noradrenalina?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008731,
+     "letra": "A",
+     "descricao": "Muscarínico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008732,
+     "letra": "B",
+     "descricao": "Adrenérgico alfa-2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008733,
+     "letra": "C",
+     "descricao": "Adrenérgico beta-2",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008734,
+     "letra": "D",
+     "descricao": "Dopaminérgico tipo DA-2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000874,
+   "descricao": "<p>Analise o gr&aacute;fico de ciclo card&iacute;aco abaixo e identifique corretamente cada uma das curvas/eventos:</p> <p><img src=\"data/imagens/a1679215f1f0dfa3.jpg\" alt=\"\"></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008741,
+     "letra": "A",
+     "descricao": "A: pressão ventricular // B: pressão aórtica // C: pressão atrial // D: sístole ventricular // E: diástole ventricular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008742,
+     "letra": "B",
+     "descricao": "A: pressão ventricular // B: pressão aórtica // C: pressão atrial // D: diástole ventricular // E: sístole ventricular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008743,
+     "letra": "C",
+     "descricao": "A: pressão aórtica // B: pressão ventricular // C: pressão atrial // D: sístole ventricular // E: diástole ventricular",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008744,
+     "letra": "D",
+     "descricao": "A: pressão ventricular // B: pressão atrial // C: pressão aórtica // D: sístole ventricular // E: diástole ventricular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000875,
+   "descricao": "<p>Homem 70 anos, 60 kg, 1,68m, submetido a laparotomia exploradora devido abd&ocirc;men agudo obstrutivo. Realizado monitoriza&ccedil;&atilde;o invasiva da press&atilde;o arterial ap&oacute;s indu&ccedil;&atilde;o da anestesia geral sendo identificado padr&atilde;o de curva conforme figura A. A rela&ccedil;&atilde;o da condi&ccedil;&atilde;o patol&oacute;gica deste padr&atilde;o de curva com o ciclo card&iacute;aco (figura B) &eacute;:</p> <p><img src=\"data/imagens/fd6e27962328765b.jpg\" alt=\"\"></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008751,
+     "letra": "A",
+     "descricao": "A insuficiência da abertura da válvula no ponto A",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008752,
+     "letra": "B",
+     "descricao": "A insuficiência da abertura da válvula no ponto C",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008753,
+     "letra": "C",
+     "descricao": "A insuficiência do fechamento da válvula no ponto B",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008754,
+     "letra": "D",
+     "descricao": "A insuficiência do fechamento da válvula no ponto E",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000876,
+   "descricao": "<p>Mulher de 47 anos, 55kg e 1,60m, previamente h&iacute;gida, &eacute; submetida &agrave; raquianestesia com 15mg de bupivaca&iacute;na hiperb&aacute;rica 0,5% e 0,1mg de morfina para histerectomia abdominal. Durante a cirurgia, apresentou hipotens&atilde;o arterial inicialmente tratada com doses baixas de efedrina, por&eacute;m houve necessidade do emprego de doses repetidas&nbsp;e cada vez mais elevadas desse f&aacute;rmaco para obten&ccedil;&atilde;o do mesmo efeito cl&iacute;nico desejado, a despeito de pouco sangramento. Este fen&ocirc;meno deve-se a(o):</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008761,
+     "letra": "A",
+     "descricao": "Dessensibilização dos receptores alfa-1 adrenérgicos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008762,
+     "letra": "B",
+     "descricao": "Aumento agudo da pós-carga com redução do débito cardíaco.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008763,
+     "letra": "C",
+     "descricao": "Liberação de efedrina das vesículas pré-sinápticas como falso neurotransmissor.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008764,
+     "letra": "D",
+     "descricao": "Predominância do efeito do isômero (+) da efedrina em relação ao isômero (-) com antagonismo alfa-l adrenérgico.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000877,
+   "descricao": "<p>Mulher de 70 anos, 45kg e 1,60m, hipertensa e diabética com história de tabagismo 70 maços-ano será submetida a colecistectomia videolaparoscópica. Na avaliação pré-anestésica, a paciente referiu tosse crônica persistente e dispneia aos esforços habituais. Nessa situação, o gráfico de volume x pressão pulmonar irá se apresentar conforme a curva representada pela letra:</p><p><img src=\"data/imagens/f0b1c78600f850b5.jpg\" alt=\"\"><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008771,
+     "letra": "A",
+     "descricao": "A",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008772,
+     "letra": "B",
+     "descricao": "B",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008773,
+     "letra": "C",
+     "descricao": "C",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008774,
+     "letra": "D",
+     "descricao": "D",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000878,
+   "descricao": "<p>Homem 45 anos, 85kg e 1,68m, foi submetido a uma microcirurgia para tumor intracraniano. A cirurgia teve duração de 12 horas. A manutenção anestésica foi feita com infusão contínua de propofol a 0,2mg/kg/min e de remifentanil a 0,1 mcg/kg/min. Após cerca de vinte minutos do término das infusões, o paciente não esboçava reação aos chamados verbais e apresentava índice bispectral de 50. A provável explicação para o ocorrido é:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008781,
+     "letra": "A",
+     "descricao": "O aumento de frações livres do propofol.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008782,
+     "letra": "B",
+     "descricao": "A inibição de enzimas do citocromo p450.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008783,
+     "letra": "C",
+     "descricao": "A saturação dos compartimentos periféricos.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008784,
+     "letra": "D",
+     "descricao": "A recirculação enterohepática do remifentanil.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000879,
+   "descricao": "<p>Homem de 54 anos, 70kg e 1,75m, previamente hígido é submetido a fixação de fratura de tíbia esquerda sob anestesia geral venosa com propofol, remifentanil e rocuronio (recusa de bloqueio no neuroeixo). No intraoperatório, houve um requerimento crescente da dose de remifentanil conforme os parâmetros autonômicos do paciente e o anestesiologista optou por adicionar sulfato de magnésio na dose de 8,0 mg/Kg/hora ao esquema de infusão. Vinte minutos após o início dessa estratégia, houve uma redução da taxa de infusão do opioide. Isso pode ser melhor explicado por:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008791,
+     "letra": "A",
+     "descricao": "interação sinérgica com o sistema gabaérgico.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008792,
+     "letra": "B",
+     "descricao": "liberação neuronal de beta-endorfinas endógenas.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008793,
+     "letra": "C",
+     "descricao": "antagonismo do sistema N-metil D-aspartato (NMDA).",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008794,
+     "letra": "D",
+     "descricao": "potencialização dos canais de cálcio voltagem dependentes.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000880,
+   "descricao": "<p>Mulher de 28 anos, 56kg e 1,61m, previamente hígida será submetida a ureterolitotripsia transureteroscópica para remoção de cálculo ureteral à esquerda em regime ambulatorial. O anestesiologista opta pela realização do procedimento sob máscara laríngea e administra um bolus de 40mcg de remifentanil, seguido de infusões contínuas alvo controladas de remifentanil e propofol nas concentrações plasmáticas respectivas de 2,0ng/mL e 3,0mcg/mL. Alguns segundos após o início das infusões, a paciente cursa com apneia, perda da consciência e grande dificuldade de ventilação sob máscara facial, a despeito de cânula orofaríngea e de gradiente elevado de pressão inspiratória, associadas a distensão abdominal. O quadro é resolvido com facilidade após a administração de 15mg de rocurônio. O principal elemento responsável pela dificuldade de ventilação sob máscara facial é o(a):</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008801,
+     "letra": "A",
+     "descricao": "Aumento do tônus muscular do abdome.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008802,
+     "letra": "B",
+     "descricao": "Contratura da musculatura de cordas vocais.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20008803,
+     "letra": "C",
+     "descricao": "Perda da oposição muscular do genioglosso.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008804,
+     "letra": "D",
+     "descricao": "Diminuição do tônus do esfincter esofagiano superior.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000881,
+   "descricao": "<p>Correlacione, na tabela abaixo, o agente venoso com a característica clínica descrita.</p><p><figure><svg viewBox=\"0 0 640 300\"><title>Tabela: agentes endovenosos A a D e a característica clínica de cada um</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\"><rect x=\"10\" y=\"10\" width=\"620\" height=\"280\"/><line x1=\"10\" y1=\"60\" x2=\"630\" y2=\"60\" stroke-width=\"2\"/><line x1=\"10\" y1=\"110\" x2=\"630\" y2=\"110\"/><line x1=\"10\" y1=\"160\" x2=\"630\" y2=\"160\"/><line x1=\"10\" y1=\"225\" x2=\"630\" y2=\"225\"/><line x1=\"120\" y1=\"10\" x2=\"120\" y2=\"290\"/></g><g fill=\"currentColor\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\"><g font-weight=\"bold\"><text x=\"65\" y=\"28\">Agente</text><text x=\"65\" y=\"45\">endovenoso</text><text x=\"375\" y=\"35\">Característica clínica</text><text x=\"65\" y=\"85\">A</text><text x=\"65\" y=\"135\">B</text><text x=\"65\" y=\"192\">C</text><text x=\"65\" y=\"257\">D</text></g><text x=\"375\" y=\"85\">Contraindicação relativa em pacientes com glaucoma</text><text x=\"375\" y=\"135\">Ressedação e tromboflebite ocorrem frequentemente</text><text x=\"375\" y=\"183\">A perda de consciência é necessária para garantir amnésia</text><text x=\"375\" y=\"201\">quando administrado sozinho</text><text x=\"375\" y=\"248\">Meia-vida curta que pode estar associada a complicações</text><text x=\"375\" y=\"266\">na alta precoce em cirurgias ambulatoriais</text></g></svg></figure><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008811,
+     "letra": "A",
+     "descricao": "A - Cetamina / B - Propofol / C - Flumazenil / D - Diazepam.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008812,
+     "letra": "B",
+     "descricao": "A - Cetamina / B - Diazepam / C - Dexmedetomidina / D - Flumazenil.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20008813,
+     "letra": "C",
+     "descricao": "A - Dexmedetomidina/ B - Diazepam/ C - Midazolam/ D - Cetamina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008814,
+     "letra": "D",
+     "descricao": "A - Dexmedetomidina/ B - Cetamina/ C - Flumazenil / D - Midazolam.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000882,
+   "descricao": "<p>A velocidade da indução anestésica inalatória é diretamente proporcional ao(a):</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008821,
+     "letra": "A",
+     "descricao": "débito cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008822,
+     "letra": "B",
+     "descricao": "ventilação alveolar",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20008823,
+     "letra": "C",
+     "descricao": "solubilidade do anestésico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008824,
+     "letra": "D",
+     "descricao": "capacidade residual funcional",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000883,
+   "descricao": "<p>Mulher 28 anos, 75kg e 1,63m, com 40 semanas de gesta&ccedil;&atilde;o ser&aacute; submetida &agrave; cesariana a pedido. Ap&oacute;s in&uacute;meras tentativas da realiza&ccedil;&atilde;o de bloqueio espinhal, o anestesiologista optou por anestesia geral e realizou indu&ccedil;&atilde;o em sequ&ecirc;ncia r&aacute;pida com intuba&ccedil;&atilde;o traqueal sem intercorr&ecirc;ncias. Foram utilizados 500mcg de fentanil, 150mg de propofol e 70mg de succinilcolina at&eacute; o nascimento da crian&ccedil;a (tempo estimado de 320 segundos).</p> <p>O rec&eacute;m-nascido apresentou Apgar de 5 no primeiro minuto, 7 no quinto minuto e 7 no d&eacute;cimo minuto. Apesar de hemodinamicamente est&aacute;vel com oxigena&ccedil;&atilde;o adequada, a crian&ccedil;a mostrava-se com t&ocirc;nus bastante diminu&iacute;do.</p> <p>A causa prov&aacute;vel dessa diminui&ccedil;&atilde;o do t&ocirc;nus &eacute;:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008831,
+     "letra": "A",
+     "descricao": "O efeito do fentanil no sistema nervoso central imaturo",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008832,
+     "letra": "B",
+     "descricao": "O longo tempo entre a incisão da pele e a extração do concepto",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008833,
+     "letra": "C",
+     "descricao": "A succinilcolina pela sua rápida transferência através da barreira placentária",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008834,
+     "letra": "D",
+     "descricao": "A alcalose respiratória materna decorrente de ansiedade durante a realização da anestesia",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000884,
+   "descricao": "<p>Sobre a transmiss&atilde;o e bloqueio neuromuscular &eacute; correto afirmar que:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008841,
+     "letra": "A",
+     "descricao": "O bloqueio de fase I se caracteriza pela fadiga e potencialização pós-tetânica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008842,
+     "letra": "B",
+     "descricao": "A succinilcolina é hidrolisada pela acetilcolinesterase na junção da placa motora",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008843,
+     "letra": "C",
+     "descricao": "A administração de anticolinesterásico aumentará o grau de bloqueio motor quando este é predominantemente de fase II",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008844,
+     "letra": "D",
+     "descricao": "Para que ocorra diminuição na contração, há necessidade de que pelo menos 75% dos receptores colinérgicos da placa motora estejam ocupados por um antagonista competitivo",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000885,
+   "descricao": "<p>Qual músculo ou grupamento muscular demora mais para se recuperar de um bloqueio neuromuscular adespolarizante com a normalização progressiva da sequência de quatro estímulos na monitorização objetiva do adutor do polegar por aceleromiografia?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008851,
+     "letra": "A",
+     "descricao": "Diafragma",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008852,
+     "letra": "B",
+     "descricao": "Genioglosso",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20008853,
+     "letra": "C",
+     "descricao": "Musculatura da laringe",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008854,
+     "letra": "D",
+     "descricao": "Musculatura da parede abdominal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000886,
+   "descricao": "<p>Homem de 55 anos, 70kg e 1,70m, sem comorbidades, é submetido a laparotomia devido à lesão abdominal por projétil de arma de fogo. Na avaliação pré-anestésica, apresentava-se desorientado, agitado, com PA 90x50mmHg e FC 115bpm. Exames laboratoriais: Hb 7,5 g/dL | Plaquetas 100.000/mm3 | RNI 1,4 | K+ 4,0 mEq/L | Temperatura 35,5 °C.</p><p>A ultrassonografia mostrou presença de líquido livre no abdome. No intraoperatório, foi identificado bastante sangue com lesão de aorta. No entanto, apesar da anestesiologista ter iniciado transfusão sanguínea com reposição volêmica maciça e drogas vasoativas, o paciente evoluiu para parada cardíaca em atividade elétrica sem pulso.&nbsp;Nessa situação, qual é a causa provável do evento?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008861,
+     "letra": "A",
+     "descricao": "Hipovolemia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008862,
+     "letra": "B",
+     "descricao": "Hipercalemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008863,
+     "letra": "C",
+     "descricao": "Embolia pulmonar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008864,
+     "letra": "D",
+     "descricao": "Acidose metabólica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000887,
+   "descricao": "<p>Mulher de 55 anos, 70kg e 1,60m, foi submetida a colectomia direita sob anestesia geral com lesão acidental da artéria ilíaca interna e grande perda volêmica. Apesar das medidas de controle, a paciente evoluiu com parada&nbsp;cardiorrespiratória em atividade elétrica sem pulso, revertida pelas manobras de ressuscitação após 5 minutos. Ao término do procedimento cirúrgico, encontra-se comatosa, com pressão arterial de 95x40mmHg, frequência cardíaca de 100bpm e temperatura nasofaríngea de 35°C. A gasometria arterial evidencia PaCO2 de 40mmHg e SaO2 de 98% com FiO2 de 100%. Nesta etapa, recomenda-se:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008871,
+     "letra": "A",
+     "descricao": "Diminuição da FiO2",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008872,
+     "letra": "B",
+     "descricao": "Infusão de vasopressor",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008873,
+     "letra": "C",
+     "descricao": "Aumento do volume minuto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008874,
+     "letra": "D",
+     "descricao": "Aquecimento corporal com manta térmica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000888,
+   "descricao": "<p>Menino 3 anos, 15kg, será submetido a segundo tempo de correção cirúrgica de hipospádia sob anestesia peridural caudal e geral inalatória. Para a anestesia regional proposta:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008881,
+     "letra": "A",
+     "descricao": "12 mL de bupivacaína 0,25% são necessários para atingir um nível sensitivo em torno de T10.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008882,
+     "letra": "B",
+     "descricao": "A ponta da agulha deve ser introduzida até o nível de SI para melhor dispersão cefálica do anestésico.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008883,
+     "letra": "C",
+     "descricao": "Não há necessidade do emprego de dose teste, já que a vascularização local é menor no espaço peridural caudal.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008884,
+     "letra": "D",
+     "descricao": "Uma agulha hipodérmica pode ser utilizada sem maiores prejuízos, já que a punção não exigirá instalação de cateter.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000889,
+   "descricao": "<p>Mulher de 32 anos, 72kg e 1,65m, primigesta com 38 semanas e previamente h&iacute;gida &eacute; submetida a analgesia do trabalho de parto (colo de &uacute;tero com 5cm de dilata&ccedil;&atilde;o) sob t&eacute;cnica combinada raquianestesia-peridural. O anestesiologista optou pela administra&ccedil;&atilde;o de 0,5mL de bupivaca&iacute;na hiperb&aacute;rica 0,5% e 2,5 mcg de sufentanil no espa&ccedil;o subaracn&oacute;ideo, seguida da inje&ccedil;&atilde;o de 10mL de solu&ccedil;&atilde;o salina no espa&ccedil;o peridural. O objetivo do emprego de solu&ccedil;&atilde;o salina nessa situa&ccedil;&atilde;o &eacute;:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008891,
+     "letra": "A",
+     "descricao": "Aumentar a extensão do bloqueio sensitivo.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008892,
+     "letra": "B",
+     "descricao": "Reduzir a incidência de cefaleia pós-punção de dura-máter.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008893,
+     "letra": "C",
+     "descricao": "Aumentar a intensidade do bloqueio motor da musculatura perineal.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008894,
+     "letra": "D",
+     "descricao": "Diminuir o requerimento de vasopressor em caso de conversão para cesárea.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000890,
+   "descricao": "<p>Menino de 8 anos, 35kg e 1,30m apresenta quadro de taquicardia, elevação progressiva do gás carbônico na capnometria e hipertermia durante adenoamigdalectomia com fentanil, propofol, rocurônio e sevoflurano. Mãe relata histórico familiar de óbito por \"anestesia\". Qual mecanismo fisiopatológico se encontra presente neste paciente?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008901,
+     "letra": "A",
+     "descricao": "Mutação genética majoritariamente no cromossomo 17",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008902,
+     "letra": "B",
+     "descricao": "Acúmulo de cálcio no retículo sarcoplasmático por ação do receptor rianodina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008903,
+     "letra": "C",
+     "descricao": "Liberação de cálcio no mioplasma de maneira aguda por exposição ao halogenado",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008904,
+     "letra": "D",
+     "descricao": "Aumento da sensibilidade à noradrenalina na musculatura esquelética após exposição ao halogenado",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000891,
+   "descricao": "<p>Mulher, 55 anos, 1,65m, 70 kg foi submetida a videolaparoscopia diagn&oacute;stica. Referia hipertens&atilde;o, asma br&ocirc;nquica e fazia uso de losartana e hidroclorotiazida al&eacute;m de prednisona. Vinha em tratamento para infec&ccedil;&atilde;o urin&aacute;ria com ampicilina e gentamicina (D3). </p> <p>A t&eacute;cnica escolhida foi anestesia venosa alvo controlada com remifentanil e propofol. O bloqueio neuromuscular alcan&ccedil;ado com cisatrac&uacute;rio 30 mg e a analgesia com tenoxicam 40mg. O procedimento durou 30 minutos. A extuba&ccedil;&atilde;o ocorreu em sala de cirurgia sem intercorr&ecirc;ncias tendo sido admitida &agrave; sala de recupera&ccedil;&atilde;o apresentando tremores por&eacute;m com a sp02 96%, Freq&uuml;&ecirc;ncia respirat&oacute;ria 20 irpm, PA 130/80 e sem queixa de dor. </p> <p>Cerca de 20 minutos ap&oacute;s, evoluiu com crise de ansiedade, dificuldade de degluti&ccedil;&atilde;o e de fala, dispneia e hipoxemia, acompanhadas de taquicardia e hipertens&atilde;o. A causa prov&aacute;vel desse quadro &eacute;:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008911,
+     "letra": "A",
+     "descricao": "Crise de asma.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008912,
+     "letra": "B",
+     "descricao": "Acidente vascular cerebral.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008913,
+     "letra": "C",
+     "descricao": "Bloqueio neuromuscular residual.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008914,
+     "letra": "D",
+     "descricao": "Depressão respiratória por opióide.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000892,
+   "descricao": "<p>Mulher de 32 anos, 70kg e 1,64m, será submetida a lipoaspiração de abdome. Na avaliação pré-anestésica, a paciente referiu irritabilidade, palpitação, sudorese, diarreia e perda de peso. Relatou também, uso irregular de \"fórmula de emagrecimento\" nas últimas semanas. O exame físico revelou frequência cardíaca de 115bpm e pressão arterial de 145x95mmHg, além de tremor fino em mãos. O eletrocardiograma demonstrava frequentes extra-sístoles supra-ventriculares. Nessa situação, quais são as alterações esperadas em exames adicionais indispensáveis para a avaliação pré-operatória?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008921,
+     "letra": "A",
+     "descricao": "Valores elevados de ácido 5-hidroxi-indolacético (5-HIAA) na urina.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008922,
+     "letra": "B",
+     "descricao": "Valores elevados de ácido amino-levulínico e porfobilinogênio na urina.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008923,
+     "letra": "C",
+     "descricao": "Valores elevados de ácido vanil-mandélico (VMA) e metanefrinas na urina e no sangue.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008924,
+     "letra": "D",
+     "descricao": "Valores elevados de tiroxina livre (T4) e baixos de hormônio estimulador da tireóide (TSH) no sangue.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000893,
+   "descricao": "<p><strong>(QUEST&Atilde;O REFORMULADA)</strong> Homem 65 anos, 80kg e 1,75m, foi submetido &agrave; prostatectomia radical laparosc&oacute;pica sob anestesia geral balanceada (remifentanil e rocur&ocirc;nio em infus&otilde;es cont&iacute;nuas com sevoflurano como agente de manuten&ccedil;&atilde;o) associada a bloqueio peridural cont&iacute;nuo. Ao despertar na sala de recupera&ccedil;&atilde;o p&oacute;s-anest&eacute;sica, o paciente apresenta parestesias e perda de for&ccedil;a em membro superior esquerdo. Qual medida intraoperat&oacute;ria provavelmente causou essa complica&ccedil;&atilde;o?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008931,
+     "letra": "A",
+     "descricao": "Administração contínua de rocurônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008932,
+     "letra": "B",
+     "descricao": "Anestesia geral balanceada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008933,
+     "letra": "C",
+     "descricao": "Bloqueio peridural contínuo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008934,
+     "letra": "D",
+     "descricao": "Manter a cabeça em posição neutra com coxins de anteparo em ombros",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000894,
+   "descricao": "<p>Os receptores do &aacute;cido gama-amino-but&iacute;rico:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008941,
+     "letra": "A",
+     "descricao": "Apresentam o mesmo sitio de ação para álcool, barbitúricos e benzodiazepínicos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008942,
+     "letra": "B",
+     "descricao": "São predominantemente pré-sinápticos e atuam inibindo a liberação de glutamato.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008943,
+     "letra": "C",
+     "descricao": "Quando ativados, aumentam a condutância ao cloro, hiperpolarizando a membrana.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20008944,
+     "letra": "D",
+     "descricao": "Apresentam aumento da afinidade a ligação aos benzodiazepínicos quando estes são administrados por tempo prolongado.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000895,
+   "descricao": "<p>A figura abaixo representa a distribuição da ventilação, fluxo sanguíneo e relação ventilação-perfusão (V/Q) em pulmão normal e na posição vertical. Com base nesta figura:</p><p><img src=\"data/imagens/33311a5775012b11.jpg\" alt=\"\"><br></p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008951,
+     "letra": "A",
+     "descricao": "A relação V/Q acima de 1 significa shunt aumentado.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008952,
+     "letra": "B",
+     "descricao": "Nas regiões basais do pulmão, a ventilação é menor que nos ápices.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008953,
+     "letra": "C",
+     "descricao": "A melhor relação V/Q pode ser encontrada nas regiões apicais do pulmão.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008954,
+     "letra": "D",
+     "descricao": "Na altura da terceira costela, encontramos regiões pulmonares onde o shunt e o espaço morto estão otimizados.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000896,
+   "descricao": "<p>Homem de 70 anos, 70kg, 1,65m, foi admitido na UTI com síndrome do desconforto respiratório agudo consequente a infecção pelo SARS-CoV-2. Ele não possui antecedentes de doenças pulmonares. O paciente foi intubado e encontrava-se em ventilação mecânica com volume corrente de 6mL/kg de peso ideal, frequência respiratória de 25irpm, PEEP de 12cmH20 e FiO2 de 60%. Devido à hipoxemia (PaO2[FiO2 = 118mmHg), o paciente foi colocado em posição prona que resultou em melhora significativa da PaO2/FiO2 (263mmHg) após 1 hora. A melhora da oxigenação se deve:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008961,
+     "letra": "A",
+     "descricao": "Ao componente gravitacional da perfusão.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008962,
+     "letra": "B",
+     "descricao": "Ao aumento da ventilação pulmonar total.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008963,
+     "letra": "C",
+     "descricao": "Primariamente à redução do efeito espaço-morto.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008964,
+     "letra": "D",
+     "descricao": "À redução da heterogeneidade global da ventilação-perfusão.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000897,
+   "descricao": "<p>Na molécula do anestésico local, qual é a porção ionizável que sofre influência do pH do meio?</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008971,
+     "letra": "A",
+     "descricao": "Grupo amina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008972,
+     "letra": "B",
+     "descricao": "Anel de benzeno",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008973,
+     "letra": "C",
+     "descricao": "Radical aromático",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008974,
+     "letra": "D",
+     "descricao": "Cadeia intermediária",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000898,
+   "descricao": "<p>Mulher de 55 anos, 60kg e 1,67m, previamente hígida, foi submetida à retossigmoidectomia aberta para tratamento de tumor de reto sob anestesia geral e peridural. Na sala de recuperação pós-anestésica (SRPA), foi mantida sob monitorização contínua e aquecimento com manta térmica. Após 4 horas, a paciente encontra-se acordada, normotermica, saturando 98% em ar ambiente, consciente, orientada e com pressão arterial de 130x70mmHg, porém oligúrica e desidratada. A avaliação física revela redução da força muscular dos membros inferiores, porém com preservação da flexão dos joelhos e sensibilidade tátil diminuída. A movimentação e sensibilidade dos membros superiores está preservada. A pontuação, pela classificação de Aldrete-Kroulik, é:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008981,
+     "letra": "A",
+     "descricao": "7",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20008982,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008983,
+     "letra": "C",
+     "descricao": "9",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008984,
+     "letra": "D",
+     "descricao": "10",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000899,
+   "descricao": "<p>A anestesiologista de plantão foi chamada à enfermaria obstétrica para participar de uma reanimação cardiopulmonar de uma gestante de 22 semanas. Após 5 minutos de manobras de ressuscitação sem sucesso, a equipe decidiu realizar uma cesárea perimortem. A principal justificativa para tal procedimento foi:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20008991,
+     "letra": "A",
+     "descricao": "Melhorar o retorno venoso",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20008992,
+     "letra": "B",
+     "descricao": "Aumentar a complacência pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20008993,
+     "letra": "C",
+     "descricao": "Garantir a sobrevivência do neonato",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20008994,
+     "letra": "D",
+     "descricao": "Diminuir a impedância torácica pré-desfibrilação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000900,
+   "descricao": "<p>Mulher de 55 anos, 60kg e 1,57m, previamente hígida, foi submetida a tratamento cirúrgico de varizes bilaterais, em regime ambulatorial, sob bloqueio subaracnóideo realizado com punção única no interespaço L3-L4 com agulha de Quincke 27G e injeção de 3mL de bupivacaína isobárica 0,5%. A cirurgia transcorreu sem intercorrências e a paciente foi sedada com doses tituladas de midazolam (total de 8mg). Nessa situação:</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20009001,
+     "letra": "A",
+     "descricao": "é esperada uma baixa incidência de náuseas e vômitos.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20009002,
+     "letra": "B",
+     "descricao": "é esperado um prolongamento da permanência hospitalar por conta de cefaléia pós-punção de duramater.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20009003,
+     "letra": "C",
+     "descricao": "o anestesiologista não deveria ter realizado o bloqueio subaracnoideo, já que este não é indicado em regime ambulatorial.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20009004,
+     "letra": "D",
+     "descricao": "caso a mesma dose de bupivacaína hiperbárica tivesse sido usada na raquianestesia, a paciente teria se beneficiado com maior tempo de analgesia residual.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000901,
+   "descricao": "<p>A principal barreira para a progressão da agulha de bloqueio subaracnóideo em uma abordagem paramediana com ponto de punção cutânea muito lateral à linha média é o(a):</p>",
+   "ano": "2020",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20009011,
+     "letra": "A",
+     "descricao": "lâmina vertebral.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20009012,
+     "letra": "B",
+     "descricao": "musculatura paraespinhal.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20009013,
+     "letra": "C",
+     "descricao": "pedículo do arco vertebral.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20009014,
+     "letra": "D",
+     "descricao": "ligamento longitudinal anterior da coluna.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  }
+ ]
+}

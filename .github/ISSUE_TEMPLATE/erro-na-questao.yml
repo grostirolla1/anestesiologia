@@ -1,0 +1,55 @@
+name: Erro ou melhoria numa questão
+description: Gabarito, enunciado, explicação, referência ou tema com problema
+title: "Questão "
+labels: ["revisão de questão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar. Se você veio pelo botão do site, os dados da questão já estão preenchidos abaixo.
+        Não cole trechos de livros, apostilas ou cursos pagos: escreva com suas palavras e indique a fonte.
+  - type: input
+    id: questao
+    attributes:
+      label: Questão (id e prova)
+      placeholder: "2001234, TSA 2019"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que está errado ou pode melhorar
+      options:
+        - Explicação com erro de conteúdo
+        - Gabarito oficial discutível ou desatualizado
+        - Enunciado ou alternativa com erro de transcrição
+        - Referência errada, inventada ou sem link
+        - Tema classificado errado
+        - Figura ilegível ou faltando
+        - Explicação pode ficar mais clara
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: dados
+    attributes:
+      label: Dados da questão
+      description: Preenchido pelo site. Pode deixar como está.
+      render: markdown
+  - type: textarea
+    id: comentario
+    attributes:
+      label: Seu comentário
+      description: O que está errado e qual seria o correto.
+    validations:
+      required: true
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Livro e capítulo, diretriz e ano, ou link. Ajuda muito a aceitar a correção.
+  - type: input
+    id: autoria
+    attributes:
+      label: Como quer ser creditado (opcional)
+      placeholder: "Nome, apelido ou deixe em branco"

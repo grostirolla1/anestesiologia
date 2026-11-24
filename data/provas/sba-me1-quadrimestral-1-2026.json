@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-1-2026",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 1ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001163,
+   "descricao": "<p>Em relação ao principialismo, que constitui uma das principais abordagens em Bioética, há quatro princípios éticos norteadores das ações em saúde, são eles:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011631,
+     "letra": "A",
+     "descricao": "beneficência, não maleficência, autonomia e justiça.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011632,
+     "letra": "B",
+     "descricao": "autonomia, beneficência, não maleficência e legalidade.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011633,
+     "letra": "C",
+     "descricao": "equidade, confidencialidade, responsabilidade e justiça.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011634,
+     "letra": "D",
+     "descricao": "confidencialidade, responsabilidade, equidade, legalidade.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001164,
+   "descricao": "<p>Um hospital de alta complexidade decide submeter-se a um processo de avaliação externa para atestar a qualidade e a segurança de seus serviços. Durante a preparação, o coordenador do serviço de anestesiologia explica à equipe a diferença entre o licenciamento sanitário obrigatório e o processo de acreditação que o hospital busca alcançar. Considerando os conceitos de avaliação de qualidade em saúde e o papel da acreditação, é correto afirmar que:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011641,
+     "letra": "A",
+     "descricao": "o licenciamento sanitário e a acreditação possuem o mesmo objetivo de garantir padrões ótimos de qualidade, diferindo no fato de que o primeiro é conduzido pelo poder público e o segundo por agências privadas de avaliação.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011642,
+     "letra": "B",
+     "descricao": "a acreditação hospitalar concentra sua avaliação no controle de processos e na disponibilidade de pessoal e equipamentos, de forma semelhante à certificação ISO, sem focar em resultados específicos de segurança do paciente.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011643,
+     "letra": "C",
+     "descricao": "a acreditação avalia a conformidade da instituição com padrões ótimos de qualidade previamente estabelecidos, com caráter educativo e voltado para a melhoria contínua, diferentemente do licenciamento, que possui caráter fiscalizatório.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011644,
+     "letra": "D",
+     "descricao": "a acreditação é um processo prescritivo que determina técnicas categóricas e protocolos rígidos para todos os setores do hospital, sendo capaz de garantir a eliminação dos eventos adversos evitáveis.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001165,
+   "descricao": "<p>De acordo com o Estatuto da Sociedade Brasileira de Anestesiologia (SBA), assinale a alternativa que corretamente associa o órgão da SBA às competências que lhe são privativamente atribuídas:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011651,
+     "letra": "A",
+     "descricao": "Conselho Superior – deliberar sobre alterações do Estatuto e eleger a Diretoria.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011652,
+     "letra": "B",
+     "descricao": "Assembleia Geral – deliberar sobre alterações do Estatuto e decidir sobre a dissolução da Sociedade.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011653,
+     "letra": "C",
+     "descricao": "Assembleia dos Representantes – aprovar proposta orçamentária para o ano seguinte e deliberar sobre a dissolução da SBA.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011654,
+     "letra": "D",
+     "descricao": "Conselho de Defesa Profissional – deliberar sobre alterações estatutárias e decidir sobre a destituição da Diretoria em caso de infração ética.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001166,
+   "descricao": "<p>A Sociedade Brasileira de Anestesiologia (SBA) é filiada à Confederação Latino-Americana de Sociedades de Anestesiologia (CLASA) e à Federação Mundial das Sociedades de Anestesiologia (WFSA). Assinale a missão primordial comum a estas 3 sociedades médicas:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011661,
+     "letra": "A",
+     "descricao": "organizar e apoiar congressos e jornadas regionais;",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011662,
+     "letra": "B",
+     "descricao": "criar e colaborar com programas de educação continuada;",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011663,
+     "letra": "C",
+     "descricao": "formar novos médicos especialistas em anestesiologia;",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011664,
+     "letra": "D",
+     "descricao": "garantir a segurança do paciente.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001167,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a figura apresentada e a utiliza&ccedil;&atilde;o de radia&ccedil;&atilde;o ionizante no centro cir&uacute;rgico, podemos afirmar que?</p> <p><figure><svg viewBox=\"0 0 520 300\" fill=\"none\"><title>Esquema: fonte de radiação ionizante no centro cirúrgico emitindo radiação em ondas concêntricas, com seta indicando a distância até o profissional</title><defs><marker id=\"seta1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"5\" orient=\"auto\"><path d=\"M0 0 L10 5 L0 10 Z\" fill=\"currentColor\"/></marker></defs><rect x=\"30\" y=\"125\" width=\"50\" height=\"50\" rx=\"6\" stroke=\"currentColor\" stroke-width=\"2\"/><text x=\"55\" y=\"200\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\">Fonte</text><text x=\"55\" y=\"216\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\">(raios X)</text><g stroke=\"#1b6670\" stroke-width=\"2.5\" fill=\"none\"><path d=\"M80 110 A40 40 0 0 1 80 190\"/><path d=\"M80 80 A70 70 0 0 1 80 220\"/><path d=\"M80 50 A100 100 0 0 1 80 250\"/><path d=\"M80 20 A130 130 0 0 1 80 280\"/></g><line x1=\"85\" y1=\"150\" x2=\"420\" y2=\"150\" stroke=\"currentColor\" stroke-width=\"2.5\" marker-end=\"url(#seta1)\"/><text x=\"300\" y=\"140\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">distância</text><g stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\"><circle cx=\"465\" cy=\"100\" r=\"14\"/><line x1=\"465\" y1=\"114\" x2=\"465\" y2=\"190\"/><line x1=\"465\" y1=\"135\" x2=\"440\" y2=\"165\"/><line x1=\"465\" y1=\"135\" x2=\"490\" y2=\"165\"/><line x1=\"465\" y1=\"190\" x2=\"445\" y2=\"245\"/><line x1=\"465\" y1=\"190\" x2=\"485\" y2=\"245\"/></g><text x=\"465\" y=\"270\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\">Profissional</text></svg></figure></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011671,
+     "letra": "A",
+     "descricao": "A dose máxima de radiação permitida pela Comissão Internacional de Proteção Radiológica é de 3 rem/ano.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011672,
+     "letra": "B",
+     "descricao": "Tecidos do corpo que possuem alta taxa de renovação celular, são menos suscetíveis a lesões induzidas pela radiação.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011673,
+     "letra": "C",
+     "descricao": "A intensidade da radiação espalhada é inversamente proporcional ao quadrado da distância da fonte.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011674,
+     "letra": "D",
+     "descricao": "Os efeitos determinísticos se referem à lesão ao DNA das células, causados pela radiação, resultando em danos genéticos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001168,
+   "descricao": "<p>Um anestesiologista sofreu acidente perfurocortante com agulha durante punção venosa em paciente HbsAg positivo. O profissional havia recebido esquema vacinal completo para hepatite B há 2 anos, mas desconhece seus níveis de anti-HBs. Qual é a conduta mais adequada segundo as recomendações de profilaxia pós-exposição?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011681,
+     "letra": "A",
+     "descricao": "Aguardar resultado de sorologia para anti-HBs do profissional.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011682,
+     "letra": "B",
+     "descricao": "Administrar imunoglobulina da hepatite B (HBIG) imediatamente e iniciar nova série vacinal completa.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011683,
+     "letra": "C",
+     "descricao": "Administrar HBIG em duas doses com intervalo de 30 dias, independente do status vacinal prévio.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011684,
+     "letra": "D",
+     "descricao": "Iniciar profilaxia com antivirais (tenofovir + lamivudina) por 4 semanas e realizar sorologias de controle.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001169,
+   "descricao": "<p>Sobre anestesia no paciente com dependência química ou em uso abusivo de drogas:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011691,
+     "letra": "A",
+     "descricao": "a buprenorfina aumenta a sensibilidade aos opioides agonistas completos, alterando sua eficácia analgésica no período perioperatório.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011692,
+     "letra": "B",
+     "descricao": "o exame físico possui papel limitado na identificação de sinais clínicos relacionados ao uso recente de substâncias psicoativas.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011693,
+     "letra": "C",
+     "descricao": "benzodiazepínicos não devem utilizados no período pré-operatório para prevenir ou tratar sintomas de abstinência alcoólica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011694,
+     "letra": "D",
+     "descricao": "a dose habitual de metadona deve ser mantida no perioperatório, sendo necessário planejar analgesia adicional com estratégias multimodais.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001170,
+   "descricao": "<p>Sobre as classificações de risco perioperatório, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011701,
+     "letra": "A",
+     "descricao": "A classificação da ASA é utilizada como avaliação de risco perioperatório, mas não existe correlação do escore com a morbimortalidade.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011702,
+     "letra": "B",
+     "descricao": "Gestantes com diabetes gestacional controlada com dieta, hipertensa leve bem controlada são consideradas ASA 2.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011703,
+     "letra": "C",
+     "descricao": "A classificação em cirurgias de baixo, intermediário e alto risco é baseada no risco de morte por complicações respiratórias, considerando as comorbidades do paciente.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011704,
+     "letra": "D",
+     "descricao": "Os índices de Goldman e o RCRI (Revised Cardiac Risk Index) avaliam a probabilidade de complicações em cirurgia cardíaca, mas não em cirurgias não cardíacas.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001171,
+   "descricao": "<p>Paciente de 54 anos portador de angina estável, será submetido à nefrectomia por neoplasia. Na avaliação pré-anestésica quais seriam os exames necessários para a avaliação do sistema cardiovascular?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011711,
+     "letra": "A",
+     "descricao": "Capacidade funcional, eletrocardiograma, biomarcadores cardíacos.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011712,
+     "letra": "B",
+     "descricao": "Capacidade funcional, eletrocardiograma, coronarioangiografia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011713,
+     "letra": "C",
+     "descricao": "Eletrocardiograma, biomarcadores cardíacos, coronarioangiografia.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011714,
+     "letra": "D",
+     "descricao": "Ecocardiograma, biomarcadores cardíacos, coronarioangiografia.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001172,
+   "descricao": "<p>Um anestesiologista est&aacute; avaliando os preditores de ventila&ccedil;&atilde;o dif&iacute;cil sob m&aacute;scara facial em um paciente idoso. Qual combina&ccedil;&atilde;o de fatores apresenta a maior probabilidade de dificuldade ou impossibilidade de ventila&ccedil;&atilde;o?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011721,
+     "letra": "A",
+     "descricao": "Idade > 55 anos, presença de barba, história de ronco e ausência de dentes.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011722,
+     "letra": "B",
+     "descricao": "Mallampati classe II, sexo masculino e IMC de 25 kg/m².",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011723,
+     "letra": "C",
+     "descricao": "História de asma, tabagismo e tireoidectomia prévia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011724,
+     "letra": "D",
+     "descricao": "Uso de prótese dentária fixa, pescoço curto, e extensão cervical limitada.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001173,
+   "descricao": "<p>Considerando as evidências atuais sobre a acurácia diagnóstica, as limitações e as características fisiológicas dos testes preditivos de laringoscopia e intubação difícil, assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011731,
+     "letra": "A",
+     "descricao": "O Teste da Mordida do Lábio Superior (ULBT) tem demonstrado maior especificidade e menor variabilidade interobservador na predição de laringoscopia difícil quando comparado à classificação de Mallampati modificada.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20011732,
+     "letra": "B",
+     "descricao": "A circunferência cervical é um preditor de intubação difícil com menor acurácia do que o Índice de Massa Corporal (IMC), devendo o anestesiologista priorizar o cálculo do IMC em detrimento da medida do pescoço na avaliação do paciente obeso.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011733,
+     "letra": "C",
+     "descricao": "A classificação de Mallampati modificada, quando utilizada como teste único, apresenta sensibilidade e valor preditivo positivo suficientemente elevados para confirmar, com segurança, a presença de uma via aérea difícil.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011734,
+     "letra": "D",
+     "descricao": "Uma distância tireomentoniana menor que 6,0 cm é considerada um indicador de laringoscopia fácil, pois reflete uma mandíbula prognata e um espaço submandibular amplo para o deslocamento da língua.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001174,
+   "descricao": "<p>Uma criança hígida de 3 meses de idade é encaminhada para correção cirúrgica de hérnia inguinal. Durante a indução anestésica inalatória, observa-se dificuldade para ventilação sob máscara facial. Realiza-se anteriorização da mandíbula, com melhora imediata da ventilação e da oxigenação. Considerando as particularidades anatômicas da via aérea na criança, assinale a alternativa que melhor explica o mecanismo fisiológico responsável pela melhora observada após a manobra realizada.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011741,
+     "letra": "A",
+     "descricao": "A anteriorização da mandíbula promove o deslocamento inferior da epiglote em direção à traqueia, reduzindo a resistência ao fluxo aéreo.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011742,
+     "letra": "B",
+     "descricao": "A tração mandibular reduz a complacência da parede faríngea posterior, prevenindo o colapso traqueal durante a ventilação espontânea.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011743,
+     "letra": "C",
+     "descricao": "A manobra desloca anteriormente a língua e os tecidos moles da orofaringe, ampliando o espaço aéreo supraglótico e facilitando a passagem do ar.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011744,
+     "letra": "D",
+     "descricao": "O deslocamento da mandíbula aumenta o diâmetro da cartilagem cricoide, reduzindo a resistência subglótica ao fluxo inspiratório.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001175,
+   "descricao": "<p>Ao posicionar um paciente na posição de litotomia padrão para procedimentos ginecológicos ou urológicos, qual é a técnica correta para a manipulação dos membros inferiores e a angulação recomendada?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011751,
+     "letra": "A",
+     "descricao": "Os membros inferiores devem ser elevados e separados um de cada vez para garantir a estabilidade da pelve.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011752,
+     "letra": "B",
+     "descricao": "Os joelhos são flexionados para manter as pernas num ângulo de 30 graus em relação ao piso.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011753,
+     "letra": "C",
+     "descricao": "As coxas devem ser flexionadas a cerca de 90 graus sobre o tronco.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20011754,
+     "letra": "D",
+     "descricao": "Os joelhos devem ser mantidos em extensão total enquanto os pés são suspensos por suportes em postes altos.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001176,
+   "descricao": "<p>Um paciente de 62 anos, com história de dor lombar crônica, será submetido a prostatectomia radical robótica, com duração prevista de 5 horas, em posição supina com Trendelenburg acentuado. Durante o posicionamento, antes da indução anestésica, o anestesiologista opta por colocar um coxim sob a região lombar do paciente. Qual a principal justificativa para o uso do coxim lombar nesta situação?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011761,
+     "letra": "A",
+     "descricao": "Reduzir a pressão intra-abdominal transmitida ao plexo venoso.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011762,
+     "letra": "B",
+     "descricao": "Facilitar a drenagem venosa do sistema venoso Ázigos.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20011763,
+     "letra": "C",
+     "descricao": "Evitar a síndrome compartimental nos membros inferiores.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011764,
+     "letra": "D",
+     "descricao": "Manter a anatomia e curvatura lombar fisiológica.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001177,
+   "descricao": "<p>Em relação às lesões traumáticas de nervos periféricos associadas ao posicionamento inadequado do paciente durante procedimentos cirúrgicos:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20011771,
+     "letra": "A",
+     "descricao": "neurotmese cursa com degeneração walleriana distal e preservação parcial da continuidade anatômica do nervo, o que possibilita recuperação funcional espontânea tardia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20011772,
+     "letra": "B",
+     "descricao": "axonotmese caracteriza-se por lesão dos axônios com preservação da estrutura conjuntiva do nervo, cursa com degeneração walleriana distal e permite regeneração axonal espontânea.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20011773,
+     "letra": "C",
+     "descricao": "neuropraxia caracteriza-se por desmielinização segmentar com degeneração walleriana, sendo comum a recuperação completa em curto prazo, porém acompanhada de dor neuropática persistente.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20011774,
+     "letra": "D",
+     "descricao": "lesão nervosa periférica de origem compressiva prolongada caracteriza-se por degeneração walleriana distal, com regeneração axonal completa e previsível, independentemente da integridade estrutural do nervo.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

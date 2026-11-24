@@ -1,0 +1,1684 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2014",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2014",
+  "ano": "2014",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002911,
+   "descricao": "<p>Hormônio que se reduz na fase aguda da resposta ao estresse cirúrgico:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029111,
+     "letra": "A",
+     "descricao": "Adrenalina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029112,
+     "letra": "B",
+     "descricao": "Insulina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029113,
+     "letra": "C",
+     "descricao": "Cortisol",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029114,
+     "letra": "D",
+     "descricao": "Ocitocina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002912,
+   "descricao": "<p>O volume expiratório forçado no primeiro segundo, para realização de lobectomia no adulto, deve variar entre (L):</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029121,
+     "letra": "A",
+     "descricao": "0,6-0,9",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029122,
+     "letra": "B",
+     "descricao": "1,0-1,2",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029123,
+     "letra": "C",
+     "descricao": "1,7-2,0",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029124,
+     "letra": "D",
+     "descricao": "2,1-2,5",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002913,
+   "descricao": "<p>Fármaco que deve ser evitado no paciente com insuficiência renal terminal:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029131,
+     "letra": "A",
+     "descricao": "succinilcolina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20029132,
+     "letra": "B",
+     "descricao": "propofol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029133,
+     "letra": "C",
+     "descricao": "fentanil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029134,
+     "letra": "D",
+     "descricao": "isoflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002914,
+   "descricao": "<p>Paciente de 70 anos, com estenose aórtica moderada, vítima de atropelamento, esta sendo operado recebendo anestesia geral com sevoflurano. O paciente subitamente eleva a frequência cardíaca para 200 batimentos por minuto, com ritmo irregular, pressão arterial altera de 140/90 mmHg para 80/45 mmHg e depressão de 3mm em ST da derivação V5. Qual conduta mais apropriada para reverter à isquemia miocárdica?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029141,
+     "letra": "A",
+     "descricao": "Aumentar o anestésico inalatório",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029142,
+     "letra": "B",
+     "descricao": "Administrar esmolol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029143,
+     "letra": "C",
+     "descricao": "Administrar verapamil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029144,
+     "letra": "D",
+     "descricao": "Cardioversão elétrica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002915,
+   "descricao": "<p>Para ventilarmos um paciente com 700 ml de volume corrente, 10 respirações por minuto e relação inspiração:expiração de 1:2, qual deve ser o fluxo inspiratório por minuto em um ventilador de controle indireto:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029151,
+     "letra": "A",
+     "descricao": "350 ml",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029152,
+     "letra": "B",
+     "descricao": "700 ml",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029153,
+     "letra": "C",
+     "descricao": "7 litros",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029154,
+     "letra": "D",
+     "descricao": "21 litros",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002916,
+   "descricao": "<p>Saturação arterial mínima aceitável na sala de recuperação pós-anestésica em paciente pediátrico:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029161,
+     "letra": "A",
+     "descricao": "88%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029162,
+     "letra": "B",
+     "descricao": "90%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029163,
+     "letra": "C",
+     "descricao": "94%",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029164,
+     "letra": "D",
+     "descricao": "96%",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002917,
+   "descricao": "<p>É indicação da succinilcolina no paciente traumatizado:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029171,
+     "letra": "A",
+     "descricao": "Trauma penetrante ocular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029172,
+     "letra": "B",
+     "descricao": "Primeiras 24 horas do grande queimado",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029173,
+     "letra": "C",
+     "descricao": "Paciente tetraplégico há 4 meses",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029174,
+     "letra": "D",
+     "descricao": "Hipertensão intracraniana aguda",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002918,
+   "descricao": "<p>Na fisiopatologia do choque hemorrágico, observa-se:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029181,
+     "letra": "A",
+     "descricao": "Incapacidade de concentrar urina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20029182,
+     "letra": "B",
+     "descricao": "Que o intestino é um dos últimos órgãos afetados por hipoperfusão",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029183,
+     "letra": "C",
+     "descricao": "Que o músculo esquelético é metabolicamente ativo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029184,
+     "letra": "D",
+     "descricao": "Comprometimento precoce da função cardíaca",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002919,
+   "descricao": "<p>Paciente com hist&oacute;ria de transplante card&iacute;aco h&aacute; 1 ano, submetida a colecistectomia de urg&ecirc;ncia. A paciente apresenta-se em jejum h&aacute; 14 horas, por n&aacute;useas e v&ocirc;mitos, FC = 110 bpm, PA = 90 x 49 mmHg e duas ondas p para cada complexo QRS no ECG. Ap&oacute;s indu&ccedil;&atilde;o da anestesia apresenta hipotens&atilde;o acentuada, n&atilde;o responsiva a efedrina, seguida de redu&ccedil;&atilde;o da frequ&ecirc;ncia card&iacute;aca para 50 bpm. Qual a melhor conduta e respectivo fundamento para sua escolha?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029191,
+     "letra": "A",
+     "descricao": "Norepinefrina, para manutenção da perfusão coronariana devido a perda de autorregularão destas artérias",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029192,
+     "letra": "B",
+     "descricao": "Prova volêmica com 500 mL de solução ringer lactato, pois o coração transplantado é dependente da pré carga",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029193,
+     "letra": "C",
+     "descricao": "Marca-passo transvenoso, o coração transplantado não responde ao tratamento farmacológico da bradicardia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029194,
+     "letra": "D",
+     "descricao": "Amiodarona, para tratamento da arritmia atrial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002920,
+   "descricao": "<p>Considerando a escolha da medicação pré-anestésica, qual a dose mais adequada em uma criança com 4 anos:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029201,
+     "letra": "A",
+     "descricao": "midazolam oral – 2,5mg.kg-1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029202,
+     "letra": "B",
+     "descricao": "clonidina oral – 8μg.kg-1",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029203,
+     "letra": "C",
+     "descricao": "dexmedetomidina oral - 2μg.kg-1",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029204,
+     "letra": "D",
+     "descricao": "midazolam intranasal – 1 a 2 mg.kg-1",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002921,
+   "descricao": "<p>Percentagem máxima da área corporal a que deve ser limitado o volume aspirado durante lipoaspiração, independentemente da técnica cirúrgica:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029211,
+     "letra": "A",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029212,
+     "letra": "B",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029213,
+     "letra": "C",
+     "descricao": "40",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029214,
+     "letra": "D",
+     "descricao": "60",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002922,
+   "descricao": "<p>Na dor crônica podemos afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029221,
+     "letra": "A",
+     "descricao": "Nos neurônios espinhais o estímulo crônico leva ao fenômeno de \"wind up\"",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029222,
+     "letra": "B",
+     "descricao": "Na medula espinal, a inibição da dor é mediada por opioides",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029223,
+     "letra": "C",
+     "descricao": "Os nociceptores centrais possuem neurotransmissores inibitórios como glutamato",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029224,
+     "letra": "D",
+     "descricao": "O estímulo dos receptores GABA aumenta a liberação de neurotransmissores excitatórios",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002923,
+   "descricao": "<p>É CORRETO em relação ao uso de opioides em idosos comparado ao uso em adultos jovens:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029231,
+     "letra": "A",
+     "descricao": "O consumo de morfina no pós-operatório é maior",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029232,
+     "letra": "B",
+     "descricao": "Sufentanil é 3 vezes mais potente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029233,
+     "letra": "C",
+     "descricao": "Há uma redução na sensibilidade cerebral ao remifentanil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029234,
+     "letra": "D",
+     "descricao": "O volume do compartimento central é reduzido",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002924,
+   "descricao": "<p>No manuseio perioperatório de um paciente com hipertireoidismo e bócio volumoso:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029241,
+     "letra": "A",
+     "descricao": "A pré-medicação deve promover sedação profunda",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029242,
+     "letra": "B",
+     "descricao": "As medicações antitireoidianas devem ser mantidas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029243,
+     "letra": "C",
+     "descricao": "A anestesia venosa total deve ser a técnica de escolha",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029244,
+     "letra": "D",
+     "descricao": "A hipercalcemia é uma complicação no pós-operatório",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002925,
+   "descricao": "<p>Tipo de choque que apresenta maiores níveis de mediadores inflamatórios:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029251,
+     "letra": "A",
+     "descricao": "Cardiogênico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029252,
+     "letra": "B",
+     "descricao": "Distributivo",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029253,
+     "letra": "C",
+     "descricao": "Hipovolêmico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029254,
+     "letra": "D",
+     "descricao": "Obstrutivo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002926,
+   "descricao": "<p>Tipo de insulina que contém protamina:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029261,
+     "letra": "A",
+     "descricao": "Lenta",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029262,
+     "letra": "B",
+     "descricao": "NPH",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029263,
+     "letra": "C",
+     "descricao": "Regular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029264,
+     "letra": "D",
+     "descricao": "Ultrarrápida",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002927,
+   "descricao": "<p>Fator de risco pré-operatório para complicações pulmonares:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029271,
+     "letra": "A",
+     "descricao": "Diabetes",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029272,
+     "letra": "B",
+     "descricao": "Hipertensão",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029273,
+     "letra": "C",
+     "descricao": "Idade > 60 anos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029274,
+     "letra": "D",
+     "descricao": "Alergias",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002928,
+   "descricao": "<p>&Eacute; correto em rela&ccedil;&atilde;o &agrave; fisiologia do paciente com t&oacute;rax fechado, em posi&ccedil;&atilde;o lateral, respirando espontaneamente e n&atilde;o anestesiado:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029281,
+     "letra": "A",
+     "descricao": "O fluxo sanguíneo para o pulmão não-dependente é significativamente maior que para o pulmão dependente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029282,
+     "letra": "B",
+     "descricao": "A relação ventilação/perfusão no pulmão dependente é inadequada",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029283,
+     "letra": "C",
+     "descricao": "A ventilação no pulmão dependente é maior que no pulmão não-dependente",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029284,
+     "letra": "D",
+     "descricao": "A distribuição do fluxo sanguíneo é semelhante à posição vertical com uma rotação de 120 graus",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002929,
+   "descricao": "<p>No processo de dor aguda e inflamação, o fator de crescimento do nervo age diretamente sobre as fibras do tipo:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029291,
+     "letra": "A",
+     "descricao": "A alfa",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029292,
+     "letra": "B",
+     "descricao": "A beta",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029293,
+     "letra": "C",
+     "descricao": "B",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029294,
+     "letra": "D",
+     "descricao": "C",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002930,
+   "descricao": "<p>No sistema nervoso central, o fentanil causa aumento da(o):</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029301,
+     "letra": "A",
+     "descricao": "Absorção do líquor",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20029302,
+     "letra": "B",
+     "descricao": "Fluxo sanguíneo encefálico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029303,
+     "letra": "C",
+     "descricao": "Pressão intracraniana",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029304,
+     "letra": "D",
+     "descricao": "Taxa metabólica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002931,
+   "descricao": "<p>Qual dos fármacos abaixo relacionados está livre de causar a dependência física?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029311,
+     "letra": "A",
+     "descricao": "Carbamazepina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029312,
+     "letra": "B",
+     "descricao": "Droperidol",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029313,
+     "letra": "C",
+     "descricao": "Fentanil",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029314,
+     "letra": "D",
+     "descricao": "Midazolam",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002932,
+   "descricao": "<p>Em relação ao uso de cardioplegia durante revascularização miocárdica com circulação extracorpórea é CORRETO afirmar que:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029321,
+     "letra": "A",
+     "descricao": "Ela reduz o consumo miocárdico em 70%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029322,
+     "letra": "B",
+     "descricao": "Leva à preservação de ATP com redução da acidose intramiocárdica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029323,
+     "letra": "C",
+     "descricao": "A temperatura da solução deve ser entre 20 a 25oC",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029324,
+     "letra": "D",
+     "descricao": "O volume de solução inicial infundido é de 300 mL",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002933,
+   "descricao": "<p>É um exemplo de indicador de processo em anestesia:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029331,
+     "letra": "A",
+     "descricao": "sala de recuperação pós-anestésica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029332,
+     "letra": "B",
+     "descricao": "antibioticoterapia profilática",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029333,
+     "letra": "C",
+     "descricao": "taxa de cefaleia pós-punção dural",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029334,
+     "letra": "D",
+     "descricao": "estado físico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002934,
+   "descricao": "<p>Em relação ao programa de acreditação hospitalar da Organização Nacional de Acreditação (ONA), é CORRETO:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029341,
+     "letra": "A",
+     "descricao": "no nível I destacam-se os protocolos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029342,
+     "letra": "B",
+     "descricao": "no nível II avaliam-se estrutura física e condições de segurança",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029343,
+     "letra": "C",
+     "descricao": "no nível III avaliam-se a estruturação e a efetividade da gestão",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029344,
+     "letra": "D",
+     "descricao": "após acreditação, o hospital deverá ser recertificado a cada ano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002935,
+   "descricao": "<p>Paciente portador de estenose valvar mitral com sintomatologia em repouso. Isto sugere gravidade e que a &aacute;rea transvalvar, em cm<sup>2</sup>, &eacute; menor que:&nbsp;</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029351,
+     "letra": "A",
+     "descricao": "4,5",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029352,
+     "letra": "B",
+     "descricao": "3,5",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029353,
+     "letra": "C",
+     "descricao": "2,5",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029354,
+     "letra": "D",
+     "descricao": "1,5",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002936,
+   "descricao": "<p>A resposta de Cushing observada na hipertensão intracraniana ocorre devido compressão do (a):</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029361,
+     "letra": "A",
+     "descricao": "hipotálamo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029362,
+     "letra": "B",
+     "descricao": "amígdalas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029363,
+     "letra": "C",
+     "descricao": "sistema límbico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029364,
+     "letra": "D",
+     "descricao": "tronco encefálico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002937,
+   "descricao": "<p>Paciente em abuso agudo de cocaína submetido a cirurgia de urgência. Agente anestésico a ser evitado:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029371,
+     "letra": "A",
+     "descricao": "Cetamina",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20029372,
+     "letra": "B",
+     "descricao": "Dexmedetomidina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029373,
+     "letra": "C",
+     "descricao": "Midazolam",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029374,
+     "letra": "D",
+     "descricao": "Propofol",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002938,
+   "descricao": "<p>Em relação à conduta anestésica no paciente diabético, é CORRETO:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029381,
+     "letra": "A",
+     "descricao": "O sinal da prece pode predizer laringoscopia difícil",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20029382,
+     "letra": "B",
+     "descricao": "Na cetoacidose, utilização de bicarbonato de sódio se pH menor que 7,2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029383,
+     "letra": "C",
+     "descricao": "A dose padrão de glicose para paciente adulto é 20g a 30g por hora",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029384,
+     "letra": "D",
+     "descricao": "A neuropatia autonômica predispõe hipertermia intraoperatória",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002939,
+   "descricao": "<p>Considerando a resposta autonômica de um paciente encaminhado para uma cirurgia de urgência por apendicite, qual seria o tempo de jejum, em horas, recomendado para uma intervenção cirúrgica se ele tomou líquidos claros?</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029391,
+     "letra": "A",
+     "descricao": "6",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029392,
+     "letra": "B",
+     "descricao": "4",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029393,
+     "letra": "C",
+     "descricao": "2",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029394,
+     "letra": "D",
+     "descricao": "1",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002940,
+   "descricao": "<p>Neurotransmissor liberado na lâmina I do corno dorsal da medula espinal envolvido na sensibilização central:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029401,
+     "letra": "A",
+     "descricao": "GABA",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029402,
+     "letra": "B",
+     "descricao": "glutamato",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029403,
+     "letra": "C",
+     "descricao": "glicina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029404,
+     "letra": "D",
+     "descricao": "aspartato",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002941,
+   "descricao": "<p>Doen&ccedil;a ateroscler&oacute;tica mais frequente associada &agrave; morbimortalidade perioperat&oacute;ria em cirurgia vascular arterial:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029411,
+     "letra": "A",
+     "descricao": "Cerebral",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029412,
+     "letra": "B",
+     "descricao": "Coronariana",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029413,
+     "letra": "C",
+     "descricao": "Periférica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029414,
+     "letra": "D",
+     "descricao": "Renal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002942,
+   "descricao": "<p>A hipotermia grave pode ser utilizada deliberada e rotineiramente para conferir proteção à isquemia tecidual em cirurgias:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029421,
+     "letra": "A",
+     "descricao": "Neurológicas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029422,
+     "letra": "B",
+     "descricao": "Oncológicas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029423,
+     "letra": "C",
+     "descricao": "Bariátrica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029424,
+     "letra": "D",
+     "descricao": "Cardíaca",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002943,
+   "descricao": "<p>Estratégia recomendada de ventilação em pacientes portadores de doença pulmonar obstrutiva crônica:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029431,
+     "letra": "A",
+     "descricao": "Usar grandes volumes correntes (10 a 12 ml.kg-1)",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029432,
+     "letra": "B",
+     "descricao": "Usar frequência respiratória alta (maior que 20 irpm)",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029433,
+     "letra": "C",
+     "descricao": "Evitar hipercarbia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029434,
+     "letra": "D",
+     "descricao": "Aumentar o tempo expiratório",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002944,
+   "descricao": "<p>Alteração fisiológica que ocorre durante o processo de envelhecimento:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029441,
+     "letra": "A",
+     "descricao": "hipotrofia ventricular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029442,
+     "letra": "B",
+     "descricao": "redução do volume residual pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029443,
+     "letra": "C",
+     "descricao": "aumento da capacidade de concentração urinária",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029444,
+     "letra": "D",
+     "descricao": "resistência aos efeitos da insulina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002945,
+   "descricao": "<p>A hipotensão arterial induzida pode ser:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029451,
+     "letra": "A",
+     "descricao": "Mediada pelo óxido nitroso",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029452,
+     "letra": "B",
+     "descricao": "Revertida durante manipulação do seio carotídeo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029453,
+     "letra": "C",
+     "descricao": "Induzida com uso de agentes alfa-2-adrenérgicos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029454,
+     "letra": "D",
+     "descricao": "Utilizada com uma pressão arterial média com alvo entre 40 e 45 mmHg",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002946,
+   "descricao": "<p>Sinais de redução global da perfusão tecidual na insuficiência circulatória aguda:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029461,
+     "letra": "A",
+     "descricao": "Elevação nos valores do pH intramucoso",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029462,
+     "letra": "B",
+     "descricao": "Baixa saturação venosa mista de oxigênio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029463,
+     "letra": "C",
+     "descricao": "Redução nos valores da capnografia sublingual",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029464,
+     "letra": "D",
+     "descricao": "Redução dos níveis de lactato sérico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002947,
+   "descricao": "<p>Em relação à ciclo-oxigenase (COX) e seus isômeros 1 e 2:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029471,
+     "letra": "A",
+     "descricao": "A COX-2 é a forma constitutiva",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029472,
+     "letra": "B",
+     "descricao": "A COX-1 medeia dor e inflamação",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20029473,
+     "letra": "C",
+     "descricao": "A COX-1 medeia a hemostasia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20029474,
+     "letra": "D",
+     "descricao": "A COX-1 medeia a carcinogênese",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002948,
+   "descricao": "<p>No neonato:</p>",
+   "ano": "2014",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20029481,
+     "letra": "A",
+     "descricao": "o espaço morto, em ml.kg-1, é maior em relação ao adulto.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20029482,
+     "letra": "B",
+     "descricao": "glote se relaciona com a terceira e quarta vértebras cervicais",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20029483,
+     "letra": "C",
+     "descricao": "frequência respiratória situa-se entre 15 e 25 incursões.min-1",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20029484,
+     "letra": "D",
+     "descricao": "imagens radiológicas dos pulmões semelhante à hipoinsuflação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

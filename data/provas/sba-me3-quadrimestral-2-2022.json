@@ -1,0 +1,584 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2022",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003501,
+   "descricao": "<p>A diferença na dosagem necessária de propofol entre crianças e adultos pode ser atribuída a (o):</p><p><b>A)</b> Aumento da depuração do propofol nas crianças.</p><p><b>B)</b> Maior volume de distribuição nas crianças.</p><p><b>C) </b>Redistribuição mais rápida do propofol de órgãos ricamente vascularizados nas crianças.</p><p><b>D) </b>Maior depuração do propofol quando comparada aos adultos.</p><p><b>E)</b> Menor T1/2 Ke0 nas crianças.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035011,
+     "letra": "A",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035012,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035013,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035014,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003502,
+   "descricao": "<p><b>O equilíbrio cardiovascular na síndrome de baixo débito cardíaco pós circulação extracorpórea inclui:</b></p><p><b><br></b></p><p><b>A)</b> Uso de inotrópicos para manter o índice cardíaco adequado.</p><p><b>B)</b> Inibidores de fosfodiesterase para estabilizar a hipertensão pulmonar.</p><p><b>C)</b> Marcapasso atrial na presença de condução atrioventricular normal, sem ritmo sinusal.</p><p><b>D)</b> Oxigenação por membrana extracorpórea como forma temporária de suporte cardiopulmonar nos casos graves.</p><p><b>E)</b> Vasopressina em altas doses para manter a taxa de filtração glomerular.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035021,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035022,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035023,
+     "letra": "C",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035024,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003503,
+   "descricao": "<p>Homem de 50 anos, 100 Kg e 175 cm, será submetido à ressecção de tumor cerebral em área eloquente. A equipe cirúrgica e anestésica opta pela abordagem com a técnica asleep-awake-asleep (dormindo-acordado-dormindo). Nesta técnica:</p><p>a) Realiza-se o mapeamento e a ressecção do tumor com o paciente desperto.</p><p>b) Há risco de depressão respiratória e obstrução de vias aéreas pelo excesso de sedação.</p><p>c) Pacientes com via aérea difícil, apneia obstrutiva do sono e ansiedade podem ser submetidos à técnica acordada.</p><p>d) O midazolam pode ser utilizado nos casos de síndrome convulsiva sem interferir na monitorização cerebral.</p><p>e) É imprescindível uma excelente anestesia regional no couro cabeludo, nos nervos aurículotemporal, zigomáticotemporal, supraorbital, supratroclear, occipital menor e occipital maior.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035031,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035032,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035033,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035034,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003504,
+   "descricao": "<p>Homem de 76 anos, 58 Kg e 165 cm, submetido à hemicolectomia direita por divertículo perfurado, sob anestesia geral inalatória. Neste caso, a temperatura central do paciente:</p><p>a) É estreitamente regulada pelo hipotálamo.</p><p>b) É elevada se o paciente estiver vasodilatado perifericamente.</p><p>c) Não pode ser aumentada pelo aumento do metabolismo.</p><p>d) Tenderá a se aproximar da temperatura ambiente.</p><p>e) É afetada nos componentes: entrada aferente, processamento central e resposta eferente.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035041,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035042,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035043,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035044,
+     "letra": "D",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003505,
+   "descricao": "<p>Homem de 60 anos, 100 Kg e 175 cm, hipertenso e diab&eacute;tico, submetido &agrave; apendicectomia h&aacute; 5 dias por apendicite aguda. Apresenta febre, pele fria e pegajosa, hipotens&atilde;o arterial e taquicardia. Nesse caso:</p> <p><strong>A) </strong>Uma medida de press&atilde;o venosa central elevada contraindica a reposi&ccedil;&atilde;o vol&ecirc;mica</p> <p><strong>B) </strong>Mesmo em ventila&ccedil;&atilde;o espont&acirc;nea, a varia&ccedil;&atilde;o da press&atilde;o de pulso deve ser utilizada para avaliar responsividade a fluidos</p> <p><strong>C)</strong> A ecocardiografia &eacute; &uacute;til para o diagn&oacute;stico diferencial do choque e avalia&ccedil;&atilde;o da resposta hemodin&acirc;mica a medidas terap&ecirc;uticas</p> <p><strong>D) </strong>A utiliza&ccedil;&atilde;o de f&aacute;rmaco agonista adren&eacute;rgico est&aacute; indicada em caso de hipotens&atilde;o refrat&aacute;ria a administra&ccedil;&atilde;o de fluidos</p> <p><strong>E) </strong>Com monitoriza&ccedil;&atilde;o invasiva, medidas de press&atilde;o de oclus&atilde;o de art&eacute;ria pulmonar baixa, &iacute;ndice card&iacute;aco aumentado e resist&ecirc;ncia vascular perif&eacute;rica baixa sugerem o diagn&oacute;stico de choque hipovol&ecirc;mico</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035051,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035052,
+     "letra": "B",
+     "descricao": "F F V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035053,
+     "letra": "C",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035054,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003506,
+   "descricao": "<p>Homem de 92 anos, 85 Kg e 178 cm, será submetido à artroplastia total de quadril. Em relação a esse paciente idoso:</p><p><b>A)</b> O espaço morto anatômico e alveolar são aumentados.</p><p><b>B) </b>Tem aumento da sensibilidade às medicações anestésicas, principalmente drogas que podem precipitar sintomas extrapiramidais ou síndrome anticolinérgica, devido ao aumento dos neurotransmissores cerebrais.</p><p><b>C)</b> Apresenta uma redução no volume cerebral, mais significativa na região cortical pré-frontal.</p><p><b>D)</b> A concentração alveolar mínima dos agentes voláteis está aumentada, cujo aumento ocorre em aproximadamente 6% por década de vida.</p><p><b>E) </b>Redução no tecido renal e do fluxo sanguíneo renal, com aumento da depuração de creatinina e da filtração glomerular.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035061,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035062,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035063,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035064,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003507,
+   "descricao": "<p>Mesmo sabendo que juridicamente os pais têm direito de acompanhar os filhos, qual (is) dos cenários abaixo seria(m) apropriado(s) para uma indução anestésica em uma criança na presença dos pais:</p><p>a) Menina de 3 anos de idade, agitada, chorosa e mãe muito ansiosa.</p><p>b) Menino choroso de 7 anos de idade, com pai tranquilo que afirma querer estar com seu filho até que ele durma.</p><p>c) Menina de 5 meses, mãe anestesiologista, para realização de ressonância magnética diagnóstica sob anestesia geral.</p><p>d) Menino de 12 anos de idade será submetido a amigdalectomia, com mãe muito ansiosa e pouco cooperativa.</p><p>e) Menino de 17 anos, com síndrome de Down, com mãe calma e cooperativa.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035071,
+     "letra": "A",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035072,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035073,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035074,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003508,
+   "descricao": "<p>Crian&ccedil;a, sexo feminino, 3 anos de idade, peso 18 kg, ser&aacute; submetida &agrave; corre&ccedil;&atilde;o de estrabismo bilateral. Apresenta-se congestionada, com coriza hialina e tosse seca com relato de quadro gripal h&aacute; uma semana, sem febre ou secre&ccedil;&atilde;o purulenta. Pai fumante, com carga tab&aacute;gica de 3 anos-ma&ccedil;o. Em rela&ccedil;&atilde;o aos eventos adversos respirat&oacute;rios perioperat&oacute;rios (EARP) neste paciente:</p> <p><strong>A)</strong> Interna&ccedil;&atilde;o n&atilde;o planejada pode ser um dos EARP<br><strong>B)</strong> Essa crian&ccedil;a apresenta diversos fatores de risco para EARP: menor de 5 anos, resfriado leve, cirurgia oftalmol&oacute;gica, necessidade de intuba&ccedil;&atilde;o traqueal<br><strong>C)</strong> A carga tab&aacute;gica do pai n&atilde;o interfere no aumento dos riscos<br><strong>D)</strong> A experi&ecirc;ncia do anestesiologista &eacute; um fator importante para o estabelecimento de EARP<br><strong>E)</strong> As evid&ecirc;ncias atuais n&atilde;o apoiam o uso da lidoca&iacute;na intravenosa (1 mg/kg) para diminuir a incid&ecirc;ncia de EARP</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035081,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035082,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035083,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035084,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003509,
+   "descricao": "<p>O manuseio anest&eacute;sico da estenose a&oacute;rtica tem como objetivos:</p> <p><strong>A) </strong>Reduzir a pr&eacute;-carga do ventr&iacute;culo esquerdo</p> <p><strong>B) </strong>Aumentar a PaO₂ para reduzir a resist&ecirc;ncia vascular pulmonar</p> <p><strong>C) </strong>Levosimendan intravenoso para aumentar a contratilidade card&iacute;aca</p> <p><strong>D) </strong>Evitar o aumento s&uacute;bito na p&oacute;s-carga sob risco de isquemia mioc&aacute;rdica</p> <p><strong>E) </strong>Os anest&eacute;sicos que diminuem a frequ&ecirc;ncia card&iacute;aca podem precipitar fal&ecirc;ncia do ventr&iacute;culo esquerdo</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035091,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035092,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035093,
+     "letra": "C",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035094,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003510,
+   "descricao": "<p>Homem, 60 anos, 1,75 m e 95 kg ser&aacute; submetido &agrave; ressec&ccedil;&atilde;o de glioma de tronco encef&aacute;lico na posi&ccedil;&atilde;o sentada. Nesta situa&ccedil;&atilde;o, &eacute; importante considerar:</p> <p><strong>A)</strong> Os potenciais evocados auditivos do tronco encef&aacute;lico s&atilde;o de grande valia para a monitoriza&ccedil;&atilde;o da sua viabilidade durante cirurgias na fossa posterior</p> <p><strong>B)</strong> A taquicardia &eacute; a arritmia mais observada durante a manipula&ccedil;&atilde;o da fossa posterior</p> <p><strong>C) </strong>A embolia a&eacute;rea venosa &eacute; uma complica&ccedil;&atilde;o incomum da cirurgia de fossa posterior em posi&ccedil;&atilde;o sentada</p> <p><strong>D) </strong>Na embolia a&eacute;rea venosa, a capnografia mostra um aumento s&uacute;bito do CO₂ exalado associado &agrave; hipotens&atilde;o arterial</p> <p><strong>E)</strong> Quando a embolia a&eacute;rea venosa &eacute; detectada, &eacute; necess&aacute;rio realizar a compress&atilde;o manual das jugulares e aspira&ccedil;&atilde;o do cateter central</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035101,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035102,
+     "letra": "B",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035103,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035104,
+     "letra": "D",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003511,
+   "descricao": "<p>Homem, 72 anos, 68 Kg, 1,72 m, submetido &agrave; prostatectomia transuretral sob raquianestesia. Apresenta-se na sala de recupera&ccedil;&atilde;o p&oacute;s-anest&eacute;sica com press&atilde;o arterial 110 x 70 mmHg, frequ&ecirc;ncia card&iacute;aca de 62 bpm e temperatura de 35,4&deg;C, sem queixas de tremores e se encontra incapaz de mover os membros inferiores. Temperatura ambiente de 16&deg;C. Nessa situa&ccedil;&atilde;o:</p> <p><strong>A)</strong> A hipotermia n&atilde;o intencional &eacute; incomum durante anestesia regional</p> <p><strong>B) </strong>A temperatura central est&aacute; elevada devido &agrave; vasodilata&ccedil;&atilde;o perif&eacute;rica</p> <p><strong>C)</strong> A redistribui&ccedil;&atilde;o interna de calor corporal &eacute; a maior causa inicial de hipotermia</p> <p><strong>D) </strong>A diferen&ccedil;a de temperatura da pele e da sala contribui para hipotermia pela irradia&ccedil;&atilde;o, que corresponde a 60% da perda de calor</p> <p><strong>E)</strong> O conforto t&eacute;rmico p&oacute;s-operat&oacute;rio ap&oacute;s raquianestesia &eacute; consistente com o preju&iacute;zo termorregulat&oacute;rio da informa&ccedil;&atilde;o t&eacute;rmica aferente</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035111,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035112,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035113,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035114,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003512,
+   "descricao": "<p>Homem, 65 anos, 1,75 m e 80 kg, hipertenso, diab&eacute;tico e portador de marca-passo, submetido &agrave; retossigmoidectomia laparosc&oacute;pica sob anestesia geral e peridural. Cirurgia com dificuldade t&eacute;cnica, tempo prolongado e sangramento moderado. Ap&oacute;s 3 horas de procedimento, passou a cursar com tend&ecirc;ncia &agrave; hipotens&atilde;o e taquicardia. Nesse caso:</p> <p><strong>A)</strong> A hipotens&atilde;o arterial sist&ecirc;mica &eacute; condi&ccedil;&atilde;o obrigat&oacute;ria em todos os tipos de choque</p> <p><strong>B)</strong> Sinais de hipoperfus&atilde;o tecidual e hiperlactatemia consolidariam o diagn&oacute;stico de choque</p> <p><strong>C)</strong> O aumento na resist&ecirc;ncia vascular sist&ecirc;mica e baixa extra&ccedil;&atilde;o de oxig&ecirc;nio caracterizam um choque s&eacute;ptico</p> <p><strong>D) </strong>Um baixo d&eacute;bito card&iacute;aco poderia estar presente em caso de choque hipovol&ecirc;mico ou cardiog&ecirc;nico</p> <p><strong>E) </strong>O diagn&oacute;stico da causa deve preceder qualquer medida terap&ecirc;utica na abordagem inicial ao paciente com choque</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035121,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035122,
+     "letra": "B",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035123,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035124,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003513,
+   "descricao": "<p>Homem, 82 anos, 1,72 m, 70 kg, hipertenso não controlado, será submetido à endarterectomia de carótida sob anestesia geral. Em relação às alterações esperadas nesse paciente idoso:</p> <p><strong>A) </strong>O aumento da resposta às drogas beta adrenérgicas nesse paciente limita o uso de beta agonistas como a dobutamina</p> <p><strong>B) </strong>Por ter diminuição da resposta central à hipóxia e à hipercapnia, está mais sujeito a sofrer depressão respiratória no pós-operatório</p> <p><strong>C) </strong>Apresenta número de sinapses cerebrais preservadas, apesar de ter maior risco de delírio pós-operatório por redução na plasticidade cerebral</p> <p><strong>D) </strong>A redução da capacidade residual funcional em relação à capacidade de fechamento favorece o aparecimento de atelectasia no pós-operatório</p> <p><strong>E)</strong> São dependentes da pós-carga e da contração atrial para manter o débito cardíaco, então pequenas alterações no volume sanguíneo representam uma queda no débito cardíaco</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035131,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035132,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035133,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035134,
+     "letra": "D",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

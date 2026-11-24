@@ -1,0 +1,364 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-2-2024",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 2ª quadrimestral 2024",
+  "ano": "2024",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001248,
+   "descricao": "<p>Sobre a pré-oxigenação do paciente durante a indução anestésica:</p><p>a) este procedimento envolve a substituição do volume de nitrogênio do pulmão (até 95% da&nbsp;capacidade residual funcional) por oxigênio</p><p>b) sob condições ideais, um paciente saudável respirando ar ambiente (FiO2 = 0,21)&nbsp;experimentará dessaturação da oxihemoglobina para um nível inferior a 90% após,&nbsp;aproximadamente, 1 a 2 minutos de apneia</p><p>c) certas circunstâncias, podem limitar a eficácia da pré-oxigenação, como paciente que&nbsp;experimenta claustrofobia com a máscara facial; o uso de máscaras exclusivamente&nbsp;nasais; vazamentos ao redor da máscara facial, tão pequenos quanto 4 mm (seção&nbsp;transversal)</p><p>d) pacientes com doença pulmonar, obesidade ou condições que afetam o metabolismo,&nbsp;frequentemente, apresentam dessaturação mais precocemente, devido à diminuição da&nbsp;capacidade residual funcional, diminuição da extração de O2, e/ou shunt transpulmonar&nbsp;da esquerda para a direita</p><p>e) a oxigenação apnéica pode retardar o início da dessaturação da oxiemoglobina, durante&nbsp;a apneia</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012481,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012482,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012483,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012484,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001249,
+   "descricao": "<p><strong>Sobre o monitor intraoperat&oacute;rio de press&atilde;o arterial invasiva (PAI):</strong></p> <p><strong>A)</strong> A conex&atilde;o e o nivelamento do transdutor ao s&iacute;tio da press&atilde;o a ser verificada independe da posi&ccedil;&atilde;o do paciente.&nbsp;</p> <p><strong>B)</strong> As varia&ccedil;&otilde;es c&iacute;clicas da press&atilde;o arterial sist&oacute;lica durante o ciclo respirat&oacute;rio s&atilde;o conhecidas como Varia&ccedil;&atilde;o da Press&atilde;o Sist&oacute;lica (VPS).&nbsp;</p> <p><strong>C)</strong> A VPS &eacute; um marcador din&acirc;mico de reserva da pr&eacute;-carga, na presen&ccedil;a de resist&ecirc;ncia vascular diminu&iacute;da.&nbsp;&nbsp;</p> <p><strong>D)</strong> A calibra&ccedil;&atilde;o do PAI para a press&atilde;o ZERO tem como finalidade conectar o transdutor com a press&atilde;o atmosf&eacute;rica.&nbsp;</p> <p><strong>E)</strong> A verifica&ccedil;&atilde;o do coeficiente de atenua&ccedil;&atilde;o se faz necess&aacute;rio para evitar subestima&ccedil;&atilde;o e superestima&ccedil;&atilde;o do valor real da PAI.&nbsp;</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012491,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012492,
+     "letra": "B",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012493,
+     "letra": "C",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012494,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001250,
+   "descricao": "<p><strong>Em rela&ccedil;&atilde;o ao sistema nervoso, avalie:</strong></p> <p><strong>A)</strong> A dura-máter é uma membrana rica em colágeno, espessa, densa, resistente e inelástica, ricamente vascularizada e inervada, o que a torna respons&aacute;vel pela&nbsp;sensibilidade dolorosa intracraniana.</p> <p><strong>B)</strong> A aracn&oacute;ide pode em alguns pontos, invadir a dura-máter formando as granulações aracn&oacute;ideas, nas quais s&atilde;o responsáveis pela absorção do líquor.&nbsp;</p> <p><strong>C)</strong> Os gânglios simpáticos estão geralmente localizados mais distantes da medula espinhal do que os órgãos que inervam. As fibras pós-ganglionares não são&nbsp;mielinizadas e vão terminar dentro dos órgãos inervados.&nbsp;</p> <p><strong>D)</strong> As fibras pre-ganglionares do sistema nervoso parassimp&aacute;tico geralmente fazem sinapses com apenas alguns neurônios pós-ganglionares, mantendo uma estreita&nbsp;relação neurônio pre e pós de apenas 1:2 a 1:3. Exceção é o plexo de Auerbach&nbsp;no cólon descendente com uma relação neurônio pre e pós de l:80.</p> <p><strong>E)</strong> A pia-máter proporciona sustentação estrutural ao tecido nervoso e acompanha todos os relevos do SNC, bem como os vasos que nele penetram, formando a&nbsp;parede externa dos espaços perivasculares, que constituem amortecedores&nbsp;hidráulicos às pulsações arteriais.&nbsp;</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012501,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012502,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012503,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012504,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001251,
+   "descricao": "<p>Sobre a fisiologia cardiovascular e considerando a figura abaixo, responda:</p> <p><img src=\"data/imagens/cdf8ce29121d4a59.jpg\" alt=\"\"></p> <p><b>A) </b>No momento X ocorre abertura da valva aórtica, dando início à ejeção ventricular.</p><p><b>B) </b>Após o fechamento da valva aórtica há o enchimento ventricular rápido (W) e&nbsp;relaxamento isovolumétrico (Z), respectivamente.</p><p><b>C) </b>O evento Y corresponde ao fechamento valvar mitral.</p><p><b>D) </b>O impulso elétrico é propagado no ventrículo, através do feixe de His até as fibras&nbsp;do sistema Purkinge, que são os menores ramos do sistema de condução.</p><p><b>E) </b>O intervalo QT representa o atraso entre a contração atrial e ventricular ao nível&nbsp;do nó AV.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012511,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012512,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012513,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012514,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001252,
+   "descricao": "<p>Sobre a mec&acirc;nica respirat&oacute;ria e controle da respira&ccedil;&atilde;o, julgue os itens:</p> <p><strong>A) </strong>Os m&uacute;sculos respons&aacute;veis pela inspira&ccedil;&atilde;o s&atilde;o o diafragma e os m&uacute;sculos intercostais internos.</p> <p><strong>B) </strong>O gradiente transtor&aacute;cico &eacute; a diferen&ccedil;a entre o espa&ccedil;o pleural e a superf&iacute;cie corp&oacute;rea, correspondendo &agrave; press&atilde;o de abertura das vias a&eacute;reas.</p> <p><strong>C) </strong>Os valores normais da complac&ecirc;ncia pulmonar est&aacute;tica variam de 160 a 200mL/cmH2O.</p> <p><strong>D) </strong>Na diferencia&ccedil;&atilde;o dos diversos tipos de fluxo a&eacute;reo &eacute; utilizado o n&uacute;mero de Reynolds (Re), cujos valores s&atilde;o diretamente proporcionais &agrave; viscosidade do g&aacute;s.</p> <p><strong>E) </strong>O tempo que os alv&eacute;olos levam para serem insuflados ou esvaziados corresponde &agrave; constante de tempo, sendo igual ao produto da complac&ecirc;ncia pela resist&ecirc;ncia.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012521,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012522,
+     "letra": "B",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012523,
+     "letra": "C",
+     "descricao": "F V F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012524,
+     "letra": "D",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001253,
+   "descricao": "<p>Sobre farmacologia geral:</p> <p><strong>A)</strong> Os modelos farmacocinéticos de fentanil publicados tendem a subestimar as concentrações de fentanil à medida que o peso corporal total aumenta, e por isso, recomenda-se usar o peso corporal total diretamente para calcular as doses em pacientes obesos.</p> <p><strong>B)</strong> Um paciente recebe uma dose intravenosa de 50 mg de um fármaco. Após a distribuição completa do fármaco no corpo, a concentração plasmática medida foi de 2 mg/L. Utilizando esses dados, conclui-se que o volume de distribuição é de 10 L.</p> <p><strong>C)</strong>&nbsp;Íon trapping na transferência placentária de anestésico local é quando a fração ionizada do anestésico local atravessa a placenta, onde é convertida na fração não ionizada no ambiente mais ácido do feto. A fração não ionizada não consegue facilmente atravessar de volta para a circulação materna, aumentando o risco de intoxicação no feto.</p> <p><strong>D)</strong> A&nbsp;administração sistêmica de uma base fraca, como um opioide, pode resultar no acúmulo do fármaco ionizado (ion trapping) no ambiente ácido do estômago.</p> <p><strong>E)</strong> Histerese refere-se ao tempo entre as mudanças na concentração plasmática deum fármaco e a sua eliminação.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012531,
+     "letra": "A",
+     "descricao": "F V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012532,
+     "letra": "B",
+     "descricao": "F F F V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20012533,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012534,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001254,
+   "descricao": "<p>Quanto aos benzodiazep&iacute;nicos:</p> <p><strong>A) </strong>O diazepam cont&eacute;m em sua formula&ccedil;&atilde;o propilenoglicol, um irritante de tecidosque causa dor ou desconforto quando de sua administra&ccedil;&atilde;o e uma poss&iacute;vel toxicidade renal nas infus&otilde;es prolongadas em paciente sob terapia intensiva.</p> <p><strong>B) </strong>Os benzodiazep&iacute;nicos reduzem a taxa metab&oacute;lica cerebral ou o consumo basal de oxig&ecirc;nio cerebral e aumentam o fluxo sangu&iacute;neo cerebral de maneira dose-dependente.</p> <p><strong>C) </strong>A estimula&ccedil;&atilde;o adren&eacute;rgica em resposta ao estresse da intubação traqueal (e da cirurgia) não é bloqueada pelos benzodiazep&iacute;nicos.</p> <p><strong>D) </strong>O anel imidazólico confere ao midazolam uma estrutura química única dentre os benzodiazep&iacute;nicos, contribuindo com a alcalinidade da sua solução e sua estabilidade em solução aquosa.</p> <p><strong>E) </strong>O antagonismo do flumazenil somente é efetivo contra substâncias que atuam no comando do receptor benzodiazepínico no SNC, tornando o f&aacute;rmaco inoperante quando estão presentes efeitos farmacológicos de outros depressores como barbitúricos, etomídato, propofol, cetamina e outros.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012541,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20012542,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012543,
+     "letra": "C",
+     "descricao": "V F V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20012544,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001255,
+   "descricao": "<p>Sobre os anestésicos inalatórios, responda:</p><p><b>A) </b>O&nbsp;coeficiente de partição sangue:gás do sevoflurano é de 0,65, enquanto que do isoflurano é de 2,5.</p><p><b>B) </b>O&nbsp;aumento do débito cardíaco dificulta a captação e retarda o equilíbrio entre a fração alveolar e a fração inspirada.</p><p><b>C) </b>Com o objetivo de diminuir o tempo para atingir a fração inspirada desejada, uma das estratégias seria diminuir o fluxo de gases frescos.</p><p><b>D) </b>A&nbsp;concentração de uma mistura de gases em uma solução depende da pressão parcial do gás em equilíbrio e da solubilidade do gás na solução.</p><p><b>E) </b>Estão entre os fatores que diminuem a Concentração Alveolar Mínima dos anestésicos inalatórios: a anemia, a intoxicação aguda pelo álcool e pacientes idosos.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20012551,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20012552,
+     "letra": "B",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20012553,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20012554,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

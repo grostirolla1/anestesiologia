@@ -1,0 +1,408 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-1-2019",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 1ª quadrimestral 2019",
+  "ano": "2019",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003391,
+   "descricao": "<p>Na anestesia em pacientes portadores de distúrbios do sistema endócrino:</p><p><b>A) </b>A hemoglobina glicada é um dos critérios diagnósticos do diabetes mellitus conforme a Associação Americana de Diabetes.</p><p><b>B) </b>A suspensão pré-procedimento da metformina em pacientes que farão uso de contraste radiológico deve ser considerada.</p><p><b>C) </b>A tempestade tireotóxica é caracterizada por hipotermia, bradicardia e alterações na consciência.</p><p><b>D) </b>O controle do diabetes e da hipertensão está incluído nas considerações pré-operatórias de pacientes com síndrome de Cushing.</p><p><b>E) </b>No paciente diabético, o risco de Infarto Agudo do Miocárdio perioperatório é duas vezes maior.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033911,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20033912,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033913,
+     "letra": "C",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20033914,
+     "letra": "D",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003392,
+   "descricao": "<p>Na abordagem do paciente politraumatizado no período perioperatório: </p><p>a) O esvaziamento gástrico rotineiro com sonda é recomendado antes da indução anestésica.&nbsp;</p><p>b) O fator de proteção mais importante da ressuscitação volêmica para a célula é a manutenção da bomba trocadora sódio / hidrogênio na sua membrana.&nbsp;</p><p>c) A pressão arterial média deve ser mantida entre 65 e 70 mmHg para garantir a perfusão tissular.&nbsp;</p><p>d) A ressuscitação volêmica lenta e contínua reduz as citocinas pró-inflamatórias, a lesão microcelular e a hipoalbuminemia.&nbsp;</p><p>e) A administração de solução hipertônica de cloreto de sódio pode ser a terapia inicial para a hipotensão no paciente com trauma crânio-encefálico.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033921,
+     "letra": "A",
+     "descricao": "F V F V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20033922,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033923,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033924,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003393,
+   "descricao": "<p>Em pacientes queimados: </p><p>a) Submetidos a período prolongado de imobilização, a quantidade de receptores nicotínicos musculares encontra-se diminuída.&nbsp;</p><p>b) A diminuição do coeficiente de reflexão das proteínas na microcirculação aumenta a eficácia da reposição hídrica com coloides.&nbsp;</p><p>c) O maior perda de volume hídrico ocorre nas primeiras 24 horas do evento.&nbsp;</p><p>d) A mobilização do conteúdo intravascular para o extravascular pode levar a um quadro de choque hipovolêmico.&nbsp;</p><p>e) As queimaduras de terceiro grau são indolores.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033931,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20033932,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20033933,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033934,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003394,
+   "descricao": "<p>Na anestesia em cirurgias bucomaxilofaciais: </p><p>a) O trauma dentoalveolar envolve o dente (coroa e raiz) e seus tecidos de sustentação de forma isolada ou combinada.&nbsp;</p><p>b) A tração dos músculos inseridos no osso mandibular é o fator de maior influência no grau de instabilidade e deslocamento dos fragmentos fraturados.&nbsp;</p><p>c) Fraturas parassinfisárias bilaterais permitem um deslizamento do fragmento ósseo causado pela tração dos músculos depressores-retratores (gênio-hióideo e digástrico), porém não comprometem anatômica e funcionalmente a orofaringe.&nbsp;</p><p>d) Fraturas do tipo Le Fort II são de forma piramidal em descenso e envolvem a estrutura nasal e o assoalho orbitário com extensão até à apófise pterigóidea.&nbsp;</p><p>e) Fraturas do tipo Le Fort I não envolvem funcionalmente o palato.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033941,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20033942,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033943,
+     "letra": "C",
+     "descricao": "V V FV F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20033944,
+     "letra": "D",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003395,
+   "descricao": "<p>A respeito do manuseio anest&eacute;sico durante a cirurgia de ressec&ccedil;&atilde;o pulmonar:</p> <p><strong>A) </strong>A aplica&ccedil;&atilde;o de 5cm de H20 de PEEP no pulm&atilde;o n&atilde;o-dependente melhora a troca gasosa.</p> <p><strong>B) </strong>Indica-se a realiza&ccedil;&atilde;o de reposi&ccedil;&atilde;o de volume para compensar perdas para o terceiro espa&ccedil;o.</p> <p><strong>C) </strong>Os anest&eacute;sicos vol&aacute;teis modernos (isoflurado, sevoflurano e desflurano) devem ser utilizados at&eacute; 1 CAM.</p> <p><strong>D) </strong>O volume corrente deve ser ajustado a fim de se obter uma press&atilde;o de pico menor que 35cmH20.</p> <p><strong>E) </strong>Em pneumectomias a administra&ccedil;&atilde;o excessiva de fluidos (&gt; 3 L em 24 horas) consiste em um fator independente de inj&uacute;ria pulmonar no p&oacute;s-operat&oacute;rio.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033951,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20033952,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033953,
+     "letra": "C",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20033954,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003396,
+   "descricao": "<p>Em relação à circulação pulmonar: </p><p><b>A) </b>Derivados de anfetamina podem causar aumento da pressão arterial do sistema.</p><p><b>B) </b>Valores acima de 30 mmHg de pressão arterial pulmonar sistólica indicam hipertensão do sistema.</p><p><b>C) </b>A alcalose respiratória causa vasodilatação do sistema.</p><p><b>D) </b>A hipoxemia gera aumento da resistência vascular do sistema.</p><p><b>E) </b>Hipertrofia da camada média e necrose fibrinoide na vasculatura arterial são eventos secundários à hipertensão sustentada do sistema.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033961,
+     "letra": "A",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20033962,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033963,
+     "letra": "C",
+     "descricao": "V V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033964,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003397,
+   "descricao": "<p>Na fisiologia e farmacologia do Sistema Endócrino: </p><p>a) Órgãos alvos expressam receptores específicos e seletivos para um determinado hormônio.&nbsp;</p><p>b) A vasopressina aumenta a resistência vascular coronariana.&nbsp;</p><p>c) Hormônios contrarreguladores da insulina como hormônio do crescimento, cortisol e epinefrina encontram-se elevados já na indução anestésica.&nbsp;</p><p>d) A dexmedetomidina reduz a liberação de hormônios do estresse cirúrgico bem como o aumento das interleucinas.&nbsp;</p><p>e) As catecolaminas são sintetizadas na zona reticular do córtex adrenal.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033971,
+     "letra": "A",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20033972,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033973,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033974,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003398,
+   "descricao": "<p>Mulher de 27 anos, 60kg e 1,67m, sofre acidente automobilístico e desenvolve quadro hemorrágico. Sobre o manuseio desta paciente: </p><p>a) Soluções coloidais devem ser infundidas em grande quantidade para garantir a manutenção da pressão arterial enquanto o quadro hemorrágico não é controlado.&nbsp;</p><p>b) Soluções cristaloides levam à disfunção endotelial por destruição do glicocalix e devem ser empregadas de forma parcimoniosa durante o quadro hemorrágico.&nbsp;</p><p>c) O emprego de plasma fresco tem potencial para reconstituir a syndecan-1, sendo uma opção no manejo do quadro hemorrágico após a correção cirúrgica do foco do sangramento.&nbsp;</p><p>d) A utilização de baixo volume de solução cristaloide em dose suficiente para manter a normovolemia tem objetivo de reduzir a mortalidade, mesmo que haja hipotensão.&nbsp;</p><p>e) Os valores da hemoglobina são referência para indicar a necessidade de transfusão sanguínea.&nbsp;</p><p><br></p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033981,
+     "letra": "A",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20033982,
+     "letra": "B",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20033983,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033984,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003399,
+   "descricao": "<p>Homem de 57 anos, 65kg e 1,65m, no oitavo dia p&oacute;s-operat&oacute;rio de pneumectomia radical &agrave; direita para tratamento de adenocarcinoma br&ocirc;nquico cursa com enfisema subcut&acirc;neo &agrave; direita, dispneia, expectora&ccedil;&atilde;o abundante e satura&ccedil;&atilde;o arterial de 80% com m&aacute;scara facial de Venturi 50%. Dois dias antes, o dreno de t&oacute;rax havia sido removido e a radiografia de t&oacute;rax atual demonstra n&iacute;vel hidro-a&eacute;reo acometendo 50% do hemit&oacute;rax direito em posi&ccedil;&atilde;o ortost&aacute;tica. Ser&aacute; submetido a toracotomia exploradora. Nessa situa&ccedil;&atilde;o:</p> <p><strong>A) </strong>O emprego de PEEP ir&aacute; melhorar a rela&ccedil;&atilde;o ventila&ccedil;&atilde;o/perfus&atilde;o com incremento da satura&ccedil;&atilde;o arterial.</p> <p><strong>B) </strong>A drenagem de t&oacute;rax com dreno em selo de &aacute;gua deve ser medida inicial de resgate.</p> <p><strong>C) </strong>A intuba&ccedil;&atilde;o traqueal deve ser executada preferencialmente com tubo de duplo l&uacute;mem ou com tubo simples e bloqueador br&ocirc;nquico.</p> <p><strong>D) </strong>A indu&ccedil;&atilde;o e a intuba&ccedil;&atilde;o devem ser executadas sob ventila&ccedil;&atilde;o espont&acirc;nea.</p> <p><strong>E) </strong>Ap&oacute;s a drenagem do t&oacute;rax, tanto a ventila&ccedil;&atilde;o controlada quanto a ventila&ccedil;&atilde;o oscilat&oacute;ria de alta frequ&ecirc;ncia produzem resultados semelhantes.</p>",
+   "ano": "2019",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20033991,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20033992,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20033993,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20033994,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

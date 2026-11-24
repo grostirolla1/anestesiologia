@@ -1,0 +1,540 @@
+{
+ "prova": {
+  "slug": "sba-me1-quadrimestral-3-2022",
+  "banca": "SBA",
+  "concurso": "ME1 quadrimestral",
+  "titulo": "ME1, 3ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2001315,
+   "descricao": "<p>Gestante de 32 anos, 34a semana de gestação, vítima de acidente de trânsito com&nbsp;contusão e fratura do úmero esquerdo, alérgica a dipirona e anti-inflamatórios não&nbsp;hormonais. Será submetida a bloqueio de membro superior para tratamento cirúrgico da&nbsp;fratura e para analgesia pós-operatória. Com relação ao anestésico local a ser utilizado:</p><p>A) A adição de epinefrina à bupivacaína, na concentração de 1:200.000, ou&nbsp;2 µg/mL, prolonga clinicamente a sua duração de ação.</p><p>B) O auxílio da ultrassonografia para a realização do bloqueio nervoso&nbsp;periférico permite a utilização de menor volume de anestésico local.</p><p>C) Bupivacaína e levobupivacaína (0,25-0,50%) e ropivacaína (0,2-0,5%),&nbsp;apresentam períodos de latência equivalentes (20-30 minutos) e duração&nbsp;de ação entre 360-720 minutos.</p><p>D) Devido à metabolização para ácido p-aminobenzoico, os anestésicos&nbsp;locais do tipo aminoamidas devem ser evitados em pacientes alérgicos a&nbsp;anti-inflamatórios não hormonais.</p><p>E) Devido ao maior volume de distribuição, a dose de anestésico local na&nbsp;gestante deve ser aumentada para que se obtenha o mesmo efeito em&nbsp;comparação à paciente não gestante.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013151,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013152,
+     "letra": "B",
+     "descricao": "F V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013153,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013154,
+     "letra": "D",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001316,
+   "descricao": "<p>Em relação às condutas em parada cardiorrespiratória (PCR) e reanimação cardiovascular (RCP):</p> <p><strong>A)</strong> Em criança 2 anos, 14Kg, submetida a hernioplastia inguinal direita. Ao apresentar frequência cardíaca = 58 bpm e diminuição da pressão arterial após tração do cordão inguinal, pode ser utilizada adrenalina como primeira opção medicamentosa</p> <p><strong>B)</strong> Gestante, 22 anos, 71kg, 1,57m, em cesárea por descolamento prematuro da placenta. Evoluiu com PCR em assistolia, sendo feitas manobras adequadas de RCP. Após extração fetal e ainda em PCR, deve ser mantido o deslocamento uterino para esquerda</p> <p><strong>C)</strong> Homem, 54 anos, 65kg, 1,79m, em PCR por hipóxia após tentativas de intubação e oxigenação, sem sucesso. Pode ser mantida reanimação “hands only” apenas, porque as compressões torácicas são prioridades na RCP</p> <p><strong>D) </strong>Na assistência à parada cardíaca, se o desfibrilador ou monitor demorar achegar, pode se aplicar adrenalina após o segundo ciclo de RCP</p> <p><strong>E) </strong>Capnografia com ETCO2 &gt;10 mmHg é um dos principais parâmetros de qualidade de RCP</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013161,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013162,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013163,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013164,
+     "letra": "D",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001317,
+   "descricao": "<p>Homem 48 anos, 1,80 m e 90 kg, em programação de herniorrafia inguinal direita e herniorrafia epigástrica. É portador de hipertensão arterial sistêmica e dislipidemia, em uso regular de losartana, anlodipina, sinvastatina e ácido acetil-salicílico (AAS). Foi proposto ao paciente a realização de anestesia peridural associada a sedação moderada. Sobre esse caso:</p><p><b>A) </b>Não há contraindicação para o bloqueio peridural.</p><p><b>B) </b>O sobrepeso configura uma variável relacionada à maior dispersão do anestésico local no espaço peridural.</p><p><b>C) </b>A utilização de anestésico local em maior volume e menor concentração possibilita aumento da extensão do bloqueio, bem como maior potência do efeito na inervação sensitiva, motora e autonômica.</p><p><b>D) </b>Com a adição de adrenalina na concentração de 5 mcg.ml-1 ao anestésico&nbsp;local é possível prolongar o tempo de efeito em até 80%.</p><p><b>E) </b>A linha que cruza os ângulos inferiores das escápulas pode ser usada como referencial anatômico, habitualmente cruzando o processo espinhoso da quinta vértebra torácica (T5).</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013171,
+     "letra": "A",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013172,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013173,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013174,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001318,
+   "descricao": "<p>Sobre as complicações da anestesia:</p><p><b>A) </b>A ondansetrona é agonista do receptor de serotonina (5-HT3), utilizada para profilaxia de náuseas e vômitos pós-operatórios, que atua mediante bloqueio da serotonina nos aferentes vagais periféricos e centralmente na&nbsp; zona-gatilho quimiorreceptora.</p><p><b>B) </b>Dados recentes demostraram que o nível de cálcio pode ser um pré-requisito para eficácia do dantrolene no gerenciamento de crises de hipertermia maligna.</p><p><b>C) </b>O droperidol é um potente agonista dopaminérgico, efetivo na profilaxia e no tratamento de náuseas e vômitos pós-operatórios. Costuma ser administrado em doses de 0,625 a 1,25 mg IV ao final do procedimento cirúrgico. Apresenta como desvantagem maior incidência de sedação e risco de prolongamento do intervalo QT ao ECG.</p><p><b>D) </b>No tratamento da hipertermia maligna é importante monitorizar e manter o&nbsp;débito urinário acima de 1 a 2 mL/kg/h, além de administrar bicarbonato&nbsp;para alcalinizar a urina para proteger o rim da insuficiência renal induzida&nbsp;por mioglobinúria.</p><p><b>E) </b>Hipertermia maligna (HM) cursa com hipercalemia, e a maneira mais&nbsp;eficaz de diminuir o potássio sérico é a reversão da HM por doses efetivas&nbsp;de dantrolene.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013181,
+     "letra": "A",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013182,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013183,
+     "letra": "C",
+     "descricao": "F F F V V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013184,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001319,
+   "descricao": "<p>Mulher de 39 anos, 88 Kg e 1,56 m, cirurgia prévia de colecistectomia sem&nbsp;intercorrências. Submetida a tratamento cirúrgico de endometriose videolaparoscópica. A&nbsp;indução da anestesia foi feita com propofol, fentanil e rocurônio, e a manutenção com&nbsp;sevoflurano. Administrados dipirona, ibuprofeno, dexametasona e ondansetrona&nbsp;endovenosos. Ao término, encaminhada à sala de recuperação pós-anestésica (SRPA),&nbsp;onde evoluiu sem dor, porém com náuseas e vômitos após 30 minutos.</p><p>A) O índice de Aldrete e Kroulik modificado compreende avaliação dos itens:&nbsp;atividade motora, respiração, consciência, circulação e saturação de&nbsp;oxigênio (SpO2).</p><p>B) Para ter condições de alta da SRPA com segurança, esta paciente&nbsp;necessita estar com índice de Aldrete e Kroulik igual ou acima de 8 pontos.</p><p>C) A conduta para as náuseas e vômitos na SRPA deve ser multimodal,&nbsp;utilizando dexametasona e ondansetrona.</p><p>D) No índice de Aldrete e Kroulik, saturação de oxigênio mantida acima de&nbsp;90% com O2 e uma pressão arterial 10% abaixo do nível de pré-anestésico&nbsp;recebem 2 pontos cada.</p><p>E) Obesidade, sexo feminino, cirurgia video laparoscópica e uso de&nbsp;anestésicos inalatórios são fatores de risco associados à maior chance de&nbsp;náuseas e vômitos no pós-operatório.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013191,
+     "letra": "A",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013192,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013193,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013194,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001320,
+   "descricao": "<p>Em relação à succinilcolina observa-se que:</p><p><b>A) </b>A dose para intubação orotraqueal (IOT) no obeso é calculada pelo peso ideal.</p><p><b>B) </b>Os recém-nascidos e os lactentes necessitam de doses maiores para IOT.</p><p><b>C) </b>Os pacientes miastênicos, em geral, são mais resistentes e pode ocorrer bloqueio fase II.</p><p><b>D) </b>Seus efeitos diminuem na presença dos anticolinesterásicos.</p><p><b>E) </b>O término da ação se deve à ação da pseudocolinesterase que existe na junção neuromuscular.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013201,
+     "letra": "A",
+     "descricao": "V V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013202,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013203,
+     "letra": "C",
+     "descricao": "F V F V V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013204,
+     "letra": "D",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001321,
+   "descricao": "<p>Gestante no curso da 39ª semana de gestação, em trabalho de parto, é submetida à anestesia epidural contínua para analgesia de parto, com bupivacaína a 0,25%. Logo após a injeção do anestésico local, apresentou convulsão, seguida de hipotensão arterial e parada cardiorrespiratória. Com relação à toxicidade da bupivacaína:</p><p><b>A) </b>É o anestésico local mais relacionado à depressão cardiovascular profunda.</p><p><b>B) </b>Arritmia ventricular causada por bupivacaína deve ser tratada preferencialmente com bloqueadores dos canais de cálcio.</p><p><b>C) </b>Na situação de depressão cardiovascular profunda induzida por bupivacaína, deve ser iniciado bolus rápido de Intralipid® a 20%, na dose de 1,5 mL.kg-1.</p><p><b>D) </b>O uso de bupivacaína é mais seguro em gestantes em trabalho de parto, devido à maior resistência aos efeitos cardiotóxicos da bupivacaína, em relação a não gestantes.</p><p><b>E)</b> A relação entre a dose necessária para colapso cardiovascular irreversível e a dose que irá causar toxicidade no SNC é mais elevada para bupivacaína do que para lidocaína.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013211,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013212,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013213,
+     "letra": "C",
+     "descricao": "V F V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013214,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001322,
+   "descricao": "<p>Homem de 52 anos, 75 Kg e 165 cm, sofreu uma parada card&iacute;aca ap&oacute;s cimenta&ccedil;&atilde;o de pr&oacute;tese de quadril. Foram realizadas manobras de reanima&ccedil;&atilde;o de qualidade e houve retorno da circula&ccedil;&atilde;o espont&acirc;nea (RCE) ap&oacute;s 4 minutos. Sobre a s&iacute;ndrome ap&oacute;s parada cardiopulmonar (PCR), pode se observar que:</p> <p><strong>A)</strong> A s&iacute;ndrome p&oacute;s-PCR &eacute; um dos importantes elos da cadeia de sobreviv&ecirc;ncia de assist&ecirc;ncia a este evento</p> <p><strong>B) </strong>Ela ocorre devido a uma cascata bioqu&iacute;mica desencadeada pelo processo de isquemia/reperfus&atilde;o at&eacute; 48 horas ap&oacute;s a PCR</p> <p><strong>C)</strong> Metas nessa situa&ccedil;&atilde;o s&atilde;o otimizar oxigena&ccedil;&atilde;o, ventila&ccedil;&atilde;o e hemodin&acirc;mica para melhorar o progn&oacute;stico neurol&oacute;gico</p> <p><strong>D) </strong>O controle direcionado de temperatura (CDT) &eacute; ben&eacute;fico e recomendado por pelo menos 36 horas em pacientes comatosos ap&oacute;s a PCR, sendo poss&iacute;vel escolher uma temperatura-alvo entre 32 e 36 &deg;C</p> <p><strong>E)</strong> A avalia&ccedil;&atilde;o e o tratamento das causas desencadeadoras da PCR devem ser institu&iacute;dos precocemente</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013221,
+     "letra": "A",
+     "descricao": "V V F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013222,
+     "letra": "B",
+     "descricao": "V V V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013223,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013224,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001323,
+   "descricao": "<p>Sobre anestesia subaracnóidea, entende-se que:</p><p><b>A) </b>Quando em contato com anestésico local, as fibras nervosas tendem a ser anestesiadas na seguinte sequência: fibras C, B, A-δ, A-γ, A-β e A-α.</p><p><b>B) </b>Pode ocorrer bradicardia nos casos de bloqueios extensos que alcancem fibras cardioaceleradoras, ou ainda em decorrência do reflexo barorreceptor.</p><p><b>C) </b>A vasodilatação no segmento corporal abaixo do nível bloqueado exacerba a perda de calor, aumentando o risco de hipotermia perioperatória.</p><p><b>D) </b>O bloqueio só deve ser realizado doze horas após a última dose de heparina de baixo peso molecular em dose profilática.</p><p><b>E) </b>O bloqueio simpático promove redução do peristaltismo e retardo do esvaziamento gástrico.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013231,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013232,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013233,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013234,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001324,
+   "descricao": "<p>Sobre as complica&ccedil;&otilde;es da anestesia:</p> <p><strong>A)</strong> No teste de dibuca&iacute;na para avaliar atividade da pseudocolinesterese, o n&uacute;mero de dibuca&iacute;na indica a quantidade no plasma da enzima butirilcolinesterase e o resultado de 60% significa que o paciente &eacute; heterozigoto para pseudocolinesterase at&iacute;pica.</p> <p><strong>B)</strong> Bloqueio neuromuscular residual pode ser exclu&iacute;do quando o paciente tem a capacidade de tossir, levantar a cabe&ccedil;a e manter volume corrente de 6ml/kg em ventila&ccedil;&atilde;o espont&acirc;nea.</p> <p><strong>C)</strong> Os pacientes que desenvolvem hepatite por halotano apresentam hist&oacute;ria de exposi&ccedil;&atilde;o pr&eacute;via a anest&eacute;sicos vol&aacute;teis e sintomas sugestivos de reatividade imunol&oacute;gica, como febre, erup&ccedil;&atilde;o cut&acirc;nea, artralgia e eosinofilia.</p> <p><strong>D)</strong> Sexo feminino, tabagismo, uso de opioides no per e no p&oacute;s operat&oacute;rio s&atilde;o fatores de risco para n&aacute;useas e v&ocirc;mitos no p&oacute;s operat&oacute;rio, segundo a escala de Apfel modificada.</p> <p><strong>E)</strong> No tratamento da hipertermia maligna deve-se controlar a febre pela administra&ccedil;&atilde;o de l&iacute;quidos gelados, resfriamento da superf&iacute;cie do corpo, resfriamento das cavidades do corpo com l&iacute;quidos gelados e, se necess&aacute;rio, pelo uso de um trocador de calor com bomba oxigenadora. O resfriamento pode precisar ser interrompido para evitar hipotermia inadvertida.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013241,
+     "letra": "A",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20013242,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013243,
+     "letra": "C",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013244,
+     "letra": "D",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001325,
+   "descricao": "<p>Quanto ao índice de Aldrete-Kroulik modificado na sala de recuperação pós-anestésica (SRPA), temos que:</p><p>a) Movimenta os 4 membros, respiração limitada, acorda ao ser chamado, pálido e com pressão arterial variando 10% do nível pré-operatório - 7 pontos: sem condições de alta da SRPA.</p><p>b) Movimenta os 4 membros, respiração profunda, acordado, corado e com pressão arterial variando 15% do nível pré-operatório - 10 pontos: em condições de alta da SRPA.</p><p>c) Movimenta os 4 membros, respiração profunda, acorda ao ser chamado, saturação O2 acima de 90% com O2 e pressão arterial variando 10% do nível pré-operatório - 8 pontos: em condições de alta da SRPA.</p><p>d) Movimenta os 4 membros, dispneia, não responde ao chamado, saturação de O2 abaixo de 90% com O2 e pressão arterial variando entre 20% a 49% do nível pré-operatório - 7 pontos: sem condições de alta da SRPA.</p><p>e) Movimenta os 4 membros, respiração profunda, completamente acordado, saturação O2 abaixo de 90% com O2 e com pressão arterial variando entre 20% a 49% do nível pré-operatório - 7 pontos: sem condições de alta da SRPA.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013251,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013252,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20013253,
+     "letra": "C",
+     "descricao": "F F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20013254,
+     "letra": "D",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2001326,
+   "descricao": "<p>São características do bloqueio neuromuscular despolarizante na presença de succinilcolina:</p><p><b>A) </b>Fadiga na presença de altas frequências de estimulação tetânica.</p><p><b>B) </b>Presença de potenciação pós-tetânica.</p><p><b>C) </b>Tem suas ações prolongadas na presença do ecotiofato colírio.</p><p><b>D) </b>Abre os canais iônicos gerando um potencial de ação no músculo e uma contração muscular.</p><p><b>E) </b>Causa hipercalemia na presença de distrofia muscular.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20013261,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20013262,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20013263,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20013264,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

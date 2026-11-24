@@ -1,0 +1,31 @@
+name: Questão nova ou outra contribuição
+description: Proponha uma questão original, um tema de estudo ou uma melhoria no site
+title: "Contribuição: "
+labels: ["contribuição"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Questões novas precisam ser de sua autoria: não copie nem adapte questões de cursos, apostilas ou bancos pagos.
+        Ao enviar, você aceita publicá-las sob a licença do repositório.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de contribuição
+      options:
+        - Questão original
+        - Sugestão para o site
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: conteudo
+    attributes:
+      label: Conteúdo
+      description: Para questão nova, escreva o enunciado, as alternativas, o gabarito e a explicação com referências.
+    validations:
+      required: true
+  - type: input
+    id: autoria
+    attributes:
+      label: Como quer ser creditado (opcional)

@@ -1,0 +1,2168 @@
+{
+ "prova": {
+  "slug": "taso-2022",
+  "banca": null,
+  "concurso": "TASO",
+  "titulo": "TASO 2022",
+  "ano": "2022",
+  "observacao": "Questões de provas de terceiros. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006379,
+   "descricao": "<p>Homem de 52 anos, 72 kg e 1,70 m &eacute; submetido &agrave; lobectomia inferior do pulm&atilde;o direito. Ap&oacute;s a toracotomia e in&iacute;cio da ventila&ccedil;&atilde;o monopulmonar, apresenta PA de 80x40 mmHg, FC de 42 bpm e SpO2 de 86%. Atropina venosa 1 mg &eacute; administrada com eleva&ccedil;&atilde;o da PA para 110x55 mmHg, da FC para 78 bpm e da SpO2 para 94%. O aumento da PaO2 ocorreu devido a (ao):</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063791,
+     "letra": "A",
+     "descricao": "Aumento da saturação venosa de oxigênio",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063792,
+     "letra": "B",
+     "descricao": "Redução do shunt no pulmão não dependente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063793,
+     "letra": "C",
+     "descricao": "Aumento da pressão na circulação pulmonar bilateral",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063794,
+     "letra": "D",
+     "descricao": "Dilatação passiva do leito vascular do pulmão dependente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006380,
+   "descricao": "<p>Se A e B s&atilde;o dois f&aacute;rmacos diferentes e produzem o mesmo efeito, o gr&aacute;fico dose-resposta abaixo mostra que:</p> <p><figure><svg viewBox=\"0 0 580 400\" fill=\"none\"><title>Curvas dose-resposta da droga em escala logarítmica: curva A atinge efeito máximo de cerca de 100 e curva B atinge cerca de 60, com doses de meio efeito semelhantes</title><defs><marker id=\"ax\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 Z\" fill=\"currentColor\"/></marker></defs><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"25\" stroke=\"currentColor\" stroke-width=\"2\" marker-end=\"url(#ax)\"/><line x1=\"90\" y1=\"330\" x2=\"550\" y2=\"330\" stroke=\"currentColor\" stroke-width=\"2\" marker-end=\"url(#ax)\"/><line x1=\"84\" y1=\"330\" x2=\"90\" y2=\"330\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"330\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">0</text><line x1=\"84\" y1=\"276\" x2=\"90\" y2=\"276\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"276\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">20</text><line x1=\"84\" y1=\"222\" x2=\"90\" y2=\"222\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"222\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">40</text><line x1=\"84\" y1=\"168\" x2=\"90\" y2=\"168\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"168\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">60</text><line x1=\"84\" y1=\"114\" x2=\"90\" y2=\"114\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"114\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">80</text><line x1=\"84\" y1=\"60\" x2=\"90\" y2=\"60\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"80\" y=\"60\" font-size=\"14\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"currentColor\">100</text><line x1=\"100\" y1=\"330\" x2=\"100\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"100\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">0,1</text><line x1=\"182\" y1=\"330\" x2=\"182\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"182\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">1</text><line x1=\"264\" y1=\"330\" x2=\"264\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"264\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">10</text><line x1=\"346\" y1=\"330\" x2=\"346\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"346\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">100</text><line x1=\"428\" y1=\"330\" x2=\"428\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"428\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">1000</text><line x1=\"510\" y1=\"330\" x2=\"510\" y2=\"336\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"510\" y=\"354\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\">10000</text><text x=\"310.0\" y=\"385\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\">Dose do Fármaco</text><text transform=\"translate(30 190.0) rotate(-90)\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\">Intensidade do Efeito</text><path d=\"M100,329.1 L102,329.1 L104.1,329 L106.1,329 L108.2,328.9 L110.2,328.8 L112.3,328.7 L114.4,328.6 L116.4,328.6 L118.5,328.5 L120.5,328.3 L122.6,328.2 L124.6,328.1 L126.6,328 L128.7,327.9 L130.8,327.7 L132.8,327.5 L134.8,327.4 L136.9,327.2 L138.9,327 L141,326.8 L143.1,326.6 L145.1,326.4 L147.2,326.1 L149.2,325.9 L151.2,325.6 L153.3,325.3 L155.3,325 L157.4,324.6 L159.4,324.3 L161.5,323.9 L163.6,323.5 L165.6,323.1 L167.6,322.6 L169.7,322.1 L171.8,321.6 L173.8,321 L175.8,320.4 L177.9,319.8 L179.9,319.1 L182,318.4 L184.1,317.6 L186.1,316.8 L188.2,316 L190.2,315.1 L192.2,314.1 L194.3,313.1 L196.4,312 L198.4,310.9 L200.4,309.7 L202.5,308.4 L204.6,307 L206.6,305.6 L208.7,304.1 L210.7,302.5 L212.8,300.8 L214.8,299 L216.9,297.2 L218.9,295.2 L221,293.2 L223,291 L225.1,288.7 L227.1,286.4 L229.2,283.9 L231.2,281.3 L233.2,278.6 L235.3,275.8 L237.3,272.8 L239.4,269.8 L241.5,266.6 L243.5,263.3 L245.5,259.9 L247.6,256.4 L249.7,252.8 L251.7,249.1 L253.8,245.3 L255.8,241.4 L257.9,237.4 L259.9,233.3 L262,229.1 L264,224.9 L266,220.6 L268.1,216.2 L270.1,211.8 L272.2,207.3 L274.2,202.9 L276.3,198.4 L278.3,193.8 L280.4,189.3 L282.4,184.8 L284.5,180.4 L286.5,175.9 L288.6,171.5 L290.6,167.1 L292.7,162.8 L294.8,158.5 L296.8,154.4 L298.9,150.3 L300.9,146.3 L302.9,142.3 L305,138.5 L307.1,134.8 L309.1,131.2 L311.1,127.7 L313.2,124.3 L315.2,121 L317.3,117.8 L319.3,114.7 L321.4,111.8 L323.5,109 L325.5,106.3 L327.5,103.6 L329.6,101.2 L331.7,98.8 L333.7,96.5 L335.8,94.3 L337.8,92.3 L339.9,90.3 L341.9,88.4 L343.9,86.6 L346,85 L348,83.4 L350.1,81.8 L352.1,80.4 L354.2,79 L356.2,77.7 L358.3,76.5 L360.4,75.4 L362.4,74.3 L364.4,73.3 L366.5,72.3 L368.6,71.4 L370.6,70.5 L372.7,69.7 L374.7,69 L376.8,68.2 L378.8,67.6 L380.8,66.9 L382.9,66.3 L385,65.8 L387,65.2 L389.1,64.8 L391.1,64.3 L393.2,63.9 L395.2,63.4 L397.2,63.1 L399.3,62.7 L401.4,62.4 L403.4,62 L405.4,61.7 L407.5,61.5 L409.6,61.2 L411.6,61 L413.6,60.7 L415.7,60.5 L417.8,60.3 L419.8,60.1 L421.8,59.9 L423.9,59.8 L425.9,59.6 L428,59.5 L430.1,59.3 L432.1,59.2 L434.2,59.1 L436.2,59 L438.2,58.9 L440.3,58.8 L442.3,58.7 L444.4,58.6 L446.4,58.5 L448.5,58.4 L450.6,58.3 L452.6,58.3 L454.6,58.2 L456.7,58.2 L458.8,58.1 L460.8,58.1 L462.9,58 L464.9,58 L466.9,57.9 L469,57.9 L471.1,57.8 L473.1,57.8 L475.2,57.8 L477.2,57.7 L479.2,57.7 L481.3,57.7 L483.3,57.7 L485.4,57.6 L487.4,57.6 L489.5,57.6 L491.6,57.6 L493.6,57.6 L495.7,57.5 L497.7,57.5 L499.8,57.5 L501.8,57.5 L503.9,57.5 L505.9,57.5 L507.9,57.5 L510,57.5\" stroke=\"#1b6670\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M100,329.4 L102,329.3 L104.1,329.3 L106.1,329.2 L108.2,329.2 L110.2,329.1 L112.3,329.1 L114.4,329 L116.4,329 L118.5,328.9 L120.5,328.8 L122.6,328.7 L124.6,328.6 L126.6,328.5 L128.7,328.4 L130.8,328.3 L132.8,328.2 L134.8,328.1 L136.9,328 L138.9,327.8 L141,327.7 L143.1,327.5 L145.1,327.4 L147.2,327.2 L149.2,327 L151.2,326.8 L153.3,326.6 L155.3,326.4 L157.4,326.1 L159.4,325.9 L161.5,325.6 L163.6,325.3 L165.6,325 L167.6,324.7 L169.7,324.3 L171.8,323.9 L173.8,323.5 L175.8,323.1 L177.9,322.7 L179.9,322.2 L182,321.7 L184.1,321.1 L186.1,320.6 L188.2,320 L190.2,319.3 L192.2,318.6 L194.3,317.9 L196.4,317.1 L198.4,316.3 L200.4,315.5 L202.5,314.6 L204.6,313.6 L206.6,312.6 L208.7,311.6 L210.7,310.4 L212.8,309.3 L214.8,308 L216.9,306.7 L218.9,305.4 L221,304 L223,302.5 L225.1,300.9 L227.1,299.3 L229.2,297.6 L231.2,295.8 L233.2,294 L235.3,292.1 L237.3,290.1 L239.4,288.1 L241.5,286 L243.5,283.8 L245.5,281.5 L247.6,279.2 L249.7,276.8 L251.7,274.4 L253.8,271.9 L255.8,269.4 L257.9,266.8 L259.9,264.2 L262,261.5 L264,258.8 L266,256.1 L268.1,253.4 L270.1,250.6 L272.2,247.8 L274.2,245.1 L276.3,242.3 L278.3,239.5 L280.4,236.8 L282.4,234.1 L284.5,231.4 L286.5,228.7 L288.6,226.1 L290.6,223.5 L292.7,221 L294.8,218.5 L296.8,216 L298.9,213.7 L300.9,211.3 L302.9,209.1 L305,206.9 L307.1,204.8 L309.1,202.7 L311.1,200.7 L313.2,198.8 L315.2,197 L317.3,195.2 L319.3,193.5 L321.4,191.9 L323.5,190.3 L325.5,188.8 L327.5,187.4 L329.6,186 L331.7,184.7 L333.7,183.5 L335.8,182.3 L337.8,181.2 L339.9,180.1 L341.9,179.1 L343.9,178.1 L346,177.2 L348,176.4 L350.1,175.6 L352.1,174.8 L354.2,174.1 L356.2,173.4 L358.3,172.7 L360.4,172.1 L362.4,171.5 L364.4,171 L366.5,170.5 L368.6,170 L370.6,169.5 L372.7,169.1 L374.7,168.7 L376.8,168.3 L378.8,168 L380.8,167.6 L382.9,167.3 L385,167 L387,166.8 L389.1,166.5 L391.1,166.3 L393.2,166 L395.2,165.8 L397.2,165.6 L399.3,165.4 L401.4,165.2 L403.4,165.1 L405.4,164.9 L407.5,164.8 L409.6,164.6 L411.6,164.5 L413.6,164.4 L415.7,164.3 L417.8,164.2 L419.8,164.1 L421.8,164 L423.9,163.9 L425.9,163.8 L428,163.7 L430.1,163.7 L432.1,163.6 L434.2,163.5 L436.2,163.5 L438.2,163.4 L440.3,163.4 L442.3,163.3 L444.4,163.3 L446.4,163.2 L448.5,163.2 L450.6,163.1 L452.6,163.1 L454.6,163.1 L456.7,163 L458.8,163 L460.8,163 L462.9,163 L464.9,162.9 L466.9,162.9 L469,162.9 L471.1,162.9 L473.1,162.9 L475.2,162.8 L477.2,162.8 L479.2,162.8 L481.3,162.8 L483.3,162.8 L485.4,162.8 L487.4,162.8 L489.5,162.8 L491.6,162.7 L493.6,162.7 L495.7,162.7 L497.7,162.7 L499.8,162.7 L501.8,162.7 L503.9,162.7 L505.9,162.7 L507.9,162.7 L510,162.7\" stroke=\"#b23c2b\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"9 5\"/><text x=\"500\" y=\"45.3\" font-size=\"22\" font-weight=\"bold\" fill=\"#1b6670\">A</text><text x=\"500\" y=\"150.6\" font-size=\"22\" font-weight=\"bold\" fill=\"#b23c2b\">B</text></svg></figure></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063801,
+     "letra": "A",
+     "descricao": "A é mais eficaz que B",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063802,
+     "letra": "B",
+     "descricao": "A é menos potente que B",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063803,
+     "letra": "C",
+     "descricao": "A tem menor índice terapêutico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063804,
+     "letra": "D",
+     "descricao": "A tem DE95 duas vezes maior que B",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006381,
+   "descricao": "<p>Paciente com pancreatite necro-hemorrágica e síndrome do desconforto respiratório do adulto será submetido a laparotomia exploradora. Está em ventilação mecânica controlada a pressão (PCV) com os seguintes parâmetros: pressão inspiratória de 36 cmH,0, PEEP de 12 cmH,0, FR de 15 irpm, tempo inspiratório de 1,4 segundos e tempo de rampa de zero. O aumento do tempo inspiratório para 2 segundos implicará em:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063811,
+     "letra": "A",
+     "descricao": "Aumento da PaCO2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063812,
+     "letra": "B",
+     "descricao": "Aumento da pressão de platô",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063813,
+     "letra": "C",
+     "descricao": "Diminuição do retorno venoso",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063814,
+     "letra": "D",
+     "descricao": "Diminuição da constante de tempo alveolar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006382,
+   "descricao": "<p>Uma das estratégias no controle da pressão intracerebral é a modulação da cinética do líquor, assim o agente inalatório que melhor facilita sua absorção é:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063821,
+     "letra": "A",
+     "descricao": "Halotano",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063822,
+     "letra": "B",
+     "descricao": "Isoflurano",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063823,
+     "letra": "C",
+     "descricao": "Desflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063824,
+     "letra": "D",
+     "descricao": "Sevoflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006383,
+   "descricao": "<p>Paciente feminina, 58 anos, 1,65 cm, 84 kg, submeteu-se a cirurgia pélvica para extirpação cirúrgica de lesão tumoral aderida ao reto. Houve dificuldade de acesso cirúrgico tendo ela sido mobilizada na mesa cirúrgica diversas vezes. No pós-operatório houve suspeita de injúria do nervo femoral baseada na seguinte evidência clínica:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063831,
+     "letra": "A",
+     "descricao": "Incapacidade de adução da perna",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063832,
+     "letra": "B",
+     "descricao": "Incapacidade de flexionar o quadril",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063833,
+     "letra": "C",
+     "descricao": "Perda da sensibilidade na parte inferior da coxa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063834,
+     "letra": "D",
+     "descricao": "Perda da sensibilidade na região lateral da coxa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006384,
+   "descricao": "<p>Durante um procedimento de intubação acordado, qual das seguintes estruturas deve ser efetivamente anestesiada pela injeção de lidocaína dentro do pilar tonsilar anterior bilateralmente?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063841,
+     "letra": "A",
+     "descricao": "Hipofaringe",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063842,
+     "letra": "B",
+     "descricao": "Cordas vocais",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063843,
+     "letra": "C",
+     "descricao": "2/3 anteriores da língua",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063844,
+     "letra": "D",
+     "descricao": "Orofaringe e palato mole",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006385,
+   "descricao": "<p>Assinale a alternativa que promove simultaneamente diminuição da pós-carga e aumento da pressão de perfusão diastólica:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063851,
+     "letra": "A",
+     "descricao": "ECMO",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063852,
+     "letra": "B",
+     "descricao": "Dopamina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063853,
+     "letra": "C",
+     "descricao": "Nitroglicerina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063854,
+     "letra": "D",
+     "descricao": "Balão intra-aórtico",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006386,
+   "descricao": "<p>Mulher de 34 anos, diagnosticada com lúpus eritematoso sistêmico se apresenta com dispnéia e dor torácica. Ao exame: Temp: 37,6ºC, FC: 128bpm, PA: 85x40mmbHg, FR: 36irpm, SpO2: 95% sob cateter nasal de O2 a 3L/min.&nbsp;Ecocardiograma sob janela subcostal a seguir.</p><p><img src=\"data/imagens/2fb2ad555044fb16.jpg\" alt=\"\"><br></p><p>Qual dos seguintes achados é o mais provável de ser também encontrado ao exame físico?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063861,
+     "letra": "A",
+     "descricao": "Sopro cardíaco sisto-diastólico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063862,
+     "letra": "B",
+     "descricao": "Rebordo costal hepático palpável",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063863,
+     "letra": "C",
+     "descricao": "Pulso paradoxal maior que 12mmHg",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063864,
+     "letra": "D",
+     "descricao": "Diminuição do murmúrio vesicular pulmonar à direita",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006387,
+   "descricao": "<p>As imagens abaixo se referem ao mesmo bloqueio. Quais são os nervos bloqueados por essa técnica?</p><p><img src=\"data/imagens/6bf2d5fa0fefeb9e.jpg\" alt=\"\"></p><p><img src=\"data/imagens/3565ebe3b8d05c43.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063871,
+     "letra": "A",
+     "descricao": "Pudendo, safeno e obturador",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063872,
+     "letra": "B",
+     "descricao": "Obturador, obturador acessório e femoral",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063873,
+     "letra": "C",
+     "descricao": "Obturador, femoral e cutâneo lateral da coxa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063874,
+     "letra": "D",
+     "descricao": "Ramos anteriores dos nervos espinhais de T10-L1",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006388,
+   "descricao": "<p>No paciente que apresenta broncoespasmo na sala de recuperação pós-anestésica, a conduta terapêutica inicial deve ser:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063881,
+     "letra": "A",
+     "descricao": "Aminofilina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063882,
+     "letra": "B",
+     "descricao": "Terbutalina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063883,
+     "letra": "C",
+     "descricao": "Cromoglicato",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063884,
+     "letra": "D",
+     "descricao": "Hidrocortisona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006389,
+   "descricao": "<p>A complica&ccedil;&atilde;o mais grave associada &agrave; mediastinoscopia &eacute;:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063891,
+     "letra": "A",
+     "descricao": "Sangramento",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063892,
+     "letra": "B",
+     "descricao": "Pneumotórax",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063893,
+     "letra": "C",
+     "descricao": "Enfisema mediastinal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063894,
+     "letra": "D",
+     "descricao": "Perfuração do esófago",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006390,
+   "descricao": "<p>Qual hormônio está associado ao aumento do tempo de esvaziamento gástrico durante o terceiro trimestre de gestação?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063901,
+     "letra": "A",
+     "descricao": "Gastrina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063902,
+     "letra": "B",
+     "descricao": "Estrogênio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063903,
+     "letra": "C",
+     "descricao": "Progesterona",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063904,
+     "letra": "D",
+     "descricao": "Lactogênio Placentário Humano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006391,
+   "descricao": "<p>A figura abaixo representa volumes e capacidades pulmonares ao longo da idade:</p><p><img src=\"data/imagens/4ad77910c0465141.jpg\" alt=\"\"></p><p>As linhas 1 (laranja) e 2 (azul) representam, respectivamente:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063911,
+     "letra": "A",
+     "descricao": "Volume de oclusão e volume corrente",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063912,
+     "letra": "B",
+     "descricao": "Volume de reserva expiratório e volume corrente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063913,
+     "letra": "C",
+     "descricao": "Capacidade residual funcional e capacidade inspiratória",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063914,
+     "letra": "D",
+     "descricao": "Capacidade de oclusão e capacidade residual funcional",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006392,
+   "descricao": "<p>Ap&oacute;s an&aacute;lise da figura abaixo, podemos afirmar que:</p> <p><figure><svg viewBox=\"0 0 520 400\" fill=\"none\"><title>Gamblegrama: coluna de cátions (Na+, Mg++, Ca++, K+) e coluna de ânions (Cl−, lactato, A−, HCO3−, CO3 2−, SIG), com as chaves I e II</title><line x1=\"60\" y1=\"330.0\" x2=\"60\" y2=\"27.599999999999966\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"60\" y1=\"330.0\" x2=\"490\" y2=\"330.0\" stroke=\"currentColor\" stroke-width=\"2\"/><line x1=\"54\" y1=\"330\" x2=\"60\" y2=\"330\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"48\" y=\"330\" fill=\"currentColor\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"middle\">0</text><line x1=\"54\" y1=\"258\" x2=\"60\" y2=\"258\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"48\" y=\"258\" fill=\"currentColor\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"middle\">40</text><line x1=\"54\" y1=\"186\" x2=\"60\" y2=\"186\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"48\" y=\"186\" fill=\"currentColor\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"middle\">80</text><line x1=\"54\" y1=\"114\" x2=\"60\" y2=\"114\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"48\" y=\"114\" fill=\"currentColor\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"middle\">120</text><line x1=\"54\" y1=\"42\" x2=\"60\" y2=\"42\" stroke=\"currentColor\" stroke-width=\"1.5\"/><text x=\"48\" y=\"42\" fill=\"currentColor\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"middle\">160</text><rect x=\"130\" y=\"101.4\" width=\"90\" height=\"228.6\" fill=\"#a0711d\" fill-opacity=\"0.14\" stroke=\"#a0711d\" stroke-width=\"1.5\"/><text x=\"175.0\" y=\"215.7\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">Na⁺</text><rect x=\"130\" y=\"78\" width=\"90\" height=\"23.4\" fill=\"#a0711d\" fill-opacity=\"0.14\" stroke=\"#a0711d\" stroke-width=\"1.5\"/><text x=\"175.0\" y=\"89.7\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">Mg⁺⁺</text><rect x=\"130\" y=\"56.4\" width=\"90\" height=\"21.6\" fill=\"#a0711d\" fill-opacity=\"0.14\" stroke=\"#a0711d\" stroke-width=\"1.5\"/><text x=\"175.0\" y=\"67.2\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">Ca⁺⁺</text><rect x=\"130\" y=\"36.6\" width=\"90\" height=\"19.8\" fill=\"#a0711d\" fill-opacity=\"0.14\" stroke=\"#a0711d\" stroke-width=\"1.5\"/><text x=\"175.0\" y=\"46.5\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">K⁺</text><rect x=\"310\" y=\"162.6\" width=\"90\" height=\"167.4\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"246.3\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">Cl⁻</text><rect x=\"310\" y=\"139.2\" width=\"90\" height=\"23.4\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"150.9\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">Lactato</text><rect x=\"310\" y=\"114\" width=\"90\" height=\"25.2\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"126.6\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">A⁻</text><rect x=\"310\" y=\"90.6\" width=\"90\" height=\"23.4\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"102.3\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">HCO₃⁻</text><rect x=\"310\" y=\"65.4\" width=\"90\" height=\"25.2\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"78\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">CO₃²⁻</text><rect x=\"310\" y=\"36.6\" width=\"90\" height=\"28.8\" fill=\"#2a7a4b\" fill-opacity=\"0.14\" stroke=\"#2a7a4b\" stroke-width=\"1.5\"/><text x=\"355.0\" y=\"51\" fill=\"currentColor\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">SIG</text><path d=\"M302,36.6 Q292,36.6 292,46.6 L292,81.9 Q292,87.9 282,87.9 Q292,87.9 292,93.9 L292,129.2 Q292,139.2 302,139.2\" stroke=\"currentColor\" stroke-width=\"1.8\"/><text x=\"270\" y=\"87.9\" fill=\"currentColor\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">I</text><path d=\"M408,65.4 Q418,65.4 418,75.4 L418,96.3 Q418,102.3 428,102.3 Q418,102.3 418,108.3 L418,129.2 Q418,139.2 408,139.2\" stroke=\"currentColor\" stroke-width=\"1.8\"/><text x=\"444\" y=\"102.3\" fill=\"currentColor\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\" dominant-baseline=\"middle\">II</text><text x=\"60\" y=\"375\" fill=\"currentColor\" font-size=\"14\">SIG = gap de íons fortes</text></svg></figure></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063921,
+     "letra": "A",
+     "descricao": "I corresponde ao anion gap",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063922,
+     "letra": "B",
+     "descricao": "A inclui sobretudo acetatos e gluconatos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063923,
+     "letra": "C",
+     "descricao": "ll corresponde a diferença de íons fortes aparente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063924,
+     "letra": "D",
+     "descricao": "Aumento do componente I está associado à alcalose metabólica",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006393,
+   "descricao": "<p>Em rela&ccedil;&atilde;o ao ventr&iacute;culo direito (VD) &eacute; correto afirmar que:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063931,
+     "letra": "A",
+     "descricao": "Apresenta um formato em elipse",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063932,
+     "letra": "B",
+     "descricao": "Septo interventricular move-se para dentro do VD durante a sístole",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063933,
+     "letra": "C",
+     "descricao": "Movimento de contração tipo saca-rolhas começando na base e terminando no ápice",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063934,
+     "letra": "D",
+     "descricao": "A parede livre utiliza o septo interventricular para suporte estrutural durante a contração",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006394,
+   "descricao": "<p>A imagem abaixo ilustra mecanismos de ação que levam a vasoconstrição ou vasodilatação. Com base nela, identifique a associação correta:</p><p><img src=\"data/imagens/4b8ca4d7f7d90622.jpg\" alt=\"\"><br></p><p>Abreviaturas: AC: adenilil ciclase; sGC: guanilil ciclase solúvel; ROS: espécies reativas de oxigênio</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063941,
+     "letra": "A",
+     "descricao": "A: nitroglicerina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063942,
+     "letra": "B",
+     "descricao": "B: nitrendipina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063943,
+     "letra": "C",
+     "descricao": "C: Óxido nítrico",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063944,
+     "letra": "D",
+     "descricao": "D: receptor alfa2",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006395,
+   "descricao": "<p>A imagem representa a incidência de complicações da reposição de cristalóides em pacientes tratados por choque hipovolêmico:</p><p><figure><svg viewBox=\"0 0 560 340\"><title>Curva em U de complicações em função do volume intravascular, com as regiões A (volume baixo), B (faixa intermediária, menor incidência) e C (volume excessivo)</title><defs><marker id=\"seta2\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 Z\" fill=\"currentColor\"/></marker></defs><rect x=\"250\" y=\"70\" width=\"110\" height=\"220\" fill=\"#1b6670\" fill-opacity=\"0.18\"/><g stroke=\"currentColor\" stroke-width=\"1.2\" stroke-dasharray=\"3 4\" stroke-opacity=\"0.7\"><line x1=\"250\" y1=\"70\" x2=\"250\" y2=\"290\"/><line x1=\"360\" y1=\"70\" x2=\"360\" y2=\"290\"/></g><g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><line x1=\"70\" y1=\"290\" x2=\"70\" y2=\"30\" marker-end=\"url(#seta2)\"/><line x1=\"70\" y1=\"290\" x2=\"540\" y2=\"290\" marker-end=\"url(#seta2)\"/></g><path d=\"M 140 160 C 200 250, 260 260, 305 258 C 360 256, 430 230, 490 115\" fill=\"none\" stroke=\"#b23c2b\" stroke-width=\"3\" stroke-linecap=\"round\"/><g fill=\"currentColor\" font-size=\"22\" font-weight=\"bold\" text-anchor=\"middle\"><text x=\"140\" y=\"140\">A</text><text x=\"305\" y=\"110\">B</text><text x=\"500\" y=\"140\">C</text></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"535\" y=\"320\" text-anchor=\"end\">Volume Intravascular</text><text x=\"0\" y=\"0\" transform=\"translate(45,160) rotate(-90)\" text-anchor=\"middle\">Complicações</text></g></svg></figure><br></p><p>Considerando que os pacientes podem se situar nas regiões A, B e C, escolha a alternativa correta:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063951,
+     "letra": "A",
+     "descricao": "Na região B provavelmente beneficiar-se-iam de maior infusão de cristaloides",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063952,
+     "letra": "B",
+     "descricao": "Na região B provavelmente terão menor incidência de insuficiência renal do que aqueles na região A",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063953,
+     "letra": "C",
+     "descricao": "Na região C são os que têm menor chance de desenvolver síndrome compartimental abdominal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063954,
+     "letra": "D",
+     "descricao": "Na região C receberam volume além do necessário e provavelmente terão maior incidência de insuficiência renal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006396,
+   "descricao": "<p>As imagens abaixo representam uma técnica de anestesia regional que está sendo realizada em um paciente a ser submetido a cirurgia de terço distal de antebraço esquerdo.</p><p><img src=\"data/imagens/d544995eed9670bb.jpg\" alt=\"\"><br></p><p>O asterisco (*) representa o trajeto da agulha, direcionada por ultrassom.</p><p><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063961,
+     "letra": "A",
+     "descricao": "O número 2 representa a artéria subclávia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063962,
+     "letra": "B",
+     "descricao": "O número 4 representa o músculo subescapular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063963,
+     "letra": "C",
+     "descricao": "O número 1 representa o músculo coracobraquial",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063964,
+     "letra": "D",
+     "descricao": "A injeção de anestésico local em torno de 3 não garante anestesia para o antebraço",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006397,
+   "descricao": "<p>Paciente de 48 anos, 1,75 m, 72 kg, sem co-morbidades pr&eacute;vias, exceto a patologia cir&uacute;rgica, foi submetido a colectomia por videolaparoscopia. J&aacute; extubado em SO e prestes a ser transferido para a UTI, apresenta altera&ccedil;&atilde;o eletrocardiogr&aacute;fica s&uacute;bita, ilustrada no monitor abaixo:</p> <p><img src=\"data/imagens/7b1b6d739904d693.png\" alt=\"\"></p> <p>A melhor conduta &eacute;:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063971,
+     "letra": "A",
+     "descricao": "Cardioversão elétrica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063972,
+     "letra": "B",
+     "descricao": "Administrar lidocaína",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063973,
+     "letra": "C",
+     "descricao": "Administrar amiodarona",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063974,
+     "letra": "D",
+     "descricao": "Buscar sinais de instabilidade",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006398,
+   "descricao": "<p>Qual das alternativas abaixo cont&eacute;m uma altera&ccedil;&atilde;o carater&iacute;stica do paciente com doen&ccedil;a hep&aacute;tica terminal que influencia na farmacocin&eacute;tica e/ou farmacodin&acirc;mica dos anest&eacute;sicos?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063981,
+     "letra": "A",
+     "descricao": "Aumento do fluxo sanguíneo renal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063982,
+     "letra": "B",
+     "descricao": "Diminuição do volume de distribuição",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063983,
+     "letra": "C",
+     "descricao": "Diminuição da massa cortical cerebral",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063984,
+     "letra": "D",
+     "descricao": "Aumento da pseudocolinesterase plasmática",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006399,
+   "descricao": "<p>Paciente de 75 anos, hipertenso e portador de marca-passo bicameral, será submetido a herniorrafia inguinal direita convencional. Qual a conduta perioperatória necessária em relação ao marca-passo neste paciente?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063991,
+     "letra": "A",
+     "descricao": "Utilizar magneto no marca-passo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063992,
+     "letra": "B",
+     "descricao": "Não é necessário reprogramar o marca-passo",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063993,
+     "letra": "C",
+     "descricao": "Reprogramar o marca-passo para modo assíncrono",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063994,
+     "letra": "D",
+     "descricao": "Reprogramar o marca-passo para estímulo apenas ventricular",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006400,
+   "descricao": "<p>Na figura abaixo, está representado um néfron.</p><p><img src=\"data/imagens/6bdd144e01becf07.jpg\" alt=\"\"><br></p><p>Qual dos números de 1 a 4 representa o local de ação dos inibidores do simportador de Na+/Cl-?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064001,
+     "letra": "A",
+     "descricao": "1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064002,
+     "letra": "B",
+     "descricao": "2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064003,
+     "letra": "C",
+     "descricao": "3",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20064004,
+     "letra": "D",
+     "descricao": "4",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006401,
+   "descricao": "<p>A figura abaixo mostra as curvas de pressão, fluxo e volume de um paciente em ventilação mecânica no modo volume controlado (VCV), sem assincronia com o ventilador.</p> <p>Observe os pontos A e B destacados na figura e identifique em qual deles deve ser medida a pressão alveolar (Palv).</p> <p>Considere agora novos ciclos ventilatórios em que o fluxo ou o volume corrente sejam aumentados. Explique como você espera que se comportem a pressão de pico (PPico) e a pressão alveolar (Palv) nesses cenários.</p> <p><img src=\"data/imagens/0d53d07383c08806.jpg\" alt=\"\"></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064011,
+     "letra": "A",
+     "descricao": "A | Aumento igual da Palv e da PPico || Aumento apenas da PPico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064012,
+     "letra": "B",
+     "descricao": "B | Aumento apenas da PPico || Aumento igual da Palv e da PPico",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064013,
+     "letra": "C",
+     "descricao": "A | Aumento maior da Palv que da PPico || Aumento maior da PPico que da Palv",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064014,
+     "letra": "D",
+     "descricao": "B | Aumento maior da PPico que da Palv ||Aumento maior da Palv que da PPico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006402,
+   "descricao": "<p>A figura abaixo demonstra a curva de pressão-tempo com os respectivos valores da pressão das vias aéreas (Pva) e da Palv.</p><p><img src=\"data/imagens/66b52fbd71128119.jpg\" alt=\"\"></p><p>Calcule a complacência estática, a resistência e a constante de tempo do sistema.</p><p>Complacência Estática | Resistência | Constante de Tempo</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064021,
+     "letra": "A",
+     "descricao": "20 | 10 | 0,2",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064022,
+     "letra": "B",
+     "descricao": "10 | 20 | 0,2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064023,
+     "letra": "C",
+     "descricao": "10 | 20 | 20",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064024,
+     "letra": "D",
+     "descricao": "20| 10| 200",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006403,
+   "descricao": "<p>Voc&ecirc; est&aacute; acompanhado de um residente e optam pela cateteriza&ccedil;&atilde;o da art&eacute;ria femoral. A figura a seguir mostra a curva de press&atilde;o arterial invasiva (PAI) obtida. Voc&ecirc; solicita que o residente discorra sobre o formato da curva de PAI e as informa&ccedil;&otilde;es que podem ser obtidas com o mesmo.</p> <p><img src=\"data/imagens/3b1472607bc0835c.png\" alt=\"\"></p> <p>Ele faz ent&atilde;o os quatro coment&aacute;rios abaixo, qual deles &eacute; verdadeiro?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064031,
+     "letra": "A",
+     "descricao": "Na fase 1 pode ser calculada a elastância arterial dinâmica, uma medida do tônus arterial",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064032,
+     "letra": "B",
+     "descricao": "Em 2 está o pico sistólico, formatos apiculados indicam menor complacência arterial",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064033,
+     "letra": "C",
+     "descricao": "Em 4 está a incisura dicrótica que representa o fechamento da valva aórtica, momento adequado para calcular o dP/dt",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064034,
+     "letra": "D",
+     "descricao": "Na fase 5 avaliamos a simetria da curva em relação à fase ascendente, quanto maior a simetria, maior a resistência vascular periférica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006404,
+   "descricao": "<p>Mulher de 57 anos, 46 kg e 1,60 m portadora de carcinoma pulmonar de pequenas células será submetida a colocação de cateter venoso totalmente implantável para quimioterapia. Apresenta-se letárgica com queixa de cefaleia, náuseas e vômitos nos últimos dias. Exames pré-operatórios evidenciam sódio sérico de 118 mEq.L-1, sódio urinário de 42 mEq.L-1, osmolalidade plasmática de 255 mOsm.kg-1 e osmolalidade urinária de 320 mOsm.kg-1 sem melhora após expansão volêmica com solução fisiológica. Com base no diagnóstico etiológico provável neste caso, qual porção do néfron determina as alterações laboratoriais encontradas?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064041,
+     "letra": "A",
+     "descricao": "Alça de Henle",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064042,
+     "letra": "B",
+     "descricao": "Túbulo coletor",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064043,
+     "letra": "C",
+     "descricao": "Túbulo contornado distal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064044,
+     "letra": "D",
+     "descricao": "Túbulo contornado proximal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006405,
+   "descricao": "<p>Homem de 68 anos, 62 kg e 1,72 m é submetido a gastroduodenopancreatectomia. No pós-operatório imediato, os exames laboratoriais mostram: Hemoglobina 9,4 g/dL, hematócrito 28%, Na+ 135 mEq/L, K+ 2,7 mEq/L, Cl- 116 mEq/L, Ca++ ionizado 2,36 mEq/L, pH 7,18 || PaO2 80mmHg || PaCO2 37 mmHg || HCO3- 12,2 mEq/L || BE -14,6 || Lactato 2 mmol/dL. A terapêutica inicial deverá ser:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064051,
+     "letra": "A",
+     "descricao": "Reposição de potássio",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064052,
+     "letra": "B",
+     "descricao": "Administração de bicarbonato de sódio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064053,
+     "letra": "C",
+     "descricao": "Transfusão de concentrado de hemácias",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064054,
+     "letra": "D",
+     "descricao": "Expansão volêmica com solução fisiológica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006406,
+   "descricao": "<p>Homem de 32 anos e 60 kg é submetido a cirurgia para troca valvar mitral. Foram administrados 240 mg de heparina não fracionada e, após 5 minutos, o valor do tempo de coagulação ativada (TCA) era de 94 segundos. Em seguida, administraram-se mais 100 mg de heparina não fracionada e, após 5 minutos dessa nova injeção, o TCA era de 102 segundos. O ocorrido pode ser explicado pela deficiência de:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064061,
+     "letra": "A",
+     "descricao": "Proteína S",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064062,
+     "letra": "B",
+     "descricao": "Fibrinogênio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064063,
+     "letra": "C",
+     "descricao": "Antitrombina III",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20064064,
+     "letra": "D",
+     "descricao": "Fator de von Willebrand",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006407,
+   "descricao": "<p>Mulher de 36 anos, 107 kg e 1,57 m, será submetida à cirurgia videolaparoscópica para investigação de endometriose. Foi realizada anestesia venosa total alvo-controlada com remifentanil e propofol. Para o cálculo da dose-alvo de manutenção do propofol, foi escolhido o peso corporal total da paciente devido à(ao) maior:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064071,
+     "letra": "A",
+     "descricao": "Clearance do propofol",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064072,
+     "letra": "B",
+     "descricao": "Volume de distribuição",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064073,
+     "letra": "C",
+     "descricao": "Sensibilidade dos receptores GABA",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064074,
+     "letra": "D",
+     "descricao": "Fluxo sanguíneo para o tecido adiposo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006408,
+   "descricao": "<p>Que aspecto relacionado &agrave; obesidade pode contribuir para a ocorr&ecirc;ncia de consci&ecirc;ncia intraoperat&oacute;ria ap&oacute;s a indu&ccedil;&atilde;o com propofol?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064081,
+     "letra": "A",
+     "descricao": "Alta taxa de extração hepática",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064082,
+     "letra": "B",
+     "descricao": "Baixa afinidade do propofol aos receptores GABA",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064083,
+     "letra": "C",
+     "descricao": "Aumento das reações de fase I, induzido pela obesidade",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064084,
+     "letra": "D",
+     "descricao": "Rápida redistribuição do fármaco para o tecido gorduroso",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006409,
+   "descricao": "<p>Mulher 55 anos, kg 85 1,70 m foi submetida a tireoidectomia total sem intercorr&ecirc;ncias como tratamento para um grande b&oacute;cio subesternal. Apresenta-se no terceiro dia de p&oacute;s-operat&oacute;rio com queixa de parestesia perioral, estridor e &agrave; ausculta pulmonar com sibilos. Evolui progressivamente com piora da taquipn&eacute;ia e confus&atilde;o mental. N&atilde;o h&aacute; incha&ccedil;o ou dor &oacute;bvia no pesco&ccedil;o. Qual &eacute; a causa mais prov&aacute;vel de seus sintomas?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064091,
+     "letra": "A",
+     "descricao": "Hipocalcemia",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064092,
+     "letra": "B",
+     "descricao": "Traqueomalácia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064093,
+     "letra": "C",
+     "descricao": "Necrose traqueal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064094,
+     "letra": "D",
+     "descricao": "Paralisia bilateral das cordas vocais",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006410,
+   "descricao": "<p>Homem 45 anos, 80 kg, 1,65 m, submetido à correção de hérnia inguinal direita sob anestesia geral endovenosa e infiltração local sendo utilizado dispositivo supraglótico de primeira geração. Na recuperação, ele fica hipóxico e com falta de ar. Você está suspeitando de uma aspiração pulmonar de conteúdo gástrico. Qual dos seguintes segmentos pulmonares tem maior probabilidade de estar contaminado após um episódio de aspiração durante uma anestesia geral?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064101,
+     "letra": "A",
+     "descricao": "Segmento lateral do lobo médio direito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064102,
+     "letra": "B",
+     "descricao": "Segmentos apicais dos lobos inferiores",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064103,
+     "letra": "C",
+     "descricao": "Segmentos apicais dos lobos superiores",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064104,
+     "letra": "D",
+     "descricao": "Segmentos basais laterais dos lobos inferiores",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006411,
+   "descricao": "<p>Homem 59 anos, 75 kg, 1,80 m, com história de 2 anos de síndrome de dor regional complexa tipo I afetando sua perna esquerda se apresenta à clínica de dor após uma tentativa fracassada de injeções epidurais e fisioterapia. Ele tem um adesivo de fentanil e está tomando paracetamol, ibuprofeno, amitriptilina e gabapentina. Apesar disso, ele sofre de fortes dores nas pernas debilitantes, alodinia e hiperalgesia. Qual intervenção é o próximo passo mais apropriado no gerenciamento de seus sintomas?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064111,
+     "letra": "A",
+     "descricao": "Amputação abaixo do joelho",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064112,
+     "letra": "B",
+     "descricao": "Estimulação da medula espinhal",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064113,
+     "letra": "C",
+     "descricao": "Estimulação cerebral não invasiva",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064114,
+     "letra": "D",
+     "descricao": "Simpatectomia lombar por radiofrequência",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006412,
+   "descricao": "<p>Quando se usa bloqueadores neuromusculares adespolarizantes em dose isolada (por exemplo: rocurônio, 0,6 mg.kg-1), qual dos músculos abaixo apresenta tempo de recuperação menor?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064121,
+     "letra": "A",
+     "descricao": "Diafragma",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064122,
+     "letra": "B",
+     "descricao": "Genohióide",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064123,
+     "letra": "C",
+     "descricao": "Adutor do polegar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064124,
+     "letra": "D",
+     "descricao": "Orbicular da pálpebra",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006413,
+   "descricao": "<p>Homem de 68 anos é submetido a duodenopancreatectomia. Durante a cirurgia, o índice cardíaco (IC) é de 1,2 L.min-1.m-2, a variação do volume sistólico (VVS) é de 18% e a pressão venosa central (PVC) é de 10 mmHg. Após a administração de 250 mL de hidroxietilamido, os valores de IC, VVS e PVC são, respectivamente, 2,2 L.min-1.m-2, 11% e 12 mmHg. A interpretação para essa mudança na monitorização hemodinâmica é:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064131,
+     "letra": "A",
+     "descricao": "Elevação do IC levou à redução da VVS",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064132,
+     "letra": "B",
+     "descricao": "Elevação da PVC produziu aumento do IC",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064133,
+     "letra": "C",
+     "descricao": "O paciente responde à elevação da pré-carga",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20064134,
+     "letra": "D",
+     "descricao": "Redução da VVS indica sobrecarga de volume",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006414,
+   "descricao": "<p>Menino de 4 anos e 20 Kg foi submetido a adenoamigdalectomia. Após a extubação, apresentou redução da SpO2 para 65% e da FC para 65 bpm. Ao ser oferecido oxigênio a 100% por meio de sistema de Baraka e máscara facial, movimentos do tórax eram observados, ausculta pulmonar era silenciosa e não havia movimentos da bolsa reservatório. Qual é a primeira conduta a ser tomada?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064141,
+     "letra": "A",
+     "descricao": "Salbutamol inalatório",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064142,
+     "letra": "B",
+     "descricao": "Compressões torácicas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064143,
+     "letra": "C",
+     "descricao": "Succinilcolina 20 mg venosa",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064144,
+     "letra": "D",
+     "descricao": "Pressão contínua na via aérea",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006415,
+   "descricao": "<p>Mulher de 24 anos, 69 kg e 1,65 m, gestante de 37 semanas com história de insuficiência cardíaca será submetida a cesariana sob anestesia geral. Após indução em sequência rápida com fentanil, propofol e succinilcolina, evolui com parada cardiorrespiratória em assistolia. As manobras de reanimação são iniciadas. Após 5 minutos de reanimação e administração de epinefrina, a capnometria é de 7 mmHg e a paciente mantém ritmo de assistolia. Qual é a conduta nesse momento?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064151,
+     "letra": "A",
+     "descricao": "Atropina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064152,
+     "letra": "B",
+     "descricao": "Vasopressina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064153,
+     "letra": "C",
+     "descricao": "Cesariana de emergência",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20064154,
+     "letra": "D",
+     "descricao": "Obter acesso venoso central",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006416,
+   "descricao": "<p>A caracter&iacute;stica farmacocin&eacute;tica de um f&aacute;rmaco que apresenta volume de distribui&ccedil;&atilde;o reduzido &eacute; a sua grande:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064161,
+     "letra": "A",
+     "descricao": "Eliminação renal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064162,
+     "letra": "B",
+     "descricao": "Solubilidade em gorduras",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064163,
+     "letra": "C",
+     "descricao": "Ligação aos tecidos periféricos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064164,
+     "letra": "D",
+     "descricao": "Ligação a proteínas plasmáticas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006417,
+   "descricao": "<p>Mulher de 36 anos, 50 kg e 1,60 m tem diagnóstico de síndrome de dor complexa regional na mão esquerda. Apesar de tratamento conservador com medicamentos orais mantém quadro de dor intensa. Você decide então, como parte de tratamento multimodal, realizar um bloqueio para alívio da dor. Com base na fisiopatologia da doença, qual é a melhor abordagem para esse caso?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064171,
+     "letra": "A",
+     "descricao": "Bloqueio do gânglio estrelado",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064172,
+     "letra": "B",
+     "descricao": "Bloqueio do plexo cervical profundo",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064173,
+     "letra": "C",
+     "descricao": "Bloqueio do plexo braquial por via axilar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064174,
+     "letra": "D",
+     "descricao": "Injeção cervical transforaminal com corticoide",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006418,
+   "descricao": "<p>Homem de 56 anos, hipertenso, em uso de terapia de reposição hormonal de testosterona. Será submetido a hepatectomia esquerda para ressecção de tumor. No intraoperatório é realizada manobra de Pringle, sem necessidade de clampear a veia cava inferior, para diminuir sangramento. Após realização da mesma, o paciente evolui com aumento da pressão arterial média em 10% em relação ao valor antes da manobra. Qual o mecanismo envolvido no aumento da pressão arterial média neste caso?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064181,
+     "letra": "A",
+     "descricao": "Aumento do fluxo na veia cava inferior",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064182,
+     "letra": "B",
+     "descricao": "Aumento da resistência vascular sistêmica",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064183,
+     "letra": "C",
+     "descricao": "Diminuição da eferência parassimpática pelo vago",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064184,
+     "letra": "D",
+     "descricao": "Diminuição do efeito renal do peptídeo natriurético atrial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006419,
+   "descricao": "<p>Para um f&aacute;rmaco de metaboliza&ccedil;&atilde;o exclusivamente hep&aacute;tica, com raz&atilde;o de extra&ccedil;&atilde;o pr&oacute;xima a 1, qual &eacute; o principal fator limitante da sua taxa de depura&ccedil;&atilde;o em um indiv&iacute;duo h&iacute;gido?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064191,
+     "letra": "A",
+     "descricao": "Fluxo sanguíneo hepático",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064192,
+     "letra": "B",
+     "descricao": "Capacidade excretora do fígado",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064193,
+     "letra": "C",
+     "descricao": "Taxa de ligação proteica do fármaco",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064194,
+     "letra": "D",
+     "descricao": "Capacidade de metabolismo do fígado",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006420,
+   "descricao": "<p>Calcule o valor da variação de pressão de pulso com base no traçado de pressão arterial abaixo:</p><p><img src=\"data/imagens/b1750761a2d8493d.jpg\" alt=\"\"><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064201,
+     "letra": "A",
+     "descricao": "14,2%",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064202,
+     "letra": "B",
+     "descricao": "16,5%",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064203,
+     "letra": "C",
+     "descricao": "22,4%",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064204,
+     "letra": "D",
+     "descricao": "28,5%",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006421,
+   "descricao": "<p>O posicionamento do paciente em dec&uacute;bito lateral direito com t&oacute;rax fechado promove:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064211,
+     "letra": "A",
+     "descricao": "Diminuição da pré-carga",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064212,
+     "letra": "B",
+     "descricao": "Efeito shunt no pulmão não dependente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064213,
+     "letra": "C",
+     "descricao": "Aumento da resistência vascular periférica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064214,
+     "letra": "D",
+     "descricao": "Diminuição da perfusão no pulmão dependente",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006422,
+   "descricao": "<p>Paciente masculino, 63 anos, 60 kg, 1,70m será submetido à toracotomia com lobectomia pulmonar inferior direita para ressecção de adenocarcinoma sob anestesia venosa total. Durante a ventilação monopulmonar devido à obstrução do acesso venoso o paciente apresenta sinais de plano anestésico superficial. Qual anestésico inalatório apresentará menor diferença entre a sua pressão parcial no leito arterial nessa condição quando comparada à ventilação de ambos pulmões?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064221,
+     "letra": "A",
+     "descricao": "Halotano",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20064222,
+     "letra": "B",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064223,
+     "letra": "C",
+     "descricao": "Desflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064224,
+     "letra": "D",
+     "descricao": "Sevoflurano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006423,
+   "descricao": "<p>O fármaco que apresenta ação profilática contra o tremor (shivering) no pós-operatório imediato de pacientes submetidos a anestesia com remifentanil é:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064231,
+     "letra": "A",
+     "descricao": "Clonidina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064232,
+     "letra": "B",
+     "descricao": "Cetamina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064233,
+     "letra": "C",
+     "descricao": "Meperidina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064234,
+     "letra": "D",
+     "descricao": "Ondansetrona",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006425,
+   "descricao": "<p>Qual dos anest&eacute;sicos inalat&oacute;rios abaixo tem efeito vasodilatador cerebral sem reduzir a taxa metab&oacute;lica de oxig&ecirc;nio (CMRO<sub>2</sub>) neste tecido?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064251,
+     "letra": "A",
+     "descricao": "Xenônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064252,
+     "letra": "B",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064253,
+     "letra": "C",
+     "descricao": "Desflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064254,
+     "letra": "D",
+     "descricao": "Óxido Nitroso",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006426,
+   "descricao": "<p>Paciente de 3 meses, portador de comunicação interventricular perimembranosa ampla com sintomas de insuficiência cardíaca, hipoplasia pulmonar e onfalocele em tratamento conservador, não corrigida ao nascimento devido a falta de condições clínicas. Será submetido a reparo de hérnia inguinal bilateral pelo risco de encarceramento. O anestesista opta pela realização de raquianestesia sob sedação com dexmedetomidina. Qual característica desse paciente favorece a realização da técnica anestésica escolhida?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064261,
+     "letra": "A",
+     "descricao": "Anatomia do cone medular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064262,
+     "letra": "B",
+     "descricao": "Imaturidade do sistema nervoso simpático",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20064263,
+     "letra": "C",
+     "descricao": "Baixo volume liquórico em relação à superfície corporal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064264,
+     "letra": "D",
+     "descricao": "Diminuição da taxa de reabsorção do anestésico local intratecal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006427,
+   "descricao": "<p>Analise as figuras abaixo, que representam esquematicamente o ciclo card&iacute;aco com a al&ccedil;a de press&atilde;o volume do ventr&iacute;culo esquerdo.</p> <p>Cada figura representa a repercuss&atilde;o de uma altera&ccedil;&atilde;o cardiovascular.&nbsp;Assinale a op&ccedil;&atilde;o correta:</p> <p><figure><svg viewBox=\"0 0 960 370\"><title>Três alças pressão-volume do ventrículo esquerdo (Figuras 1, 2 e 3), cada uma comparando a alça normal com alças alteradas I e II</title><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0 L10 5 L0 10 Z\" fill=\"currentColor\"/></marker><marker id=\"ab\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0 L10 5 L0 10 Z\" fill=\"#1b6670\"/></marker></defs><g fill=\"currentColor\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\"><text x=\"160\" y=\"22\">FIGURA 1</text><text x=\"480\" y=\"22\">FIGURA 2</text><text x=\"800\" y=\"22\">FIGURA 3</text></g><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"><path d=\"M40 330 L40 45\"/><path d=\"M40 330 L295 330\"/><path d=\"M360 330 L360 45\"/><path d=\"M360 330 L615 330\"/><path d=\"M680 330 L680 45\"/><path d=\"M680 330 L935 330\"/></g><g fill=\"currentColor\" font-size=\"12\" text-anchor=\"middle\"><text x=\"260\" y=\"352\">VOLUME</text><text x=\"580\" y=\"352\">VOLUME</text><text x=\"900\" y=\"352\">VOLUME</text><text transform=\"translate(28 90) rotate(-90)\">PRESSÃO</text><text transform=\"translate(348 90) rotate(-90)\">PRESSÃO</text><text transform=\"translate(668 90) rotate(-90)\">PRESSÃO</text></g><g fill=\"none\" stroke-width=\"1.5\"><line x1=\"60\" y1=\"211\" x2=\"150\" y2=\"49\" stroke=\"currentColor\"/><line x1=\"80\" y1=\"210\" x2=\"200\" y2=\"50\" stroke=\"#1b6670\"/><line x1=\"95\" y1=\"220\" x2=\"245\" y2=\"70\" stroke=\"currentColor\" stroke-dasharray=\"6 4\"/><path d=\"M110 310 Q170 306 230 308 L230 190 Q170 160 110 170 Z\" stroke=\"#1b6670\" stroke-width=\"2\"/><path d=\"M80 175 L110 170 M80 175 L80 310 L110 310\" stroke=\"currentColor\" stroke-dasharray=\"5 4\"/><path d=\"M150 165 Q154 240 150 310\" stroke=\"currentColor\" stroke-dasharray=\"5 4\"/></g><g fill=\"currentColor\" font-size=\"13\" text-anchor=\"middle\"><text x=\"104\" y=\"326\">A</text><text x=\"238\" y=\"326\">B</text><text x=\"242\" y=\"186\">C</text><text x=\"116\" y=\"160\">D</text><text x=\"166\" y=\"156\">D′</text><text x=\"68\" y=\"170\">D″</text><text x=\"157\" y=\"44\">I</text><text x=\"252\" y=\"64\">II</text><text x=\"212\" y=\"44\" fill=\"#1b6670\">Normal</text></g><g fill=\"none\" stroke-width=\"1.5\"><path d=\"M400 310 Q480 314 580 280\" stroke=\"currentColor\"/><path d=\"M400 310 L400 100 Q450 85 505 110 Q510 200 510 300 Q450 314 400 310\" stroke=\"#1b6670\" stroke-width=\"2\"/><path d=\"M505 110 L545 128 Q548 210 552 296\" stroke=\"currentColor\" stroke-dasharray=\"5 4\"/><line x1=\"403\" y1=\"250\" x2=\"507\" y2=\"250\" stroke=\"#1b6670\" marker-start=\"url(#ab)\" marker-end=\"url(#ab)\"/><line x1=\"403\" y1=\"210\" x2=\"546\" y2=\"210\" stroke=\"currentColor\" stroke-dasharray=\"5 4\" marker-start=\"url(#ah)\" marker-end=\"url(#ah)\"/></g><g fill=\"currentColor\" font-size=\"13\" text-anchor=\"middle\"><text x=\"392\" y=\"326\">A</text><text x=\"518\" y=\"322\">B</text><text x=\"562\" y=\"318\">B′</text><text x=\"392\" y=\"96\">D</text><text x=\"558\" y=\"124\">C</text><text x=\"572\" y=\"200\">I</text><line x1=\"566\" y1=\"196\" x2=\"550\" y2=\"186\" stroke=\"currentColor\"/><text x=\"535\" y=\"86\" fill=\"#1b6670\">Normal</text><line x1=\"528\" y1=\"92\" x2=\"508\" y2=\"118\" stroke=\"#1b6670\"/></g><g fill=\"none\" stroke-width=\"1.5\"><line x1=\"720\" y1=\"186\" x2=\"810\" y2=\"60\" stroke=\"currentColor\" stroke-dasharray=\"6 4\"/><path d=\"M750 300 Q810 315 865 285\" stroke=\"currentColor\"/><path d=\"M750 144 Q810 145 860 170 L860 290 Q810 312 750 300 Z\" stroke=\"#1b6670\" stroke-width=\"2\"/><path d=\"M768 119 Q820 115 860 140 M768 119 L768 306\" stroke=\"currentColor\" stroke-dasharray=\"5 4\"/><path d=\"M786 94 Q830 88 860 115 L860 140 M786 94 L786 309\" stroke=\"currentColor\" stroke-dasharray=\"5 4\"/><line x1=\"752\" y1=\"270\" x2=\"858\" y2=\"270\" stroke=\"#1b6670\" marker-start=\"url(#ab)\" marker-end=\"url(#ab)\"/><line x1=\"770\" y1=\"245\" x2=\"858\" y2=\"245\" stroke=\"currentColor\" marker-start=\"url(#ah)\" marker-end=\"url(#ah)\"/><line x1=\"788\" y1=\"220\" x2=\"858\" y2=\"220\" stroke=\"currentColor\" marker-start=\"url(#ah)\" marker-end=\"url(#ah)\"/></g><g fill=\"currentColor\" font-size=\"13\" text-anchor=\"middle\"><text x=\"738\" y=\"146\">D</text><text x=\"756\" y=\"118\">D′</text><text x=\"774\" y=\"90\">D″</text><text x=\"835\" y=\"100\">I</text><text x=\"880\" y=\"96\">II</text><line x1=\"833\" y1=\"104\" x2=\"823\" y2=\"117\" stroke=\"currentColor\"/><line x1=\"876\" y1=\"100\" x2=\"858\" y2=\"118\" stroke=\"currentColor\"/><text x=\"905\" y=\"160\" fill=\"#1b6670\">Normal</text></g></svg></figure></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064271,
+     "letra": "A",
+     "descricao": "Figura 3: Representa alteração de pré-carga, sendo a curva II a de menor pré-carga",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064272,
+     "letra": "B",
+     "descricao": "Figura 2: Representa alteração da elastância ventricular, sendo a curva I a de disfunção diastólica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064273,
+     "letra": "C",
+     "descricao": "Figura 2: Representa alteração de contratilidade, sendo a curva I a de contratilidade aumentada",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064274,
+     "letra": "D",
+     "descricao": "Figura 1: Representa alteração de contratilidade, sendo a curva I a de contratilidade aumentada",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006428,
+   "descricao": "<p>Considere que o paciente representado pela curva II da figura abaixo seja o paciente que voc&ecirc; esta conduzindo a anestesia para um transplante hep&aacute;tico. No momento ele se encontra com os seguintes par&acirc;metros hemodin&acirc;micos: IC: 2,8 L/min; VSI: 29 mL/bpm; FC: 95 bpm; PAM: 120x73 mmHg: PVC: 10 mmHg; RVS: 2222 dyn/s.cm5/m2; VDFVD: 139 mL. Encontra-se em uso de norepinefrina 0,15 mcg/kg/min. Qual a melhor conduta com intuito de aumentar o &iacute;ndice card&iacute;aco e o volume sist&oacute;lico?</p> <p><img src=\"data/imagens/af0283adf26a6500.jpg\" alt=\"\"></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20064281,
+     "letra": "A",
+     "descricao": "Administrar volume",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20064282,
+     "letra": "B",
+     "descricao": "Administrar esmolol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20064283,
+     "letra": "C",
+     "descricao": "Administrar dobutamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20064284,
+     "letra": "D",
+     "descricao": "Reduzir a dose de norepinefrina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": null,
+    "concurso": "TASO",
+    "numero": null
+   }
+  }
+ ]
+}

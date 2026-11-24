@@ -1,0 +1,1244 @@
+{
+ "prova": {
+  "slug": "sba-me3-anual-2010",
+  "banca": "SBA",
+  "concurso": "ME3 anual",
+  "titulo": "ME3 anual 2010",
+  "ano": "2010",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002777,
+   "descricao": "<p>Mantém a patência do ductus arteriosus durante a vida intrauterina:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027771,
+     "letra": "A",
+     "descricao": "PO2 do sangue venoso",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027772,
+     "letra": "B",
+     "descricao": "tromboxane A2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027773,
+     "letra": "C",
+     "descricao": "pH",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027774,
+     "letra": "D",
+     "descricao": "óxido nítrico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002778,
+   "descricao": "<p>Característica do sistema cardiovascular do neonato:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027781,
+     "letra": "A",
+     "descricao": "a contratilidade do miocárdio é o principal determinante do débito cardíaco",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027782,
+     "letra": "B",
+     "descricao": "o tônus autonômico predominante é o parassimpático",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20027783,
+     "letra": "C",
+     "descricao": "o débito cardíaco normalizado pelo peso corporal é menor que o do adulto",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027784,
+     "letra": "D",
+     "descricao": "os sarcômeros do miocárdio desenvolvem menor tensão contrátil do que os do adulto",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002779,
+   "descricao": "<p>Em comparação com adultos, no neonato:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027791,
+     "letra": "A",
+     "descricao": "as concentrações alveolares mínimas dos anestésicos voláteis são menores",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027792,
+     "letra": "B",
+     "descricao": "o volume aparente de distribuição dos bloqueadores neuromusculares é menor",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027793,
+     "letra": "C",
+     "descricao": "o sistema P-450 possui menor capacidade enzimática",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20027794,
+     "letra": "D",
+     "descricao": "a concentração de albumina no plasma é maior",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002780,
+   "descricao": "<p>Efeito da hipocapnia durante ventilação monopulmonar:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027801,
+     "letra": "A",
+     "descricao": "Diminuição da resistência vascular no pulmão ventilado",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027802,
+     "letra": "B",
+     "descricao": "Acentuação do reflexo de vasoconstrição hipóxica no pulmão não ventilado",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027803,
+     "letra": "C",
+     "descricao": "Aumento da PaO2",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027804,
+     "letra": "D",
+     "descricao": "Atelectasia de absorção",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002781,
+   "descricao": "<p>Situa&ccedil;&atilde;o em que a intuba&ccedil;&atilde;o com tubo de duplo-lumen pode ser dispensada:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027811,
+     "letra": "A",
+     "descricao": "Lavagem pulmonar",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027812,
+     "letra": "B",
+     "descricao": "Bolha gigante unilateral",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027813,
+     "letra": "C",
+     "descricao": "Fístula broncopleural",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027814,
+     "letra": "D",
+     "descricao": "Esofagectomia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002782,
+   "descricao": "<p>Efeito da aplica&ccedil;&atilde;o de press&atilde;o positiva ao final da expira&ccedil;&atilde;o (PEEP) ao pulm&atilde;o ventilado durante ventila&ccedil;&atilde;o monopulmonar que pode resultar em redu&ccedil;&atilde;o da PaO2:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027821,
+     "letra": "A",
+     "descricao": "Aumento da pressão sobre vasos intra-alveolares",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027822,
+     "letra": "B",
+     "descricao": "Aumento da relação ventilação/perfusão",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027823,
+     "letra": "C",
+     "descricao": "Aumento do volume residual",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027824,
+     "letra": "D",
+     "descricao": "Diminuição da resistência vascular pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002783,
+   "descricao": "<p>Valor acima do qual a press&atilde;o positiva cont&iacute;nua na via a&eacute;rea (CPAP), em cmH2O, aplicada ao pulm&atilde;o n&atilde;o ventilado durante ventila&ccedil;&atilde;o monopulmonar, causa distens&atilde;o pulmonar e dificulta a cirurgia:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027831,
+     "letra": "A",
+     "descricao": "10",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027832,
+     "letra": "B",
+     "descricao": "15",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027833,
+     "letra": "C",
+     "descricao": "20",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027834,
+     "letra": "D",
+     "descricao": "25",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002784,
+   "descricao": "<p>Complica&ccedil;&atilde;o p&oacute;s-operat&oacute;ria mais prevalente em pacientes submetidos a toracotomia:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027841,
+     "letra": "A",
+     "descricao": "Síndrome de baixo débito",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027842,
+     "letra": "B",
+     "descricao": "Hemorragia pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027843,
+     "letra": "C",
+     "descricao": "Atelectasia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20027844,
+     "letra": "D",
+     "descricao": "Embolia pulmonar",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002785,
+   "descricao": "<p>A barreira hematoencefálica permite o fluxo transcapilar de:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027851,
+     "letra": "A",
+     "descricao": "gás carbônico",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027852,
+     "letra": "B",
+     "descricao": "sódio",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027853,
+     "letra": "C",
+     "descricao": "potássio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027854,
+     "letra": "D",
+     "descricao": "glicose",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002786,
+   "descricao": "<p>Pode ser utilizado para ativar convulsões durante eletroencefalografia intraoperatória em cirurgias para tratamento de epilepsia:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027861,
+     "letra": "A",
+     "descricao": "Propofol",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027862,
+     "letra": "B",
+     "descricao": "Etomidato",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20027863,
+     "letra": "C",
+     "descricao": "Isoflurano",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027864,
+     "letra": "D",
+     "descricao": "Tiopental",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002787,
+   "descricao": "<p>Paciente vítima de hemorragia subaracnóidea apresenta-se sonolento, confuso e com paresia em um membro superior. Sua classe na classificação de Hunt e Hess do estado neurológico após hemorragia subaracnóidea é:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027871,
+     "letra": "A",
+     "descricao": "I",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027872,
+     "letra": "B",
+     "descricao": "II",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027873,
+     "letra": "C",
+     "descricao": "III",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20027874,
+     "letra": "D",
+     "descricao": "IV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002788,
+   "descricao": "<p>Aumenta a pressão intracraniana:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027881,
+     "letra": "A",
+     "descricao": "óxido nitroso",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027882,
+     "letra": "B",
+     "descricao": "lidocaína",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027883,
+     "letra": "C",
+     "descricao": "dexmedetomidina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027884,
+     "letra": "D",
+     "descricao": "etomidato",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002789,
+   "descricao": "<p>Pode causar aumento da pressão intracraniana em pacientes neurocirúrgicos após administração de atracúrio em doses clínicas para facilitar a intubação traqueal:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027891,
+     "letra": "A",
+     "descricao": "laudanosina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027892,
+     "letra": "B",
+     "descricao": "glutamato",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027893,
+     "letra": "C",
+     "descricao": "histamina",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20027894,
+     "letra": "D",
+     "descricao": "acrilato",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002790,
+   "descricao": "<p>Sinal precoce de bloqueio subaracnóideo total no recém-nascido:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027901,
+     "letra": "A",
+     "descricao": "Aumento da frequência cardíaca",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027902,
+     "letra": "B",
+     "descricao": "Redução da saturação periférica de oxigênio",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20027903,
+     "letra": "C",
+     "descricao": "Diminuição do tônus do esfíncter anal",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027904,
+     "letra": "D",
+     "descricao": "Perda de movimento em membros inferiores",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002791,
+   "descricao": "<p>É menor no cérebro de um indivíduo hígido de 80 anos em comparação a um de 40 anos:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027911,
+     "letra": "A",
+     "descricao": "Autorregulação do fluxo sanguíneo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027912,
+     "letra": "B",
+     "descricao": "Funcionamento da barreira hematoencefálica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027913,
+     "letra": "C",
+     "descricao": "Consumo de oxigênio",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027914,
+     "letra": "D",
+     "descricao": "Concentração de serotonina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002792,
+   "descricao": "<p>É maior em um indivíduo hígido de 80 anos em comparação a um de 40 anos:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027921,
+     "letra": "A",
+     "descricao": "responsividade do receptores muscarínicos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027922,
+     "letra": "B",
+     "descricao": "níveis plasmáticos de noradrenalina",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20027923,
+     "letra": "C",
+     "descricao": "responsividade dos receptores adrenérgicos beta",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027924,
+     "letra": "D",
+     "descricao": "responsividade dos receptores adrenérgicos alfa",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002793,
+   "descricao": "<p>Efeito da eletroconvulsoterapia prevenido pela administração de succinilcolina:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027931,
+     "letra": "A",
+     "descricao": "bradicardia",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027932,
+     "letra": "B",
+     "descricao": "hipotensão arterial",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027933,
+     "letra": "C",
+     "descricao": "sialorréia",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027934,
+     "letra": "D",
+     "descricao": "fraturas",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002794,
+   "descricao": "<p>Aumenta no paciente portador de hipotireoidismo sintomático:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027941,
+     "letra": "A",
+     "descricao": "O volume da língua",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20027942,
+     "letra": "B",
+     "descricao": "A velocidade de esvaziamento gástrico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027943,
+     "letra": "C",
+     "descricao": "A resposta ventilatória ao CO2",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027944,
+     "letra": "D",
+     "descricao": "O clearance da água livre",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002795,
+   "descricao": "<p>Durante o tratamento de paciente portador de traumatismo cranioencefálico grave (escore na escala de Glasgow menor que 8) deve-se evitar:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027951,
+     "letra": "A",
+     "descricao": "Pressão de perfusão cerebral maior que 50 mmHg",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027952,
+     "letra": "B",
+     "descricao": "PaCO2 menor que 30 mmHg",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20027953,
+     "letra": "C",
+     "descricao": "Ressuscitação hídrica com solução salina hipertônica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027954,
+     "letra": "D",
+     "descricao": "Pressão arterial média maior que 70 mmHg",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002796,
+   "descricao": "<p>Modifica o bloqueio neuromuscular no idoso:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027961,
+     "letra": "A",
+     "descricao": "aumento de água corporal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027962,
+     "letra": "B",
+     "descricao": "maior atividade da colinesterase plasmática",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027963,
+     "letra": "C",
+     "descricao": "maior depuração plasmática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027964,
+     "letra": "D",
+     "descricao": "menor volume muscular",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002797,
+   "descricao": "<p>Na anestesia geral de paciente portador de tamponamento cardíaco deve-se evitar:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027971,
+     "letra": "A",
+     "descricao": "Administração de líquidos intravenosos antes da indução",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027972,
+     "letra": "B",
+     "descricao": "Fármacos inotrópicos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027973,
+     "letra": "C",
+     "descricao": "Ventilação espontânea",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027974,
+     "letra": "D",
+     "descricao": "Bradicardia",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002798,
+   "descricao": "<p>Caracteriza o atordoamento do miocárdio observado após uma sequência de isquemia e reperfusão:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027981,
+     "letra": "A",
+     "descricao": "Necrose miocárdica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027982,
+     "letra": "B",
+     "descricao": "Irresponsividade a fármacos inotrópicos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027983,
+     "letra": "C",
+     "descricao": "Alta concentração intracelular de radicais superóxido",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20027984,
+     "letra": "D",
+     "descricao": "Ausência de fluxo coronariano",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002799,
+   "descricao": "<p>O balão intra-aórtico:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20027991,
+     "letra": "A",
+     "descricao": "aumenta o consumo de oxigênio pelo miocárdio durante a sístole ventricular",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20027992,
+     "letra": "B",
+     "descricao": "aumenta a pressão de perfusão coronariana durante a sístole ventricular",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20027993,
+     "letra": "C",
+     "descricao": "diminui o fluxo anterógrado na aorta distal durante a diástole ventricular",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20027994,
+     "letra": "D",
+     "descricao": "aumenta a pressão diastólica aórtica proximal",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002800,
+   "descricao": "<p>A dor aguda causa diminuição da secreção de:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028001,
+     "letra": "A",
+     "descricao": "catecolaminas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028002,
+     "letra": "B",
+     "descricao": "cortisol",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028003,
+     "letra": "C",
+     "descricao": "vasopressina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028004,
+     "letra": "D",
+     "descricao": "insulina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002801,
+   "descricao": "<p>No tratamento da dor aguda perioperatória, a analgesia peridural apresenta benefícios cardiovasculares quando administrada por pelo menos:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028011,
+     "letra": "A",
+     "descricao": "6 horas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028012,
+     "letra": "B",
+     "descricao": "12 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028013,
+     "letra": "C",
+     "descricao": "24 horas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20028014,
+     "letra": "D",
+     "descricao": "48 horas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002802,
+   "descricao": "<p>Mecanismo de ação da gabapentina:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028021,
+     "letra": "A",
+     "descricao": "Antagonista de canais de sódio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028022,
+     "letra": "B",
+     "descricao": "Antagonista de canais de cálcio voltagem-dependentes",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20028023,
+     "letra": "C",
+     "descricao": "Agonista de receptores GABA-A",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028024,
+     "letra": "D",
+     "descricao": "Bloqueador da recaptação de serotonina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002803,
+   "descricao": "<p>Volume corrente, em mililitros por quilo de peso ideal, associado com redução de mortalidade em pacientes portadores de síndrome de angústia respiratória do adulto (SARA):</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028031,
+     "letra": "A",
+     "descricao": "6",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20028032,
+     "letra": "B",
+     "descricao": "8",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028033,
+     "letra": "C",
+     "descricao": "10",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028034,
+     "letra": "D",
+     "descricao": "12",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002804,
+   "descricao": "<p>Fármaco de primeira linha para tratamento da hipotensão no choque séptico:</p>",
+   "ano": "2010",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20028041,
+     "letra": "A",
+     "descricao": "Dobutamina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20028042,
+     "letra": "B",
+     "descricao": "Vasopressina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20028043,
+     "letra": "C",
+     "descricao": "Dopamina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20028044,
+     "letra": "D",
+     "descricao": "Noradrenalina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 anual",
+    "numero": null
+   }
+  }
+ ]
+}

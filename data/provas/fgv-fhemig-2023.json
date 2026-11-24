@@ -1,0 +1,825 @@
+{
+ "prova": {
+  "slug": "fgv-fhemig-2023",
+  "banca": "FGV",
+  "concurso": "FHEMIG - Edital 01/2023",
+  "titulo": "FHEMIG, Médico - Anestesiologia (Nível III) (FGV)",
+  "cargo": "Médico - Anestesiologia (Nível III)",
+  "ano": "2023",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf",
+  "observacao": "Parte de conhecimentos específicos de anestesiologia, na ordem da prova, com o gabarito definitivo oficial. Conteúdo de terceiros: os direitos pertencem à banca; fora da licença do repositório."
+ },
+ "questoes": [
+  {
+   "id": 8003031,
+   "descricao": "<p>As opções a seguir apresentam procedimentos <i>vedados</i> ao médico no exercício da profissão, <i><b>à exceção de uma</b></i>. Assinale-a.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030311,
+     "letra": "A",
+     "descricao": "<p>Indicar o procedimento adequado ao paciente, observadas as práticas cientificamente reconhecidas e respeitada a legislação vigente.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80030312,
+     "letra": "B",
+     "descricao": "<p>Assumir responsabilidade por ato médico que não praticou ou do qual não participou.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030313,
+     "letra": "C",
+     "descricao": "<p>Desrespeitar o pudor de qualquer pessoa sob seus cuidados</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030314,
+     "letra": "D",
+     "descricao": "<p>Abreviar a vida do paciente, ainda que a pedido deste ou de seu representante legal.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030315,
+     "letra": "E",
+     "descricao": "<p>Oferecer seus serviços profissionais como prêmio, qualquer que seja sua natureza.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 31,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003032,
+   "descricao": "<p>Por meio da concentração expirada de um anestésico inalatório, pode-se refletir a concentração deste anestésico no</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030321,
+     "letra": "A",
+     "descricao": "<p>músculo brônquico.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030322,
+     "letra": "B",
+     "descricao": "<p>ventrículo direito.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030323,
+     "letra": "C",
+     "descricao": "<p>átrio direito.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030324,
+     "letra": "D",
+     "descricao": "<p>sistema nervoso central.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80030325,
+     "letra": "E",
+     "descricao": "<p>no alvéolo do pulmão não dominante.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 32,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003033,
+   "descricao": "<p>O propofol pode ser utilizado por seus efeitos terapêuticos não hipnóticos, como por exemplo, o efeito ansiolítico ou mesmo o antiemético, úteis na prática anestésica. Para estas finalidades, deve ser usado <i>em bolus, </i>na dose de</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030331,
+     "letra": "A",
+     "descricao": "<p>50mg.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030332,
+     "letra": "B",
+     "descricao": "<p>40mg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030333,
+     "letra": "C",
+     "descricao": "<p>30mg.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030334,
+     "letra": "D",
+     "descricao": "<p>20mg.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030335,
+     "letra": "E",
+     "descricao": "<p>10mg.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 33,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003034,
+   "descricao": "<p>Quando a anestesia geral está associada a mudanças significativas na mecânica respiratória e troca de gases pulmonares, numerosos fatores interferem na dinâmica pulmonar perioperatória e acarretam riscos de complicações. Esse processo resulta em</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030341,
+     "letra": "A",
+     "descricao": "<p>aumento do volume pulmonar.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030342,
+     "letra": "B",
+     "descricao": "<p>formação de rolhas de muco.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80030343,
+     "letra": "C",
+     "descricao": "<p>abertura acentuada da via aérea.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030344,
+     "letra": "D",
+     "descricao": "<p>aumento do tônus muscular.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030345,
+     "letra": "E",
+     "descricao": "<p>abertura exacerbada de alvéolos.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 34,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003035,
+   "descricao": "<p>Em exame pré-anestésico de paciente a ser submetido à anestesia devem ser considerados os preditores de ventilação. Assinale a opção que apresenta dois ou mais preditores de dificuldade de ventilação sob máscara facial.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030351,
+     "letra": "A",
+     "descricao": "<p>Dentição completa, barba e 48 anos de idade.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030352,
+     "letra": "B",
+     "descricao": "<p>Protusão mandibular limitada, 53 anos de idade e IMC = 25kg.m2.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030353,
+     "letra": "C",
+     "descricao": "<p>Ausência de dentes, barba e 58 anos de idade.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80030354,
+     "letra": "D",
+     "descricao": "<p>Histórico de roncos, dentição completa e Mallampati II.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030355,
+     "letra": "E",
+     "descricao": "<p>Protusão mandibular limitada, Mallanpati II e IMC = 25kg.m2.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 35,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003036,
+   "descricao": "<p>Eventos relacionados à circulação e ao metabolismo, com equipamentos e com a própria ventilação de um paciente sob anestesia geral, podem ser observados por alterações apontadas pelo</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030361,
+     "letra": "A",
+     "descricao": "<p>capnógrafo.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80030362,
+     "letra": "B",
+     "descricao": "<p>oxímetro de pulso.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030363,
+     "letra": "C",
+     "descricao": "<p>monitor de função neuromuscular.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030364,
+     "letra": "D",
+     "descricao": "<p>monitor de profundidade da anestesia.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030365,
+     "letra": "E",
+     "descricao": "<p>monitor da mecânica ventilatória.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 36,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003037,
+   "descricao": "<p>A utilização de opioides no espaço peridural é consagrada como uma técnica para a promoção de analgesia pós-operatória, segura e eficiente em diversos procedimentos cirúrgicos. A analgesia é o resultado da ação da morfina sobre diversos receptores. O receptor µ, especificamente, além de participar do processo da desejável analgesia, é responsável pela(o)</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030371,
+     "letra": "A",
+     "descricao": "<p>insônia.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030372,
+     "letra": "B",
+     "descricao": "<p>disforia.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030373,
+     "letra": "C",
+     "descricao": "<p>ritmo juncional.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030374,
+     "letra": "D",
+     "descricao": "<p>aumento da frequência respiratória.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030375,
+     "letra": "E",
+     "descricao": "<p>redução da motilidade gastrointestinal.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 37,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003038,
+   "descricao": "<p>O diâmetro do tubo traqueal deve ser o maior possível para evitar fluxos turbilhonares nas vias aéreas do paciente, em tubos e traqueias de ventilação. Em fluxos laminares, com a diminuição do raio de um tubo à metade, desejando-se manter o fluxo, a pressão deverá ser aumentada em</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030381,
+     "letra": "A",
+     "descricao": "<p>2 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030382,
+     "letra": "B",
+     "descricao": "<p>4 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030383,
+     "letra": "C",
+     "descricao": "<p>8 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030384,
+     "letra": "D",
+     "descricao": "<p>16 vezes.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80030385,
+     "letra": "E",
+     "descricao": "<p>32 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 38,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003039,
+   "descricao": "<p>Para a realização de um bloqueio de plexo braquial com abordagem interescalência, com melhor qualidade na imagem e visualização adequada, o <i>transdutor</i> e a <i>agulha</i> que devem ser usados são, respectivamente,</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030391,
+     "letra": "A",
+     "descricao": "<p>convexo de alta frequência / de bisel curto de 5cm.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030392,
+     "letra": "B",
+     "descricao": "<p>linear de alta frequência / de bisel curto de 5cm.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80030393,
+     "letra": "C",
+     "descricao": "<p>convexo de baixa frequência / de bisel longo de 8cm.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030394,
+     "letra": "D",
+     "descricao": "<p>linear de baixa frequência / de bisel longo de 8cm.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030395,
+     "letra": "E",
+     "descricao": "<p>convexo de frequência neutra / de bisel longo de 8cm.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 39,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003040,
+   "descricao": "<p>Homem, 64 anos, sem hipertensão arterial, cardiopatia ou diabetes, será submetido a prostatectomia radical por robótica. Na avaliação pré-anestésica é fundamental conhecer o histórico de cirurgias prévias, patologias existentes, medicações em uso, avaliação das vias aéreas, entre outros exames e informações importantes. Considerando patologias existentes e mencionadas na avaliação pré-anestésica, as oftálmicas, em geral, não são devidamente valorizadas. Assinale a opção que indica a <i>alteração oftalmológica</i> que faz com que o paciente possa ter prescrição de medicações que poderão interferir no transcurso da anestesia.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030401,
+     "letra": "A",
+     "descricao": "<p>ceratocone.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030402,
+     "letra": "B",
+     "descricao": "<p>catarata.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030403,
+     "letra": "C",
+     "descricao": "<p>estrabismo convergente.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030404,
+     "letra": "D",
+     "descricao": "<p>glaucoma.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 80030405,
+     "letra": "E",
+     "descricao": "<p>miopia de alto grau.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 40,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003041,
+   "descricao": "<p>Gestante, 42 semanas, foi submetida à artrodese lombo-sacra pós-trauma grave de coluna, sendo colocada haste de fixação entre T10 e S1, além de placas de fixação entre L4-L5 e L5-S1. Após a cirurgia permanece com parestesias em MMII, nas regiões abaixo do joelho, bilateralmente. Após conversar com a paciente e sua família, o anestesiologista atende ao pedido da paciente para realizar anestesia geral, com a concordância, também, de sua ginecologista/obstetra. O anestesiologista sabe que deve ofertar uma FiO durante a 2 anestesia geral que previna a ocorrência de hipoxemia, mas que, por sua vez, também evite os riscos inerentes à hiperoxia no binômio mãe-feto. Para atingir esses objetivos, habitualmente, deve-se manter a FiO2 durante a cesariana sob anestesia geral, em torno de</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030411,
+     "letra": "A",
+     "descricao": "<p>0,5 a 0,7.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030412,
+     "letra": "B",
+     "descricao": "<p>0,4 a 0,6.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80030413,
+     "letra": "C",
+     "descricao": "<p>0,3 a 0,5.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030414,
+     "letra": "D",
+     "descricao": "<p>0,2 a 0,4.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030415,
+     "letra": "E",
+     "descricao": "<p>0,1 a 0,3.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 41,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003042,
+   "descricao": "<p>O <i>delirium</i> ao despertar é uma complicação que pode ocorrer no despertar de uma anestesia geral, sendo as crianças uma população ainda mais sujeita a ela. Assinale a opção que indica o principal fator de risco para o <i>delirium</i> ao despertar e o fármaco que melhor o previne e o trata em crianças, respectivamente.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030421,
+     "letra": "A",
+     "descricao": "<p>anestesia inalatória / propofol.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80030422,
+     "letra": "B",
+     "descricao": "<p>anestesia venosa e inalatória combinadas / droperidol.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030423,
+     "letra": "C",
+     "descricao": "<p>anestesia venosa / dexmedetomidina.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030424,
+     "letra": "D",
+     "descricao": "<p>anestesia inalatória / droperidol.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030425,
+     "letra": "E",
+     "descricao": "<p>anestesia venosa / propofol.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 42,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003043,
+   "descricao": "<p>Mulher, 78 anos, com politraumatismo e traumatismo crânio encefálico (TCE) devido a um atropelamento, é encaminhada à emergência. Diante desta situação crítica, assinale a opção que apresenta os fatores que pioram o desfecho do traumatismo crânio encefálico dessa paciente politraumatizada.</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030431,
+     "letra": "A",
+     "descricao": "<p>Hipotermia, hipertensão arterial e hipernatremia.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030432,
+     "letra": "B",
+     "descricao": "<p>Lesões na carótida, alcalose e hipertensão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030433,
+     "letra": "C",
+     "descricao": "<p>Hipertermia, hipotensão intracraniana e hipernatremia.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80030434,
+     "letra": "D",
+     "descricao": "<p>Hiponatremia, hipertensão arterial e hipotensão intracraniana.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030435,
+     "letra": "E",
+     "descricao": "<p>Hipotensão arterial, anemia e hiponatremia.</p>",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 43,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003044,
+   "descricao": "<p>O benzodiazepínico usado na manutenção da anestesia geral nas cirurgias cardíacas, em conjunto com opioides e outros fármacos anestésicos, devido às suas propriedades como hidrossolubilidade, ausência de metabólitos cumulativos e maior capacidade de amnésia retrógrada, entre outras, é o</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030441,
+     "letra": "A",
+     "descricao": "<p>lorazepam.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030442,
+     "letra": "B",
+     "descricao": "<p>alprazolam.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030443,
+     "letra": "C",
+     "descricao": "<p>midazolam.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80030444,
+     "letra": "D",
+     "descricao": "<p>diazepam.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030445,
+     "letra": "E",
+     "descricao": "<p>clonazepam.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 44,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  },
+  {
+   "id": 8003045,
+   "descricao": "<p>Na reanimação cardiorrespiratória (RCP), a cadeia de sobrevivência avançada para adultos atendidos em parada cardiorrespiratória (PCR) em ambiente hospitalar, preconizada pela <i>American Heart Association</i> (AHA) em 2020, é composta pelos elos a seguir.</p><p><img src=\"data/imagens/fgv-fhemig-2023-q045-1.png\"></p><p>Os elos sintetizam graficamente as principais ações a serem seguidas durante o atendimento de um adulto atendido em PCR, quando internado em unidade de saúde. O elo número 5 representa</p>",
+   "ano": "2023",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80030451,
+     "letra": "A",
+     "descricao": "<p>reconhecimento precoce da PCR.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80030452,
+     "letra": "B",
+     "descricao": "<p>desfibrilação.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80030453,
+     "letra": "C",
+     "descricao": "<p>cuidados integrados pós-PCR.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80030454,
+     "letra": "D",
+     "descricao": "<p>suporte avançado de vida.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 80030455,
+     "letra": "E",
+     "descricao": "<p>recuperação e reintegração social.</p>",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "FHEMIG - Edital 01/2023",
+    "cargo": "Médico - Anestesiologia (Nível III)",
+    "numero": 45,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/medico-med-anestesiologia-nivel-iiicns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-fhemig-retificado-01.11.2023.pdf"
+   }
+  }
+ ]
+}

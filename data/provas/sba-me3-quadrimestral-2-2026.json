@@ -1,0 +1,672 @@
+{
+ "prova": {
+  "slug": "sba-me3-quadrimestral-2-2026",
+  "banca": "SBA",
+  "concurso": "ME3 quadrimestral",
+  "titulo": "ME3, 2ª quadrimestral 2026",
+  "ano": "2026",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2003537,
+   "descricao": "<p>Fatores clínicos influenciam a farmacocinética das drogas anestésicas durante o by-pass cardiopulmonar (CPB) em cirurgias cardíacas. Assinale a alternativa correta.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035371,
+     "letra": "A",
+     "descricao": "A hipotermia induzida reduz o efeito anestésico do propofol e dos agentes inalatórios devido à diminuição do clearance desses anestésicos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035372,
+     "letra": "B",
+     "descricao": "A hemodiluição pelo volume do prime aumenta o coeficiente de partição sangue/gás dos anestésicos voláteis e resulta em demora na alteração da profundidade anestésica.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035373,
+     "letra": "C",
+     "descricao": "Durante o reaquecimento, a necessidade de bloqueadores neuromusculares adespolarizantes está reduzida em relação à fase hipotérmica devido ao sequestro pelo circuito da circulação extracorpórea.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035374,
+     "letra": "D",
+     "descricao": "A hemodiluição decorrente do prime reduz a concentração de proteínas plasmáticas, aumentando a fração livre de fármacos altamente ligados à albumina, embora a concentração plasmática total possa diminuir.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003538,
+   "descricao": "<p>Paciente 61 anos, com diagnóstico radiológico de meningioma frontal de 4 cm, apresentando extenso edema perilesional na RM, caracterizado por hipersinal em T2/FLAIR ao redor da lesão, associado a efeito de massa e discreto desvio da linha média. Encaminhado para craniotomia eletiva em 5 dias. O neurocirurgião prescreve dexametasona no pré-operatório. Sobre a fisiopatologia desse edema e a racionalidade da corticoterapia, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035381,
+     "letra": "A",
+     "descricao": "Trata-se de edema citotóxico, decorrente de acúmulo de água intracelular por falência da bomba Na⁺/K⁺-ATPase, tipicamente associado a isquemia e hipóxia; a dexametasona não possui ação comprovada de estabilização direta da membrana neuronal nesse tipo de edema.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035382,
+     "letra": "B",
+     "descricao": "Trata-se de edema vasogênico, decorrente de disfunção da barreira hematoencefálica com extravasamento de plasma para o espaço extracelular, processo típico de tumores cerebrais; a dexametasona reduz especificamente esse tipo de edema, ao restaurar a integridade das junções endoteliais.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035383,
+     "letra": "C",
+     "descricao": "Trata-se de edema intersticial, decorrente de obstrução da drenagem liquórica normal com migração de líquor para o parênquima periventricular, achado típico de hidrocefalia; a dexametasona não atua reduzindo a produção liquórica pelo plexo coroide nesse contexto.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035384,
+     "letra": "D",
+     "descricao": "Independentemente do tipo de edema cerebral envolvido, citotóxico, vasogênico ou intersticial, a dexametasona apresenta eficácia terapêutica comparável e uniforme sobre os três mecanismos fisiopatológicos descritos na literatura.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003539,
+   "descricao": "<p>O MUF (Modified Ultrafiltration) é amplamente utilizado em cirurgias cardíacas pediátricas e neonatais com diversos benefícios descritos. Seu uso está associado a melhora da reatividade vascular pulmonar, principalmente em bebês menores de 6 meses que possuem elevada reatividade. A melhora da reatividade vascular pulmonar após circulação extracorpórea nestes pacientes é devida a remoção de qual mediador inflamatório em específico?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035391,
+     "letra": "A",
+     "descricao": "Interleucina-6",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035392,
+     "letra": "B",
+     "descricao": "Endotelina-1",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035393,
+     "letra": "C",
+     "descricao": "Interleucina-8",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035394,
+     "letra": "D",
+     "descricao": "Complemento-C3a",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003540,
+   "descricao": "<p>Durante o planejamento anestésico para uma cirurgia cardíaca com CEC (Circulação Extracorpórea), a equipe deseja induzir pré-condicionamento farmacológico com sevoflurano antes do clampeamento aórtico. Qual estratégia de administração abaixo está mais alinhada ao mecanismo fisiológico do pré-condicionamento e demonstra maior benefício cardioprotetor?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035401,
+     "letra": "A",
+     "descricao": "Administração intermitente de sevoflurano a 1 CAM por 5 minutos, intercalada por períodos de lavagem (washout) de 5 minutos, iniciada antes do início da circulação extracorpórea.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20035402,
+     "letra": "B",
+     "descricao": "Administração contínua de sevoflurano a 1 CAM durante toda a fase pré-CEC, mantendo concentração alveolar estável e ininterrupta até o momento do clampeamento aórtico, para garantir exposição miocárdica constante ao agente volátil.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035403,
+     "letra": "C",
+     "descricao": "Administração de sevoflurano em concentração elevada (2 CAM) por curto período imediatamente antes da esternotomia, seguida de suspensão completa do agente até o início do clampeamento aórtico, evitando exposição prolongada e efeitos hemodinâmicos indesejados.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035404,
+     "letra": "D",
+     "descricao": "Administração de sevoflurano em concentração subanestésica constante durante toda a fase pré-CEC, sem qualquer interrupção, para manter sinalização protetora intracelular ininterrupta e evitar períodos de vulnerabilidade miocárdica entre as doses.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003541,
+   "descricao": "<p>Paciente do sexo masculino, 54 anos, submetido &agrave; craniotomia de fossa posterior para ressec&ccedil;&atilde;o de tumor cerebelar, realizada em posi&ccedil;&atilde;o sentada. O intraoperat&oacute;rio transcorreu sem intercorr&ecirc;ncias aparentes. No p&oacute;s-operat&oacute;rio o paciente evoluiu cefaleia intensa, agita&ccedil;&atilde;o psicomotora e rebaixamento do n&iacute;vel de consci&ecirc;ncia progressivo. A tomografia computadorizada de cr&acirc;nio realizada evidenciou a seguinte imagem: Com base no quadro cl&iacute;nico e no achado tomogr&aacute;fico, o diagn&oacute;stico mais prov&aacute;vel &eacute;:</p> <p><img src=\"data/imagens/9b1bf0a08ea5ffda.png\" alt=\"\"></p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035411,
+     "letra": "A",
+     "descricao": "Hematoma subdural agudo.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035412,
+     "letra": "B",
+     "descricao": "Edema cerebral difuso pós-operatório.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035413,
+     "letra": "C",
+     "descricao": "Pneumoencéfalo.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035414,
+     "letra": "D",
+     "descricao": "Hidrocefalia aguda obstrutiva.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003542,
+   "descricao": "<p>Uma criança de 06 anos, 22Kg é admitida para ressecção de tumor de fossa posterior. Apresenta cefaléia, vômitos recorrentes e papiledema. A ressonância magnética evidencia hidrocefalia obstrutiva associada à lesão. Na avaliação pré-anestésica encontra-se sonolenta, porém despertável, hemodinamicamente estável e com acesso venoso periférico. Em relação ao manejo anestésico dessa criança, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035421,
+     "letra": "A",
+     "descricao": "A hipercapnia moderada deve ser mantida pois melhora a pressão de perfusão cerebral.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035422,
+     "letra": "B",
+     "descricao": "O emprego do ácido tranexâmico é contraindicado pois pode desencadear convulsões.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035423,
+     "letra": "C",
+     "descricao": "A elevação da cabeça facilita a drenagem venosa e do líquido cefalorraquidiano e não aumenta a incidência de embolia aérea.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035424,
+     "letra": "D",
+     "descricao": "A intubação traqueal deve ser mantida no pós-operatório quando houver edema localizado que obstrui a denagem do liquor e causar hidrocefalia.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003543,
+   "descricao": "<p>Durante o planejamento anest&eacute;sico de um paciente de 60 anos submetido a uma ressec&ccedil;&atilde;o de tumor espinhal complexo, a equipe cir&uacute;rgica prop&otilde;e a ado&ccedil;&atilde;o de hipotens&atilde;o deliberada para controle do sangramento. Considerando o impacto da hipotens&atilde;o sustentada sobre a microcircula&ccedil;&atilde;o e a integridade do sistema nervoso, qual das alternativas descreve a estrat&eacute;gia de monitoriza&ccedil;&atilde;o hemodin&acirc;mica e neurol&oacute;gica mais indicada para mitigar os riscos dessa interven&ccedil;&atilde;o?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035431,
+     "letra": "A",
+     "descricao": "Aferição não invasiva da pressão arterial em intervalos fixos de 3 minutos, medida que se correlaciona fidedignamente com a perfusão microvascular medular na ausência de capnografia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035432,
+     "letra": "B",
+     "descricao": "Monitorização da Pressão Venosa Central (PVC) de forma isolada, atuando como o preditor dinâmico mais acurado para a adequação do fluxo sanguíneo medular e cerebral intraoperatório.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035433,
+     "letra": "C",
+     "descricao": "Utilização do wake-up test rotineiramente a cada hora cirúrgica, dispensando a necessidade de monitorização contínua por potenciais evocados caso o paciente mantenha tônus motor preservado.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035434,
+     "letra": "D",
+     "descricao": "Monitorização invasiva da pressão arterial sistêmica combinada aos potenciais evocados motores e somatossensitivos, permitindo reajustar imediatamente o limite inferior da pressão arterial caso haja queda na amplitude dos sinais.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003544,
+   "descricao": "<p>Um homem de 68 anos, IMC 21 kg/m², é submetido à colectomia aberta sob anestesia geral balanceada. Após 45 minutos da indução da anestesia, sua temperatura central diminui de 36,8°C para 35,7°C, apesar de perdas sanguíneas mínimas e infusão limitada de fluidos. O mecanismo mais provável responsável pela maior parte dessa queda inicial da temperatura é:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035441,
+     "letra": "A",
+     "descricao": "Redução do metabolismo basal induzida pela anestesia.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035442,
+     "letra": "B",
+     "descricao": "Perda de calor por evaporação da ferida operatória.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035443,
+     "letra": "C",
+     "descricao": "Redistribuição interna de calor do compartimento central para o periférico.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035444,
+     "letra": "D",
+     "descricao": "Perda de calor respiratória.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003545,
+   "descricao": "<p>Avalie os seguintes cen&aacute;rios cl&iacute;nicos: Antes da reposi&ccedil;&atilde;o vol&ecirc;mica, do uso de f&aacute;rmacos vasoativos e da ventila&ccedil;&atilde;o mec&acirc;nica, quatro pacientes sem doen&ccedil;a cardiopulmonar cr&ocirc;nica apresentam sinais de hipoperfus&atilde;o:</p> <p>Paciente I: infarto agudo anterior extenso, hipotens&atilde;o e edema agudo de pulm&atilde;o.</p> <p>Paciente II: pneumonia grave, febre, extremidades aquecidas e press&atilde;o de pulso ampla.</p> <p>Paciente III: hemorragia digestiva ativa, palidez, sudorese e extremidades frias.</p> <p>Paciente IV: dispneia s&uacute;bita no p&oacute;s-operat&oacute;rio, turg&ecirc;ncia jugular e campos pulmonares limpos.</p> <p>Considerando &iacute;ndice card&iacute;aco (IC), resist&ecirc;ncia vascular sist&ecirc;mica (RVS), press&atilde;o venosa central (PVC) e press&atilde;o de oclus&atilde;o da art&eacute;ria pulmonar (POAP), assinale a alternativa que apresenta os perfis hemodin&acirc;micos mais prov&aacute;veis. Legenda: &darr; = diminu&iacute;do; &uarr; = aumentado; N = normal.</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035451,
+     "letra": "A",
+     "descricao": "I: IC↓, RVS↑ e POAP↓;II: IC↑, RVS↓ e POAP↑;III: IC↓, RVS↑ e POAP↑;IV: IC↓, RVS↑, PVC↓ e POAP↑.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035452,
+     "letra": "B",
+     "descricao": "I: IC↓, RVS↑ e POAP↑;II: IC↑, RVS↓ e POAP N/↓;III: IC↓, RVS↑ e POAP↓;IV: IC↓, RVS↑, PVC↑ e POAP N/↓.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035453,
+     "letra": "C",
+     "descricao": "I: IC↑, RVS↓ e POAP↑;II: IC↓, RVS↑ e POAP N/↓;III: IC↑, RVS↓ e POAP↓;IV: IC↓, RVS↓, PVC↑ e POAP↑.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035454,
+     "letra": "D",
+     "descricao": "I: IC↓, RVS↓ e POAP↑;II: IC↑, RVS↑ e POAP N/↓;III: IC↓, RVS↓ e POAP↓;IV: IC↑, RVS↑, PVC↓ e POAP N/↓.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003546,
+   "descricao": "<p>No manejo inicial da Síndrome da Resposta Inflamatória Sistêmica (SIRS) associada à suspeita de sepse, assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035461,
+     "letra": "A",
+     "descricao": "O início da antibioticoterapia deve aguardar confirmação microbiológica do agente infeccioso.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035462,
+     "letra": "B",
+     "descricao": "A ressuscitação volêmica inicial com cristaloides balanceados constitui medida fundamental na presença de hipoperfusão tecidual.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035463,
+     "letra": "C",
+     "descricao": "Vasopressores devem ser iniciados antes da expansão volêmica inicial.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035464,
+     "letra": "D",
+     "descricao": "A dosagem sérica de lactato não possui utilidade na avaliação prognóstica do paciente séptico.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003547,
+   "descricao": "<p>Um paciente de 64 anos, internado por pneumonia grave, evolui com choque séptico de foco abdominal e é submetido a laparotomia exploradora. Após reposição volêmica inicial, apresenta pressão arterial média de 75mmHg com uso de noradrenalina. O ecocardiograma mostra ventrículo esquerdo hiperdinâmico, e a monitorização hemodinâmica demonstra débito cardíaco 10,0 L/min. Nas horas subsequentes evolui com hipoxemia progressiva, oligúria, trombocitopenia e persistência da hiperlactatemia. Qual mecanismo fisiopatológico melhor explica esta evolução?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035471,
+     "letra": "A",
+     "descricao": "Depressão miocárdica séptica, com redução global do transporte de oxigênio secundária à diminuição da contratilidade ventricular esquerda.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035472,
+     "letra": "B",
+     "descricao": "Disfunção endotelial e ativação pró-coagulante, com formação de microtrombos, distribuição heterogênea do fluxo e comprometimento da extração e utilização celular de oxigênio.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035473,
+     "letra": "C",
+     "descricao": "Aumento glicólise aeróbica induzida por catecolaminas, responsável simultaneamente pela hiperlactatemia e pelas disfunções pulmonar, renal e hematológica.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035474,
+     "letra": "D",
+     "descricao": "Redução do tempo de trânsito capilar causada pelo débito cardíaco elevado, produzindo limitação difusional sistêmica de oxigênio apesar da integridade da microcirculação.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003548,
+   "descricao": "<p>Homem de 83 anos, ASA III, hipertenso, será submetido à colectomia eletiva sob anestesia geral. Apresenta capacidade funcional de 5 METs, creatinina sérica de 1,0 mg/dL e ECG com discreto prolongamento do intervalo PR. Após a indução anestésica com propofol, fentanil e rocurônio, evolui com hipotensão arterial importante, discreta bradicardia e necessidade de doses repetidas de vasopressores. Considerando as alterações fisiológicas do envelhecimento, a principal explicação para esse quadro é:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035481,
+     "letra": "A",
+     "descricao": "Redução da volemia fisiológica e preservação da resposta cronotrópica, permitindo compensação da vasodilatação induzida pelos anestésicos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035482,
+     "letra": "B",
+     "descricao": "Redução da complacência arterial e ventricular, menor resposta cronotrópica e inotrópica aos estímulos β-adrenérgicos, lentificação do reflexo barorreceptor e maior dependência da contração atrial para o enchimento ventricular.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035483,
+     "letra": "C",
+     "descricao": "Redução fisiológica da albumina plasmática e diminuição da pressão oncótica, potencializando a vasodilatação causada pelos anestésicos.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035484,
+     "letra": "D",
+     "descricao": "Redução predominante do metabolismo hepático de fase II, aumentando a potência dos hipnóticos intravenosos e justificando a instabilidade hemodinâmica.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003549,
+   "descricao": "<p>Paciente de 80 anos, hipertenso e diabético tipo 2, apresenta episódios flutuantes de agitação psicomotora, confusão mental e alucinações nas primeiras 48 horas do pós-operatório de osteossíntese de fêmur proximal esquerdo e de rádio direito após atropelamento. Assinale a alternativa correta:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035491,
+     "letra": "A",
+     "descricao": "O diagnóstico de demência aguda é o mais provável devido à idade e à característica abrupta e flutuante do evento;",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035492,
+     "letra": "B",
+     "descricao": "O diagnóstico de disfunção cognitiva pós-operatória leve (DCPO) neste paciente pode ser confirmado após a aplicação do Miniexame do Estado Mental (Mini-Mental);",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035493,
+     "letra": "C",
+     "descricao": "O diagnóstico de transtorno neurocognitivo maior é o mais provável após a exclusão de hipoglicemia e distúrbios hidreletrolíticos;",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035494,
+     "letra": "D",
+     "descricao": "O diagnóstico clínico de delirium pós-operatório é o mais provável e pode ser corroborado após a aplicação do teste de CAM (Confusion Assessment Method).",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003550,
+   "descricao": "<p>Você foi escalado para anestesiar um recém-nascido (RN) de 12 horas para uma drenagem torácica, nascido de parto cesáreo, gestação gemelar com 32 semanas de idade gestacional. O cartão de pré-natal revela que com 25 semanas de idade gestacional a paciente passou por procedimento de fotocoagulação fetoscópica seletiva a laser (Selective Fetoscopic Laser Photocoagulation SFLP). O RN que será submetido a drenagem torácica é classificado como \"o receptor\" do quadro descrito acima. Diante do exposto podemos afirmar que:</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035501,
+     "letra": "A",
+     "descricao": "A oligúria e hipovolemia podem estar presente neste RN.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035502,
+     "letra": "B",
+     "descricao": "Este quadro é mais frequente em gestações dicoriônicas.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20035503,
+     "letra": "C",
+     "descricao": "Este RN está sujeito ao desenvolvimento de cardiomiopatia hipertrófica.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20035504,
+     "letra": "D",
+     "descricao": "A redução de glóbulos vermelhos pode ser uma manifestação neste RN.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2003551,
+   "descricao": "<p>RN pré-termo de 29 semanas, peso estimado 1.200 g, permanece com FC 90 bpm e respiração irregular após os passos iniciais, sendo indicada VPP (Ventilação com Pressão Positiva). A ventilação com máscara facial é iniciada, mas não há melhora após correção da técnica. Qual a interface subsequente apropriada e por quê?</p>",
+   "ano": "2026",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20035511,
+     "letra": "A",
+     "descricao": "Máscara laríngea neonatal, pois esse dispositivo está validado para uso em qualquer idade gestacional quando a ventilação com máscara facial falha.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20035512,
+     "letra": "B",
+     "descricao": "Cânula traqueal, pois nesse peso a máscara laríngea neonatal não está indicada, sendo esta reservada a RN ≥ 34 semanas gestacional e/ou peso estimado ≥ 2.000 g.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20035513,
+     "letra": "C",
+     "descricao": "Cânula traqueal, pois a manutenção de FC <100 bpm após a correção da técnica já caracteriza o critério de falha que indica intubação associada ao início da massagem cardíaca coordenada.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20035514,
+     "letra": "D",
+     "descricao": "Máscara laríngea neonatal, pois seu menor espaço morto reduz o risco de hipotermia nesse grupo de maior superfície corporal relativa.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME3 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "prova": {
+  "slug": "sba-tsa-2025",
+  "banca": "SBA",
+  "concurso": "TSA",
+  "titulo": "TSA 2025",
+  "ano": "2025",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006369,
+   "descricao": "<p>Paciente sexo masculino, 67 anos, ser&aacute; submetido a esplenectomia emergencial devido acidente automobil&iacute;stico. Apresentava na admiss&atilde;o PA 95/64 mm Hg, FC 112 bpm, Sat 96% em AA. Hemoglobina pr&eacute;-operat&oacute;ria era 8,5 g/dL. A cirurgia durou cerca de 2h40. Sobre esse caso responda qual &eacute; o risco de complica&ccedil;&otilde;es pulmonares no p&oacute;s-operat&oacute;rio?</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063691,
+     "letra": "A",
+     "descricao": "Risco alto (30%)",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063692,
+     "letra": "B",
+     "descricao": "Risco alto (40%)",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063693,
+     "letra": "C",
+     "descricao": "Risco intermediário (10%)",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063694,
+     "letra": "D",
+     "descricao": "Risco intermediário (20%)",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006370,
+   "descricao": "<p>Um paciente &eacute; admitido no centro cir&uacute;rgico para a realiza&ccedil;&atilde;o de uma artroplastia total de joelho em car&aacute;ter eletivo. O anestesiologista constata que n&atilde;o houve avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica pr&eacute;via e o paciente relata desconhecer os riscos associados ao ato anest&eacute;sico-cir&uacute;rgico, n&atilde;o tendo assinado termo de consentimento. O cirurgi&atilde;o respons&aacute;vel insiste na realiza&ccedil;&atilde;o imediata da cirurgia, recusando-se a remarcar o procedimento e oferecendo-se para assumir a responsabilidade por meio de coassinatura. Diante desse cen&aacute;rio e com base na regulamenta&ccedil;&atilde;o &eacute;tica e legal vigente, assinale a conduta CORRETA.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063701,
+     "letra": "A",
+     "descricao": "Suspender o procedimento até que as falhas sejam sanadas, rejeitando a demanda do cirurgião.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063702,
+     "letra": "B",
+     "descricao": "Prosseguir com o ato anestésico para evitar atritos, documentando detalhadamente a imposição da equipe.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063703,
+     "letra": "C",
+     "descricao": "Realizar a anestesia após a coassinatura do cirurgião no prontuário, responsabilizando-o legalmente caso necessário.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063704,
+     "letra": "D",
+     "descricao": "Realizar anestesia e preencher a avaliação retrospectivamente, garantindo que o paciente assine o termo de consentimento ao despertar.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006371,
+   "descricao": "<p>Sobre a avalia&ccedil;&atilde;o pr&eacute;-operat&oacute;ria do &Iacute;ndice de Risco Card&iacute;aco Revisado (IRCR), assinale a alternativa correta:&nbsp;</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063711,
+     "letra": "A",
+     "descricao": "Diabetes tipo II eleva a pontuação do IRCR",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063712,
+     "letra": "B",
+     "descricao": "Uma capacidade funcional < 4 METS eleva a pontuação do IRCR",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063713,
+     "letra": "C",
+     "descricao": "Um IRCR ≥ 1 é um critério para dosagem de biomarcadores cardíacos",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063714,
+     "letra": "D",
+     "descricao": "Pacientes com IRCR > 1 devem ser submetidos a avaliação de ecocardiograma com esforço",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006372,
+   "descricao": "<p>Voc&ecirc; &eacute; o anestesiologista escalado para um procedimento eletivo sob anestesia geral em uma institui&ccedil;&atilde;o rec&eacute;m-inaugurada. Ao chegar, constata que o hospital n&atilde;o disp&otilde;e de Sala de Recupera&ccedil;&atilde;o P&oacute;s-Anest&eacute;sica (SRPA).</p> <p>A rotina imposta pela chefia cir&uacute;rgica determina que a recupera&ccedil;&atilde;o ocorra na pr&oacute;pria sala de cirurgia, com transfer&ecirc;ncia do paciente diretamente para o andar de interna&ccedil;&atilde;o quinze minutos ap&oacute;s o t&eacute;rmino do procedimento.</p> <p>Diante das normativas de seguran&ccedil;a do Conselho Federal de Medicina, indique a conduta m&eacute;dica CORRETA.</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063721,
+     "letra": "A",
+     "descricao": "Operar desde que o paciente assine o termo de ciência.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063722,
+     "letra": "B",
+     "descricao": "Prosseguir com a cirurgia e assumir a vigilância clínica na enfermaria.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063723,
+     "letra": "C",
+     "descricao": "Realizar a técnica proposta e prescrever aferição de sinais vitais no leito.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063724,
+     "letra": "D",
+     "descricao": "Suspender o procedimento eletivo e relatar a ausência estrutural ao médico diretor técnico.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006373,
+   "descricao": "<p>Assinale a opção a seguir que apresenta uma contra indicação a realização de facoemulsificação ambulatorial:</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063731,
+     "letra": "A",
+     "descricao": "Paciente submetido à angioplastia com stent metálico há 42 dias.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063732,
+     "letra": "B",
+     "descricao": "Hipertenso controlado com lesão de órgão alvo: DRC e AVC prévio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063733,
+     "letra": "C",
+     "descricao": "Paciente submetido à angioplastia sem stent devido IAM há 12 dias.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063734,
+     "letra": "D",
+     "descricao": "Paciente assintomático com história de infarto agudo do miocárdio Killip I há 76 dias.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006374,
+   "descricao": "<p>Um paciente de 55 anos apresenta-se para colecistectomia videolaparosc&oacute;pica eletiva. Ao revisar o prontu&aacute;rio antes do procedimento, o registro &eacute; rico em informa&ccedil;&otilde;es e o termo de consentimento para a cirurgia foi assinado, mas o anestesiologista constata que n&atilde;o h&aacute; registro de avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica. Segundo as normas vigentes para a pr&aacute;tica do ato anest&eacute;sico no Brasil, assinale melhor alternativa, dentre as apresentadas:</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063741,
+     "letra": "A",
+     "descricao": "Manter o paciente no ambiente hospitalar e concluir a avaliação antes do encaminhamento ao centro cirúrgico.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063742,
+     "letra": "B",
+     "descricao": "Como o paciente já possui avaliação detalhada e termo de consentimento cirúrgico assinado, prosseguir com a anestesia.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063743,
+     "letra": "C",
+     "descricao": "Por ser um procedimento eletivo, suspender a cirurgia e indicar avaliação pré-anestésica em consultório para investigação oportuna.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063744,
+     "letra": "D",
+     "descricao": "Admitir o paciente em sala operatória, mas realizar sua avaliação na própria sala de cirurgia, antes da monitorização e indução anestésica.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006375,
+   "descricao": "<p>O gestor de uma unidade de anestesia recebe relatos documentados de mudan&ccedil;as comportamentais e inconsist&ecirc;ncias no uso de medicamentos por um anestesiologista escalado para o centro cir&uacute;rgico. N&atilde;o h&aacute; confirma&ccedil;&atilde;o laboratorial nem admiss&atilde;o de uso de subst&acirc;ncias. A abordagem inicial mais apropriada &eacute;:</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063751,
+     "letra": "A",
+     "descricao": "Afastar da atividade assistencial, garantir confidencialidade, providenciar avaliação médica especializada e de aptidão profissional.",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063752,
+     "letra": "B",
+     "descricao": "Afastá-lo temporariamente da assistência e solicitar toxicologia ampliada. Aguardar o resultado para definir a necessidade de outras intervenções.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063753,
+     "letra": "C",
+     "descricao": "Afastá-lo temporariamente da assistência e realizar avaliação ocupacional interna, condicionando o encaminhamento especializado à confirmação de abuso.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063754,
+     "letra": "D",
+     "descricao": "Afastá-lo temporariamente da assistência e encaminhá-lo ao conselho profissional, que deve assumir a condução dos procedimento subsequentes como entidade imparcial.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006376,
+   "descricao": "<p>Uma institui&ccedil;&atilde;o hospitalar pretende solicitar credenciamento para oferecer treinamento especializado em anestesiologia. Ao revisar a proposta, a comiss&atilde;o avalia a composi&ccedil;&atilde;o do corpo cl&iacute;nico, a qualifica&ccedil;&atilde;o da coordena&ccedil;&atilde;o, a experi&ecirc;ncia pr&aacute;tica e os encargos atribu&iacute;dos aos m&eacute;dicos em treinamento. Qual requisito est&aacute; corretamente formulado?</p>",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063761,
+     "letra": "A",
+     "descricao": "O programa deve oferecer, em cada ano, no mínimo 900 horas de treinamento e 400 procedimentos cirúrgicos.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063762,
+     "letra": "B",
+     "descricao": "O serviço deve ter ao menos três portadores do TSA, um deles com qualificação suficiente para assumir a coordenação.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063763,
+     "letra": "C",
+     "descricao": "Deve haver, obrigatoriamente, no mínimo um portador do Título Superior em Anestesiologia para cada três médicos em treinamento.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063764,
+     "letra": "D",
+     "descricao": "O CET pode cobrar do médico em especialização taxas administrativas vinculadas à vaga, desde que não tenham natureza remuneratória.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006377,
+   "descricao": "<p>Na revis&atilde;o do planejamento estrat&eacute;gico de um hospital universit&aacute;rio, a dire&ccedil;&atilde;o prop&otilde;e concentrar docentes e recursos da anestesiologia na assist&ecirc;ncia intraoperat&oacute;ria, encerrando as demais atividades do departamento. O coordenador da resid&ecirc;ncia apresenta a figura abaixo para discutir o impacto dessa escolha sobre o futuro da especialidade.</p> <p>&Agrave; luz da met&aacute;fora representada na figura, qual interpreta&ccedil;&atilde;o melhor descreve o impacto dessa estrat&eacute;gia sobre o escopo da anestesiologia?</p> <img src=\"data/imagens/97a2f3ce45197eb6.png\" alt=\"\">",
+   "ano": "2025",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063771,
+     "letra": "A",
+     "descricao": "O polvo amputado simboliza a fragmentação da anestesiologia em subespecialidades independentes, com redução progressiva da identidade profissional comum.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063772,
+     "letra": "B",
+     "descricao": "O polvo amputado simboliza a concentração deliberada da formação no intraoperatório, preservando competências essenciais e reduzindo dispersão profissional.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063773,
+     "letra": "C",
+     "descricao": "O polvo amputado simboliza a limitação do anestesiologista ao ambiente intraoperatório, com perda de participação em outras áreas integráveis à especialidade.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063774,
+     "letra": "D",
+     "descricao": "O polvo amputado simboliza a perda de autonomia do anestesiologista no centro cirúrgico, enquanto o polvo íntegro representa ampliação da autoridade institucional.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,2180 @@
+{
+ "prova": {
+  "slug": "sba-me1-anual-2003",
+  "banca": "SBA",
+  "concurso": "ME1 anual",
+  "titulo": "ME1 anual 2003",
+  "ano": "2003",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2000125,
+   "descricao": "<p>Sobre a responsabilidade do Médico Anestesiologista, assinale a alternativa correta:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001251,
+     "letra": "A",
+     "descricao": "A responsabilidade do médico anestesista é uma obrigação de resultado, em que o contratado se obriga a produzir um determinado resultado",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001252,
+     "letra": "B",
+     "descricao": "Médico anestesista que assina um contrato de prestação de serviços médicos em troca do recebimento de honorários assume o risco, em caso de insucesso do tratamento, ver-se diante de um processo em que sua culpa é presumida",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001253,
+     "letra": "C",
+     "descricao": "Quando atende a um enfermo o médico não estabelece com ele um contrato de responsabilidade médica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001254,
+     "letra": "D",
+     "descricao": "A responsabilidade do médico anestesista pelo mau resultado poderá ocorrer quando se caracterizar o dolo, resultante de ação ou omissão voluntária de uma obrigação que lhe competia executar",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000126,
+   "descricao": "<p>Qual das alternativas abaixo representa uma afirmação verdadeira sobre prevenção de infecções em anestesiologistas na Sala de Operações e na Sala de Recuperação Pós-Anestésica:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001261,
+     "letra": "A",
+     "descricao": "A principal estratégia de prevenção da hepatite B é a vacinação que produz anticorpos em 99, 99% dos adultos vacinados",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001262,
+     "letra": "B",
+     "descricao": "A utilização de luvas duplas não tem utilidade como precaução universal",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001263,
+     "letra": "C",
+     "descricao": "A possibilidade de contágio com HIV após uma exposição percutânea é 100 vezes menor que a possibilidade de contrair o vírus da hepatite B",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001264,
+     "letra": "D",
+     "descricao": "Após a exposição ao vírus da hepatite C é recomendada a administração de imunoglobulina hiperimune",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000127,
+   "descricao": "<p>O fenômeno da excitação saltatória na condução dos impulsos nervosos:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001271,
+     "letra": "A",
+     "descricao": "Os nódulos de Ranvier funcionam como barreira ao fluxo iônico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001272,
+     "letra": "B",
+     "descricao": "Os nódulos de Ranvier são estruturas anatômicas responsáveis por tal fenômeno",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001273,
+     "letra": "C",
+     "descricao": "É responsável pela diminuição na velocidade de condução do impulso nervoso",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001274,
+     "letra": "D",
+     "descricao": "O metabolismo adicional necessário para o restabelecimento das concentrações de sódio e potássio pré-excitatórias é grande",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000128,
+   "descricao": "<p>Com relação aos neurotransmissores do sistema nervoso central (SNC):</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001281,
+     "letra": "A",
+     "descricao": "A serotonina é um neurotransmissor excitatório presente em altas concentrações no cérebro que exerce efeitos sobre o humor e o comportamento",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001282,
+     "letra": "B",
+     "descricao": "A glicina é um neurotransmissor inibitório na medula espinhal, que aumenta a condutância do íon cloreto",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001283,
+     "letra": "C",
+     "descricao": "O glutamato é um aminoácido que age como neurotransmissor inibitório no sistema nervoso central",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001284,
+     "letra": "D",
+     "descricao": "a resposta à noradrenalina no sistema nervoso central é excitatória.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000129,
+   "descricao": "<p>Controle neural da ventilação:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001291,
+     "letra": "A",
+     "descricao": "os quimiorreceptores centrais localizados no bulbo são sensíveis ao CO2 dissolvido do líquor",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001292,
+     "letra": "B",
+     "descricao": "as respostas ventilatórias desencadeadas por alterações na PaCO2 são de início precoce (1-2 minutos)",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001293,
+     "letra": "C",
+     "descricao": "PaCO2 ao redor de 75 mmHg apresenta efeito depressor do sistema nervoso central, inclusive com diminuição paradoxal da ventilação",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001294,
+     "letra": "D",
+     "descricao": "na hipoxemia os receptores periféricos são mais sensíveis à ação dos anestésicos inalatórios do que os receptores centrais.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000130,
+   "descricao": "<p>Dos reflexos cardíacos abaixo citados, qual deles ocorre por ativação dos mecanorreceptores da parede ventricular esquerda, determinando aumento do tônus parassimpático?</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001301,
+     "letra": "A",
+     "descricao": "Reflexo barorreceptor",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001302,
+     "letra": "B",
+     "descricao": "Reflexo de Bainbridge",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001303,
+     "letra": "C",
+     "descricao": "Reflexo de Cushing",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001304,
+     "letra": "D",
+     "descricao": "Reflexo de Bezold-Jarisch",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000131,
+   "descricao": "<p><strong>Quest&atilde;o Adaptada</strong></p> <p>Eletrofisiologia das c&eacute;lulas do mioc&aacute;rdio:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001311,
+     "letra": "A",
+     "descricao": "Durante a fase 2, a saída lenta do Ca+2 leva ao prolongamento do potencial de ação",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001312,
+     "letra": "B",
+     "descricao": "A ativação dos canais de K+ também dá início a fase 3, além da fase 1",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001313,
+     "letra": "C",
+     "descricao": "Período refratário absoluto corresponde ao intervalo P-R",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001314,
+     "letra": "D",
+     "descricao": "A despolarização das células corresponde à saída de Na e entrada de K+",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000132,
+   "descricao": "<p>Desvantagem da solução de glicina a 1,5% como líquido de irrigação na ressecção transuretral da próstata (RTU):</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001321,
+     "letra": "A",
+     "descricao": "Diminuição da concentração de amônia sanguínea",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001322,
+     "letra": "B",
+     "descricao": "Hiperglicemia e Acidose Metabólica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001323,
+     "letra": "C",
+     "descricao": "Desidratação e hiperosmolaridade sangüínea",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001324,
+     "letra": "D",
+     "descricao": "Distúrbios visuais transitórios",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000133,
+   "descricao": "<p>A alcalose metabólica pode causar:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001331,
+     "letra": "A",
+     "descricao": "Diminui o aparecimento de arritmia cardíaca",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001332,
+     "letra": "B",
+     "descricao": "Aumenta o cálcio ionizado e o potássio séricos",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001333,
+     "letra": "C",
+     "descricao": "Facilita o aparecimento de atelectasia",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001334,
+     "letra": "D",
+     "descricao": "Diminui a toxicidade da digoxina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000134,
+   "descricao": "<p>Tratamento de escolha para hipercalemia grave (K+ sérico maior que 7 mEq.L-1) com alteração no ECG em situação de emergência:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001341,
+     "letra": "A",
+     "descricao": "Diuréticos de alça endovenosos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001342,
+     "letra": "B",
+     "descricao": "Beta 2-agonista",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001343,
+     "letra": "C",
+     "descricao": "Cloreto de cálcio venoso",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001344,
+     "letra": "D",
+     "descricao": "Diálise peritoneal",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000135,
+   "descricao": "<p>Na cetoacidose:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001351,
+     "letra": "A",
+     "descricao": "A terapia com insulina diminui o nível de potássio plasmático",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001352,
+     "letra": "B",
+     "descricao": "Alta dose de insulina regulariza sempre a glicemia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001353,
+     "letra": "C",
+     "descricao": "Em cirurgia de emergência, é inútil tentar qualquer medida para compensar previamente o paciente",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001354,
+     "letra": "D",
+     "descricao": "Aumento do fósforo no organismo é decorrente do catabolismo tecidual",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000136,
+   "descricao": "<p>A insulina provoca:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001361,
+     "letra": "A",
+     "descricao": "Aumento da síntese de glicogênio no fígado e na musculatura esquelética",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001362,
+     "letra": "B",
+     "descricao": "Proteólise e Glicogenólise",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001363,
+     "letra": "C",
+     "descricao": "Diminuição da captação de ácidos graxos pelo tecido adiposo",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001364,
+     "letra": "D",
+     "descricao": "Diminuição da captação de aminoácidos pelo músculo esquelético",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000137,
+   "descricao": "<p>Em pacientes fazendo uso de inibidores da monoaminaoxidase (IMAO) é contra-indicado (a):</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001371,
+     "letra": "A",
+     "descricao": "rocurônio",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001372,
+     "letra": "B",
+     "descricao": "morfina",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001373,
+     "letra": "C",
+     "descricao": "midazolam",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001374,
+     "letra": "D",
+     "descricao": "meperidina",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000138,
+   "descricao": "<p>Classe de Mallampati quando somente o palato mole e a base da úvula são visíveis:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001381,
+     "letra": "A",
+     "descricao": "I",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001382,
+     "letra": "B",
+     "descricao": "II",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001383,
+     "letra": "C",
+     "descricao": "III",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001384,
+     "letra": "D",
+     "descricao": "IV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000139,
+   "descricao": "<p>Sobre a pressão de vapor de um agente anestésico inalatório:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001391,
+     "letra": "A",
+     "descricao": "Está relacionada à volatilidade do líquido",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001392,
+     "letra": "B",
+     "descricao": "Será menor quanto maior for a temperatura",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001393,
+     "letra": "C",
+     "descricao": "Depende da pressão atmosférica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001394,
+     "letra": "D",
+     "descricao": "A pressão máxima é impossível de ser atingida no vaporizador",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000140,
+   "descricao": "<p>Anestésico local e característica relacionada:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001401,
+     "letra": "A",
+     "descricao": "Cloroprocaína - hidrólise mais lenta do que a levobupivacaína",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001402,
+     "letra": "B",
+     "descricao": "Bupivacaína - lipossolubilidade intermediária",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001403,
+     "letra": "C",
+     "descricao": "Lidocaína - maior ligação protéica que a bupivacaína",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001404,
+     "letra": "D",
+     "descricao": "Ropivacaína - ação constritora",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000141,
+   "descricao": "<p>A absorção sistêmica de um anestésico local é maior quando sua injeção é feita na região:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001411,
+     "letra": "A",
+     "descricao": "Caudal",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001412,
+     "letra": "B",
+     "descricao": "Peridural",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001413,
+     "letra": "C",
+     "descricao": "Intercostal",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001414,
+     "letra": "D",
+     "descricao": "Plexo braquial",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000142,
+   "descricao": "<p>Na anestesia peridural:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001421,
+     "letra": "A",
+     "descricao": "o nível de bloqueio simpático é superior ao sensitivo em no máximo 2 dermátomos",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001422,
+     "letra": "B",
+     "descricao": "a ocorrência de hematoma só se manifesta clinicamente após 24 horas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001423,
+     "letra": "C",
+     "descricao": "a queda da freqüência cardíaca é devida, exclusivamente, ao bloqueio das fibras cárdio-aceleradoras",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001424,
+     "letra": "D",
+     "descricao": "as alterações hemodinâmicas são mais intensas na presença de adrenalina na solução do anestésico local",
+     "isResposta": 1,
+     "ordem": 4
+    },
+    {
+     "id": 20001425,
+     "letra": "E",
+     "descricao": "níveis de bloqueio sensitivo em T1 diminuem o fluxo sangüíneo coronariano em torno de 25%.",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000143,
+   "descricao": "<p>Paciente de 70 kg, 1,70 m, principal determinante da extensão do bloqueio peridural:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001431,
+     "letra": "A",
+     "descricao": "densidade da solução anestésica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001432,
+     "letra": "B",
+     "descricao": "concentração do anestésico",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001433,
+     "letra": "C",
+     "descricao": "volume da solução anestésica",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001434,
+     "letra": "D",
+     "descricao": "altura do paciente",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001435,
+     "letra": "E",
+     "descricao": "posição do paciente durante a injeção do anestésico",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000144,
+   "descricao": "<p>No adulto, a punção lombar:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001441,
+     "letra": "A",
+     "descricao": "realizada na linha traçada entre as espinhas ilíacas ântero-superiores, sempre coincide com o interespaço L2-L3",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001442,
+     "letra": "B",
+     "descricao": "apresenta como uma contra-indicação relativa a recusa do paciente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001443,
+     "letra": "C",
+     "descricao": "realizada abaixo de L2 são virtualmente isentas de risco de lesão da medula espinhal",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001444,
+     "letra": "D",
+     "descricao": "realizada através do acesso lateral evita a penetração da agulha nos ligamentos interespinhoso e amarelo, que poderão estar calcificados nos pacientes mais idosos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000145,
+   "descricao": "<p>A colinesterase plasmática:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001451,
+     "letra": "A",
+     "descricao": "está aumentada em hepatopatias",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001452,
+     "letra": "B",
+     "descricao": "hidroliza a acetilcolina rapidamente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001453,
+     "letra": "C",
+     "descricao": "está localizada nos receptores colinérgicos nicotínicos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001454,
+     "letra": "D",
+     "descricao": "hidroliza o mivacúrio e os anestésicos locais do tipo éster (procaína, tetracaína)",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000146,
+   "descricao": "<p>No pós-operatório a hipotermia acompanhada de tremores causa:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001461,
+     "letra": "A",
+     "descricao": "Diminuição da produção de CO2",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001462,
+     "letra": "B",
+     "descricao": "Hipocapnia",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001463,
+     "letra": "C",
+     "descricao": "Aumento da saturação venosa mista de O2",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001464,
+     "letra": "D",
+     "descricao": "Aumento do consumo de O2.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000147,
+   "descricao": "<p>Principais alterações de ritmo associadas à parada cardíaca em adultos e crianças:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001471,
+     "letra": "A",
+     "descricao": "Fibrilação ventricular e assistolia, respectivamente",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001472,
+     "letra": "B",
+     "descricao": "Assistolia e fibrilação ventricular, respectivamente",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001473,
+     "letra": "C",
+     "descricao": "Fibrilação ventricular em ambos",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001474,
+     "letra": "D",
+     "descricao": "Assistolia em ambos",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000148,
+   "descricao": "<p><b>De acordo com a resolução CFM 1363/1993: </b></p><p>A) - O anestesista deve registrar os sinais vitais do paciente em ficha própria durante o ato anestésico </p><p>B) - A decisão da prática do ato anestésico é do anestesiologista e intransferível </p><p>C) - Desfibrilador deve estar disponível para a realização de qualquer ato anestésico </p><p>D) - Todas as consequências do ato anestésico são de responsabilidade do anestesiologista</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001481,
+     "letra": "A",
+     "descricao": "VVVF",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001482,
+     "letra": "B",
+     "descricao": "VFVF",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001483,
+     "letra": "C",
+     "descricao": "FVFV",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001484,
+     "letra": "D",
+     "descricao": "VVVV",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000149,
+   "descricao": "<p><b>O consentimento livre e esclarecido deve ser obtido dos participantes de uma pesquisa. O esclarecimento deve ser feito em linguagem acessível e incluir, necessariamente:</b></p> <p>A. A justificativa, os objetivos e procedimentos que serão utilizados na pesquisa. </p> <p>B. Desconforto, riscos possíveis e os benefícios esperados. </p> <p>C. Os métodos alternativos existentes. </p> <p>D. As formas de indenização diante de eventuais danos decorrentes da pesquisa. </p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001491,
+     "letra": "A",
+     "descricao": "VVVF",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001492,
+     "letra": "B",
+     "descricao": "VFVF",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001493,
+     "letra": "C",
+     "descricao": "FFFV",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001494,
+     "letra": "D",
+     "descricao": "VVVV",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000150,
+   "descricao": "<p>Efeito(s) dos anestésicos sobre a dinâmica de líqüido cefalorraquidiano (LCR): </p><p>1- 1 CAM do halotano reduz a secreção e absorção </p><p>2- o enflurano diminui a secreção e aumenta a absorção </p><p>3- 1 CAM do desflurano não altera a secreção e nem a absorção, porém em hipocapnia aumenta a secreção </p><p>4- o isoflurano e fentanil alteram a secreção, porém produzem diminuição na absorção.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001501,
+     "letra": "A",
+     "descricao": "VVFF",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001502,
+     "letra": "B",
+     "descricao": "VFVF",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001503,
+     "letra": "C",
+     "descricao": "FVFV",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001504,
+     "letra": "D",
+     "descricao": "FFFV",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000151,
+   "descricao": "<p>Com relação à divisão funcional do parênquima pulmonar nas chamadas “Zonas de West”, é correto afirmar que: </p><p>1- existem poucas áreas de zonas I em condições normais de ventilação e perfusão </p><p>2- na hipovolemia pode aumentar as áreas de zona I em detrimento das áreas de zona II, afetando principalmente a eliminação de CO2 </p><p>3- nas áreas de zona II ocorre o melhor equilíbrio entre ventilação e perfusão alveolares </p><p>4- os alvéolos de áreas de zona III possuem pressões parciais de CO2 (PACO2) maiores que os alvéolos da zona I.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001511,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001512,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001513,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001514,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001515,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 1,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000152,
+   "descricao": "<p>Em relação à perfusão coronariana, pode-se afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001521,
+     "letra": "A",
+     "descricao": "É diretamente proporcional ao gradiente de pressão entre a aorta e leito coronariano",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001522,
+     "letra": "B",
+     "descricao": "Não varia com a frequência cardíaca",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001523,
+     "letra": "C",
+     "descricao": "A resistência ao fluxo coronariano reduz com a taquicardia e a hipertensão",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001524,
+     "letra": "D",
+     "descricao": "Os ventrículos direito e esquerdo são perfundidos apenas na diástole.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000153,
+   "descricao": "<p>Sobre a fisiologia da circulação coronariana é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001531,
+     "letra": "A",
+     "descricao": "A maior parte do fluxo sanguíneo na artéria coronária esquerda ocorre na diástole",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001532,
+     "letra": "B",
+     "descricao": "O principal fator determinante do tônus da vasculatura coronariana é a atividade simpática",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001533,
+     "letra": "C",
+     "descricao": "A reserva de fluxo coronariano existe para satisfazer as necessidades de aumento de oxigênio para o miocárdio durante o repouso",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001534,
+     "letra": "D",
+     "descricao": "A pressão parcial de oxigênio no seio coronariano é a maior do corpo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000154,
+   "descricao": "<p>Com relação ao sistema urinário: </p><p>1- baixo débito urinário no período perioperatório não prediz a função renal pós-operatória, se for mantida a volemia </p><p>2- o fluxo sangüíneo renal corresponde 20% a 25% do débito cardíaco em repouso </p><p>3- em pacientes bem hidratados com função renal normal, as prostaglandinas não desempenham papel na regulação do fluxo sangüíneo renal </p><p>4- a taxa normal de filtração glomerular de um adulto é de 60 ml.min-1</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001541,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001542,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001543,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001544,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000155,
+   "descricao": "<p>Entre as assertivas abaixo, está correta:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001551,
+     "letra": "A",
+     "descricao": "Ocorre aumento da secreção de aldosterona quando ocorre aumento do volume intravascular, resultando em aumento de diurese.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001552,
+     "letra": "B",
+     "descricao": "A produção de aldosterona é regulada por alterações de eletrólitos e da volemia.",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001553,
+     "letra": "C",
+     "descricao": "A hipernatremia aguda estimula a secreção de renina.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001554,
+     "letra": "D",
+     "descricao": "Não há contra-indicação para ingestão de fosfatos em pacientes com falência renal em fase terminal.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000156,
+   "descricao": "<p>Característica da síndrome urêmica no paciente com insuficiência renal crônica:</p><p>1- Expansão do líquido extracelular</p><p>2- Hipernatremia </p><p>3- Acidose metabólica </p><p>4- Hipotensão arterial</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001561,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001562,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001563,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001564,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000157,
+   "descricao": "<p>Qual fator de coagulação é produzido fora do hepatócito?</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001571,
+     "letra": "A",
+     "descricao": "fator VIII",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001572,
+     "letra": "B",
+     "descricao": "Fator VII",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001573,
+     "letra": "C",
+     "descricao": "Fator II",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001574,
+     "letra": "D",
+     "descricao": "Fator I",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000158,
+   "descricao": "<p>Os agentes cumarínicos: </p><p>1- atuam no fígado interferindo nos fatores II, VII, IX e X</p><p> 2- podem ser administrados por via oral </p><p>3- são reconhecidos como substâncias teratogênicas </p><p>4- se ligam pouco às proteínas plasmáticas.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001581,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001582,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001583,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001584,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001585,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000159,
+   "descricao": "<p>Qual das opções abaixo não tem relação com a regulação corporal do potássio:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001591,
+     "letra": "A",
+     "descricao": "Vitamina D",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001592,
+     "letra": "B",
+     "descricao": "Aldosterona",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001593,
+     "letra": "C",
+     "descricao": "Epinefrina",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001594,
+     "letra": "D",
+     "descricao": "Insulina",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000160,
+   "descricao": "<p>No paciente diabético recebendo infusão venosa de insulina regular durante o perioperatório, recomenda-se:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001601,
+     "letra": "A",
+     "descricao": "A adição de 50 unidades de insulina regular em 500 mL de solução fisiológica: (1 U/h = 10 ml/h)",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001602,
+     "letra": "B",
+     "descricao": "Iniciar a infusão com 0,5-1,0 U/h",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001603,
+     "letra": "C",
+     "descricao": "Avaliar a glicemia cada 1-2 horas e ajustar a taxa de infusão de acordo com o resultado",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001604,
+     "letra": "D",
+     "descricao": "Suspender a infusão de insulina por 30 min. e administrar 25 ml de glicose 50%. Quando a glicemia estiver abaixo de 80 mg/dL",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000161,
+   "descricao": "<p>A metoclopramida:</p> <p><strong>1)</strong> Aumenta o t&ocirc;nus do esf&iacute;ncter esof&aacute;gico inferior</p> <p><strong>2) </strong>Acelera o esvaziamento g&aacute;strico</p> <p><strong>3) </strong>Pode determinar sintomas extrapiramidais</p> <p><strong>4)</strong> &Eacute; antagonista do receptor H2</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001611,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001612,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001613,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001614,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000162,
+   "descricao": "<p>Com relação à perda de calor corporal, em paciente na sala de cirurgia: </p><p>1- Radiação é o principal mecanismo </p><p>2- Condução é proporcional à diferença de temperatura entre duas superfícies adjacentes </p><p>3- Convecção é proporcional à raiz quadrada da velocidade do ar </p><p>4- A condução é responsável por 90% das perdas de calor.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001621,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001622,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001623,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001624,
+     "letra": "D",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000163,
+   "descricao": "<p>Em relação a fluxo: </p><p>1- o laminar é diretamente proporcional à viscosidade do fluido, enquanto o fluxo turbilhonar é diretamente proporcional à densidade </p><p>2- o turbilhonar é encontrado após estreitamento ou acotovelamento de um tuboeé diretamente proporcional ao comprimento do mesmo </p><p>3- o turbilhonar é encontrado em baixas velocidades de fluxo </p><p>4- a lei de Poiseuille é aplicada ao fluxo laminar.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001631,
+     "letra": "A",
+     "descricao": "V, F, F, F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001632,
+     "letra": "B",
+     "descricao": "F,F,F,F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001633,
+     "letra": "C",
+     "descricao": "F,V,F,V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001634,
+     "letra": "D",
+     "descricao": "F,F,F,V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000164,
+   "descricao": "<p>Com relação aos anestésicos locais é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001641,
+     "letra": "A",
+     "descricao": "Quanto maior for o pKa, maior será a latência",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001642,
+     "letra": "B",
+     "descricao": "A levobupivacaína é um anestésico local na forma racêmica",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001643,
+     "letra": "C",
+     "descricao": "Quanto maior for a lipossolubilidade, menor será a potência",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001644,
+     "letra": "D",
+     "descricao": "A duração do bloqueio não está relacionada com o grau de afinidade proteica do anestésico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000165,
+   "descricao": "<p>Em relação aos anestésicos locais é correto afirmar que:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001651,
+     "letra": "A",
+     "descricao": "A lidocaína administrada como aerosol, deve ser usada nos pacientes com hiperreatividade de vias aéreas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001652,
+     "letra": "B",
+     "descricao": "Gravidez, hipoxemia e acidose respiratória são fatores predisponentes de risco para a cardiotoxicidade da bupivacaína",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20001653,
+     "letra": "C",
+     "descricao": "A potência, lipossolubilidade, início de ação e duração de ação são similares entre a bupivacaína e a ropivacaína",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001654,
+     "letra": "D",
+     "descricao": "A ropivacaína tem índice terapêutico menor que a bupivacaína",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000166,
+   "descricao": "<p>Em relação ao hematoma peridural pós-punção espinhal: </p><p>1- contra indica-se a realização de bloqueio espinhal em pacientes que fazem uso de fibrinolíticos</p><p>2- o risco de hematoma aumenta com a punção traumática ou repetida </p><p>3- a heparinização sistêmica, uma a duas horas após o bloqueio espinhal, é relativamente segura </p><p>4- a punção ou passagem do cateter peridural só deve ser realizada 24 horas após a administração da heparina de baixo peso molecular, independentemente da dose administrada.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001661,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001662,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001663,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001664,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001665,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000167,
+   "descricao": "<p><b>Questão Adaptada</b></p><p>Transmissão e bloqueio neuromuscular:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001671,
+     "letra": "A",
+     "descricao": "A neostigmina inibe a acetilcolina",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001672,
+     "letra": "B",
+     "descricao": "O neurônio pré-juncional sintetiza acetilcolina via acetilcolinesterase",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001673,
+     "letra": "C",
+     "descricao": "A acetilcolina é hidrolizada pela butirilcolinesterase, na fenda sináptica",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001674,
+     "letra": "D",
+     "descricao": "Pela lei de ação das massas, o acúmulo de acetilcolina compete com os bloqueadores adespolarizantes",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000168,
+   "descricao": "<p><b>Questão Adaptada</b></p><p>Características do bloqueio neuromuscular:</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001681,
+     "letra": "A",
+     "descricao": "O grande queimado apresenta sensibilidade ao bloqueio adespolarizante.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001682,
+     "letra": "B",
+     "descricao": "Nos pacientes com pseudocolinesterase atípica está indicado o mivacúrio.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001683,
+     "letra": "C",
+     "descricao": "A succinilcolina, no paciente politraumatizado, aumenta a potassemia após 6 horas.",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001684,
+     "letra": "D",
+     "descricao": "Os antibióticos aminoglicosídeos potencializam o bloqueio dos agentes adespolarizantes.",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000169,
+   "descricao": "<p>Causa(s) de hipoxemia no pós-operatório: </p><p>1- curarização residual </p><p>2- relação ventilação/perfusão diminuída </p><p>3- hipoventilação </p><p>4- shunt intrapulmonar esquerdo-direito.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001691,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001692,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001693,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001694,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001695,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000170,
+   "descricao": "<p>Fator(es) que aumenta(m) a incidência de necrose tu- bular aguda pós-anestésica: </p><p>1- grandes cirurgias vasculares </p><p>2- sepsis </p><p>3- icterícia obstrutiva </p><p>4- infusão de cristalóides.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001701,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20001702,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001703,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20001704,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001705,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000171,
+   "descricao": "<p>Nas manobras de reanima&ccedil;&atilde;o cardiopulmonar (RCP) com o paciente intubado, a massagem card&iacute;aca externa no qual n&atilde;o se administrou NaHCO 3 , observa-se que a PETCO2 eleva-se rapidamente de 8 mmHg para 20 mmHg. Ocorr&ecirc;ncia(s) prov&aacute;vel(is):</p> <p><strong>1)</strong> Aumento do volume minuto</p> <p><strong> 2)</strong> Melhora do d&eacute;bito card&iacute;aco</p> <p><strong> 3) </strong>Acidose respirat&oacute;ria </p> <p><strong>4) </strong>Melhora da ventila&ccedil;&atilde;o do espa&ccedil;o morto alveolar</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001711,
+     "letra": "A",
+     "descricao": "V V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001712,
+     "letra": "B",
+     "descricao": "V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001713,
+     "letra": "C",
+     "descricao": "F V F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001714,
+     "letra": "D",
+     "descricao": "F F F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  },
+  {
+   "id": 2000172,
+   "descricao": "<p>Parada cardíaca súbita, durante anestesia raquidiana: </p><p>1- acontece apenas nos idosos, acima de 70 anos </p><p>2- está mais relacionada com bloqueio simpático alto </p><p>3- acontece com maior freqüência 5 a 7 minutos após a administração do anestésico </p><p>4- a incidência pode ser diminuída instituindo-se tratamento agressivo da bradicardia e hipotensão.</p>",
+   "ano": "2003",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20001721,
+     "letra": "A",
+     "descricao": "1,2 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20001722,
+     "letra": "B",
+     "descricao": "1 e 3 são corretas",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20001723,
+     "letra": "C",
+     "descricao": "2 e 4 são corretas",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20001724,
+     "letra": "D",
+     "descricao": "Somente 4 é correta",
+     "isResposta": 0,
+     "ordem": 4
+    },
+    {
+     "id": 20001725,
+     "letra": "E",
+     "descricao": "Todas são corretas",
+     "isResposta": 0,
+     "ordem": 5
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME1 anual",
+    "numero": null
+   }
+  }
+ ]
+}

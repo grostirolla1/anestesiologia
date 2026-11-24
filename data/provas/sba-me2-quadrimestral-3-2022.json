@@ -1,0 +1,628 @@
+{
+ "prova": {
+  "slug": "sba-me2-quadrimestral-3-2022",
+  "banca": "SBA",
+  "concurso": "ME2 quadrimestral",
+  "titulo": "ME2, 3ª quadrimestral 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2002508,
+   "descricao": "<p>Gestante primigesta de 26 anos, 85 kg, 170 cm, 39 semanas de gesta&ccedil;&atilde;o, internada para&nbsp;realiza&ccedil;&atilde;o de parto normal. Ao exame apresentava 3 cm de dilata&ccedil;&atilde;o cervical e 3&nbsp;contra&ccedil;&otilde;es a cada 10 minutos. Seus sinais vitais s&atilde;o: PA 150/110 mmHg, FC 100 bpm,&nbsp;SaO2 96%. Sobre essa paciente:</p> <p><strong>A) </strong>A analgesia com remifentanil controlada pelo paciente (PCA) pode&nbsp;oferecer al&iacute;vio da dor superior e com menos efeitos fetais do que outros&nbsp;analg&eacute;sicos opioides intravenosos, mas seus efeitos analg&eacute;sicos s&atilde;o&nbsp;inferiores &agrave; analgesia do bloqueio peridural.</p> <p><strong>B) </strong>A atividade da colinesterase plasm&aacute;tica (pseudocolinesterase) aumenta&nbsp;aproximadamente 25% a 30% a partir da 10&ordf; semana de gesta&ccedil;&atilde;o at&eacute; 6&nbsp;semanas ap&oacute;s o parto.</p> <p><strong>C) </strong>A analgesia neuroaxial nessa paciente requer extens&atilde;o para incluir S2 a&nbsp;S4 devido &agrave; fase de trabalho de parto em que a paciente se encontra.</p> <p><strong>D) </strong>A analgesia neuraxial, em compara&ccedil;&atilde;o com o parto n&atilde;o medicado ou&nbsp;analgesia opioide intravenosa, pode prolongar a segunda etapa do&nbsp;trabalho de parto, mas n&atilde;o aumenta o risco de parto ces&aacute;reo.</p> <p><strong>E) </strong>A troca materno fetal da maioria das drogas ocorre principalmente por&nbsp;difus&atilde;o e depende dos gradientes de concentra&ccedil;&atilde;o materno fetais, da&nbsp;liga&ccedil;&atilde;o proteica materna, do peso molecular da subst&acirc;ncia, da&nbsp;lipossolubilidade e do grau de ioniza&ccedil;&atilde;o dessa subst&acirc;ncia.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025081,
+     "letra": "A",
+     "descricao": "F V V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025082,
+     "letra": "B",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025083,
+     "letra": "C",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025084,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002509,
+   "descricao": "<p>Homem, 19 anos, 1,65 de altura e 56 Kg, portador de escoliose idiop&aacute;tica com&nbsp;deformidade toracolombar significativa, sem boa toler&acirc;ncia ao exerc&iacute;cio f&iacute;sico. Ser&aacute;&nbsp;submetido &agrave; corre&ccedil;&atilde;o do d&eacute;ficit:</p> <p>a) Fazem parte da avalia&ccedil;&atilde;o da fun&ccedil;&atilde;o respirat&oacute;ria, a capacidade vital&nbsp;for&ccedil;ada e o volume expirado for&ccedil;ado no primeiro segundo.</p> <p>b) &Aacute;cido tranex&acirc;mico por via endovenosa e t&oacute;pica &eacute; efetivo e indicado para&nbsp;redu&ccedil;&atilde;o do sangramento em cirurgias de escoliose.</p> <p>c) A monitoriza&ccedil;&atilde;o neurofisiol&oacute;gica pode ser feita com potencial evocado&nbsp;somatossensitivo ou com potencial evocado motor, ambos com igual&nbsp;efetividade na preven&ccedil;&atilde;o de d&eacute;ficit motor.</p> <p>d) Potencial evocado somatossensitivo tem a vantagem adicional de detectar&nbsp;o mau posicionamento dos membros superiores, que pode gerar les&atilde;o do&nbsp;plexo braquial.</p> <p>e) Durante a monitoriza&ccedil;&atilde;o por meio do potencial evocado motor, as&nbsp;perturba&ccedil;&otilde;es observadas levam &agrave; diminui&ccedil;&atilde;o da amplitude e da lat&ecirc;ncia&nbsp;das respostas registradas.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025091,
+     "letra": "A",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025092,
+     "letra": "B",
+     "descricao": "F F V V V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025093,
+     "letra": "C",
+     "descricao": "V F F V F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20025094,
+     "letra": "D",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002510,
+   "descricao": "<p>Na avalia&ccedil;&atilde;o pr&eacute;-anest&eacute;sica para adenoamigadalectomia em crian&ccedil;a de 6 anos, 113 cm, 26 kg, portadora de infec&ccedil;&atilde;o de vias a&eacute;reas superiores (IVAS), a conduta &eacute;:</p> <p>a) A cirurgia deve ser postergada por 10 dias para assegurar um menor riscode broncoespasmo e laringoespasmo perioperat&oacute;rios.</p> <p>b) Na presen&ccedil;a de coriza, febre &gt; 38,5&deg;C, tosse produtiva e sibil&acirc;ncia, a&nbsp;interven&ccedil;&atilde;o deve ser adiada por pelo menos 4 semanas.</p> <p>c) O uso do salbutamol no pr&eacute;-operat&oacute;rio &eacute; &uacute;til tanto nos pacientes comhist&oacute;ria de IVAS como na asma br&ocirc;nquica.</p> <p>d) A hipertrofia amigdaliana aumenta a possibilidade de colapsibilidade davia a&eacute;rea na indu&ccedil;&atilde;o anest&eacute;sica.</p> <p>e) A hipertrofia amigdaliana &eacute; a causa mais comum de s&iacute;ndrome daapneia/hipopneia obstrutiva do sono em crian&ccedil;a obesa.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025101,
+     "letra": "A",
+     "descricao": "F V V V V",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20025102,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025103,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025104,
+     "letra": "D",
+     "descricao": "V V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002511,
+   "descricao": "<p><strong>Em rela&ccedil;&atilde;o &agrave;s anestesias para cirurgias oftalmol&oacute;gicas, podemos afirmar:</strong></p> <p>A) O reflexo &oacute;culo-card&iacute;aco caracteriza-se por taquicardia e &eacute; comumente presenciado nas cirurgias de estrabismo.</p> <p>B) Tamb&eacute;m s&atilde;o descritos como manifesta&ccedil;&otilde;es do reflexo &oacute;culo-card&iacute;aco: bigeminismo, ritmo idioventricular e ritmo juncional.</p> <p>C) A press&atilde;o intraocular pode ser controlada pela manipula&ccedil;&atilde;o do volume do humor aquoso e do humor v&iacute;treo, volume sangu&iacute;neo intraocular e pelas compress&otilde;es da musculatura externa.</p> <p>D) O col&iacute;rio &agrave; base de ecotiofato para tratamento de glaucoma inibe a pseudocolinesterase plasm&aacute;tica e prolonga o efeito do rocur&ocirc;nio.</p> <p>E) &Eacute; fundamental interromper o &oacute;xido nitroso antes da utiliza&ccedil;&atilde;o de g&aacute;s intraocular nas cirurgias de descolamento de retina.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025111,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025112,
+     "letra": "B",
+     "descricao": "V V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025113,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025114,
+     "letra": "D",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002512,
+   "descricao": "<p>&nbsp;Você é solicitado a fazer uma sedação para um procedimento estético facial em uma clínica de cirurgia plástica, que é classificada como uma Unidade tipo II pelo Conselho Federal de Medicina (CFM). São pontos referentes à anestesia ambulatorial neste ambiente:</p><p>a) O pernoite do paciente poderá ocorrer em hospital de apoio, sendo que o tempo de permanência&nbsp;do paciente no estabelecimento não deverá ser superior a 24 horas.</p><p>b) É obrigatório ter uma sala de recuperação com maca hospitalar com grade.</p><p>c) Bloqueios faciais podem ser realizados neste ambiente associados ou não à sedação.</p><p>d) Se o procedimento não for realizado por médico e não houver outro médico responsável, o anestesista supervisionará continuamente o paciente durante todo o período de sua permanência na clínica.</p><p>e) Unidade tipo II deve ter um responsável técnico legalmente habilitado e inscrito no Conselho Regional de Medicina de sua jurisdição, dispensando a liberação da autoridade sanitária competente.</p><p><br></p><p><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025121,
+     "letra": "A",
+     "descricao": "F V V V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025122,
+     "letra": "B",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025123,
+     "letra": "C",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025124,
+     "letra": "D",
+     "descricao": "V V V V F",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002513,
+   "descricao": "<p>Gestante com 25 semanas de idade gestacional, 30 anos de idade, 70kg de peso e 150 cm de altura, ser&aacute; submetida &agrave; anestesia geral para corre&ccedil;&atilde;o de mielomeningocele fetal intra&uacute;tero. Nesta situa&ccedil;&atilde;o:</p> <p><strong>A)</strong> A incid&ecirc;ncia de n&aacute;useas e v&ocirc;mitos p&oacute;s-operat&oacute;rios &eacute; menor com o sevoflurano.</p> <p><strong>B)</strong> O &oacute;xido nitroso &eacute; considerado teratog&ecirc;nico nesta idade gestacional; logo, est&aacute; contraindicado.</p> <p><strong>C)</strong> Todos os agentes inalat&oacute;rios halogenados potencializam o bloqueio neuromuscular adespolarizante.</p> <p><strong>D)</strong> A manuten&ccedil;&atilde;o anest&eacute;sica caracteriza-se por altas concentra&ccedil;&otilde;es de agentes halogenados para relaxamento uterino.</p> <p><strong>E)</strong> O aumento do d&eacute;bito card&iacute;aco facilita a capta&ccedil;&atilde;o e retarda o equil&iacute;brio entre a FA (fra&ccedil;&atilde;o alveolar) e a FI (fra&ccedil;&atilde;o inspirada).</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025131,
+     "letra": "A",
+     "descricao": "V F V V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025132,
+     "letra": "B",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025133,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025134,
+     "letra": "D",
+     "descricao": "F F V V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002514,
+   "descricao": "<p>Nas pacientes com pr&eacute;-ecl&acirc;mpsia:</p> <p><strong>A)</strong> Os n&iacute;veis terap&ecirc;uticos de magn&eacute;sio se encontram entre 10 e 15 mEq/L.</p> <p><strong>B)</strong> N&iacute;veis reduzidos de tromboxano s&atilde;o um fator etiol&oacute;gico poss&iacute;vel.</p> <p><strong>C)</strong> O sistema nervoso central apresenta menor excitabilidade.</p> <p><strong>D)</strong> Pacientes em uso de sulfato de magn&eacute;sio para tratamento de pr&eacute;-eclampsia necessitam doses maiores de bloqueadores neuromusculares adespolarizantes para realiza&ccedil;&atilde;o de intuba&ccedil;&atilde;o orotraqueal.</p> <p><strong>E)</strong> A capacidade residual funcional (CRF) reduzida e aumento do consumo de oxig&ecirc;nio na gestante aumentam o risco de desenvolvimento de hipoxemia.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025141,
+     "letra": "A",
+     "descricao": "F F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025142,
+     "letra": "B",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025143,
+     "letra": "C",
+     "descricao": "V V F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025144,
+     "letra": "D",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002515,
+   "descricao": "<p>Mulher de 56 anos, 70 Kg e 1,65 m, apresenta tumor medular ao nível da coluna toracolombar. Foi submetida à ressecção do tumor, seguida de artrodese de T11 a L3. Além da monitorização habitual, foi realizada monitorização eletrofisiológica com potencial evocado somatossensitivo (PESS). Decorridos 4 h de cirurgia, observou-se um aumento da latência e redução da amplitude das respostas registradas.</p><p>a) A alteração observada no PESS é um evento normal de ocorrer devido ao tempo cirúrgico prolongado.</p><p>b) Todos os inalatórios halogenados produzem aumento da latência e redução da amplitude dos PESS corticais.</p><p>c) A dexmedetomidina como adjuvante da anestesia venosa total reduz a necessidade de propofol, sem evidências de prejuízo à monitorização neurofisiológica.</p><p>d) Os bloqueadores neuromusculares afetam os PESS de forma dose dependente.</p><p>e) Anemia, hipotensão arterial, hipertermia e hipocapnia são fatores que levam a alterações de PESS.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025151,
+     "letra": "A",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025152,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025153,
+     "letra": "C",
+     "descricao": "F V V F F",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20025154,
+     "letra": "D",
+     "descricao": "F V V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002516,
+   "descricao": "<p>Em relação à anestesia em ortopedia e traumatologia:</p><p>a) Existem evidências suficientes para afirmarmos que a técnica anestésica influencia a mortalidade, morbidade cardiovascular e incidência de trombose venosa profunda.</p><p>b) A utilização de anestesia regional diminui o aparecimento de disfunção cognitiva pós-operatória tardia.</p><p>c) Em pacientes com grave escoliose torácica pode haver queda da capacidade vital com complacência pulmonar preservada.</p><p>d) Anestesia regional diminui sobremaneira complicações pulmonares no pós-operatório.</p><p>e) Perda visual no pós-operatório de cirurgias de coluna frequentemente associa-se à neuropatia isquêmica posterior do nervo óptico.</p><p><br></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025161,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025162,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025163,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20025164,
+     "letra": "D",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002517,
+   "descricao": "<p>Homem de 45 anos, 1,70 m e 108 kg, índice de massa corpórea (IMC) = 37,4 kg.m-2, 105 cm de circunferência abdominal, 45 cm de circunferência do pescoço, diabético tipo 2 em uso de metformina, e hipertenso em uso de atenolol e ramipril. Refere que ronca alto, e está sempre sonolento durante o dia. Será submetido a “sleeve” gástrico por via laparoscópica. Com relação a este paciente e à técnica anestésica a ser utilizada:</p><p>a) De acordo com o questionário STOP-Bang, apresenta alto risco para apneia obstrutiva do sono.</p><p>b) As doses de midazolam, succinilcolina, cisatracúrio, e fentanil devem ser calculadas com base no peso corporal ideal.</p><p>c) Circunferência abdominal de 90 cm em homens está relacionada ao maior risco de complicações associado ao aumento do IMC.</p><p>d) Índice apneia-hipopneia acima de 30 eventos por hora é sinal de alerta e preditor para dessaturação rápida e severa na indução anestésica.</p><p>e) No intraoperatório deve ser mantida pressão expiratória final positiva (PEEP) de 8-10 cmH20, e qualquer hipotensão decorrente deste PEEP deve ser imediatamente tratada.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025171,
+     "letra": "A",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025172,
+     "letra": "B",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025173,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025174,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002518,
+   "descricao": "<p>Os pacientes classificados como de alto risco para s&iacute;ndrome da apneia/hipopneia do sono se caracterizam por:</p> <p><strong>A) </strong>S&atilde;o em geral do sexo feminino.</p> <p><strong>B)</strong> Idade maior que 50 anos.</p> <p><strong>C) </strong>Circunfer&ecirc;ncia cervical maior que 40cm.</p> <p><strong>D)</strong> &Iacute;ndice de Massa Corporal maior que 30 kg.m-2.</p> <p><strong>E) </strong>Tratamento da hipertens&atilde;o arterial sist&ecirc;mica.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025181,
+     "letra": "A",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025182,
+     "letra": "B",
+     "descricao": "F V V F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025183,
+     "letra": "C",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025184,
+     "letra": "D",
+     "descricao": "F F V V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002519,
+   "descricao": "<p>Em relação à anestesia para cirurgias oftalmológicas:</p><p>a) Os músculos extraoculares perfazem o total de seis: quatro músculos retos e dois oblíquos, além do músculo elevador da pálpebra.</p><p>b) O nervo abducente (VI par) é responsável pela inervação do músculo reto lateral.</p><p>c) O nervo oculomotor (III par) inerva os músculos retos medial, superior e inferior, o músculo oblíquo superior e o músculo elevador da pálpebra.</p><p>d) O hematoma intraorbital é uma complicação comum dos bloqueios regionais, retrobulbar e, principalmente, peribulbar.</p><p>e) O nervo troclear (IV par) inerva o músculo oblíquo inferior.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025191,
+     "letra": "A",
+     "descricao": "V F F V V",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025192,
+     "letra": "B",
+     "descricao": "V V F F F",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025193,
+     "letra": "C",
+     "descricao": "F V V F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025194,
+     "letra": "D",
+     "descricao": "V F V F V",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002520,
+   "descricao": "<p>Você é solicitado a fazer uma sedação para uma criança de 5 meses, 4,8 Kg, que será submetida a uma endoscopia digestiva alta para tentativa de dilatação endoscópica de estenose hipertrófica de piloro. O gastroenterologista pediátrico informa que o procedimento é eletivo e será feito ambulatorialmente. Você faz um ultrassom gástrico e observa a seguinte imagem.</p><p><img src=\"data/imagens/3e782e2dcd6f30e4.jpg\" alt=\"\"></p><p>São pontos referentes à anestesia ambulatorial dessa criança:</p><p><b>A)</b> O jejum pré-operatório para sedação das crianças em regime ambulatorial é o mesmo que para cirurgias com internação.</p><p><b>B)</b> Pela imagem do ultrassom gástrico, pode-se induzir com segurança a criança sem necessidade de bloqueador neuromuscular</p><p><b>C)</b> Se esta criança nasceu de um parto prematuro, o procedimento não deve ser ambulatorial, porque ela tem em torno de 20 semanas pós conceptuais.</p><p><b>D)</b> Não se espera que um bebê de 5 meses apresente quadro de ansiedade pela separação e, portanto, não há necessidade de um dos pais presentes na indução.</p><p><b>E)</b> O objetivo na escolha dos anestésicos é a rápida recuperação do paciente, sem dor, sem náuseas e vômitos.</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025201,
+     "letra": "A",
+     "descricao": "V F V F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025202,
+     "letra": "B",
+     "descricao": "F V F V F",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20025203,
+     "letra": "C",
+     "descricao": "V F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025204,
+     "letra": "D",
+     "descricao": "V F F V V",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  },
+  {
+   "id": 2002521,
+   "descricao": "<p>Em rela&ccedil;&atilde;o &agrave; anestesia em ortopedia:</p> <p><strong>A)</strong> Hipoxemia (press&atilde;o parcial de oxig&ecirc;nio menor que 50 mmHg) &eacute; considerada um indicador mais frequente e precoce na s&iacute;ndrome da embolia gordurosa</p> <p><strong>B) </strong>A les&atilde;o nervosa mais frequente decorrente do posicionamento lateral para artroscopia do quadril &eacute; a do nervo pudendo</p> <p><strong>C)</strong> Tra&ccedil;&atilde;o com 15 Kg &eacute; considerada adequada para o acesso artrosc&oacute;pico do quadril</p> <p><strong>D)</strong> A artroscopia de quadril &eacute; um forte preditor de tromboprofilaxia no p&oacute;s-operat&oacute;rio</p> <p><strong>E)</strong> Fixa&ccedil;&atilde;o cir&uacute;rgica com menos de 24 horas do trauma parece ter papel definitivo para prevenir a ocorr&ecirc;ncia de s&iacute;ndrome da embolia gordurosa</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20025211,
+     "letra": "A",
+     "descricao": "V V F F F",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20025212,
+     "letra": "B",
+     "descricao": "V V F F V",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20025213,
+     "letra": "C",
+     "descricao": "F F F F V",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20025214,
+     "letra": "D",
+     "descricao": "V F F V F",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "ME2 quadrimestral",
+    "numero": null
+   }
+  }
+ ]
+}

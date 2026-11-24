@@ -1,0 +1,496 @@
+{
+ "prova": {
+  "slug": "sba-tsa-2022",
+  "banca": "SBA",
+  "concurso": "TSA",
+  "titulo": "TSA 2022",
+  "ano": "2022",
+  "observacao": "Questões de prova da Sociedade Brasileira de Anestesiologia. Conteúdo de terceiros: os direitos pertencem a quem elaborou a prova; fora da licença do repositório. A ordem não é a da prova original."
+ },
+ "questoes": [
+  {
+   "id": 2006335,
+   "descricao": "<p>Foi solicitado a voc&ecirc; a indica&ccedil;&atilde;o de membros para compor a comiss&atilde;o examinadora do TSA. Voc&ecirc; tem as duas op&ccedil;&otilde;es abaixo:</p> <p>Membro 1: tem 40 anos de idade, coordena resid&ecirc;ncia h&aacute; 10 anos, tirou o t&iacute;tulo do TSA esse ano.</p> <p>Membro 2: tem 60 anos, &eacute; professor universit&aacute;rio, tem mestrado, doutorado e &eacute; portador do TSA h&aacute; mais de 5 anos. Est&aacute; amplamente envolvido em v&aacute;rios servi&ccedil;os dentro da SBA, ensino, pesquisa e &eacute; idealizador de um curso preparat&oacute;rio para a prova do TSA.</p> <p>Qual voc&ecirc; indicaria para ser eleito pela Assembleia de Representantes como membro da comiss&atilde;o examinadora do TSA?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063351,
+     "letra": "A",
+     "descricao": "Membro 1",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063352,
+     "letra": "B",
+     "descricao": "Membro 2",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063353,
+     "letra": "C",
+     "descricao": "Membro 1 e 2",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063354,
+     "letra": "D",
+     "descricao": "Nenhum",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006336,
+   "descricao": "<p>Paciente com hist&oacute;ria de abuso de &aacute;lcool, no momento em reabilita&ccedil;&atilde;o, em uso de Dissulfiram e Naltrexona. Voc&ecirc; atende esse paciente no consult&oacute;rio pr&eacute;-anest&eacute;sico para realiza&ccedil;&atilde;o eletiva de herniorrafia por v&iacute;deo. Qual &eacute; a sua conduta em rela&ccedil;&atilde;o a esses medicamentos?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063361,
+     "letra": "A",
+     "descricao": "Dissulfiram: Suspender | Naltrexona: Suspender",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063362,
+     "letra": "B",
+     "descricao": "Dissulfiram: Manter | Naltrexona Manter",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063363,
+     "letra": "C",
+     "descricao": "Dissulfiram: Suspender | Naltrexona: Manter",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063364,
+     "letra": "D",
+     "descricao": "Dissulfiram: Manter | Naltrexona: Suspender",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006337,
+   "descricao": "<p>Em rela&ccedil;&atilde;o aos tipos de prova, oral e escrita, e sua valida&ccedil;&atilde;o na avalia&ccedil;&atilde;o do aluno, &eacute; correto afirmar que:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063371,
+     "letra": "A",
+     "descricao": "A prova objetiva tem um alto valor de análise psicométrica",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063372,
+     "letra": "B",
+     "descricao": "A prova oral estruturada tem alta concordância inter-examinador",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063373,
+     "letra": "C",
+     "descricao": "A prova oral estruturada não serve para aprovar ou reprovar",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063374,
+     "letra": "D",
+     "descricao": "A prova objetiva isoladamente tem alto poder de discriminação",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006338,
+   "descricao": "<p>Sobre a sa&uacute;de ocupacional do anestesista, identifique um fator de risco verdadeiro para exposi&ccedil;&atilde;o ocupacional a anest&eacute;sicos inalat&oacute;rios:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063381,
+     "letra": "A",
+     "descricao": "Uso de ventiladores com canister",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063382,
+     "letra": "B",
+     "descricao": "Uso de capnógrafo mainstream",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063383,
+     "letra": "C",
+     "descricao": "Sistema de reabastecimento do desflurano",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063384,
+     "letra": "D",
+     "descricao": "Ventilação na sala cirúrgica com 15 trocas aéreas/hora",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006339,
+   "descricao": "<p>Paciente de 86 anos, candidata a artroplastia total de quadril, sem queixas no momento. Apresenta os seguintes resultados laboratoriais:</p> <p>Hb de 11.0; Ferritina 12; índice de saturação de transferrina de 12%. A conduta apropriada é:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063391,
+     "letra": "A",
+     "descricao": "Conduta expectante",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063392,
+     "letra": "B",
+     "descricao": "Eritropoietina recombinante",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063393,
+     "letra": "C",
+     "descricao": "Reposição de ferro",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063394,
+     "letra": "D",
+     "descricao": "Transfusão pré-operatória",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006340,
+   "descricao": "<p>Paciente de 84 anos, tabagista ativo, portador de DPOC, candidato a cirurgia de lobectomia para excisão do lobo inferior direito devido a adenocarcinoma. Refere 02 episódios de internação por agravamento da doença no último ano. À espirometria:</p> <p>VEF1 de 82% do previsto para a idade e sexo.</p> <p>VEF1/CVF pós-broncodilatador: 0,8</p> <p>A classificação do DPOC desse paciente, segundo a classificação de GOLD, é:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063401,
+     "letra": "A",
+     "descricao": "GOLD A",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063402,
+     "letra": "B",
+     "descricao": "GOLD B",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063403,
+     "letra": "C",
+     "descricao": "GOLD D",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063404,
+     "letra": "D",
+     "descricao": "GOLD E",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006341,
+   "descricao": "<p>Sobre o manejo anest&eacute;sico do paciente oncol&oacute;gico, identifique o principal efeito adverso esperado em um paciente que utiliza Antraciclina como quimioter&aacute;pico:</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063411,
+     "letra": "A",
+     "descricao": "Cardiotoxicidade",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 20063412,
+     "letra": "B",
+     "descricao": "Fibrose Pulmonar",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063413,
+     "letra": "C",
+     "descricao": "Insuficiência Hepática",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063414,
+     "letra": "D",
+     "descricao": "Neuropatia Periférica",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006342,
+   "descricao": "<p>Anestesista de 32 anos, obeso, foi encontrado morto no vesti&aacute;rio com evid&ecirc;ncias de uso de propofol e fentanil. O colega era reservado, rec&eacute;m-divorciado, com relato de estar se preocupando cada vez menos com os pacientes e de tomar 1 dose de whisky todos os dias. Analisando o caso, qual o motivo mais prov&aacute;vel do &oacute;bito?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063421,
+     "letra": "A",
+     "descricao": "Transtorno depressivo",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063422,
+     "letra": "B",
+     "descricao": "Síndrome de Burnout",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063423,
+     "letra": "C",
+     "descricao": "Drogadição",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063424,
+     "letra": "D",
+     "descricao": "Alcoolismo",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006343,
+   "descricao": "<p>Em rela&ccedil;&atilde;o a fisiopatologia do abuso de subst&acirc;ncias, qual &eacute; o principal sistema respons&aacute;vel por perpetuar a drogadi&ccedil;&atilde;o?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063431,
+     "letra": "A",
+     "descricao": "Sistema serotoninérgico",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063432,
+     "letra": "B",
+     "descricao": "Sistema dopaminérgico",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063433,
+     "letra": "C",
+     "descricao": "Sistema adrenérgico",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063434,
+     "letra": "D",
+     "descricao": "Sistema muscarínico",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006344,
+   "descricao": "<p>Qual alternativa é veradeira sobre os requisitos para prestar o concurso para obtenção do TSA?</p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063441,
+     "letra": "A",
+     "descricao": "Ser membro Ativo, Aspirante ou Adjunto.",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063442,
+     "letra": "B",
+     "descricao": "É preciso ser indicado pela Assembleia de Representantes.",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 20063443,
+     "letra": "C",
+     "descricao": "Os membros Remidos, outrora Ativos, podem concorrer ao título.",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 20063444,
+     "letra": "D",
+     "descricao": "Aprovados na primeira fase do EDAIC estão livres da fase escrita do TSA.",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  },
+  {
+   "id": 2006345,
+   "descricao": "<p>O gr&aacute;fico a seguir representa a varia&ccedil;&atilde;o da carga mental e da capacidade de processamento cognitivo de um anestesiologista ao longo de um procedimento cir&uacute;rgico.&nbsp;Considerando os per&iacute;odos pr&oacute;ximos de 40 minutos e entre 120 e 160 minutos, qual interpreta&ccedil;&atilde;o melhor explica os momentos em que parte das informa&ccedil;&otilde;es deixa de ser processada?</p> <p><strong><img src=\"data/imagens/845ece816d21a843.png\" alt=\"\"></strong></p>",
+   "ano": "2022",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 20063451,
+     "letra": "A",
+     "descricao": "A sobrecarga inicial decorre da fadiga; a tardia, de maior demanda mental",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 20063452,
+     "letra": "B",
+     "descricao": "A sobrecarga inicial decorre do aumento da demanda; a tardia, da redução da capacidade",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 20063453,
+     "letra": "C",
+     "descricao": "A sobrecarga inicial decorre da redução da capacidade; a tardia, do aumento sustentado da demanda",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 20063454,
+     "letra": "D",
+     "descricao": "A sobrecarga nos dois períodos decorre de aumentos da demanda durante a manutenção, com a capacidade cognitiva praticamente constante",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "SBA",
+    "concurso": "TSA",
+    "numero": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,1613 @@
+{
+ "prova": {
+  "slug": "fgv-sesmt-2024",
+  "banca": "FGV",
+  "concurso": "SES-MT - Edital 001/2023",
+  "titulo": "SES-MT, Médico Anestesiologista (FGV)",
+  "cargo": "Médico Anestesiologista",
+  "ano": "2024",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf",
+  "observacao": "Parte de conhecimentos específicos de anestesiologia, na ordem da prova, com o gabarito definitivo oficial. Conteúdo de terceiros: os direitos pertencem à banca; fora da licença do repositório."
+ },
+ "questoes": [
+  {
+   "id": 8002047,
+   "descricao": "<p>Várias são as vias para administração e absorção de fármacos. Em anestesia, estas vias possuem características próprias e relevantes. Assim, é correto afirmar que a <i>via</i></p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020471,
+     "letra": "A",
+     "descricao": "<p><i>sublingual</i> oferece uma absorção lenta e gradual.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020472,
+     "letra": "B",
+     "descricao": "<p><i>inalatória</i>, pela grande área de absorção, torna o processo mais rápido.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020473,
+     "letra": "C",
+     "descricao": "<p><i>venosa</i>, utilizada a injeção <i>em bolus</i> atinge com baixas concentrações de anestésicos todos os órgãos.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020474,
+     "letra": "D",
+     "descricao": "<p><i>intratecal,</i> pela alta ligação proteica, possibilita o uso de doses menores de anestésicos.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 47,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002048,
+   "descricao": "<p>O conceito de meia-vida (t1/2) é fundamental na compreensão da distribuição, absorção e eliminação dos anestésicos. O conceito de meia-vida contexto sensitiva de um fármaco relaciona-se ao tempo de diminuição plasmática de</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020481,
+     "letra": "A",
+     "descricao": "<p>50% da concentração do fármaco, após a interrupção da administração contínua deste.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020482,
+     "letra": "B",
+     "descricao": "<p>50% da concentração do fármaco, na fase de distribuição deste.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020483,
+     "letra": "C",
+     "descricao": "<p>50% da concentração do fármaco, na fase de absorção deste.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020484,
+     "letra": "D",
+     "descricao": "<p>50% da concentração do fármaco, na fase de redistribuição deste.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 48,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002049,
+   "descricao": "<p>A lipossolubilidade dos anestésicos locais é uma característica que deve ser considerada na duração dos bloqueios, mas também no enfrentamento das complicações causadas por estes. O anestésico local de maior lipossolubilidade é a</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020491,
+     "letra": "A",
+     "descricao": "<p>lidocaína.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020492,
+     "letra": "B",
+     "descricao": "<p>articaína.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020493,
+     "letra": "C",
+     "descricao": "<p>ropivacaína.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020494,
+     "letra": "D",
+     "descricao": "<p>levobupivacaína.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 49,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002050,
+   "descricao": "<p>Alguns estudos compararam o potencial antiemético de benzodiazepínicos administrados no per e pós-operatório com a ondansetrona. O benzodiazepínico que se mostrou tão ou mesmo mais eficiente que a ondansetrona em infusão contínua ou mesmo em doses sub-hipnóticas, é o</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020501,
+     "letra": "A",
+     "descricao": "<p>midazolam.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020502,
+     "letra": "B",
+     "descricao": "<p>alprazolam.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020503,
+     "letra": "C",
+     "descricao": "<p>clonazepam.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020504,
+     "letra": "D",
+     "descricao": "<p>flunitrazepam.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 50,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002051,
+   "descricao": "<p>Em crianças, uma conduta frequente é a intubação traqueal sem a utilização de bloqueadores neuromusculares, principalmente em cirurgias ambulatoriais. Para isso, é necessário um relaxamento adequado da musculatura e a supressão de reflexos faríngeos e laríngeos. O fármaco que tem se mostrado mais adequado para potencializar estas condições e utilizado após a indução da anestesia geral inalatória em crianças, para facilitar a intubação traqueal, é o</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020511,
+     "letra": "A",
+     "descricao": "<p>tiopental.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020512,
+     "letra": "B",
+     "descricao": "<p>propofol.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020513,
+     "letra": "C",
+     "descricao": "<p>etomidato.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020514,
+     "letra": "D",
+     "descricao": "<p>midazolam</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 51,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002052,
+   "descricao": "<p>Homem, 18 anos, com ferimento por arma de fogo na região superior direita do abdome. Não apresenta dificuldade respiratória, mas há grande perda sanguínea pelo ferimento. No exame físico: hipocorado 2+/4+; frequência cardíaca (FC) = 132bpm; pressão arterial (PA) = 75x45mmHg. Foi encaminhado ao centro cirúrgico para a realização de laparotomia exploradora, sob anestesia geral, que identificou lesão em fígado. Foi iniciada transfusão e após a terceira bolsa, gradativamente, o paciente torna-se mais taquicárdico, com aumento do sangramento no campo operatório, exacerbação da hipotensão arterial e oligúria. A hipótese diagnóstica mais provável para este quadro, durante o procedimento anestésico-cirúrgico, é a ocorrência de uma reação</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020521,
+     "letra": "A",
+     "descricao": "<p>alérgica.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020522,
+     "letra": "B",
+     "descricao": "<p>anafilática.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020523,
+     "letra": "C",
+     "descricao": "<p>hemolítica.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020524,
+     "letra": "D",
+     "descricao": "<p>imunoalérgica.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 52,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002053,
+   "descricao": "<p>Mulher, 76 anos, sem comorbidades circulatórias e cardíacas prévias é submetida a cirurgia para ressecção de nódulo de mama sob anestesia geral. Apresenta, subitamente, extrassistolia ventricular frequente. O anestesiologista opta por utilizar dose baixa de amiodarona para interrupção da arritmia. É correto afirmar que poderá ocorrer, durante o uso da amiodarona,</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020531,
+     "letra": "A",
+     "descricao": "<p>aumento da atividade da tiroxina sobre o coração.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020532,
+     "letra": "B",
+     "descricao": "<p>aumento do efeito inotrópico positivo.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020533,
+     "letra": "C",
+     "descricao": "<p>redução do fluxo coronariano.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020534,
+     "letra": "D",
+     "descricao": "<p>redução da frequência cardíaca.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 53,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002054,
+   "descricao": "<p>Em anestesias de curta duração em crianças é comum o uso de sistemas respiratórios avalvulares, sem absorção de CO2. Um sistema útil é o Mapleson D, cuja entrada do fluxo de gases frescos (FGF) é proximal ao paciente, podendo ser utilizado em ventilação controlada. Em relação ao volume minuto calculado para a criança, nesse sistema, o FGF adequado deve ser de</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020541,
+     "letra": "A",
+     "descricao": "<p>2 a 3 vezes.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020542,
+     "letra": "B",
+     "descricao": "<p>3 a 4 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020543,
+     "letra": "C",
+     "descricao": "<p>4 a 5 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020544,
+     "letra": "D",
+     "descricao": "<p>1 a 2 vezes.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 54,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002055,
+   "descricao": "<p>Objetivando a redução de custos e diminuir a dispersão de gases no ambiente cirúrgico e hospitalar, há muitos anos tem se incentivado a realização de anestesia geral inalatória com a utilização de baixos fluxos de gases frescos. Quando o óxido nitroso é utilizado e o fluxo de gases frescos for inferior a 1L/minuto, é fundamental a monitorização da</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020551,
+     "letra": "A",
+     "descricao": "<p>concentração de O2 inspirado.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020552,
+     "letra": "B",
+     "descricao": "<p>pressão de vias aéreas.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020553,
+     "letra": "C",
+     "descricao": "<p>cardioscopia e da pressão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020554,
+     "letra": "D",
+     "descricao": "<p>concentração de anestésico no gás expirado.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 55,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002056,
+   "descricao": "<p>Avalie as afirmativas a seguir e relacione-as de forma correta com a gradação de dificuldade na ventilação difícil com máscara facial, Grau I, Grau II, Grau III, Grau IV. 1. Ventilação sem dificuldades; 2. Ventilação impossível: ausência de CO2 expirado e ausência de expansibilidade torácica mesmo com dois operadores; 3. Ventilação utilizando cânula orofaríngea com ou sem uso de bloqueador neuromuscular; 4. Ventilação inadequada para manter oxigenação ou requerendo dois operadores. Assinale a opção que indica a correlação correta.</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020561,
+     "letra": "A",
+     "descricao": "<p>Grau I (2); Grau II (1); Grau III (3); Grau IV (4).</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020562,
+     "letra": "B",
+     "descricao": "<p>Grau I (1); Grau II (3); Grau III (4); Grau IV (2).</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020563,
+     "letra": "C",
+     "descricao": "<p>Grau I (2); Grau II (4); Grau III (3); Grau IV (1).</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020564,
+     "letra": "D",
+     "descricao": "<p>Grau I (1); Grau II (4); Grau III (2); Grau IV (3).</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 56,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002057,
+   "descricao": "<p>Como a atelectasia está presente de maneira universal em pacientes submetidos a anestesia geral, aceitou-se por muitos anos que o uso de altos volumes correntes (entre 10-15mL/kg de peso corporal predito), com o objetivo de aumentar o volume pulmonar expiratório final, poderia minimizar a ocorrência de atelectasia no período per-operatório. Porém, de acordo com os estudos e observações nos últimos anos, o volume minuto menor previne o desenvolvimento de danos pulmonares e deve ser utilizado como estratégia protetora durante a ventilação mecânica intraoperatória em pacientes não obesos, com pulmões sadios, durante as cirurgias abdominais abertas. O volume corrente, no período per-operatório, deve variar entre</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020571,
+     "letra": "A",
+     "descricao": "<p>2 a 4mL/kg.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020572,
+     "letra": "B",
+     "descricao": "<p>4 a 6mL/kg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020573,
+     "letra": "C",
+     "descricao": "<p>6 a 8mL/kg.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020574,
+     "letra": "D",
+     "descricao": "<p>8 a 10mL/kg.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 57,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002058,
+   "descricao": "<p>As alterações que ocorrem com mais frequência, detectadas na avaliação pré-operatória, sendo responsáveis pelo adiamento de procedimentos até que o paciente tenha condições clínicas estáveis, estão relacionadas com</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020581,
+     "letra": "A",
+     "descricao": "<p>DPOC.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020582,
+     "letra": "B",
+     "descricao": "<p>delírio.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020583,
+     "letra": "C",
+     "descricao": "<p>coronariopatia.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020584,
+     "letra": "D",
+     "descricao": "<p>pressão arterial.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 58,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002059,
+   "descricao": "<p>Os oxímetros de pulso, normalmente utilizados na monitorização clínica, possuem apenas a medida de 2 (dois) comprimentos de onda. Este aspecto, apesar de diminuir o custo do equipamento, torna o aparelho capaz de aferir apenas as hemoglobinas que absorvem estes comprimentos de onda. As hemoglobinas aferidas são</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020591,
+     "letra": "A",
+     "descricao": "<p>hemoglobina reduzida e carboxihemoglobina.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020592,
+     "letra": "B",
+     "descricao": "<p>hemoglobina reduzida e metahemoglobina.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020593,
+     "letra": "C",
+     "descricao": "<p>caroxihemoglobina e desoxihemoglobina.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020594,
+     "letra": "D",
+     "descricao": "<p>desoxihemoglobina e oxihemoglobina.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 59,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002060,
+   "descricao": "<p>Mulher, 22 anos, hígida será submetida a cirurgia para correção de escoliose. O consenso atual define a monitorização mínima padrão para essa paciente, no sentido de evitar complicações motoras no pós-operatório, com o potencial evocado:</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020601,
+     "letra": "A",
+     "descricao": "<p>motor associado a eletromiografia.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020602,
+     "letra": "B",
+     "descricao": "<p>auditivo do tronco encefálico associado a eletromiografia.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020603,
+     "letra": "C",
+     "descricao": "<p>somatossensorial associado ao potencial evocado motor.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020604,
+     "letra": "D",
+     "descricao": "<p>somatossensorial associado ao potencial evocado auditivo do tronco encefálico.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 60,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002061,
+   "descricao": "<p>Homem, 32 anos, com trombocitopenia imune primária, será submetido a cirurgia para apendicectomia em caráter de emergência. O número de plaquetas no pré-operatório era de 85.000/µL. A cirurgia transcorreu sem complicações ou sangramentos importantes. Na manhã seguinte, a contagem de plaquetas era de 30.000/µL, quando foi indicada transfusão de plaquetas, solicitadas ao Serviço de Hemoterapia do Hospital. As plaquetas foram descongeladas no Serviço de Hemoterapia e enviadas descongeladas, acondicionadas desde então em recipiente termo monitorado, a 22oC. A orientação do hemoterapeuta foi de que estas plaquetas deveriam ser transfundidas em, no máximo,</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020611,
+     "letra": "A",
+     "descricao": "<p>2 horas.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020612,
+     "letra": "B",
+     "descricao": "<p>24 horas.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020613,
+     "letra": "C",
+     "descricao": "<p>8 horas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020614,
+     "letra": "D",
+     "descricao": "<p>4 horas.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 61,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002062,
+   "descricao": "<p>Na realização do bloqueio de plexo braquial, pela via supraclavicular, a abordagem com a utilização da ultrassonografia torna o procedimento mais seguro, eficaz e de rápida execução. Pode-se afirmar que para a realização deste bloqueio, guiado pela ultrassonografia, são necessários, basicamente, um transdutor</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020621,
+     "letra": "A",
+     "descricao": "<p>linear e uma agulha de 3cm.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020622,
+     "letra": "B",
+     "descricao": "<p>convexo e uma agulha de 2cm.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020623,
+     "letra": "C",
+     "descricao": "<p>linear e uma agulha de 5cm.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020624,
+     "letra": "D",
+     "descricao": "<p>convexo e uma agulha de 4cm.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 62,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002063,
+   "descricao": "<p>O efeito da barbotagem, quando da realização de uma raquianestesia com bupivacaína hiperbárica a 0,5%, entre L3 e L4, é mais limitado com a utilização de agulha</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020631,
+     "letra": "A",
+     "descricao": "<p>27G.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020632,
+     "letra": "B",
+     "descricao": "<p>25G.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020633,
+     "letra": "C",
+     "descricao": "<p>22G.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020634,
+     "letra": "D",
+     "descricao": "<p>21G.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 63,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002064,
+   "descricao": "<p>Mulher, 36 anos, primigesta, submetida à cesariana de urgência por sofrimento fetal agudo. Realizada raquianestesia, com bupivacaína hiperbárica, 0,5%, 12mL, punção entre L3-L4, via paramediana, com agulha 27G, imediatamente após rápida assepsia da região tóraco-lombo-sacra com clorexidina alcóolica. A anestesia e a cirurgia transcorreram sem qualquer intercorrência, com retirada de feto vivo, Apgar 6 e 9. No dia seguinte, aproximadamente 24 horas após a cesariana, a paciente apresenta febre, cefaleia, fotofobia e rigidez de nuca. Foi feita punção lombar e coleta de liquor, cuja pressão nesse momento apresentava pequeno aumento, mostrando análise negativa para bacterioscopia direta e cultura do liquor. A hipótese diagnóstica mais provável para esse evento, nesta paciente, é</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020641,
+     "letra": "A",
+     "descricao": "<p>síndrome da cauda equina.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020642,
+     "letra": "B",
+     "descricao": "<p>meningite asséptica.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020643,
+     "letra": "C",
+     "descricao": "<p>hematoma subaracnoide.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020644,
+     "letra": "D",
+     "descricao": "<p>meningite por <i>Staphylococcus aureus</i>.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 64,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002065,
+   "descricao": "<p>Em histeroscopias alguns produtos são utilizados para a distensão do útero. O gás carbônico (CO2)está perto de ser considerado o agende ideal para distender o útero na histeroscopia diagnóstica, quando não há presença de vasos sanguíneos abertos por onde o CO2 pode ser absorvido ocasionando embolia pulmonar. Porém, o CO2 é muito solúvel e mesmo com controle do fluxo, mantendo-se a pressão por volta de 100 a 120mmHg, pode ser absorvido e provocar</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020651,
+     "letra": "A",
+     "descricao": "<p>hipercarbia.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020652,
+     "letra": "B",
+     "descricao": "<p>alcalose.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020653,
+     "letra": "C",
+     "descricao": "<p>hipotensão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020654,
+     "letra": "D",
+     "descricao": "<p>hipoxemia.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 65,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002066,
+   "descricao": "<p>O controle e a eliminação das secreções assim como o broncoespasmo são dois dos vários aspectos complicadores nos pacientes submetidos a cirurgias pulmonares. É correto afirmar que o fármaco mais utilizado, que rompe as pontes dissulfeto que unem as glicoproteínas do muco, reduzindo sua viscosidade e melhorando sua eliminação, é</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020661,
+     "letra": "A",
+     "descricao": "<p>teofilina etilenodiamina.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020662,
+     "letra": "B",
+     "descricao": "<p>N-acetilcisteína.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020663,
+     "letra": "C",
+     "descricao": "<p>Β2 agonistas.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020664,
+     "letra": "D",
+     "descricao": "<p>cromoglicato.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 66,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002067,
+   "descricao": "<p>Na cirurgia cardíaca, a saída da circulação extracorpórea (CEC) é um momento crítico, que envolve diretamente aspectos relevantes tanto quanto a circulação quanto a ventilação pulmonar. Nesse momento o anestesiologista deve estar atento a qualquer alteração. A ocorrência de broncoespasmo durante a saída da CEC pode ser causada, provavelmente, por</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020671,
+     "letra": "A",
+     "descricao": "<p>hipertermia inadvertida.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020672,
+     "letra": "B",
+     "descricao": "<p>anestesia profunda.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020673,
+     "letra": "C",
+     "descricao": "<p>DPOC agudo, sem existência prévia.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020674,
+     "letra": "D",
+     "descricao": "<p>reação alérgica à protamina.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 67,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002068,
+   "descricao": "<p>Homem, 61 anos, submetido a colocação de dois <i>stents </i> farmacológicos há 11 meses, em uso desde então de AAS, 100mg/dia e ticlopidina, 500mg/dia. Está programada cirurgia de hérnia inguinal bilateral, sob raquianestesia. Se os fármacos forem interrompidos, a antecedência com que isso deve ser feito, é de</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020681,
+     "letra": "A",
+     "descricao": "<p>AAS, 1 dia; ticlopidina, 5 dias.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020682,
+     "letra": "B",
+     "descricao": "<p>ticlopidina, 7 dias.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020683,
+     "letra": "C",
+     "descricao": "<p>ticlopidina, 10 dias.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020684,
+     "letra": "D",
+     "descricao": "<p>AAS, 1 dia; ticlopidina, 15 dias.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 68,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002069,
+   "descricao": "<p>A fisiopatologia da lesão cerebral após trauma crânio encefálico (TCE) grave envolve dois tipos de lesão: a lesão primária e a lesão secundária. Na lesão secundária, os fatores que mais interferem negativamente na evolução, na gravidade e na piora do desfecho final, são</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020691,
+     "letra": "A",
+     "descricao": "<p>hipercapnia e hipertensão arterial.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020692,
+     "letra": "B",
+     "descricao": "<p>hipotensão arterial e hipoxemia.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020693,
+     "letra": "C",
+     "descricao": "<p>hipoxemia e taquicardia atrial.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020694,
+     "letra": "D",
+     "descricao": "<p>hipertensão arterial e hipotermia.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 69,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002070,
+   "descricao": "<p>Na anestesia geral em crianças hígidas e sem qualquer outra patologia além do estrabismo que está sendo abordado cirurgicamente pelo oftalmologista, a utilização da succinilcolina para facilitar a intubação traqueal pode ocasionar um fenômeno que a dificultará, causada pela patologia base que a criança apresenta. Esse fenômeno é o</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020701,
+     "letra": "A",
+     "descricao": "<p>laringoespasmo.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020702,
+     "letra": "B",
+     "descricao": "<p>espasmo de masseter.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020703,
+     "letra": "C",
+     "descricao": "<p>edema de orofaringe.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020704,
+     "letra": "D",
+     "descricao": "<p>broncoespasmo.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 70,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002071,
+   "descricao": "<p>Mulher, 22 anos, sofre trauma ocular e será operada de urgência. A extensão da lesão não pôde ser confirmada pelo oftalmologista antes da cirurgia. O anestesiologista, evitando o uso da succinilcolina, escolhe o bloqueador neuromuscular que melhor se adequa a esta situação, em que a paciente pode estar de estômago cheio, na dose de</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020711,
+     "letra": "A",
+     "descricao": "<p>rocurônio; 1mg/kg.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020712,
+     "letra": "B",
+     "descricao": "<p>atracúrio, 0,3mg/kg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020713,
+     "letra": "C",
+     "descricao": "<p>vecurônio; 0,07mg/kg.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020714,
+     "letra": "D",
+     "descricao": "<p>cisatracúrio; 0,1mg/kg</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 71,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002072,
+   "descricao": "<p>Na cirurgia do ouvido médio o uso de determinados fármacos na anestesia é controverso. É correto afirmar que o mais controverso, com anestesiologistas o utilizando e outros o evitando, é a(o)</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020721,
+     "letra": "A",
+     "descricao": "<p>cetamina racêmica.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020722,
+     "letra": "B",
+     "descricao": "<p>remifentanil.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020723,
+     "letra": "C",
+     "descricao": "<p>isoflurano.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020724,
+     "letra": "D",
+     "descricao": "<p>N2O.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 72,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002073,
+   "descricao": "<p>Nas cirurgias torácicas, em especial as que envolvem ressecção pulmonar, o teste mais útil da capacidade de troca de gás do pulmão, refletindo a superfície de funcionamento total da interface alvéolo-capilar, assim como o teste mais útil da reserva cardiopulmonar, são os relacionados, respectivamente, a</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020731,
+     "letra": "A",
+     "descricao": "<p>VO2 MAX eDLCO2.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020732,
+     "letra": "B",
+     "descricao": "<p>DLCO e VO2 MAX.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020733,
+     "letra": "C",
+     "descricao": "<p>VO2 MAX e DLCO.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020734,
+     "letra": "D",
+     "descricao": "<p>DLCO2 e VO2 MIN.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 73,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002074,
+   "descricao": "<p>Homem, 32 anos, hemofílico, apresenta, no pós-operatório de laparotomia para colecistectomia, sangramento contínuo na ferida operatória. Opta-se pela utilização do Fator VII Ativado Recombinante. A dose melhor indicada para este paciente varia entre</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020741,
+     "letra": "A",
+     "descricao": "<p>5-20µg/.kg.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020742,
+     "letra": "B",
+     "descricao": "<p>5-10µg/kg.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020743,
+     "letra": "C",
+     "descricao": "<p>10-30µg/kg.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020744,
+     "letra": "D",
+     "descricao": "<p>10-20µg/kg.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 74,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002075,
+   "descricao": "<p>Paciente submetido a cirurgia/procedimento de curta permanência, em que é necessário, na avaliação pré-anestésica, minimamente, colher história clínica, realização de exame físico e exames complementares, é classificado, pela Sociedade Americana de Anestesiologistas, com estado físico</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020751,
+     "letra": "A",
+     "descricao": "<p>ASA IV.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020752,
+     "letra": "B",
+     "descricao": "<p>ASA III.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020753,
+     "letra": "C",
+     "descricao": "<p>ASA II.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020754,
+     "letra": "D",
+     "descricao": "<p>ASA I.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 75,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002076,
+   "descricao": "<p>Os opioides tem grande utilidade na anestesia ambulatorial, tanto na indução como na manutenção da anestesia. Pode-se afirmar que, nos procedimentos ambulatoriais e nos de curta permanência a profilaxia da dor é fundamental e deve ser sempre instituída. Entretanto, o fármaco que <b>não</b> tem efeito analgésico residual e sempre requer, rotineiramente, profilaxia da dor mais cuidadosa, antes do despertar, é o</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020761,
+     "letra": "A",
+     "descricao": "<p>fentanil.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020762,
+     "letra": "B",
+     "descricao": "<p>sufentanil.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020763,
+     "letra": "C",
+     "descricao": "<p>remifentanil.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020764,
+     "letra": "D",
+     "descricao": "<p>alfentanil.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 76,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002077,
+   "descricao": "<p>Para realizar a ventilação pulmonar eficiente na parada cardiorrespiratória pode-se utilizar diversos equipamentos. Um grupo de equipamentos útil e relativamente fácil de ser utilizado, com mínimo treinamento, é o grupo de dispositivos supraglóticos, que quando bem acoplados oferecem condições satisfatórias para a ventilação pulmonar. Um exemplo de dispositivo supraglótico é a(o)</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020771,
+     "letra": "A",
+     "descricao": "<p>máscara laríngea.</p>",
+     "isResposta": 1,
+     "ordem": 1
+    },
+    {
+     "id": 80020772,
+     "letra": "B",
+     "descricao": "<p>AMBU.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020773,
+     "letra": "C",
+     "descricao": "<p>máscara de bolso.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020774,
+     "letra": "D",
+     "descricao": "<p>tubo traqueal aramado.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 77,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002078,
+   "descricao": "<p>O marcador de perfusão tecidual mais utilizado a beira do leito pela facilidade de sua dosagem, usado como marcador de disfunção orgânica, como prognóstico e guia terapêutico na fase aguda dos estados de choque, é o</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020781,
+     "letra": "A",
+     "descricao": "<p>PCR.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020782,
+     "letra": "B",
+     "descricao": "<p>VHS.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020783,
+     "letra": "C",
+     "descricao": "<p>TNF-α.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020784,
+     "letra": "D",
+     "descricao": "<p>lactato.</p>",
+     "isResposta": 1,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 78,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002079,
+   "descricao": "<p>Pode-se afirmar que é uma manifestação clínica inicial da <i>Hipertermia Maligna</i> em adultos submetido a anestesia geral é a</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020791,
+     "letra": "A",
+     "descricao": "<p>má perfusão cutânea.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020792,
+     "letra": "B",
+     "descricao": "<p>rigidez muscular generalizada.</p>",
+     "isResposta": 0,
+     "ordem": 2
+    },
+    {
+     "id": 80020793,
+     "letra": "C",
+     "descricao": "<p>taquicardia.</p>",
+     "isResposta": 1,
+     "ordem": 3
+    },
+    {
+     "id": 80020794,
+     "letra": "D",
+     "descricao": "<p>temperatura acima de 41oC.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 79,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  },
+  {
+   "id": 8002080,
+   "descricao": "<p>Os protocolos de estudos clínicos e pesquisas realizadas numa determinada instituição deverão ser analisados, juntamente com o Termo de Consentimento Livre e Esclarecido e aprovados antes do início dos estudos ou das pesquisas. Para não infringir o Código de Ética Médica, os autores devem apresentar seus protocolos para a análise, provação e acompanhamento, à Comissão de</p>",
+   "ano": "2024",
+   "formato": "objetiva",
+   "anulada": false,
+   "dificuldade": null,
+   "alternativas": [
+    {
+     "id": 80020801,
+     "letra": "A",
+     "descricao": "<p>Bioética.</p>",
+     "isResposta": 0,
+     "ordem": 1
+    },
+    {
+     "id": 80020802,
+     "letra": "B",
+     "descricao": "<p>Ética em Pesquisa.</p>",
+     "isResposta": 1,
+     "ordem": 2
+    },
+    {
+     "id": 80020803,
+     "letra": "C",
+     "descricao": "<p>Ética.</p>",
+     "isResposta": 0,
+     "ordem": 3
+    },
+    {
+     "id": 80020804,
+     "letra": "D",
+     "descricao": "<p>Análise de Prontuários.</p>",
+     "isResposta": 0,
+     "ordem": 4
+    }
+   ],
+   "origem": {
+    "tipo": "prova",
+    "banca": "FGV",
+    "concurso": "SES-MT - Edital 001/2023",
+    "cargo": "Médico Anestesiologista",
+    "numero": 80,
+    "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/cns201-med-anestesiologista-cns201-tipo-1.pdf",
+    "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ses-mt-v2.pdf"
+   }
+  }
+ ]
+}
