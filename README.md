@@ -44,6 +44,10 @@ Toda contribuição é revisada antes de entrar no site. Quem contribui pode ser
 - Cite a fonte: livro e capítulo, ou diretriz e ano. Não invente referência.
 - Nada de dados de pacientes reais.
 
+### Apoie o projeto
+
+O site é gratuito e sem anúncios. Se ele te ajuda a estudar, você pode apoiar para manter o conteúdo atualizado e o site no ar: **[buymeacoffee.com/grostirolla1](https://buymeacoffee.com/grostirolla1)**
+
 ## Sobre as explicações
 
 As explicações foram escritas com apoio de IA a partir da literatura-padrão (Miller, Barash, Stoelting, diretrizes) e seguem o gabarito oficial de cada prova. Quando a literatura atual diverge do gabarito, a explicação mostra a ressalva. Elas ainda não foram revisadas uma a uma por especialista e podem conter erros. **É aqui que a sua revisão faz diferença.**
