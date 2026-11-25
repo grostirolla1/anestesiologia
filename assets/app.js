@@ -509,6 +509,9 @@ Baseie 100% do conteúdo na literatura de anestesiologia (Miller, Barash, Stoelt
         <a class="botao" href="${REPO}/issues/new?template=nova-questao.yml" target="_blank" rel="noopener">Propor questão nova ou melhoria</a>
         <a class="botao discreto" href="${REPO}/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Guia de contribuição</a>
       </div>
+      <h2>Apoie o projeto</h2>
+      <p>O site é gratuito e sem anúncios. Se ele te ajuda a estudar e você quiser contribuir para mantê-lo atualizado, com explicações revisadas, questões novas e o site no ar, pode apoiar por aqui:</p>
+      <div class="acoes"><a class="botao" href="https://buymeacoffee.com/grostirolla1" target="_blank" rel="noopener">Apoiar no Buy Me a Coffee</a></div>
       <h2>Regras</h2>
       <ul><li>Escreva com suas palavras. Não cole trechos de livros, apostilas, cursos ou bancos de questões pagos.</li>
       <li>Questões novas precisam ser de sua autoria.</li>
